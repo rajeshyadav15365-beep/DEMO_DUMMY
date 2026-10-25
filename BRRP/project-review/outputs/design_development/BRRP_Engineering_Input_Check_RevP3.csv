@@ -1,0 +1,21 @@
+ID,Requirement,Revised status,File,PDF pages,Clause / document,Finding / next action
+B01,Complete general structural criteria,SUPPLIED,Design Criteria & Execution Methodology.pdf,1-116,DC3.4 PartI Rev14,Remove earlier full-criteria missing flag
+B02,BRRP-specific design criteria,SUPPLIED,Design Criteria & Execution Methodology.pdf,117-120,PartII Rev0,Apply 25-year bridge design life and MH Annexure13A
+B03,Bridge design provisions,SUPPLIED,Design Criteria & Execution Methodology.pdf,42-43,3.4.16.4.17,Pinned/hinged plus sliding; live load;20%future piping; movements; camber; roof
+B04,Material elastic constants,SUPPLIED,Design Criteria & Execution Methodology.pdf,66,Annexure2,E210000MPa; G80770MPa; nu0.3; density7850kg/m3; alpha12e-6/C;g9.81
+B05,Global and local live loads,SUPPLIED,Design Criteria & Execution Methodology.pdf,42;70;72,Bridge clause and Annexure4,Bridge walkway250kg/m2; local grating500kg/m2; apply to correct element/loadcase
+B06,Wind gust duration,EXPLAINED,Design Criteria & Execution Methodology.pdf,73,Annexure5,Bridges>50m:15sec; bridges<50m:3sec. Explains study duration difference; speed/height calculation still to verify
+B07,Bridge deflection limits,SUPPLIED,Design Criteria & Execution Methodology.pdf,43;85-86,Bridge clause / Annexure12,VerticalL/400; lateral due to windL/500; required camber compensates dead-load deflection
+B08,Environmental input,SUPPLIED,Design Criteria & Execution Methodology.pdf,87-89;119,Annexure13A / BRRP PartII,MH North/South parameters; use elevations/gust adjustment per criteria
+B09,Execution methodology,SUPPLIED AT TENDER LEVEL,Design Criteria & Execution Methodology.pdf,133-154,B774-000-83-43-EM-0001 RevC,Develop operation-specific engineered procedures
+B10,MTO,SUPPLIED; DISCREPANCY OPEN,MTO Drawings IRT.pdf,1,B774 MTO,Existing landing-strengthening column rows216MT versus total217MT; total structural1141vs1142MT
+B11,ICW/ICG landing drawings,PARTIAL,MTO Drawings IRT.pdf,2-4,B774-101-83-43-0002/0003/0004 RevA,Dimensioned tender sheets found; main0001 and extension0005 not located in this pack
+B12,ICP/ICG landing drawings,PARTIAL,MTO Drawings IRT.pdf,5-7,B774-102-83-43-0004/0002/0003 RevA,Dimensioned tender sheets found; main0001 and extension0005 not located in this pack
+B13,BHS-SLQ drawings,NOT LOCATED IN NEW PACK,MTO Drawings IRT.pdf,2-14,B774-103 series,Prior report model/crosssections remain available; detailed103-series sheets not located
+B14,Standard fittings drawings,SUPPLIED,MTO Drawings IRT.pdf,8-14,7111-OD-STR-5001 through5006,Grating handrails stairs jumping-rope D-shackle tie-up chain references; use applicability checks
+B15,Inspection requirements,SUPPLIED,MTO Drawings IRT.pdf,15-34,IRT and legends,Material / fittings / coating inspection responsibilities and releases
+B16,Native structural model,NOT LOCATED,Uploaded set,N/A,SACS native files,Printed models/results available; cannot reproduce full native connectivity/load map from figures alone
+B17,Final survey geometry and current condition,NOT ESTABLISHED,Uploaded reports and new criteria,120,PartII section13,Tender drawings require survey update; confirm current bearing centres/levels/condition
+B18,Final lift/transport vessel data,CONTRACTOR INPUT,Design Criteria & Execution Methodology.pdf,119,PartII section6,Lift list and vessel/de-rated capacity to be furnished; no actual spread confirmed
+B19,Camber profile,RULE SUPPLIED; DETAIL OPEN,Design Criteria & Execution Methodology.pdf,43,3.4.16.4.17(c),Use dead-load compensation rule; reconcile report1:200 statement and define profile
+B20,Concurrent reactions and existing capacity,VERIFICATION OPEN,Earlier bridge reports,123;153;208-209,Study reaction summaries,Obtain/reconstruct signed loadcase envelopes and support/deck/jacket checks

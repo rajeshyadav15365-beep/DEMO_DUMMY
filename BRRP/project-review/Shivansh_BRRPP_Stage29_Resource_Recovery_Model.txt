@@ -1,0 +1,105 @@
+
+SHEET Basis and Decisions
+SHIVANSH BRRP — STAGE 29 RESOURCE-LEVELLED READINESS MODEL | Value | Status / instruction
+Provisional Day 1 | 2026-11-01 | Assumption, NOT contract commencement
+Pre-monsoon boundary | 2027-05-15 | Planning boundary; verify offshore weather/contract
+Day-360 target | 2027-10-26 | Illustrative, subject to SCC
+Tender structural summary MT | 1142 | Previously reported printed summary; verify source
+Sum of package rows MT | 1141 | Previously transcribed; verify original MTO
+Unresolved difference MT | 1 | Do not hide discrepancy
+Demolition MT | 357 | Previously reported; verify MTO
+Pre-award status | NOT AWARDED | No unconditional charter or purchase commitments
+Productivity rates | UNVERIFIED | Obtain yard/crew historical evidence
+Marine spread | UNCOMMITTED | Engineering lift study required
+Contract monsoon entitlement | UNVERIFIED | Contracts team to verify SCC
+Cost rates | NOT QUOTED | Obtain conditional offers
+Schedule result | SCENARIO ONLY | Not an approved P6 resource-levelled CPM
+
+SHEET Bridge Production
+Bridge | Structural MT | Demolition MT | Crew pool | Type | Offshore team-days (scenario) | Lift days (scenario) | Crew size | Direct person-days | Team days at 70% | Engineer release | Material readiness | Marine window | Approval status
+ICW–ICG UD | 49 | 25 | A | Strengthening | 12 | 0 | 18 | 216 | 18 | TBD | TBD | TBD | NOT RELEASED
+ICW–ICG LD | 122 | 1 | I | New bridge | 10 | 5 | 18 | 180 | 15 | TBD | TBD | TBD | NOT RELEASED
+ICG–ICP UD | 116 | 25 | A | Strengthening | 22 | 0 | 18 | 396 | 32 | TBD | TBD | TBD | NOT RELEASED
+ICG–ICP LD | 160 | 1 | I | New bridge | 12 | 7 | 18 | 216 | 18 | TBD | TBD | TBD | NOT RELEASED
+BHS–SLQ | 282 | 210 | I | Replacement / services | 25 | 12 | 18 | 450 | 36 | TBD | TBD | TBD | NOT RELEASED
+SLQ–WIS | 91 | 15 | A | Strengthening | 16 | 0 | 18 | 288 | 23 | TBD | TBD | TBD | NOT RELEASED
+NQO–NQD | 93 | 25 | B | Strengthening | 17 | 0 | 18 | 306 | 25 | TBD | TBD | TBD | NOT RELEASED
+WIN–NC | 46 | 10 | B | Strengthening | 10 | 0 | 18 | 180 | 15 | TBD | TBD | TBD | NOT RELEASED
+SCA–SC1 | 63 | 15 | B | Strengthening | 13 | 0 | 18 | 234 | 19 | TBD | TBD | TBD | NOT RELEASED
+SCA–SCF | 119 | 30 | B | Strengthening | 20 | 0 | 18 | 360 | 29 | TBD | TBD | TBD | NOT RELEASED
+TOTAL | 1141 | 357 |  |  | 157 | 24 |  | 2826 |  |  |  |  | 
+Team A total team-days | 50 |  |  |  |  |  |  |  |  |  |  |  | 
+Team B total team-days | 60 |  |  |  |  |  |  |  |  |  |  |  | 
+Installation team-days | 47 |  |  |  |  |  |  |  |  |  |  |  | 
+All team-days | 157 |  |  |  |  |  |  |  |  |  |  |  | 
+Lift productive days | 24 |  |  |  |  |  |  |  |  |  |  |  | 
+
+SHEET Resource Scenarios
+Scenario / resource | Input | Calculated output | Unit | Interpretation
+Effective offshore workability | 0.7 |  | fraction | Sensitivity assumption only
+Marine logistics allowance | 12 |  | calendar days | Mobilisation, shifting, demob
+Available heavy lift window | 60 |  | calendar days | Replace with charter offer
+Available offshore window | 120 |  | calendar days | Replace with approved work window
+Strengthening team count | 2 |  | teams | Not a substitute for crew allocation
+Heavy-lift productive days | 24 |  | days | From illustrative bridge rows
+Heavy lift campaign duration | 157 | 47 | team-days | From illustrative bridge rows
+Marine window surplus |  | 13 | calendar days | 24/workability + logistics
+Marine window surplus |  |  | calendar days | Negative = scenario shortfall
+Team A | 50 | 72 | calendar days | 50 team-days / workability
+Team B | 60 | 86 | calendar days | 60 team-days / workability
+Installation team | 47 | 68 | calendar days | 47 team-days / workability
+Max parallel team duration |  | 86 | calendar days | Assumes independent fronts; excludes readiness
+
+SHEET 29 Week Mobilisation
+Week | Indicative start | Engineering teams | Yard lines / cells | Structural offshore teams | Installation team | Heavy-lift spread | Planning emphasis
+1 | 2026-11-01 | 2 | 1 | 0 | 0 | 0 | Surveys / engineering
+2 | 2026-11-08 | 2 | 1 | 0 | 0 | 0 | Surveys / engineering
+3 | 2026-11-15 | 2 | 1 | 0 | 0 | 0 | Surveys / engineering
+4 | 2026-11-22 | 2 | 1 | 0 | 0 | 0 | Surveys / engineering
+5 | 2026-11-29 | 2 | 2 | 0 | 0 | 0 | AFC and procurement
+6 | 2026-12-06 | 2 | 2 | 0 | 0 | 0 | AFC and procurement
+7 | 2026-12-13 | 2 | 2 | 0 | 0 | 0 | AFC and procurement
+8 | 2026-12-20 | 2 | 2 | 0 | 0 | 0 | AFC and procurement
+9 | 2026-12-27 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+10 | 2027-01-03 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+11 | 2027-01-10 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+12 | 2027-01-17 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+13 | 2027-01-24 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+14 | 2027-01-31 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+15 | 2027-02-07 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+16 | 2027-02-14 | 2 | 3 | 2 | 0 | 0 | Fabrication and strengthening
+17 | 2027-02-21 | 2 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+18 | 2027-02-28 | 2 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+19 | 2027-03-07 | 2 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+20 | 2027-03-14 | 2 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+21 | 2027-03-21 | 1 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+22 | 2027-03-28 | 1 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+23 | 2027-04-04 | 1 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+24 | 2027-04-11 | 1 | 3 | 2 | 1 | 1 | Marine installation + strengthening
+25 | 2027-04-18 | 1 | 2 | 2 | 1 | 1 | Replacement / closeout
+26 | 2027-04-25 | 1 | 2 | 2 | 1 | 1 | Replacement / closeout
+27 | 2027-05-02 | 1 | 2 | 1 | 1 | 1 | Replacement / closeout
+28 | 2027-05-09 | 1 | 2 | 1 | 1 | 1 | Replacement / closeout
+29 | 2027-05-16 | 1 | 2 | 1 | 0 | 0 | Replacement / closeout
+
+SHEET Release and Hold Points
+Gate | Required evidence | Accountable owner | Status | Cannot proceed until
+G01 | Verified site survey, as-built and interface register | Engineering | OPEN | AFC engineering
+G02 | Approved structural design, fatigue / temporary works where applicable | Structural engineer | OPEN | Fabrication or offshore modification
+G03 | Material certificates, traceability, approved WPS/PQR and ITP | QA/QC | OPEN | Fabrication acceptance
+G04 | Measured module weight, COG, rigging, lift points and crane radius | Marine/Structural | OPEN | Lift plan release
+G05 | Marine assurance, loadout, sea fastening and weather limits | Marine | OPEN | Sailaway
+G06 | Platform access, isolation, permits and SIMOPS acceptance | ONGC interface | OPEN | Offshore work
+G07 | Service transfer / testing and formal demolition authorisation | Operations/Engineering | OPEN | BHS–SLQ old bridge removal
+G08 | NDT, coating, dimensional records and punch closure | QA/QC | OPEN | Handover
+G09 | SCC commencement, monsoon and billing clauses validated | Contracts | OPEN | Approved contractual baseline
+
+SHEET CEO Decisions
+Decision | Required evidence | Proposed decision timing | Owner | Current status
+Approve conditional engineering capacity | Named design team and release dates | Pre-award | CEO / Project Director | OPEN
+Reserve fabrication bays conditionally | Audited MT/week, bay dimensions, coating and NDT | Pre-award | Fabrication Manager | OPEN
+Shortlist lift contractor | Module/lift envelope, vessel particulars, charter terms | Pre-award | Marine Manager | OPEN
+Approve scope reconciliation | MTO and original drawing references | Before POs | Engineering Manager | OPEN
+Approve contract-calendar interpretation | SCC monsoon and start-date provisions | Before baseline | Contracts Manager | OPEN
+Approve resource-levelled schedule | Logic links, crew calendars, vessel allocations | Within 30 days of award | Planning Manager | OPEN
+Approve cash funding limit | Bid price, quotations, milestones, bank facilities | Before major commitments | Finance Director | OPEN

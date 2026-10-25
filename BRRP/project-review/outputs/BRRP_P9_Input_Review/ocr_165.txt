@@ -1,0 +1,46 @@
+j ; FUNCTIONAL Spec. No. | 2009F
+ISO — 9001:2008 Welding of guplex Stainless | Discipline | GA & Welding
+Page: 5 OF 7
+
+cause repute in 500 hours shall exceed 0.35 times the ultimate
+tensile strength. This test is required to be done per heat for each
+mill before start of procurement.
+
+c) SSCC Test
+Resistance of the material to SSCC shall be tested using :
+
+a) NACETM 01-77 test solution (Test temp. 24 Deg. C).Minimum stress for
+cracking in 720 Hrs shall be 350 N/mm2.
+
+b) NACE TM 01-77 test solution (test temp. 90 Deg C and total pressure of
+H2S = 16 Bars).
+
+Min. stress for cracking in 720 Hrs = 325 N/mm2.
+v) Radiography
+
+The welds shall be 100% radio graphed shall be as per ASME, Section — VIII, Division - I, UW - 51
+
+vi) Dye Penetrant / MP Testing
+
+All fillet and groove welds other than these radio graphed shall be tested by dye penetrant testing or by magnetic particle testing
+method. No defect shall be accepted.
+
+vii) Heat Treatment (if required)
+
+Suitable heat treatment procedure shall be established for retaining the Duplex S.S. properties of welded joints which shall be
+approved by the Company before implementing.
+
+5.2 Welder Qualification Tests
+
+Welders shall be qualified at the fabrication yard / barge employing the qualified
+welding procedure. The test pieces of each welder shall be subjected to
+mechanical tests, radiographic examination, DPT/MP Test, microstructure
+examination and cross-sectional hardness survey with the same test procedure and
+acceptance criteria as mentioned in 5.1 above.
+
+6.0 FABRICATION
+
+FORMAT NG: Tat PROEDURE Na, BSUENS, TEVA, TEVA:
+
+DOSSORDOS GOS SOP OR. oF oo 21.07.2010
+

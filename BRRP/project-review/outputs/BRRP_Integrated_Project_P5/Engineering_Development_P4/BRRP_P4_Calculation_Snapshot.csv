@@ -1,0 +1,4 @@
+Bridge,ModelL_m,Walkway_q_kPa,LineLL_kNperm,RectangleLL_kN,VerticalLimit_mm,SourceVertical_mm,LateralLimit_mm,SourceLateral_mm,Thermal_mm_per_C
+ICW-ICG LD,56,2.4525,2.943,164.808,140.0,105,112.0,87,0.672
+ICP-ICG LD,84,2.4525,2.943,247.212,210.0,177,168.0,123,1.008
+BHS-SLQ LD,42,2.4525,5.699610000000001,239.38361999999998,105.0,32,84.0,76,0.504

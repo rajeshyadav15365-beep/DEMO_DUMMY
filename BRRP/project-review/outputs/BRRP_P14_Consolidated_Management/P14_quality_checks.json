@@ -1,0 +1,52 @@
+{
+  "scenario_checks": [
+    {
+      "scenario": "BASE",
+      "activities": 285,
+      "finish": "2028-04-06",
+      "checks": "FS links, durations/calendar, offshore exclusion, named-resource nonoverlap, unique start/finish, nonnegative scenario float passed"
+    },
+    {
+      "scenario": "MORE_YARD",
+      "activities": 285,
+      "finish": "2028-02-26",
+      "checks": "FS links, durations/calendar, offshore exclusion, named-resource nonoverlap, unique start/finish, nonnegative scenario float passed"
+    },
+    {
+      "scenario": "FAST_SUPPLY_MORE_YARD",
+      "activities": 285,
+      "finish": "2028-02-26",
+      "checks": "FS links, durations/calendar, offshore exclusion, named-resource nonoverlap, unique start/finish, nonnegative scenario float passed"
+    }
+  ],
+  "workbook_sheets": 34,
+  "spreadsheet_validation": "Files reopened; counts and references checked; Excel formulas not recalculated here",
+  "structural_design_validation": "Not performed; actual independently checked design and approval gates remain open",
+  "files": [
+    {
+      "file": "BRRP_P14_Project_Execution_Management_Manual.docx",
+      "bytes": 53236,
+      "sha256": "281c50821656d939699a3e689019a8d263c9bef86174047b0b3b9a0e4cc6ea3c"
+    },
+    {
+      "file": "BRRP_P14_Project_Execution_Management_Manual.pdf",
+      "bytes": 36005,
+      "sha256": "7a725ffc7516a0fe435105e79c68f39bd1c66affd4e310666007367d99d6f20d"
+    },
+    {
+      "file": "BRRP_P14_Overall_Schedule_and_Driving_Path.pdf",
+      "bytes": 8824,
+      "sha256": "b0433cb737ab43b90a7aab72a09fbd569ff4d3d84bebc9058c9a2e1aa785b831"
+    },
+    {
+      "file": "BRRP_P14_Integrated_Management_Control.xlsx",
+      "bytes": 145207,
+      "sha256": "faed8205b39994992d866f881fa030ab9b69482bd2b54076e11ec53a0f5376e6"
+    },
+    {
+      "file": "BRRP_P14_Integrated_Schedule.csv",
+      "bytes": 60519,
+      "sha256": "3048002197201bf097815bcde9a079ae67edf787d3bca0572d70b199557b5c11"
+    }
+  ]
+}

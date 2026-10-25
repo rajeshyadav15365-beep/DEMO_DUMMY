@@ -1,0 +1,57 @@
+INSPECTION AND TEST PLAN
+
+STANDARD SPECIFICATION NO.
+
+RON FOR MEDIUM AND HIGH
+sai eies © NOALMTED VOLTAGE CABLES & ACCESSORIES f ue a
+age 2 of 6
+
+Abbreviations:
+
+BIS Bureau of Indian Standard Min Minimum
+
+CEIL Certification Engineers International Limited MTC Material Test Certificate
+
+Cu Copper NEMA National Electrical Manufacturers Association
+
+EPC Engineering Procurement & Construction No Number
+
+ERTL Electronics Regional Test Laboratory PD Partial Discharge
+
+FM Factory Mutual PO Purchase Order
+
+FRLS Flame Retardant Low Smoke PR Purchase Requisition
+
+HT High Tension PVC Poly Vinyl Chloride
+
+ITP Inspection and Test Plan Qc Quality Control
+
+IP Ingress Protection TC Test Certificate
+
+Ic Inspection Certification TPI or TPIA Third Party Inspection Agency
+
+IS Indian Standard VDR Vendor Data Requirement
+
+TEC International Electro technical Commission XLPE Cross Linked Poly Ethylene
+
+JEC Japanese Electro technical Committee
+
+Inspection Standards Committee
+
+Convenor: Mr. RK. Singh
+
+Members:
+
+Mr. R Muthuramalingam
+
+Mr. Rajesh Sinha Mr. Himangshu Pal
+
+Mr Avdhesh Agrawal
+
+Mr. Chandrasekhar Mrs. Arvind NP Singh (Electrical)
+
+Mr. Mahendra Mittal
+
+Format No. 8-00-0001-F7 Rev. 0
+
+Copyright EIL — All rights reserved

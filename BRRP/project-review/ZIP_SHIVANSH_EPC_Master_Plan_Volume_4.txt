@@ -1,0 +1,92 @@
+SHIVANSH OFFSHORE EPC
+PROJECT EXECUTION MASTER PLAN
+VOLUME 4 — MARINE EXECUTION, LIFTING AND LOGISTICS
+ONGC Bridge Refurbishment & Replacement Project | Pre-award planning draft | 17 October 2026
+DOCUMENT STATUS: For management planning and verification only. Not issued for construction. Technical and marine procedures require competent engineering review and ONGC approvals.
+Document control
+Basis, sources and limitations
+The ONGC SOW & Bridge Report Combined.pdf, Section 1 Background and General Requirement, contains the ten-bridge B774 scope and quantity table. Previous project-stage assumptions are incorporated as planning hypotheses, not as verified commitments. Latest addenda, detailed drawings and MTO must be reconciled before procurement, fabrication, lifting or offshore work.
+External EPC benchmarks: Saipem offshore engineering and construction; McDermott offshore EPCI. Marine reference for applicability review: DNV-ST-N001 (December 2023). Contract documents and approved ONGC requirements govern.
+Master bridge and quantity register
+Printed SOW column totals: 367 / 361 / 197 / 217 / 357 MT. Structural column total = 1,142 MT. Sum of printed bridge-row structural entries = 1,141 MT. Open discrepancy: 1 MT. Handrail 1,168 m; grating 719 m²; GI sheeting 1,274 m². No correction made pending source reconciliation.
+Management procedures and control requirements
+4.1 Marine strategy
+Four management campaigns: strengthening, ICW–ICG LD, ICG–ICP LD and BHS–SLQ replacement/removal. These are not necessarily four charters; test consolidated versus separate campaigns for safety, workability, cost and critical-path effect.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.2 Module register
+Record module ID, bridge, drawing revision, actual dimensions, measured weight, calculated and verified COG, lifting points, transport supports, preservation, acceptance dossier, vessel and installation IWP.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.3 Vessel selection
+Request crane charts at actual radius/configuration, deck strength, stability, positioning, environmental limits, vessel certification, marine personnel competence, charter conditions, mobilisation and contingency arrangements.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.4 Marine engineering and assurance
+Project-specific loadout, rigging, sea-fastening, voyage, deck loading, motion, lift dynamics, landing and removal analyses require competent specialist checking. Evaluate applicability of DNV-ST-N001 and contract-specific MWS obligations.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.5 Fabrication-to-offshore chain
+IFC drawing → inspected fabrication → verified weight/COG → module release → shore base → approved loadout → marine transport → work-front readiness → authorised lift → inspected installation → closeout.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.6 Logistics controls
+14-day cargo readiness and 72-hour vessel manifest; segregate accepted, quarantined, backload and preservation-sensitive cargo. Use cargo manifests with unique ID, destination, mass and documentation.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.7 Marine daily report
+Record vessel hours by productive, transit, weather standby, operations standby, equipment failure and contractor-caused standby. Review forecast days and cost each day.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.8 BHS–SLQ special control
+Coordinate new replacement structure, operating service interfaces, temporary support, approved lifting and landing, structural integrity, engineered demolition and disposal. Never infer a single-lift weight from 282 MT bridge quantity.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.9 Weather and SIMOPS
+Use project-specific environmental thresholds, vessel procedures, ONGC work authorisation and SIMOPS interface documents. Vessel master and installation authorities retain safety powers.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+4.10 Marine gate checklist
+Before any operation verify competent engineering approval, certified equipment, inspection releases, permits, isolations, communications, weather limits, emergency readiness, vessel configuration and formal go/no-go.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+Bridge-wise implementation matrix
+Control register template
+Formal review and release criteria
+Before release, discipline leads must verify: (1) controlling contract and drawing revision; (2) reconciled quantity and scope; (3) qualified resources and documented capacity; (4) schedule and cost impact; (5) inspection and safety hold points; (6) ONGC and marine operational authorisations where applicable. CEO approval of a planning volume does not authorise offshore operations.
+Reference sources
+SOW & Bridge Report Combined.pdf — Section 1, Background and General Requirement; B774 MTO table
+MTO Drawings IRT.pdf — drawing collection; detailed checking outstanding
+https://www.saipem.com/en/solutions-energy-transition/offshore
+https://www.mcdermott.com/solutions/offshore
+https://www.dnv.com/energy/standards-guidelines/dnv-st-n001-marine-operations-and-marine-warranty/
+Item | Entry
+Document code | SHV-BRRP-PEP-V04-R0
+Revision | 0 — Pre-award planning
+Prepared for | Shivansh management / Project Director
+Contract award | Not confirmed
+Governing duration | 360 days subject to contract
+Approval | Pending CEO and discipline review
+Bridge | New/replace MT | Existing bridge strengthen MT | New landing/deck MT | Existing landing/deck strengthen MT | Demolition MT
+ICW–ICG UD | 0 | 19 | 0 | 30 | 25
+ICW–ICG LD | 57 | 0 | 65 | 0 | 1
+ICG–ICP UD | 0 | 86 | 0 | 30 | 25
+ICG–ICP LD | 115 | 0 | 45 | 0 | 1
+BHS–SLQ | 195 | 0 | 87 | 0 | 210
+SLQ–WIS | 0 | 61 | 0 | 30 | 15
+NQO–NQD | 0 | 63 | 0 | 30 | 25
+WIN–NC | 0 | 6 | 0 | 40 | 10
+SCA–SC1 | 0 | 35 | 0 | 28 | 15
+SCA–SCF | 0 | 91 | 0 | 28 | 30
+Bridge | Work type | Planning quantity MT | Required bridge-specific output
+ICW–ICG UD | Strengthening | 49 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICW–ICG LD | New lower deck | 122 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP UD | Strengthening | 116 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP LD | New lower deck | 160 | Approved drawings + MTO + work pack + QA release + accepted handover
+BHS–SLQ | Replacement | 282 | Approved drawings + MTO + work pack + QA release + accepted handover
+SLQ–WIS | Strengthening | 91 | Approved drawings + MTO + work pack + QA release + accepted handover
+NQO–NQD | Strengthening | 93 | Approved drawings + MTO + work pack + QA release + accepted handover
+WIN–NC | Strengthening | 46 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SC1 | Strengthening | 63 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SCF | Strengthening | 119 | Approved drawings + MTO + work pack + QA release + accepted handover
+ID | Deliverable / action | Accountable owner | Due date | Status / evidence
+V4-01 | Marine strategy | To assign | To confirm | Open — verify
+V4-02 | Module register | To assign | To confirm | Open — verify
+V4-03 | Vessel selection | To assign | To confirm | Open — verify
+V4-04 | Marine engineering and assurance | To assign | To confirm | Open — verify
+V4-05 | Fabrication-to-offshore chain | To assign | To confirm | Open — verify
+V4-06 | Logistics controls | To assign | To confirm | Open — verify
+V4-07 | Marine daily report | To assign | To confirm | Open — verify
+V4-08 | BHS–SLQ special control | To assign | To confirm | Open — verify
+V4-09 | Weather and SIMOPS | To assign | To confirm | Open — verify
+V4-10 | Marine gate checklist | To assign | To confirm | Open — verify

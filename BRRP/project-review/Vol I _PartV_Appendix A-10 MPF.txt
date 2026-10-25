@@ -1,0 +1,86 @@
+
+SHEET Milestone Payment Formula
+ | BID PACKAGE 
+for
+REPLACEMENT / REFURBISHMENT OF BRIDGES IN MH ASSET (BRRP)
+ |  |  | PART – III
+
+APPENDICES |  | 
+APPENDIX A-10
+Milestone Payment Formula
+
+
+ |  |  |  |  |  | 
+Ref | Activity |  Weightage  | Milestone % | Milestone for Payment |  | 
+ | (A) | (B) | (D) | (E) |  | 
+1 | INSURANCE |  |  |  |  | 
+1.1 |  Insurance | 2.83 % 
+of I.A of Price Schedule (A-3) | 85 | a) Upon submission of certificate of insurance (Cover Note) for insurance policy(s) specific for the project and its acceptance by Company in terms of clause 7.3.13.1.(a),(b)&(c) of GCC and proof of 100% premium paid to Insurance Company. |  | 
+ |  |  | 15 | b) Upon submission of insurance policy(s) specific for the project and its acceptance by Company in terms of clause 7.3 of GCC. |  | 
+2 | SURVEY  |  |  |  |  | 
+2.1 | Pre-Eng., Pre-Construction/Installation, Post-Construction/ Installation  Survey as per Scope of Work. | 1.73 % 
+of I.A of Price Schedule (A-3) | 40 | a) Upon completion of pre-engineering survey and submission of complete survey report and its acceptance by Company. |  | 
+ |  |  | 20 | b) Upon completion of pre-installation survey and submission of complete survey report and its acceptance by Company. |  | 
+ |  |  | 40 | c) Upon completion of post- installation survey and submission of complete survey report and its acceptance by Company. |  | 
+3 | DESIGN AND ENGINEERING |  |  |  |  | 
+3.1 | Design Engineering as per scope of work | 2.62 % 
+of I.A of Price Schedule (A-3) | 100 | a) Upon progressive completion of engineering as approved and certified by Company. |  | 
+4 | PROCUREMENT OF EQUIPMENT & MATERIALS INCLUDING FABRICATION |  |  |  |  | 
+4.1 | Replacement of ICP-ICG Lower Deck bridge,ICG-ICW Lower Deck bridge,SLQ-BHS Cellar Deck bridge | 7.07% 
+of I.A of Price Schedule (A-3) | 5 | a)  Upon progressive placement of LOI and acceptance by vendor. |  | 
+ |  |  | 5 | b1) 5%  Upon progressive approval of prelim Purchase Specifications at 1st Stage, for PS items, as applicable. # |  | 
+ |  |  | 5 | b2). 5% Upon progressive approval of final Purchase Specification at 2nd Stage, for PS items, as applicable. # |  | 
+ |  |  | 60 | c)  Upon progressive dispatch from vendor works and submission of inspection & dispatch documents. |  | 
+ |  |  | 20 | d) Upon progressive arrival at fabrication yard/site submission of material test certificates and test reports, verification by TPI/CA and acceptance by Company. |  | 
+ |  |  | 5 | e)  Upon progressive submission of release note of Certification Agency and clearance of punch points related to the above procurement milestones, if any  |  | 
+4.2 | Repair/Refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare | 6.04 % 
+of I.A of Price Schedule (A-3) | 5 | a)  Upon progressive placement of LOI and acceptance by vendor. |  | 
+ |  |  | 5 | b1). 5%  Upon progressive approval of prelim Purchase Specifications at 1st Stage, for PS items, as applicable. # |  | 
+ |  |  | 5 | b2). 5% Upon progressive approval of final Purchase Specification at 2nd Stage, for PS items, as applicable. # |  | 
+ |  |  | 60 | c)  Upon progressive dispatch from vendor works and submission of inspection & dispatch documents. |  | 
+ |  |  | 20 | d) Upon progressive arrival at fabrication yard/site submission of material test certificates and test reports, verification by TPI/CA and acceptance by Company. |  | 
+Note:- |  |  |  |  |  | 
+# For non-PS-items, 10% above (b1 & b2) shall be clubbed with dispatch of material milestone (c)   |  |  |  |  |  | 
+5 | TRANSPORTATION & INSTALLATION |  |  |  |  | 
+5.1 | Replacement of ICP-ICG Lower Deck bridge,ICG-ICW Lower Deck bridge,SLQ-BHS Cellar Deck bridge | 39.25 % 
+of I.A of Price Schedule (A-3) | 5 | a) Upon pogressive  arrival of materials at offshore |  | 
+ |  |  | 85 | b)  Upon progressive completion of installation/modification of each location |  | 
+ |  |  | 10 | c) Upon progressive  completion of punch points, if any. |  | 
+5.2 | Repair/Refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare | 33.47 % 
+of I.A of Price Schedule (A-3) | 5 | a) Upon  progressive arrival of materials at offshore |  | 
+ |  |  | 85 | b)  Upon  progressive completion of installation/modification of each location |  | 
+ |  |  | 10 | c) Upon  progressive completion of punch points, if any. |  | 
+6 | Hook-Up with existing facilities/Testing/Commissioning and Classification by ABS (wherever applicable and as per scope of work) |  |  |  |  | 
+6.1 | Replacement of ICP-ICG Lower Deck bridge,ICG-ICW Lower Deck bridge,SLQ-BHS Cellar Deck bridge | 1.75 % 
+of I.A of Price Schedule (A-3) | 40 | a) Upon progressive completion of Hook-up, testing, pre-commissioning work of each segment |  | 
+ |  |  | 10 | b) Upon  progressive  submission of test reports & its acceptance by Company  |  | 
+ |  |  | 10 | c) Upon  progressive submission of Certificate of Approval for the respective facility from Certification Agency |  | 
+ |  |  | 40 | d) Upon progressive  submission of ABS certification and classification  |  | 
+6.2 | Repair/Refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare -Bridges | 1.74 % 
+of I.A of Price Schedule (A-3) | 40 | a) Upon  progressive completion of Hook-up, testing, pre-commissioning work of each segment |  | 
+ |  |  | 10 | b) Upon progressive  submission of test reports & its acceptance by Company  |  | 
+ |  |  | 10 | c) Upon  progressive submission of Certificate of Approval for the respective facility from Certification Agency |  | 
+ |  |  | 40 | d) Upon progressive  submission of ABS certification and classification  |  | 
+7 | Dismantling of SLQ -BHS Cellar deck bridge & any other dismantling envisaged during repair/refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare bridges |  |  |  |  | 
+7.1 | Dismantling of SLQ -BHS Cellar deck bridge & any other dismantling envisaged during repair/refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare bridges | 1.50 % 
+of I.A. of Price Schedule (A-3) | 100 | Upon completion of dismantling  of SLQ -BHS Cellar deck bridge & any other dismantling envisaged during repair/refurbishment of ICG-ICW UD,ICP-ICG UD,SLQ-WIS,NQO-NQD,WIN-NC,SCA – SC1,SCA Flare bridges  loading, transportation and unloading at ONGC Nhava port |  | 
+8 | Liquidation of punch points  |  |  |  |  | 
+8.1 | Liquidation of punch points  | 1.00 % 
+of I.A. of Price Schedule (A-3) | 100 | Upon completion of Punch Points related to Hookup, Pre-commissioning, commissioning activity, if any |  | 
+9 | AS-BUILT DOCUMENTATION |  |  |  |  | 
+9.1 | As Built for work to be completed in the scope of LSTK Contractor  | 1.00 % 
+of I.A. of Price Schedule (A-3) | 100 | Upon submission of As-built drawing, documents, Software Files (as applicable), Vendor dossiers, Operation & Maintenance Manuals etc. for the Project Scope and acceptance by Company as per GCC 5.1.9.3. |  | 
+10 | Customs Duty | 100.00 % 
+of I.B. of Price Schedule (A-3) | 100 | Reimbursement at actual limited to the amount indicated herein on submission of documentary proof viz. bill of entry in original duly addressed by the Custom Authority and the amount of duty paid thereof along with relevant supporting documents subject however to provisions of change in law as per clause 7.6 (subsequent legislation) of GCC. |  | 
+11 | Goods and Service Tax | 100.00 % 
+of I.C. of Price Schedule (A-3) | 100 | Payable at actual, limited to the amount indicated herein, along with relevant milestone as per invoice under Goods and Service Tax rules subject however to provisions of change in law as per clause no. 7.6 (Sub-sequent legislation) of GCC. |  | 
+12 | Mob | 3.00 % 
+of I.A. of Price Schedule (A-3) |  | For first mobilization, after getting all statutory clearances when Accomodation Work Barge/Vessel move for offshore operation to start the work. |  | 
+13 | Demob | 3.00 % 
+of I.A. of Price Schedule (A-3) |  | When the Accomodation Work Barge/Vessel has been demobilized from offshore at the end of the completion of the contract scope. |  | 
+General Notes |  |  |  |  |  | 
+1 | Taxes and duties shall be paid in INR only. |  |  |  |  | 
+2 | The requirement of dispatch / sail out wherever referred shall be the "Bill of Lading" for dispatch (as applicable) and certificate of carrier for sail out (as applicable). |  |  |  |  | 
+3 | All yard and offshore related activities to be inspected and certified by Certification Agency / Third Party Inspection Agency. |  |  |  |  | 
+4 | Release notes shall be issued by Certification Agency. |  |  |  |  | 
+5 | Milestone to be submitted location wise. |  |  |  |  | 

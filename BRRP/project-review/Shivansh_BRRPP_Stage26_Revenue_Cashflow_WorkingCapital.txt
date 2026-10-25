@@ -1,0 +1,103 @@
+
+SHEET Commercial Inputs
+STAGE 26 | CONDITIONAL COMMERCIAL ASSUMPTIONS |  | 
+Parameter | Value | Basis / required verification
+Contract value INR crore | 0 | Enter actual awarded or bid value; zero means unknown
+Mobilisation advance % | 0 | Only if SCC permits
+Advance receipt week | 2 | Verify certification/payment terms
+Progress billing fraction % | 100 | Percentage of contract value billed through milestones, net of advance accounting
+Certification lag weeks | 2 | Verify SCC
+Payment lag after certification weeks | 4 | Verify SCC
+Retention % | 0 | Verify SCC and release terms
+Retention release week | 52 | Can extend beyond 29-week campaign
+Performance BG % | 0 | Bank guarantee not automatically a cash outflow
+BG cash margin % | 0 | Bank-specific margin requirement
+Opening project cash INR crore | 0 | Enter allocated funding
+Interest annual % | 0 | Working capital financing cost
+Steel procurement INR crore | 0 | Enter supplier quotations
+Fabrication INR crore | 0 | Enter yard quotation
+Offshore crews INR crore | 0 | Enter crew and support costs
+Heavy-lift marine INR crore | 0 | Enter charter incl standby
+Other marine INR crore | 0 | Cargo, towage, accommodation
+Engineering INR crore | 0 | Engineering contracts
+QA/QC INR crore | 0 | Inspection and testing
+Demolition INR crore | 0 | Engineered removal and disposal
+PM overhead INR crore | 0 | PMT, site, insurance etc
+Risk contingency INR crore | 0 | Risk register driven
+GST/tax treatment | Excluded | Model net of tax until contract tax schedule verified
+
+SHEET Bridge Allocation
+Bridge | Structural MT | Demolition MT | Steel share | Demolition share | Allocated steel+fab INR Cr | Allocated demolition INR Cr
+ICW-ICG UD | 49 | 25 | 0.04294478527607362 | 0.0700280112044818 | 0 | 0
+ICW-ICG LD | 122 | 1 | 0.10692375109553023 | 0.0028011204481792717 | 0 | 0
+ICG-ICP UD | 116 | 25 | 0.1016652059596845 | 0.0700280112044818 | 0 | 0
+ICG-ICP LD | 160 | 1 | 0.14022787028921999 | 0.0028011204481792717 | 0 | 0
+BHS-SLQ | 282 | 210 | 0.24715162138475022 | 0.5882352941176471 | 0 | 0
+SLQ-WIS | 91 | 15 | 0.07975460122699386 | 0.04201680672268908 | 0 | 0
+NQO-NQD | 93 | 25 | 0.08150744960560911 | 0.0700280112044818 | 0 | 0
+WIN-NC | 46 | 10 | 0.040315512708150744 | 0.028011204481792718 | 0 | 0
+SCA-SC1 | 63 | 15 | 0.05521472392638037 | 0.04201680672268908 | 0 | 0
+SCA-SCF | 119 | 30 | 0.10429447852760736 | 0.08403361344537816 | 0 | 0
+TOTAL | 1141 | 357 | 0.9999999999999999 | 1 | 0 | 0
+ |  |  |  |  |  | 
+NOTE | Printed structural summary 1142 MT; row total 1141 MT. Reconcile 1 MT before baseline. |  |  |  |  | 
+
+SHEET Weekly Cash Flow
+Week | Week start | Weight % | Direct outflow Cr | Marine outflow Cr | Total outflow Cr | Milestone bill % | Invoice value Cr | Certified Cr | Cash receipt Cr | Net flow Cr | Cumulative cash Cr | Funding gap Cr | BG margin Cr | Cumulative net after BG Cr | Comments
+1 | 2026-11-01 00:00:00 | 0.014285714285714285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+2 | 2026-11-08 00:00:00 | 0.019047619047619046 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+3 | 2026-11-15 00:00:00 | 0.023809523809523808 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+4 | 2026-11-22 00:00:00 | 0.02857142857142857 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+5 | 2026-11-29 00:00:00 | 0.02857142857142857 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+6 | 2026-12-06 00:00:00 | 0.03333333333333333 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+7 | 2026-12-13 00:00:00 | 0.03333333333333333 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+8 | 2026-12-20 00:00:00 | 0.03809523809523809 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+9 | 2026-12-27 00:00:00 | 0.04285714285714285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+10 | 2027-01-03 00:00:00 | 0.04285714285714285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+11 | 2027-01-10 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+12 | 2027-01-17 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+13 | 2027-01-24 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+14 | 2027-01-31 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+15 | 2027-02-07 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+16 | 2027-02-14 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+17 | 2027-02-21 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+18 | 2027-02-28 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+19 | 2027-03-07 00:00:00 | 0.047619047619047616 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+20 | 2027-03-14 00:00:00 | 0.04285714285714285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+21 | 2027-03-21 00:00:00 | 0.03809523809523809 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+22 | 2027-03-28 00:00:00 | 0.03809523809523809 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+23 | 2027-04-04 00:00:00 | 0.03333333333333333 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+24 | 2027-04-11 00:00:00 | 0.02857142857142857 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+25 | 2027-04-18 00:00:00 | 0.023809523809523808 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+26 | 2027-04-25 00:00:00 | 0.019047619047619046 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+27 | 2027-05-02 00:00:00 | 0.019047619047619046 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+28 | 2027-05-09 00:00:00 | 0.014285714285714285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+29 | 2027-05-16 00:00:00 | 0.009523809523809523 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Illustrative timing; replace with approved milestones
+TOTAL / PEAK |  | 1.0000000000000002 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 |  | 
+
+SHEET CEO Decision Dashboard
+DECISION METRIC | VALUE | Interpretation
+Provisional contract value | 0 | Unknown until entered
+Total estimated costs | 0 | Input quotes and risk allowances
+Indicative margin | 0 | Before tax/financing and unpriced items
+Peak weekly funding gap | 0 | Only 29-week horizon
+BG margin cash | 0 | Bank-specific
+Structural MT row total | 1141 | 1 MT below printed summary
+Demolition MT | 357 | From prior working baseline
+Contract status | NOT AWARDED | Do not treat assumed receipts as commitments
+Financial model status | UNPRICED | Zeros mean missing inputs, not zero costs
+
+SHEET Controls and Caveats
+CONTROL | REQUIRED ACTION
+Revenue baseline | Use signed contract value and SCC milestone schedule, not illustrative cash receipts.
+Billing | Enter weekly billing milestones in Weekly Cash Flow column G; default zero.
+Costs | Enter vendor quotations in Commercial Inputs; zero denotes unknown, not free.
+Advance | Confirm whether mobilisation advance is recoverable against milestone payments; adjust receipts to prevent double counting.
+Retention | Current weekly model holds retention from receipts but does not add eventual release; add separate release cash event when verified.
+Certification lag | Certification and payment lag are simplified integer-week shifts; check dates.
+29-week horizon | Pre-monsoon window only; extend to 360 days and monsoon-adjusted contract calendar before final funding approval.
+Allocation | Bridge cost shares are provisional tonnage proxies, not activity-based estimate.
+Marine | Actual vessel and lift plan must be validated by qualified marine/structural engineers.
+Schedule | This is a cash scenario, not resource-levelled CPM or proof of 360-day completion.
+Contract status | Pre-award; no ONGC award or L1 status independently established.
+Data reconciliation | Structural 1142 MT printed summary versus 1141 MT detailed rows; 1 MT open.

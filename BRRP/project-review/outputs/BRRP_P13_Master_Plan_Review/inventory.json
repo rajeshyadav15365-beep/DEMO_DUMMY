@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "file_00000000be7081f4b11990f59e3fd504",
+    "path": "/workspace/attachments/57e32a3c-4e51-4d80-9be3-637324333e2f/SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000048c081f4a0f085a3baab9dd4",
+    "path": "/workspace/attachments/5133889b-f539-41e9-a278-c1d0a104b75a/SHIVANSH_EPC_Master_Plan_Volume_4.docx",
+    "size_bytes": 41557,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_4.docx",
+    "sha256": "fdbbcaf61b89b33696bc164ebf7c866c81f4cac5d9ee8bda20b38c00087f038f",
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000a9fc820a858f53c7d5c5dcb5",
+    "path": "/workspace/attachments/61cebbeb-3319-40e3-993d-3c1b1b25ebc4/SHIVANSH_EPC_Master_Plan_Volume_4 - Copy.docx",
+    "size_bytes": 41557,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_4 - Copy.docx",
+    "sha256": "fdbbcaf61b89b33696bc164ebf7c866c81f4cac5d9ee8bda20b38c00087f038f",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_4.docx"
+  },
+  {
+    "id": "file_000000003e5481f4b3ffe58001d09343",
+    "path": "/workspace/attachments/63034a11-dbf4-4c06-a5d7-b2d58794e220/SHIVANSH_EPC_Master_Plan_Volume_5 - Copy (2).docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy (2).docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_00000000980c81f49fb838e4a27aef16",
+    "path": "/workspace/attachments/f819e499-e2b1-4766-be90-259ae4243633/SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy.docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy.docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000008e5881f495c122be1f383cc7",
+    "path": "/workspace/attachments/fed99580-07bc-4579-aeae-2548f709fd8c/SHIVANSH_EPC_Master_Plan_Volume_5 - Copy (2) - Copy.docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy (2) - Copy.docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000006f6c8210a931f0e9a0b03f1d",
+    "path": "/workspace/attachments/c31f0720-63e6-4d24-9f92-78349a261148/SHIVANSH_EPC_Master_Plan_Volume_5 - Copy.docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy.docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_00000000214881f49186e8f649e460c8",
+    "path": "/workspace/attachments/5dbf6da8-9d4b-4bf6-9e71-98e426d35a29/SHIVANSH_EPC_Master_Plan_Volume_5.docx",
+    "size_bytes": 41780,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_5.docx",
+    "sha256": "780b6b86fcd5d34d71bf2cc18548d62a298cee1a296ad7636365ee10c2ff9226",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_5 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000005db481f4b6d200cd12e8ea95",
+    "path": "/workspace/attachments/25041c14-67e5-4111-82cb-24640a3a43b7/SHIVANSH_EPC_Master_Plan_Volume_6 - Copy - Copy.docx",
+    "size_bytes": 41699,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_6 - Copy - Copy.docx",
+    "sha256": "210c62c17a32f6b0545c512e9ae7d145c318845c51edd1ab2af106cd7ba3d79e",
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_000000000fec8210a9a1c55632cbb6f4",
+    "path": "/workspace/attachments/03ee7872-cf66-4bad-a8ae-bff688d42d8f/SHIVANSH_EPC_Master_Plan_Volume_6.docx",
+    "size_bytes": 41699,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_6.docx",
+    "sha256": "210c62c17a32f6b0545c512e9ae7d145c318845c51edd1ab2af106cd7ba3d79e",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_6 - Copy - Copy.docx"
+  },
+  {
+    "id": "file_0000000082d08210bc734996201f05a4",
+    "path": "/workspace/attachments/a7aebb92-16d6-4717-a635-9ef348c5d2c0/SHIVANSH_PreAward_207_Activities_ProjectLibre_Import.xml",
+    "size_bytes": 112226,
+    "name": "SHIVANSH_PreAward_207_Activities_ProjectLibre_Import.xml",
+    "sha256": "d3f7199e9981a38001856c7fc4dfacadcc7158efe4310febc1c9040489b5bcb2",
+    "prior_matches": [
+      "/workspace/attachments/a3370f7e-a718-4c85-978c-5986cd97686b/SHIVANSH_PreAward_207_Activities_ProjectLibre_Import.xml"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000cf2081f4939746018eac837c",
+    "path": "/workspace/attachments/04884965-e51c-4d35-a4dc-122b9407715b/SHIVANSH_EPC_Master_Plan_Volume_6 - Copy.docx",
+    "size_bytes": 41699,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_6 - Copy.docx",
+    "sha256": "210c62c17a32f6b0545c512e9ae7d145c318845c51edd1ab2af106cd7ba3d79e",
+    "prior_matches": [],
+    "batch_duplicate_of": "SHIVANSH_EPC_Master_Plan_Volume_6 - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000009ed88210b5e0506f83c6dae7",
+    "path": "/workspace/attachments/8af00f7b-e0ed-4178-9839-f4c4223ac7e0/SOW & Bridge Report Combined - Copy - Copy.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined - Copy - Copy.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 506
+  },
+  {
+    "id": "file_00000000c4b0824397dec2bf7bc7872b",
+    "path": "/workspace/attachments/14d4ea74-daab-489d-9352-ff64a17d98db/SOW & Bridge Report Combined - Copy.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined - Copy.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": "SOW & Bridge Report Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000080d8821082439a3c6f9ddfe5",
+    "path": "/workspace/attachments/99b4f6de-16d6-4656-8dac-b9afb8d12f05/SOW & Bridge Report Combined (3) - Copy - Copy.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined (3) - Copy - Copy.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": "SOW & Bridge Report Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000763481f4bfae74d967256d33",
+    "path": "/workspace/attachments/c63f65b0-a72e-4664-85da-45b06116bf6a/SOW & Bridge Report Combined (3) - Copy.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined (3) - Copy.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": "SOW & Bridge Report Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000f6748210847dbfdfebeb1243",
+    "path": "/workspace/attachments/1b9bb119-d1f6-4c27-8d94-d211d23c4691/SOW & Bridge Report Combined (3).pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined (3).pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": "SOW & Bridge Report Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000003dd482109e40274be8a208d3",
+    "path": "/workspace/attachments/fa295765-d707-465e-9422-eeaf63a4dba6/SOW & Bridge Report Combined.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior_matches": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "batch_duplicate_of": "SOW & Bridge Report Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000bebc81f4895201ef765b90ff",
+    "path": "/workspace/attachments/41176dff-43eb-489d-ba47-057cc6b40040/Specification Combined - Copy - Copy.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined - Copy - Copy.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 257
+  },
+  {
+    "id": "file_0000000008a881f6b82a22955e1ce716",
+    "path": "/workspace/attachments/c89e7507-9942-4a9a-a0a7-cd70a2c19ad0/Specification Combined - Copy - Copy - Copy.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined - Copy - Copy - Copy.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": "Specification Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000059888210a266631709f82fab",
+    "path": "/workspace/attachments/9d81c560-33e5-4683-b172-e586294244db/Specification Combined - Copy.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined - Copy.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": "Specification Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000061a081f49a7005fb29b42f7d",
+    "path": "/workspace/attachments/939154b4-2a44-4abe-bab5-abf27404ab62/Specification Combined - Copy (2) - Copy.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined - Copy (2) - Copy.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": "Specification Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000002f0881f4861175df3b94fd47",
+    "path": "/workspace/attachments/3412cf5a-fde2-4e6a-9ebe-a8dc812b632f/Specification Combined - Copy (2).pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined - Copy (2).pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": "Specification Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000039b081f4a33c608aada3cb3f",
+    "path": "/workspace/attachments/7e4ffe60-e75c-4849-84d5-a42abef11d86/TBOextension050526 - Copy - Copy - Copy.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526 - Copy - Copy - Copy.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000008e9c8210811c30a01147ba86",
+    "path": "/workspace/attachments/0edce8c0-241f-499e-a1f7-1bd539823fcf/Specification Combined.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior_matches": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf",
+      "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf"
+    ],
+    "batch_duplicate_of": "Specification Combined - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000cc0c81f4a9ce6852df3a92f9",
+    "path": "/workspace/attachments/630b5df7-2e5a-4444-a8b1-6ec951343122/TBOextension050526 - Copy - Copy.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526 - Copy - Copy.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension050526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000eff8824396d203c20d2f49e6",
+    "path": "/workspace/attachments/b17305f1-bb86-491d-9e85-ec7173fff259/TBOextension050526 - Copy (2).pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526 - Copy (2).pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension050526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000339481f49f96759a7782d949",
+    "path": "/workspace/attachments/2358b407-db61-4564-a37f-1030f2643fad/TBOextension050526 - Copy (2) - Copy.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526 - Copy (2) - Copy.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension050526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000007d1881f4855730d49d244266",
+    "path": "/workspace/attachments/b79a39d4-e9b6-4bd4-a574-64dc5aadb1af/TBOextension050526 - Copy.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526 - Copy.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension050526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000049188210a467dece9e291d1f",
+    "path": "/workspace/attachments/1c6d43ea-2464-4433-a715-6741279ec3ee/TBOextension050526.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior_matches": [
+      "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension050526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000008e8c8210b0bd433f0fb219f5",
+    "path": "/workspace/attachments/6465b2f1-c92a-45f5-862f-7a85f91fb43d/TBOextension090626 - Copy - Copy.pdf",
+    "size_bytes": 87471,
+    "name": "TBOextension090626 - Copy - Copy.pdf",
+    "sha256": "916fdbeecc51c1c44bb20aa3cbc1a8ef3a246fbb0e7c38d605007f72d24021a1",
+    "prior_matches": [
+      "/workspace/attachments/d627cc2c-9d28-483b-a384-012259c1c8bc/TBOextension090626.pdf",
+      "/workspace/attachments/939d668a-edb3-4a35-83ea-852ec0e37133/TBOextension090626.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000004d6881f48a5cbc6f78e81c8c",
+    "path": "/workspace/attachments/ad768c49-0af9-47a5-9ff3-badae0db0294/TBOextension090626 - Copy.pdf",
+    "size_bytes": 87471,
+    "name": "TBOextension090626 - Copy.pdf",
+    "sha256": "916fdbeecc51c1c44bb20aa3cbc1a8ef3a246fbb0e7c38d605007f72d24021a1",
+    "prior_matches": [
+      "/workspace/attachments/d627cc2c-9d28-483b-a384-012259c1c8bc/TBOextension090626.pdf",
+      "/workspace/attachments/939d668a-edb3-4a35-83ea-852ec0e37133/TBOextension090626.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension090626 - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000597081f4b7c5b3a67f1cc6bb",
+    "path": "/workspace/attachments/770253d7-ae34-480e-8d9f-a586249f6683/TBOextension090626 - Copy - Copy - Copy.pdf",
+    "size_bytes": 87471,
+    "name": "TBOextension090626 - Copy - Copy - Copy.pdf",
+    "sha256": "916fdbeecc51c1c44bb20aa3cbc1a8ef3a246fbb0e7c38d605007f72d24021a1",
+    "prior_matches": [
+      "/workspace/attachments/d627cc2c-9d28-483b-a384-012259c1c8bc/TBOextension090626.pdf",
+      "/workspace/attachments/939d668a-edb3-4a35-83ea-852ec0e37133/TBOextension090626.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension090626 - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000c2b882109fe081ad99abdaf3",
+    "path": "/workspace/attachments/b92479e4-f196-447c-bfb8-66e024667fa9/TBOextension090626.pdf",
+    "size_bytes": 87471,
+    "name": "TBOextension090626.pdf",
+    "sha256": "916fdbeecc51c1c44bb20aa3cbc1a8ef3a246fbb0e7c38d605007f72d24021a1",
+    "prior_matches": [
+      "/workspace/attachments/d627cc2c-9d28-483b-a384-012259c1c8bc/TBOextension090626.pdf",
+      "/workspace/attachments/939d668a-edb3-4a35-83ea-852ec0e37133/TBOextension090626.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension090626 - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000c31082109ea7c16e28e59725",
+    "path": "/workspace/attachments/6fce681f-c0a5-449b-91a2-babbc24cff20/TBOextension250526 - Copy - Copy - Copy.pdf",
+    "size_bytes": 285407,
+    "name": "TBOextension250526 - Copy - Copy - Copy.pdf",
+    "sha256": "c74098b236b0b059fe9cd539b814bf6838c586cd3a2701d63f41a0d579b7494b",
+    "prior_matches": [
+      "/workspace/attachments/8ff6009a-0815-4679-b72d-6e26fb71d808/TBOextension250526.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000001b2081f49a8a5031f8b1c6b8",
+    "path": "/workspace/attachments/532a85f4-65da-4735-8447-e4352821b0a4/TBOextension250526 - Copy - Copy.pdf",
+    "size_bytes": 285407,
+    "name": "TBOextension250526 - Copy - Copy.pdf",
+    "sha256": "c74098b236b0b059fe9cd539b814bf6838c586cd3a2701d63f41a0d579b7494b",
+    "prior_matches": [
+      "/workspace/attachments/8ff6009a-0815-4679-b72d-6e26fb71d808/TBOextension250526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension250526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000e35481f49894ee6545b62eaa",
+    "path": "/workspace/attachments/c7349f77-59f4-4c2e-83d9-ebaff37ddd4f/TBOextension250526 - Copy.pdf",
+    "size_bytes": 285407,
+    "name": "TBOextension250526 - Copy.pdf",
+    "sha256": "c74098b236b0b059fe9cd539b814bf6838c586cd3a2701d63f41a0d579b7494b",
+    "prior_matches": [
+      "/workspace/attachments/8ff6009a-0815-4679-b72d-6e26fb71d808/TBOextension250526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension250526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000c84c8210b1c0d472dab11701",
+    "path": "/workspace/attachments/69c7a381-339a-4def-b2d5-aac6f5a38122/TBOextension250526.pdf",
+    "size_bytes": 285407,
+    "name": "TBOextension250526.pdf",
+    "sha256": "c74098b236b0b059fe9cd539b814bf6838c586cd3a2701d63f41a0d579b7494b",
+    "prior_matches": [
+      "/workspace/attachments/8ff6009a-0815-4679-b72d-6e26fb71d808/TBOextension250526.pdf"
+    ],
+    "batch_duplicate_of": "TBOextension250526 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000006c081f4b3b35ce522229a05",
+    "path": "/workspace/attachments/e004d4ea-8b39-40dc-a3b2-730086e70854/Technical_SCC - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 15
+  },
+  {
+    "id": "file_00000000042481f4a0f5e3541e3bc400",
+    "path": "/workspace/attachments/615fb264-a3db-41a9-8948-e38897239a8a/Technical_SCC - Copy - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC - Copy - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000032d081f4a071d574b0580c89",
+    "path": "/workspace/attachments/c4bd9e49-977d-4494-b30a-bafd12d005dd/Technical_SCC - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000003a1482108cf5c6dcfc078bb8",
+    "path": "/workspace/attachments/52732f83-be01-4d88-b9b0-d58827f7838e/Technical_SCC (1) - Copy - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (1) - Copy - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000008ba881f48905909486600c04",
+    "path": "/workspace/attachments/9205be75-9876-475c-8a5d-b57cef7a7307/Technical_SCC (1) - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (1) - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000002e4081f4b850c52634a98274",
+    "path": "/workspace/attachments/56f8a4e4-e82e-4894-87a3-bd719425d8e2/Technical_SCC (1) - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (1) - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000cb5881f4ad24d555c73ad9f9",
+    "path": "/workspace/attachments/853b18ff-7636-43f1-a060-041b3dfe1ae6/Technical_SCC (2) - Copy - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (2) - Copy - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000088f481f4a1fdc0ed89f44205",
+    "path": "/workspace/attachments/2b98662d-876f-4c52-bd32-48689e142dde/Technical_SCC (2) - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (2) - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000006bec81f48c0204eba930d53b",
+    "path": "/workspace/attachments/3779a1e5-9a8b-445f-a9fc-420f51d6ae74/Technical_SCC (1).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (1).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000072ec8210a2d262746fd3e010",
+    "path": "/workspace/attachments/a4493dfe-1f24-4c4f-9df4-8e4c5b71373a/Technical_SCC (2) - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (2) - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000006cbc82108cb17bab3e0edc76",
+    "path": "/workspace/attachments/1769e056-ea47-42cb-a4c4-9d65bfd202a9/Technical_SCC (2).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (2).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000e46c81f4b63573b50f0f2d93",
+    "path": "/workspace/attachments/507488e8-270f-4110-9e93-6e32f7b854ac/Technical_SCC (3) - Copy - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (3) - Copy - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000003ea08210bd33053d89b0f5be",
+    "path": "/workspace/attachments/a9926e2f-f975-43fa-b67a-faaf19d89d34/Technical_SCC (3) - Copy - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (3) - Copy - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000018ec81f4b6661dba79e52db2",
+    "path": "/workspace/attachments/fb57ccb8-1543-47b0-a210-335f30391716/Technical_SCC (3) - Copy.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (3) - Copy.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000f33481f4b53f6999c54d089a",
+    "path": "/workspace/attachments/f71c6bd2-144d-4005-a7c2-4011d4693bc0/Technical_SCC.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000086d481f4a61a0ceacad85bde",
+    "path": "/workspace/attachments/7075ad46-abda-431d-8ea8-f1d9697e8f3b/Tendernotice_1 - Copy - Copy - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 - Copy - Copy - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 8
+  },
+  {
+    "id": "file_00000000b2dc81f4a37e88aee89193ec",
+    "path": "/workspace/attachments/80161685-0d52-427e-adda-77998dfaf6f8/Technical_SCC (3).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (3).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior_matches": [
+      "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+      "/workspace/attachments/662c9059-5a97-48dc-a2c2-5aa9065485e8/Technical_SCC.pdf",
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf",
+      "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+      "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+      "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf"
+    ],
+    "batch_duplicate_of": "Technical_SCC - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000057a88210aa4badc5ae63b2fa",
+    "path": "/workspace/attachments/349ce550-51f5-4053-841b-5b8cb7871449/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_0000000072d081f497ebf9d3fee62338",
+    "path": "/workspace/attachments/70427fb7-2bff-494c-9ac1-79c0bce7174a/Tendernotice_1 - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000001c9c8210acabc8f6667b8ca8",
+    "path": "/workspace/attachments/10f72d73-dece-4046-8902-d974c76ff142/Tendernotice_1 - Copy - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 - Copy - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000009cb081f4a9dd75f2ebe6abf1",
+    "path": "/workspace/attachments/fabdc291-41c8-49ee-bd31-4b707e1a13d6/Tendernotice_1 (1) - Copy - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 (1) - Copy - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000003a5882108534fe65bf6db8a4",
+    "path": "/workspace/attachments/6fa7f954-74b7-4310-8407-7f51ec15d92a/Tendernotice_1 (1).pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 (1).pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000be0881f69264f6dead06d71e",
+    "path": "/workspace/attachments/21ae648f-9180-4767-97f7-f8b8c5371864/Tendernotice_1 (1) - Copy.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 (1) - Copy.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_000000007dcc8210a7691c33e3d6f153",
+    "path": "/workspace/attachments/ca8b1a2b-0c71-4880-9a5b-651410bad693/Tendernotice_1.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior_matches": [
+      "/workspace/attachments/3ec264e9-93a5-495b-b533-f1e7dcdde71c/Tendernotice_1.pdf",
+      "/workspace/attachments/79e05a7f-2384-4c40-ad98-1a4eabbac5b4/Tendernotice_1 (1) - Copy - Copy.pdf",
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf",
+      "/workspace/attachments/b7000037-87a8-4c6b-9641-6f27ae53dcc1/Tendernotice_1 (1) - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/30875886-3fb1-4750-a619-7c99a2e8334d/Tendernotice_1 - Copy.pdf",
+      "/workspace/attachments/a19d685f-d120-40e2-ac36-e674c4879831/Tendernotice_1 - Copy - Copy - Copy.pdf",
+      "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+      "/workspace/attachments/98367d57-542d-4a21-96e3-b79ffff69733/Tendernotice_1 - Copy - Copy.pdf",
+      "/workspace/attachments/59825667-9103-40b4-bf20-ce4b77992482/Tendernotice_1 (1) - Copy.pdf",
+      "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+      "/workspace/attachments/7867387e-f0b8-4863-95cf-0899566d3030/Tendernotice_1 (1).pdf"
+    ],
+    "batch_duplicate_of": "Tendernotice_1 - Copy - Copy - Copy.pdf"
+  },
+  {
+    "id": "file_00000000891c821083f37cb89d60ae8b",
+    "path": "/workspace/attachments/9b559b28-db42-4af5-9f6b-046be550de92/Vol I _PartV_Appendix A-3 Price Schedule.xlsx",
+    "size_bytes": 480905,
+    "name": "Vol I _PartV_Appendix A-3 Price Schedule.xlsx",
+    "sha256": "7b4e2c5849fc2b293e4de333dd3bb7b9893702fce99f93d01d637308b1d397a6",
+    "prior_matches": [
+      "/workspace/attachments/778c87e3-aece-4644-b243-c5bbf567e895/Vol I _PartV_Appendix A-3 Price Schedule.xlsx",
+      "/workspace/attachments/f999223f-37c0-4dde-9bd0-12348d6ffc4f/Vol I _PartV_Appendix A-3 Price Schedule.xlsx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000ffe081f487d099f643f4a287",
+    "path": "/workspace/attachments/768698e4-7000-4bfc-ba83-bee11b610c4f/Vol I _PartV_Appendix A-10 MPF.xlsx",
+    "size_bytes": 463605,
+    "name": "Vol I _PartV_Appendix A-10 MPF.xlsx",
+    "sha256": "3e1398fa91d52a60c14f78ba4aaccd1e2a3b90b8cc5046dc980561a45e712aa9",
+    "prior_matches": [
+      "/workspace/attachments/117fb70c-5e68-4035-9b25-e695a24366dc/Vol I _PartV_Appendix A-10 MPF.xlsx",
+      "/workspace/attachments/f5082d3b-5573-484f-941c-6fff7b4dfd2b/Vol I _PartV_Appendix A-10 MPF.xlsx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000625081f4b59715c09195b1f3",
+    "path": "/workspace/attachments/7df6b464-f82f-4740-9e33-560f451e5ffd/ticket.pdf",
+    "size_bytes": 1325322,
+    "name": "ticket.pdf",
+    "sha256": "207b0d36e2def3753e5b65b9c2432176235741f6f9d03713f2e532068c295bea",
+    "prior_matches": [],
+    "batch_duplicate_of": null,
+    "pages": 4
+  },
+  {
+    "id": "file_00000000524c81f482859df89f110ab5",
+    "path": "/workspace/attachments/78fe7d0f-9a05-4b2f-9112-f2ff0f57aaf7/Vol I _PartVA_BRS.xlsx",
+    "size_bytes": 480805,
+    "name": "Vol I _PartVA_BRS.xlsx",
+    "sha256": "872ba27d634dc202597837a32971bafa19c0eb54ac151f7c86f64bccd1d5d897",
+    "prior_matches": [
+      "/workspace/attachments/d56569c4-5dc3-4180-a084-a19c983f8a39/Vol I _PartVA_BRS.xlsx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000c23081f49d7a99064825ce7c",
+    "path": "/workspace/attachments/1f2cf45a-dffb-4920-a472-bf159da89efa/Vol I_ Part III Appendices.docx",
+    "size_bytes": 315676,
+    "name": "Vol I_ Part III Appendices.docx",
+    "sha256": "c1ef1672214f304f856d1a3bdb5f1a3c4d685f00e484907e5bc826d46155ca7f",
+    "prior_matches": [
+      "/workspace/attachments/a5cb1f85-11a8-4199-9c6d-df659ccb6a7b/Vol I_ Part III Appendices.docx",
+      "/workspace/attachments/2beddab1-cfb9-462b-9a47-fac292373e59/Vol I_ Part III Appendices.docx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000031688243b3230cdda60c709d",
+    "path": "/workspace/attachments/ef26cf55-d193-4b21-aeb8-57c8d80dfe0f/Vol I_PartIV_BEC - Copy.docx",
+    "size_bytes": 78107,
+    "name": "Vol I_PartIV_BEC - Copy.docx",
+    "sha256": "df1674f7946d9f62bfc169251d43ad05ee75549001c0d460408055e43b9818b2",
+    "prior_matches": [
+      "/workspace/attachments/a1c6fe5e-a1f8-4173-ada8-eb65a6aa2868/Vol I_PartIV_BEC.docx",
+      "/workspace/attachments/ca40cfa5-9898-4633-8c6c-f5ae11326b7a/Vol I_PartIV_BEC.docx",
+      "/workspace/attachments/a954952e-76b6-445f-b26a-fd4959d1b841/Vol I_PartIV_BEC - Copy.docx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000089c8243835d61a11f42ce31",
+    "path": "/workspace/attachments/da569e3c-c6fe-41fb-9421-c834cb142dab/Vol I_PartIV_BEC.docx",
+    "size_bytes": 78107,
+    "name": "Vol I_PartIV_BEC.docx",
+    "sha256": "df1674f7946d9f62bfc169251d43ad05ee75549001c0d460408055e43b9818b2",
+    "prior_matches": [
+      "/workspace/attachments/a1c6fe5e-a1f8-4173-ada8-eb65a6aa2868/Vol I_PartIV_BEC.docx",
+      "/workspace/attachments/ca40cfa5-9898-4633-8c6c-f5ae11326b7a/Vol I_PartIV_BEC.docx",
+      "/workspace/attachments/a954952e-76b6-445f-b26a-fd4959d1b841/Vol I_PartIV_BEC - Copy.docx"
+    ],
+    "batch_duplicate_of": "Vol I_PartIV_BEC - Copy.docx"
+  },
+  {
+    "id": "file_000000007cd48243a4ecf368392d1164",
+    "path": "/workspace/attachments/753646ff-bd0d-426e-a0af-35d730fe1010/Vol I_PartIVA_BidderGTE.xlsx",
+    "size_bytes": 20715,
+    "name": "Vol I_PartIVA_BidderGTE.xlsx",
+    "sha256": "73b9c45b583b3612ee2b8bcb5a0f95cfad5392979d3d697c8f9ff3c1664d5e02",
+    "prior_matches": [
+      "/workspace/attachments/fd851a81-df3d-487d-a2c7-0aca9a481679/Vol I_PartIVA_BidderGTE.xlsx",
+      "/workspace/attachments/04e2fc12-4aad-47b0-8108-e192c61afc52/Vol I_PartIVA_BidderGTE - Copy.xlsx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000048b081f48ca34f50e60aabf1",
+    "path": "/workspace/attachments/dd234039-561a-4850-8ca2-1c7e0a1b2197/Vol I_PartIVA_BidderGTE - Copy.xlsx",
+    "size_bytes": 20715,
+    "name": "Vol I_PartIVA_BidderGTE - Copy.xlsx",
+    "sha256": "73b9c45b583b3612ee2b8bcb5a0f95cfad5392979d3d697c8f9ff3c1664d5e02",
+    "prior_matches": [
+      "/workspace/attachments/fd851a81-df3d-487d-a2c7-0aca9a481679/Vol I_PartIVA_BidderGTE.xlsx",
+      "/workspace/attachments/04e2fc12-4aad-47b0-8108-e192c61afc52/Vol I_PartIVA_BidderGTE - Copy.xlsx"
+    ],
+    "batch_duplicate_of": "Vol I_PartIVA_BidderGTE.xlsx"
+  },
+  {
+    "id": "file_000000002aa881f4a5e4c46166ba40c7",
+    "path": "/workspace/attachments/b12dc2b1-49dc-4c3c-92f3-891524407dcb/Vol_I_PartIV_ Technical BEC - Copy.pdf",
+    "size_bytes": 1654179,
+    "name": "Vol_I_PartIV_ Technical BEC - Copy.pdf",
+    "sha256": "d5548eb59f55cf6504d770c44e2dcd42b42392eb71541f36a742df9b089e3a7c",
+    "prior_matches": [
+      "/workspace/attachments/9fd364a5-95da-4665-b48a-90be485cae7b/Vol_I_PartIV_ Technical BEC - Copy.pdf",
+      "/workspace/attachments/08cf287e-afb1-4ee1-9761-ee9d9f711852/Vol_I_PartIV_ Technical BEC.pdf",
+      "/workspace/attachments/83b58a2a-16a7-459c-a93f-1375e22b3bcb/Vol_I_PartIV_ Technical BEC.pdf"
+    ],
+    "batch_duplicate_of": null,
+    "pages": 11
+  },
+  {
+    "id": "file_000000003c5c81f499f0e9f230d22192",
+    "path": "/workspace/attachments/b2d1640f-de43-4cfc-9c12-dcc1ed9cc38a/Vol-I I ITB - Copy.docx",
+    "size_bytes": 208982,
+    "name": "Vol-I I ITB - Copy.docx",
+    "sha256": "61033c9e7a297215977bdbf88dd81b3bca8073d17e7ae88f2ae7b57ce1fd58ae",
+    "prior_matches": [
+      "/workspace/attachments/292c0ab1-ea8f-428e-9444-aa266be57587/Vol-I I ITB.docx",
+      "/workspace/attachments/9250213f-c034-4293-bab5-4166fa019812/Vol-I I ITB.docx",
+      "/workspace/attachments/9127198b-d5b8-427b-b5f7-cc82e648ada2/Vol-I I ITB - Copy.docx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000951481f48c8161624afb225c",
+    "path": "/workspace/attachments/4b67938a-95a9-4332-afbc-1fa93415cc08/Vol_I_PartIV_ Technical BEC.pdf",
+    "size_bytes": 1654179,
+    "name": "Vol_I_PartIV_ Technical BEC.pdf",
+    "sha256": "d5548eb59f55cf6504d770c44e2dcd42b42392eb71541f36a742df9b089e3a7c",
+    "prior_matches": [
+      "/workspace/attachments/9fd364a5-95da-4665-b48a-90be485cae7b/Vol_I_PartIV_ Technical BEC - Copy.pdf",
+      "/workspace/attachments/08cf287e-afb1-4ee1-9761-ee9d9f711852/Vol_I_PartIV_ Technical BEC.pdf",
+      "/workspace/attachments/83b58a2a-16a7-459c-a93f-1375e22b3bcb/Vol_I_PartIV_ Technical BEC.pdf"
+    ],
+    "batch_duplicate_of": "Vol_I_PartIV_ Technical BEC - Copy.pdf"
+  },
+  {
+    "id": "file_00000000cd308210b8bd1e29b3fea2e6",
+    "path": "/workspace/attachments/dde28940-993a-46dc-917a-2b209fd980ad/Vol-I-II GCC - Copy.docx",
+    "size_bytes": 341696,
+    "name": "Vol-I-II GCC - Copy.docx",
+    "sha256": "78d8130c8aab9b96e9dad2584cb6c30be370c72dd71f154df103eb238b08f4a1",
+    "prior_matches": [
+      "/workspace/attachments/b7fa1436-2c88-40cc-baf2-3ffef1e9b1f9/Vol-I-II GCC.docx",
+      "/workspace/attachments/7ece9ff1-7bca-4ae8-a43f-c3173cfcff51/Vol-I-II GCC.docx",
+      "/workspace/attachments/d0938617-7dc4-4a22-b515-a1c4f3ee21d9/Vol-I-II GCC - Copy.docx"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000025dc81f4a2d4330852c57ab8",
+    "path": "/workspace/attachments/f7f5c8de-0652-49b3-a28b-a49b1c3dd969/Vol-I I ITB.docx",
+    "size_bytes": 208982,
+    "name": "Vol-I I ITB.docx",
+    "sha256": "61033c9e7a297215977bdbf88dd81b3bca8073d17e7ae88f2ae7b57ce1fd58ae",
+    "prior_matches": [
+      "/workspace/attachments/292c0ab1-ea8f-428e-9444-aa266be57587/Vol-I I ITB.docx",
+      "/workspace/attachments/9250213f-c034-4293-bab5-4166fa019812/Vol-I I ITB.docx",
+      "/workspace/attachments/9127198b-d5b8-427b-b5f7-cc82e648ada2/Vol-I I ITB - Copy.docx"
+    ],
+    "batch_duplicate_of": "Vol-I I ITB - Copy.docx"
+  }
+]

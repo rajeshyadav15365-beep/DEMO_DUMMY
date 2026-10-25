@@ -1,0 +1,726 @@
+                                                                                             PART – II
+                                      Bid Package for
+                     Bridge Refurbishment & Replacement Project (BRRP)                         SCC
+
+
+
+                                   SPECIAL CONDITIONS OF CONTRACT
+1.0 General
+1.1   ONGC owns and operates number of offshore platforms located on west coast of India. The
+      platforms are operating in the Mumbai high field. With the ageing of field, condition of existing
+      platform, bridges have deteriorated. ONGC intends to carry out the refurbishment /replacement of
+      existing bridges in offshore location at its MH asset. Contractor has to plan execution of entire
+      scope of work accordingly to complete the project within schedule completion date of the
+      Contract.
+1.2   Special conditions of Contract shall be read in conjunction with the General Conditions of Contract,
+      Technical specifications, scope of work, Drawings and other documents forming part of this
+      contract wherever the context requires. In case of conflict / discrepancy / ambiguity with clauses
+      given in the Special Conditions of Contract (SCC) and General Conditions of Contract (GCC), the
+      clauses of SCC will override those of GCC.
+1.3   Wherever it is stated anywhere in this Tender document that such a supply is to be affected and
+      such a work is to be carried out, it shall be understood that the same shall be effected/carried out
+      by the CONTRACTOR at his own cost, unless a different intention of specifically and expressly
+      stated herein or otherwise explicit from the context.
+1.4   No fuel, water and power shall be provided by the ONGC during construction, pre-commissioning,
+      commissioning. CONTRACTOR shall make his own arrangements for these items at his own cost.
+1.5   All temporary and ancillary works including enabling works connected with the work shall be the
+      responsibility of the CONTRACTOR and the price quoted by them for work shall be deemed to
+      have included the cost of such work.
+1.6   The Schedule of Rates (SOR) shall be read in conjunction with Special Conditions of Contract,
+      General Conditions of Contract, Technical Specifications, Scope of Work and any other Document
+      forming a part of this contract. All items of work in the Schedule of Rates shall be carried out as
+      per the Specifications, Drawings and instructions of ONGC and the Rates are inclusive of
+      onshore/offshore transport, materials, consumables, labour, supervision, tools and tackles,
+      personnel as well as preparatory, incidental, intermediate/ auxiliary/ ancillary or enabling works
+      under CONTRACTOR's scope of work/supply.
+1.7   Work shall be carried out in such a manner that the work of other agencies operating at the site is
+      not hampered due to any action of the CONTRACTOR. Proper co-ordination with other agencies
+      will be CONTRACTOR's responsibility. In case of any dispute, the decision of ONGC shall be final
+      and binding on the CONTRACTOR. CONTRACTOR to refer the Interface Matrix attached elsewhere
+      in the tender documents.
+1.8   The approval from any authority required as per statutory rules and regulations of Central/ State
+      Government shall be the CONTRACTOR's responsibility unless otherwise specified in the tender
+      document. The application on behalf of the Owner for submission to relevant authorities along
+      with copies of required certificates complete in all respects shall be prepared and submitted by the
+      CONTRACTOR with the signature of owner.
+
+
+
+                                                  Page 1 of 15
+                                                                                          PART – II
+                                      Bid Package for
+                     Bridge Refurbishment & Replacement Project (BRRP)                      SCC
+
+
+
+1.9   Procurement of the Navigation systems' frequency licenses shall remain the responsibility of the
+      CONTRACTOR. A copy of such licenses shall be supplied prior to the mobilization of any
+      positioning system. The licenses shall remain valid for the duration of works.
+1.10 Contractor shall prepare material and equipment requisition lists indicating the names of all
+     vendors (from suggested vendor list) proposed to be issued with an RFQ and showing the
+     description, quantities or number required, designation of use, size, catalogue or identification
+     number, mill report, etc. along with Vendor's published literature or any other information which
+     will provide a clear and thorough understanding of the items to be purchased for the facilities,
+     construction, installation and operation requirements as defined in this Bid package.. When
+     purchase requisition refers to a specification for detail, Contractor shall make certain that this
+     specification (purchase specification) has been approved by the Company. Company has an
+     unconditional option/right to approve / reject individual vendors for equipments / items which are
+     in the firm scope of bidder's Work. The Contractor shall call the preferred vendor and arrange
+     discussions with the Company in a satisfactory manner to the Company's Representative before
+     final approval.
+2.0 Completion Period
+      The scheduled completion date for works pertaining to all facilities described in the bidding
+      documents shall be 12 months from the date of Notification of Award. In case offshore execution
+      period enters into monsoon period (16th May to 15th Oct - both days inclusive.) due to which the
+      contractor is not able to work due to unfavorable weather, the execution period shall be counted
+      by excluding monsoon period without application of liquidated damages. However, except time
+      extension no other cost, if any (e.g. demob/mob etc.) will be payable.
+      Bidder shall develop a detailed project schedule to accomplish above completion date and submit
+      it along with his offer.
+3.0 Deployment of Marine Spread
+3.1   During the course of execution of work at offshore, Contractor shall be required to deploy marine
+      spreads having accommodation for minimum 60 special personnel to complete the project within
+      schedule completion date of the Contract.
+3.2   During execution of work, while working on a particular complex, work boat/barge may require to
+      be relocated within platforms of same process complex or may require to change the face on the
+      same platform, if need arises, to meet the operational requirements.
+3.3   The Workboat/Barge shall be equipped with a marine pedestal revolving crane with minimum 5
+      Ton SWL to transfer material to & from supply boat and spider deck of the platform.
+3.4   The workboat (s)/Barge (s) should have separate room with air conditioning facilities for the
+      storage of the specified paints.
+4.0 Weather Conditions
+4.1   Contractor shall monitor the weather and operate the marine spread within its operational
+      parameters. In case of cyclone forecast/ warning, Contractor shall immediately communicate
+      about the same to Company along with suitable actions being taken for ensuring safety of
+      Manpower, their Barge(s)/Vessel(s) and field installations/ facilities.
+                                                Page 2 of 15
+                                                                                               PART – II
+                                       Bid Package for
+                      Bridge Refurbishment & Replacement Project (BRRP)                           SCC
+
+
+
+4.2   Contractor      shall    take      immediate     action     and     communicate       to      the
+      subcontractor(s)/Barge(s)/vessel(s) operating under the contract and ensure that the
+      Barge(s)/Vessel(s) clear out of ONGC fields area and move to safe location at nearby port
+      anchorage and keep Company updated continuously about location of barge(s)/vessel(s) along
+      with safety of manpower till such emergency situation ceases and normal operations are restored.
+4.3   In such situations, Company’s decision shall be final and binding.
+4.4   The same shall be dealt in accordance with GCC clause 7.5 (Force Majeure).
+5.0 Audit of Barges/Vessels
+
+5.1   Company will carry out Audit of proposed marine spread before their deployment to field. The
+      indicative check list for the audit is attached at C-9 and C-10. This is in addition to requirements as
+      per clause 10.8 of GCC.
+
+5.2   Company will also carry out periodical audits of marine spread deployment at offshore during
+      execution of Project.
+
+5.3   While is Contractor advised to mobilize all offshore vessel/ barges complying with latest DGS
+      guidelines for execution of complete SOW against instant tender, he may, with prior approval of
+      ONGC, comply with lifeboats requirement in phased manner as per the timelines tabulated below.
+       Year-wise deployment of total              % of total number of Installation barge, Pipe-lay
+       offshore    construction   vessels         barge (PLB), Accommodation work barge (AWB)
+       meeting DG Shipping circular               mobilized, as minimum aggregate at any given
+       20/2022 compliance                         time period, at Offshore
+                  Till 15.05.2026                                        40%
+                  Till 15.05.2027                                        70%
+                Beyond 15.05.2027                                       100%
+
+5.4   Contractor to ensure that those vessels, not complying with latest DGS guidelines wrt lifeboats,
+      shall be equipped with life rafts on each side, providing an aggregate capacity that is at least
+      150% of the total number of persons on board.
+
+5.5   Contractor to ensure that an evacuation plan is in place for all personnel on-board non-compliant
+      vessels.
+6.0 Maintenance Painting
+6.1   Paint applicator must have MOU with paint manufacturer (listed in suggested vendor list) that
+      paint manufacturer will stand joint guarantor for the painting, without any qualifications, when
+      painting is carried out by this paint applicator.
+6.2   Representative of paint manufacturer need to be available continuously during maintenance
+      painting at each platform.
+6.3   For painting of the Flare Platforms, SOP shall be worked out by the applicator.
+7.0 Security Regulations
+7.1   The personnel to be mobilized by the CONTRACTOR for the work shall:
+      • Be medically fit to work in offshore environment.
+
+                                                   Page 3 of 15
+                                                                                            PART – II
+                                       Bid Package for
+                      Bridge Refurbishment & Replacement Project (BRRP)                        SCC
+
+
+
+      • Possess good conduct and discipline.
+      • Have cotton working dress, safety shoes, helmets, hand gloves, safety goggles, etc.
+7.2   The CONTRACTOR shall observe and strictly abide by fire and safety rules of ONGC and shall:
+      • Maintain adequate first –aid facilities for their employees at site
+      • Supply of sufficient safety kits and liveries to their employees deployed for the work          on
+        onshore terminal
+      • Provide identification card for their employees deployed for the work
+7.3   Persons to be deputed under contract for working at offshore vessels/barges must have
+      undergone training on:
+      • Helicopter under – water Escape Training (HUET)
+      • Survival at sea and safety.
+      • First-aid.
+      • Firefighting and fire prevention.
+      • Handling of hazardous chemicals as applicable.
+7.4   List of authorized training institutes is as follows -
+      • Naval maritime Academy (NAMAC), Mumbai
+      • Lal bahadur shastri college of Advanced maritime studies & Research, Mumbai
+      • Survival System India, Mumbai
+      • Any other institute having valid approval of D.G. shipping, Mumbai
+      • Cost of all such trainings shall be borne by the contractor.
+7.5   It shall be the responsibility of the Contractor to ensure full compliance of the following security
+      provisions.
+      • To obtain duty passes for all the personnel well in advance from the Security Section of ONGC
+        after providing the prescribed Declaration Forms in respect of each person.
+      • To ensure that none of the personnel carry any match box, lighter, cameras nor do any
+        photography in /around or any of ONGC’s installations / facilities projects. Photography on or
+        around work locations is completely prohibited.
+      • To ensure that all personnel display the non-employee duty passes issued by the Security
+        Section of ONGC on work.
+      • To ensure that all the personnel engaged by them abide by the security and discipline Rules
+        prescribed from time to time by the Security Section of ONGC.
+      • The employees / workers deputed by the contractor shall be medically fit, more than 18
+        years of age to perform the work and shall pass good conduct and discipline.
+      • Contractor has to deploy the personnel with no past criminal record. Also, the contractor
+        has to provide police verification reports for the persons deployed by him as per
+                                                     Page 4 of 15
+                                                                                                        PART – II
+                                        Bid Package for
+                       Bridge Refurbishment & Replacement Project (BRRP)                                  SCC
+
+
+
+         requirement from ONGC. In case of any adverse report, the same is to be replaced
+         immediately.
+      • To comply with any directive as may be prescribed/ given by ONGC from time to time in
+        respect of security matters.
+      • The Contractor agrees, at its own cost, to comply with the provisions of all laws including all
+        labour laws, rules, regulations and notifications issued there under, whether Central or State
+        or local, if applicable to him and to the Contract labours employed by him or to this
+        CONTRACT, from time to time and shall submit documentary evidence in this regard to the
+        entire satisfaction of ONGC. Payment will be released only after Contractor submits
+        necessary documentary evidence of having discharged all statutory obligations pertaining to
+        the Contract.
+      • Any s t a t u t o r y o r o t h e r w i s e i n c r e a s e i n t h e m i n i m u m w a g e s a n d resultant
+        increase in the payment of Provident Fund, ESI, Bonus, Leave with Wages etc. if applicable to
+        the establishment of the Contractor and to labours engaged by him as well as to this Contract
+        from time to time, shall be paid by the Contractor. The ONGC shall not be liable to pay
+        increase in the payment of wages and resultant increase in the payment of Provident Fund,
+        ESI, Bonus, Leave with Wages, etc. to the Contractor and his labours on any grounds
+        whatsoever.
+      • The contractor shall comply with all safety & security rules and regulations, other rules and
+        standard operating procedures laid down by ONGC for its operation in offshore. It shall be the
+        duty/responsibility of the contractor to ensure the compliance of all fire, safety, security and
+        other operational rules and regulations by his workers/personnel/supervisor, etc.
+7.6   Before deploying the said personnel, the CONTRACTOR shall furnish complete bio-data including
+      qualifications, experience, etc. along with the proficiency certificate / trade certificate for
+      supervisors / skilled workers, to be deputed by him for aforesaid job on offshore vessels/barges.
+7.7   It is the responsibility of the CONTRACTOR to use equipment that are meant for hazardous areas
+      in the onshore terminals. In view of this, the following are the essential requirements:
+      • Welding generators with spark arrestor and safe starting system
+      • Check valves on welding torch as well as on gas cylinder
+      • Flame and explosives proof board, switches, plugs, light holders and other electrical fittings
+      • All cables used shall be armoured without joints.
+7.8   CONTRACTOR to note that all modifications, installations, assembly etc. shall be carried out on
+      operational terminals. CONTRACTOR shall obtain necessary work permits before commencement
+      of any work. The CONTRACTOR should familiarize himself with the permit system used on the
+      onshore terminal during his visit.
+7.9   CONTRACTOR has to arrange sufficient provision of utility air Hot / cold work permit will be issued
+      by the HSE manager. There may be some interruption in carrying out hot jobs for safety reasons
+      for which no time and cost compensation will be made.
+8.0 Safety Regulations
+
+                                                       Page 5 of 15
+                                                                                                PART – II
+                                         Bid Package for
+                        Bridge Refurbishment & Replacement Project (BRRP)                          SCC
+
+
+
+ 8.1   CONTRACTOR shall comply with the provision of all laws including labour laws (payment of
+       minimum wages act, PC Act etc.) rules, regulations and Notifications issued there under from time
+       to time. All safety and labour laws enforced by statutory agencies and by ONGC shall be applicable
+       in the performance of his CONTRACT and CONTRACTOR shall abide by these laws.
+ 8.2   The CONTRACTOR shall report as soon as possible any evidence which may indicate or is likely to
+       lead to an abnormal or dangerous situation and shall take all necessary emergency control steps
+       to avoid such abnormal situation.
+ 8.3   One safety officer shall be stationed on-board each of the workboats/ barge deployed by the
+       contractor all the time for supervision of entire operation. In case the contractor is performing the
+       preparatory work/ work, on more than one platforms of the same complex simultaneously with
+       same work boat/barge, safety officer shall be stationed exclusively on each such platforms.
+ 8.4   Contractor should make available following items over and above other tool/tackles and
+       consumables required to compete the Scope of Work at each platform where painting work is in
+       progress:
+         (i) Crane
+         (ii) Firefighting facilities for safe operation
+         (iii) Air compressors
+         (iv) DG Sets
+         (v) Water
+         (vi) Fuel
+ 8.5   PPEs/ Kits & Liveries
+8.5.1 Provisioning
+       a) It shall be the sole responsibility of the contractor to provide the following core PPE items to his
+          personnel before commencement of the work as per frequency specified in SOW:
+           (i) Ready Made cotton overall
+           (ii) Fire retardant overall
+           (iii) Industrial Safety Shoes
+           (iv) Safely Helmet
+           (v) Clear safety goggles
+           (vi) Ear muff
+           (vii) Ear plug (reusable)
+           (viii)Hand Gloves (for drilling and work-over operation impact resistant gloves to be used) and
+                  Work Specific PPE / Kits & Livery items shall also be provided by the contractor before
+                  commencement of the Work
+
+
+
+
+                                                       Page 6 of 15
+                                                                                                 PART – II
+                                         Bid Package for
+                        Bridge Refurbishment & Replacement Project (BRRP)                          SCC
+
+
+
+       b) The Core PPE for contractual workers shall be of same specification (minimum), which are
+          applicable to ONGC employees, except the colour of overall shall be other than orange and
+          preferably maroon with Company's logo / Name of the Company.
+       c) PPE/ KITCARD shall be maintained for each contract worker in following format:
+                                               Safety Items & Kit Card Format
+
+         S. No                        Particulars                               Details/Remarks
+        1.         Name of Contractor/Agency/Supplier
+        2.         Contract Details
+        3.         Contract Period
+        4.         No of Contract Labour deployed
+        5.         Safety items/Kit Card to be issued
+        Sl. No       Name of        Kits &     Date of   Signature   Signature    Verified by     Remarks
+                     contract     Liveries /    Issue        of          of          PE /
+                      Labour          PPE                Contract    Contractor   Installation
+                                    issued                Labour                   Manager
+        1.
+        2.
+        3.
+        Notes:
+             1.    Safety items/Kits and liveries listed above are indicative and can be modified according
+                   to specific work/contract requirement.
+             2. Technical specifications and norms of the items listed/provided above shall be the same
+                as applicable to regular employees of ONGC, amended or modified from time to time.
+             3.    Queries with regard to PPE/Kits and Liveries shall be referred to ONGC and decision of
+                   ONGC in this regard shall be final.
+             4.    An undertaking to be submitted by the Contractor/service provider with the bills that
+                   PPE/Kits and Liveries issued in performance of the contract are without any defects and
+                   persons deployed complying with safely directives and using the protective
+                   equipment’s/clothing as per work requirements.
+       d) The contractor shall be allowed to start the work only after satisfactory outcome of inspection
+          of both registers, i.e the stock register and that maintained for kit cards, which shall be
+          submitted by the contractor alter the placement of NOA.
+8.5.2 Monitoring
+       a) Site supervisor of the contractor shall use daily inspection checklists to ensure that all the
+          contractual workers are provided with suitable PPE and the same are being used during the
+          work. During tool box talk, the use of PPE shall be discussed by the contractor supervisors.
+                                                   Page 7 of 15
+                                                                                               PART – II
+                                       Bid Package for
+                      Bridge Refurbishment & Replacement Project (BRRP)                           SCC
+
+
+
+       b) ONGC representative at regular intervals shall jointly check Individual kit cards with Contractor's
+          Supervisor/Safety Officer at site and inspect that necessary PPE / K& L items are being
+          provided and used during the work by contractual personnel.
+       c) Installation Manager / Mines Safety Officer/ HSE Manager shall carry out Surprise checks/
+          Inspection for verifying the availability of suitable core PPE and its usage by contractual
+          workers. Whenever the contractual workers are found working without any of the core PPEs,
+          Installation Manager shall be empowered to stop the work.
+       d) Undertaking by the contractor with bills raised for supply of Safety items / Kits and liveries: The
+          contractor shall provide in the following annexure an undertaking with the bills raised by him
+          that he has provided requisite PPE/ K&L to personnel deployed in the Contract for the said
+          period:
+                                            Format as Annexure to Undertaking
+
+        Name of the Firm/Agency/Contractor:
+        Nature of Contract
+        Contract details and validity:
+        Details of core safety items and other kits and liveries:
+         S.No          Articles            Quantity           Locations      Date of issue     Remarks
+
+
+
+
+        CERTIFIEDTHAT:
+           1.   I have issued the core safety items and other general kits and liveries to personnel
+                 deployed in ONGC, specific to Job/Services as per contract Agreement
+                 No.............................
+           2.   All the core safety items and other general kits and liveries Items are as per standard
+                 BIS/ISO norms and have not outlived its shell life and not in damaged/unusable
+                 conditions.
+           3.   The safety devices and other appliances provided for the protection or personnel
+                 deployed shall be of same standard specification adopted and issued by ONGC.
+           4.   In case of any discrepancies or irregularities in complying with safety items/devices, then
+                 ONGC is entitled to impose penalty/damages upon services provider, as per contract
+                 agreement.
+           5.   A standard Safety Kit Card as per contract clause No………. is maintained at site for ready
+                 reference and inspection by PE/ONGC representatives/Authorities
+8.5.3 Actions In case of Non-Compliance:
+
+
+                                                      Page 8 of 15
+                                                                                           PART – II
+                                    Bid Package for
+                   Bridge Refurbishment & Replacement Project (BRRP)                          SCC
+
+
+
+   a) A list of PPE items issued by the contractor to the contractual Workers is to be submitted by the
+      contractor to ONGC before commencement of work along with relevant supporting documents
+      related to PPEs provided by the contractor. The same shall be verified by ONGC before giving
+      clearance to start the work. In case the PPEs are not provided by the contractor before the
+      commencement of work, mobilization by the contractor will be considered as incomplete and the
+      LD wherever applicable as per prevailing terms of contract will be imposed.
+   b) Whenever the contractual workers are found working without any of the core PPEs, installation
+      Manager shall be empowered to stop the work as below.
+         (i) Ask the defaulting worker to leave the site and mark him absent;
+         (ii) Penalty will be Imposed on contractor at the rate of Rs1000/- per person per day for non-
+              use of any of the PPE Items by the contractual personnel:
+         (iii) If the contractor fails to provide suitable replacement of damaged/ unsuitable PPEs to his
+               personnel, contractor shall be asked to stop the work immediately till corrective actions
+               are taken. In such a scenario the completion date of the job will not be extended and
+               ONGC shall not make any payment till the work is kept in suspension due to non-use of
+               PPEs.
+   c) In case of repeated violation of non-use of PPEs by the contractual workers for more than three
+      times in onshore operations, the Contractor will permanently remove the defaulters from the site
+      and replace them without delay and at no extra cost to ONGC. Likewise. In case of offshore
+      operations, for repeated violations of non-use of PPEs by the contractual workers for more than
+      three times, ONGC shall ask the concerned contractor to send the defaulters back to base at his
+      own expenses and suitable replacement will be provided without delay and at no extra cost to
+      ONGC.
+     In any extreme case, if Contractor has failed to start work on the due date only because of non-
+     provision of PPE. ONGC shall review the requirement and on its sole discretion decide to agree to
+     the Contractor request for Issuing PPE to its personnel on cost basis or otherwise. Contractor
+     shall be bound by ONGC decision.
+9.0 Change Order Evaluation Methodology
+   The change order proposals/claims submitted by the Contractor shall be evaluated based on
+   Company’s change order costing methodology. Costs on elements like Project Management,
+   Detailed Engineering, Fabrication, Transportation, Installation, Hook Up, Pre-Commissioning,
+   Commissioning, Taxes & Duties etc., as applicable, shall be calculated based on Company’s costing
+   methodology as detailed below:
+
+   i. Positive Change Order
+      S.
+               Cost Component                                   Methodology
+      No.
+
+
+
+
+                                                Page 9 of 15
+                                                                                      PART – II
+                               Bid Package for
+              Bridge Refurbishment & Replacement Project (BRRP)                          SCC
+
+
+
+                                 Based on MTO pertaining to the change order verified by TPI/CA
+                                 / ONGC Rep/ Consultant and Invoices establishing procurement
+                                 cost of item, duly verified by Company. In case material is
+ (i)        Material cost
+                                 delivered ex-works, 4% will be added to arrive at CIF cost. In
+                                 case of Air freight actual freight cost will be considered based on
+                                 documentary evidence.
+                                 The cost of survey shall be based on the actual no. of man days
+                                 or barge days as applicable, for survey certified by Company /
+                                 Company authorized representative. The man day rate of
+ (ii)          Survey
+                                 engineers shall be as per the rental rate schedule of contract
+                                 and the barge day rate shall be as per the Contract price
+                                 schedule.
+(ii)    Project Management       2% of material plus services excluding Project Management
+                                 cost.
+(iii)   Detailed Engineering      The cost of detailed engineering shall be based on the no. of
+                                  deliverables verified by Company / Company authorized
+                                  representative and the rates of Engineering deliverables given in
+                                  the rental rate schedule of contract. In case, due to change
+                                  order, existing engineering documents are required to be
+                                  revised and no new deliverables are required to be generated,
+                                  the cost shall be based fixed 20 % of existing deliverable rates
+                                  given in the rental rate schedule of contract. The no. of
+                                  deliverables requiring change shall be verified by Company /
+                                  Company authorized representative.
+(iv)         Fabrication         15% of CIF material cost where onshore / offshore fabrication is
+                                 involved. For offshore fabrication, barge cost shall not be
+                                 considered.
+(v)           Offshore           1. 15% of CIF material cost in case transported from vendor
+        Transportation (Yard/       site to Offshore.
+             Kakinada/           2. In case separate cargo vessel/ supply vessel has been
+           Chennai Port to          exclusively used for offshore transportation, the cost for
+             Offshore)              transportation shall be worked out based on the offshore
+                                    deployment of vessel, verified and certified by Company /
+                                    Company authorized representative and the rate for cargo
+                                    vessel as per contract.
+(vi)    Offshore Installation/   1. Where ever marine spread has been used exclusively for
+            hook-up, Pre-           Change order then cost for offshore activities shall be
+         Commissioning and          calculated based on the barge days as per DPR duly verified
+           Commissioning            by Company / Company authorized representative on board
+                                    of barge/ vessel and barge day rate as per the contract for
+                                    the actual marine spread deployed. However, before
+                                    mobilization, Contractor to ensure optimum use of Marine
+                                    spread deployed with prior intimation to Company and
+
+                                          Page 10 of 15
+                                                                                        PART – II
+                               Bid Package for
+              Bridge Refurbishment & Replacement Project (BRRP)                            SCC
+
+
+
+                                       confirmation by Company.
+                                   2. In case marine support has been used for the work of
+                                       change order along with the other works, number of barge
+                                       days will be worked out by multiplying the ratio of persons
+                                       used for the change order work divided by total person on
+                                       board on the day of change order executed duly certified by
+                                       the Company / Company authorized representative. The
+                                       man days shall be pro-rated as per usage for change order
+                                       work.
+                                   3. Where ever marine support is not required, then this
+                                       component shall be worked out based on man-hours and
+                                       equipment deployment duly verified by Company / Company
+                                       authorized representative and considering rental rates and
+                                       Man-hours’ rates provided in Contract. The consumables
+                                       shall be verified by Company / Company authorized
+                                       representative and cost shall be worked out based on
+                                       purchase orders/Invoices.
+  (vii)                            As per contract provisions. However, % fee shall not be
+                % fee              applicable on cost components. items i.e barge rates, rental rate
+                                   schedule, design rate schedule etc. where rates are available in
+                                   the contract.
+  (viii)   Taxes and Duties        As per actuals. However, input tax credit to be availed by the
+                                   Contractor and passed on to ONGC.
+  (ix)        Insurance            As per actuals, if Insurance is taken separately for Change order
+                                   work. Payment will be made on reimbursement basis.
+  Notes:                           There shall be no separate claim towards as built
+                                   documentation.
+
+
+ii. Negative Change Order
+
+    S.        Cost
+                                                         Methodology
+    No.    Component
+     (i)     Materials        1. Cost benefit due to change in material / item only, then only the
+                                  difference in material cost shall be considered for arriving at the
+                                  value of change order. The cost shall be calculated based on
+                                  verified purchase order/ invoice for the installed material and
+                                  budgetary quote for the replaced material.
+                              In case Contractor fails to provide the cost data as sought above,
+                              then inhouse cost data will be used.
+                              CIF Cost: In case no supporting document is provided by the
+                              Contractor, then 4% of ex-works price will be added to arrive at CIF
+                              cost
+                              2. Negative change order due to deletion of scope/ non execution
+                                  as per scope.
+
+                                            Page 11 of 15
+                                                                                   PART – II
+                              Bid Package for
+             Bridge Refurbishment & Replacement Project (BRRP)                        SCC
+
+
+
+                          2.1 The cost shall be calculated considering the following:
+                          2.1.1 Material cost will be based on the estimated MTO and PO /
+                              Invoice of same material where ever available. In case the above
+                              documents are not available, Budgetary quote provided by the
+                              contractor shall be considered. In case contractor fail to provide
+                              cost data as sought above then in-house cost data will be used.
+                          2.1.2 Man power/ equipment cost will be based on the estimated
+                              man hour and equipment reviewed by Company and the cost will
+                              be worked out exactly in the same manner as described above
+                              for positive change orders.
+                          2.1.3 The cost of detailed engineering shall be based on the no. of
+                              deliverables verified by Company/ Company authorized
+                              representative and the rates of Engineering deliverables given in
+                              the rental rate schedule of contract.
+                          In case executing the negative change order becomes the necessity
+                          as a result of engineering performed for the scope of work as per
+                          the contract, no engineering component will be considered for cost
+                          benefit.
+                          2.1.4 Taxes as per applicable (as per Contract price schedule).
+(ii)     Marine spread    Wherever marine spread is required for that part of original scope
+                          which has now been deleted (negative change order) the cost of the
+                          same shall be calculated based on:
+                          1. Marine spread rates as per contract and time for major works
+                              shall be based on average time taken by the Contractor to
+                              perform same work under the Contract.
+                              However, if the above data is not available, then, time as per
+                              Company’s in house data is to be used.
+                          2. Marine spread rate as per contract and time as certified by
+                              Company's project group for minor works (for activities not
+                              covered under 1 above).
+Notes:                    In case Contractor does not provide the datum value for negative
+                          change order within 30 days of intimation of de-scoping, ONGC at its
+                          own discretion shall withhold an interim amount as deemed fit.
+
+
+Notes:
+
+1. In case ONGC Chopper and catering services at platform are utilized for positive change
+   order, these shall be provided free of cost.
+2. Supporting documents shall be required for all cased except percentage fee.
+   In case of claims where adequate supporting documents have not been provided, rate
+   reasonability for change order claim shall be established with reference as per in house
+   costing methodology, (wherever available/applicable) for change order claims.
+3. The requirement of marine support for execution of change order work shall be indicated at
+   the time of taking ceiling limit approval as per clause 8.1.1.7 of the contract.
+
+                                       Page 12 of 15
+                                                                                                   PART – II
+                                       Bid Package for
+                      Bridge Refurbishment & Replacement Project (BRRP)                              SCC
+
+
+
+        4. Other conditions for change order claims shall be as per contract conditions.
+        5. For calculating the no. of days at Appendix A-3 –Price Schedule- VIII. Rental Rate Schedule
+           following is defined: 24 hours will be considered as one equipment day and 12 hours will be
+           considered as one-man day. Further any value less than 24 hours or 12 hours, as applicable,
+           the day will be calculated on pro rata basis.
+ 10.0 The proposed jobs are Works Contracts relating to immovable property offshore (beyond 12
+      nautical miles).
+ 11.0 Delay Analysis Report:
+      In order to identify project delays during the project execution and take remedial measures to
+      address these delays, Contractor shall carry out project delay/progress analysis, on quarterly
+      basis and submit the report to Company. The delay/progress analysis report shall cover the
+      following minimum information:
+
+        (i) Project Activities delayed with respect to Scheduled contract dates, with identification of
+              activities affecting critical path of project.
+        (ii) Reasons for the delay
+        (iii) Remedial actions required for arresting the delays and to meet project milestone/completion
+              dates.
+      Activity and time log sheets should be prepared on monthly basis as a part of project scheduling
+      for activities that fall on the critical path of project schedule or likely to fall in critical path. These
+      log sheets shall capture the delay, if any, in completion of activities/tasks and also record the
+      reasons for the delay and to whom (whether ONGC or Contractor) such delay is attributed and
+      need to be signed by ONGC /ONGC authorized representatives and Contractor’s representatives.
+      The above log sheets shall be used while preparing the Joint Statement.
+
+      Project Delay Analysis report based on the above joint statement shall be jointly discussed and
+      signed between Company and Contractor on quarterly basis.
+
+12.0 E-measurement Book: The daily progress of work should be recorded by the contractor and
+     submitted in the e-measurement (e-mb) book portal. After validation by site engineer and
+     approval thereof the document flows to the project manager and thereafter to e-mb database.
+     The e-mb is synchronized with SAP and is enabled for automatic SES creation, payments and real
+     time dashboards and oversights.
+      Physical measurement books and drawings are discontinued and SOP in regard of e-mb is as
+      under:
+      a) All work measurements must be recorded exclusively in the Digital e-MB (https://e-
+         measurementbook.ongc.co.in/ )
+      b) Bills will be processed strictly based on e-MB entries. Bills will not be passed unless the
+         measurement data entry is made in the e-MB.
+      c) The system does not allow deletion of documents; however, an edit option will be available for
+         corrections or modifications.
+      d) Each e-MB entry will capture the SES number, and SES will capture the corresponding e- MB
+         number.
+      e) Site Engineers and Project Managers are required to review, verify, and approve records
+         digitally in e-MB.
+                                                    Page 13 of 15
+                                                                                            PART – II
+                                      Bid Package for
+                     Bridge Refurbishment & Replacement Project (BRRP)                         SCC
+
+
+
+13.0 Liquidated Damages:
+     Time is the essence of the contract. If the Contractor fails to complete the entire specified Work
+     by the scheduled completion Date as brought out as 6.3.1.1, Company may without prejudice to
+     any other right or remedy available to it as under the Contract or Law:
+
+     i) Recover from the Contractor as ascertained and agreed liquidated damages and not by way of
+     penalty, as under:
+     a)   In case of delay in Overall Completion of the project, certain percentage of the Contract price
+          with progressive escalation of percentage as per the table given below, for each week delay
+          occurred or part thereof beyond the scheduled Overall completion date, subject to a
+          maximum of 10% of the total Contract price of the works, even though Company may accept
+          delay in completion of work after expiry of the scheduled completion date.
+     If before completion of the contract, any part has been ready for use and taken over by the
+     Company pursuant to Clause 5.10, the liquidated and ascertained damages shall for any period
+     thereafter shall be certain percentage of Contract price per week or part thereof for delayed part
+     of the works with progressive escalation of percentage as per the table given below subject to a
+     maximum LD of 10% (ten percent) of the Contract price of the delayed portion of works.
+     Table: Progressive escalation of percentage of LD
+               Sr. No.          Project Delay          LD per Week of the
+                          Time Slabs                   contract price of relevant
+                                                       works
+                   a       0 to ≤ 10 weeks             0.1%
+                   b      Above 10 to ≤20 weeks        0.2 %
+                   c      Above 20 to ≤ 30 weeks       0.3 %
+                   d      Above 30 weeks               0.4 %
+
+     However, for offshore construction projects, rate of LD applicable for monsoon period (from 16th
+     May to 15th October, both days inclusive) shall be 50% (fifty percent) of applicable LD percentage
+     of the corresponding slab per week, for each week of delay occurred or part thereof.
+
+     The amount towards Liquidated Damages shall become leviable from the original overall
+     completion date for the project, as per contract or from expiry of the extension, if any, given by
+     Company without levy of LD. Applicable LD amount shall be recovered as under:
+      •      If LD commences when financial progress is less than 80% – progressively from balance
+             due payment on pro rata basis,
+                                                  Or
+      •      If LD commences when financial progress is more than 80% – to be recovered fully as and
+             when LD is applicable.
+     Note:
+      •      Notwithstanding the foregoing, the Maximum Liquidated Damages for (i) a) shall not
+             exceed 10% (ten percent) of the contract price of the works, excluding duties and taxes.
+      •      For the purpose of calculation of LD, contract price of respective items shall be calculated
+             based on weight factors given in Appendix A-3.
+      •      Common items not directly identifiable to the above shall be allocated on prorate basis.
+                                                   AND/OR
+
+                                                Page 14 of 15
+                                                                                             PART – II
+                                       Bid Package for
+                      Bridge Refurbishment & Replacement Project (BRRP)                         SCC
+
+
+
+       ii) Terminate the Contract or a portion or part of the Work thereof. Company shall give 14 days’
+       notice to the contractor of its intention to terminate the Contract and shall so terminate the
+       contract unless during the 14 days’ notice period, the Contractor initiates remedial action
+       acceptable to Company.
+
+       In case the Contractor is unable to complete the work by the schedule completion date, it may
+       request Company before expiry of the scheduled completion date, to allow further time for
+       performance of the contract indicating its willingness to pay the LD amount as agreed at (i) above.
+       Company may at its discretion allow further time as requested by the Contractor with or without
+       levy of LD.
+
+       The parties agree that the amount of LD provided herein is a genuine pre-estimate of the
+       loss/damage which will be suffered on account of delay on the part of the Contractor and the said
+       amount shall be payable on demand without there being any proof of the actual loss or damage
+       caused by such delay / breach.
+
+14.0 DISPOSAL OF OLD AND UNUSABLE SCRAP MATERIAL
+14.1   Contractor shall dismantle the old unserviceable scrap materials (as per Project Scope of Work) in
+       a planned manner so that the work progress on platform is not affected Contractor to comply with
+       relevant rules, regulations and HSE requirements.
+
+14.2   Dismantling of structural scrap items including damaged and corroded structural items needing
+       repair & replacements as per the detailed platform wise scope of work (clause. 5.0, 6.0).
+       Contractor’s scope with respect to scrap material is demolition / removal, safe handling, loading on
+       cargo barges / supply vessels, sea fastening, transportation from offshore sites to Nhava/ Pipavav
+       yard and handing over to ONGC at Nhava/ Pipavav yard. Providing of cargo barges / supply boats
+       is within the Contractor’s scope of work. All marine spread for dismantling/ transportation of
+       material shall be in EPC Contractor scope. All taxes and duties w.r.t. above scrap material while
+       taking away to scrap shall be borne by the EPC Contractor.
+
+
+
+
+                                                  Page 15 of 15
+

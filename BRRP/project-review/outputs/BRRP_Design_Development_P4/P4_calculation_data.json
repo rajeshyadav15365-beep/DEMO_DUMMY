@@ -1,0 +1,521 @@
+{
+  "bridges": [
+    {
+      "code": "101",
+      "name": "ICW-ICG LD",
+      "L": 56,
+      "gap": 54.5,
+      "b": 1.2,
+      "left": "ICW",
+      "right": "ICG",
+      "report": "BPR-0004 Rev0",
+      "pages": "133-135;152-153",
+      "dv": 105,
+      "dh": 87,
+      "uc": 0.557,
+      "juc": 0.509,
+      "dl": 85,
+      "LL": 156.25,
+      "outLL": 144.69,
+      "dead": 418.03,
+      "ng": 155.75,
+      "cable": 0.75,
+      "mon": 0,
+      "pipe": 0,
+      "source": "ICW grid4 northside / ICG grid3 southside",
+      "q": 2.4525,
+      "qlocal": 4.905,
+      "live_rect": 164.808,
+      "live_per_m": 2.943,
+      "vlimit": 140.0,
+      "hlimit": 112.0,
+      "thermal_per_C": 0.672,
+      "vutil": 0.75,
+      "hutil": 0.7767857142857143
+    },
+    {
+      "code": "102",
+      "name": "ICP-ICG LD",
+      "L": 84,
+      "gap": 80.5,
+      "b": 1.2,
+      "left": "ICP",
+      "right": "ICG",
+      "report": "BPR-0003 Rev0",
+      "pages": "196-199;207-209",
+      "dv": 177,
+      "dh": 123,
+      "uc": 0.61,
+      "juc": 0.625,
+      "dl": 143,
+      "LL": 288,
+      "outLL": 288,
+      "dead": 966.64,
+      "ng": 156.73,
+      "cable": 0.882,
+      "mon": 0,
+      "pipe": 0,
+      "source": "ICP grid3 northside / ICG scramble-net area",
+      "q": 2.4525,
+      "qlocal": 4.905,
+      "live_rect": 247.212,
+      "live_per_m": 2.943,
+      "vlimit": 210.0,
+      "hlimit": 168.0,
+      "thermal_per_C": 1.008,
+      "vutil": 0.8428571428571429,
+      "hutil": 0.7321428571428571
+    },
+    {
+      "code": "103",
+      "name": "BHS-SLQ LD",
+      "L": 42,
+      "gap": 40,
+      "b": 2.324,
+      "left": "BHS",
+      "right": "SLQ",
+      "report": "BPR-0005 RevA",
+      "pages": "97-100;122-123",
+      "dv": 32,
+      "dh": 76,
+      "uc": 0.916,
+      "juc": 0.859,
+      "dl": 32,
+      "LL": 268.42,
+      "outLL": 268.42,
+      "dead": 789.79,
+      "ng": 266.47,
+      "cable": 77.66,
+      "mon": 20,
+      "pipe": 1440,
+      "source": "BHS nearA1 southside / SLQ nearB2 southside",
+      "q": 2.4525,
+      "qlocal": 4.905,
+      "live_rect": 239.38361999999998,
+      "live_per_m": 5.699610000000001,
+      "vlimit": 105.0,
+      "hlimit": 84.0,
+      "thermal_per_C": 0.504,
+      "vutil": 0.3047619047619048,
+      "hutil": 0.9047619047619048
+    }
+  ],
+  "sections": [
+    [
+      406,
+      15.9,
+      374.2,
+      19486.011177229528,
+      371283582.78428257,
+      1828983.1664250372,
+      138.03569284790072,
+      152.96518774125178,
+      4,
+      "Source ICP VIV table only; member mapping, resistance and selection NOT established"
+    ],
+    [
+      406,
+      12.7,
+      380.6,
+      15691.972561342182,
+      303730250.9735816,
+      1496208.1328747862,
+      139.1250247079942,
+      123.18198460653612,
+      4,
+      "Source ICP VIV table only; member mapping, resistance and selection NOT established"
+    ],
+    [
+      168,
+      9.5,
+      149.0,
+      4730.4531381428305,
+      14908318.718178267,
+      177479.98474021745,
+      56.13877893221405,
+      37.13405713442122,
+      4.98,
+      "Source ICP VIV table only; member mapping, resistance and selection NOT established"
+    ],
+    [
+      114,
+      7.9,
+      98.2,
+      2633.2515463124287,
+      3725925.8585836366,
+      65367.120326028715,
+      37.61585437019874,
+      20.671024638552563,
+      4.71,
+      "Source ICP VIV table only; member mapping, resistance and selection NOT established"
+    ]
+  ],
+  "wraps": [
+    [
+      "ICG",
+      660,
+      12.7,
+      15,
+      10,
+      2104.8670779051613,
+      0.3157300616857742,
+      2478.4809842333275,
+      2.4784809842333275,
+      "Ideal external full annulus only; four-quarter cuts, fit-up, corrosion, welds, end details, tolerances and wastage excluded. Not a purchase quantity."
+    ],
+    [
+      "ICP",
+      762,
+      16,
+      13.5,
+      12,
+      2431.5927138785,
+      0.39391801964831696,
+      3092.2564542392884,
+      3.0922564542392883,
+      "Ideal external full annulus only; four-quarter cuts, fit-up, corrosion, welds, end details, tolerances and wastage excluded. Not a purchase quantity."
+    ],
+    [
+      "BHS",
+      457,
+      12.7,
+      3,
+      10,
+      1467.1237692264333,
+      0.044013713076793005,
+      345.5076476528251,
+      0.3455076476528251,
+      "Ideal external full annulus only; four-quarter cuts, fit-up, corrosion, welds, end details, tolerances and wastage excluded. Not a purchase quantity."
+    ]
+  ],
+  "criteria": [
+    [
+      "Design life",
+      25,
+      "years",
+      "BRRP PartII p119",
+      "CONFIRMED"
+    ],
+    [
+      "Elastic modulus E",
+      210000,
+      "MPa",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Shear modulus G",
+      80770,
+      "MPa",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Poisson ratio",
+      0.3,
+      "ratio",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Steel density",
+      7850,
+      "kg/m3",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Gravity",
+      9.81,
+      "m/s2",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Thermal expansion",
+      1.2e-05,
+      "per C",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Global walkway loading",
+      250,
+      "kg/m2",
+      "Bridge clause p42; Annexure4",
+      "CONFIRMED"
+    ],
+    [
+      "Local grating loading",
+      500,
+      "kg/m2",
+      "Annexure4 p70",
+      "CONFIRMED"
+    ],
+    [
+      "Minimum clear walkway",
+      1.2,
+      "m",
+      "Bridge clause p43",
+      "CONFIRMED"
+    ],
+    [
+      "Bridge vertical limit",
+      "L/400",
+      "mm consistent with L",
+      "p43;Annexure12 pp85-86",
+      "CONFIRMED"
+    ],
+    [
+      "Bridge lateral wind limit",
+      "L/500",
+      "mm consistent with L",
+      "Annexure12 p86",
+      "CONFIRMED"
+    ],
+    [
+      "Differential translation multiplier",
+      1.5,
+      "ratio",
+      "Bridge clause p43",
+      "CONFIRMED; input movements pending"
+    ],
+    [
+      "Hinged axial thrust multiplier",
+      1.5,
+      "ratio",
+      "Bridge clause p43",
+      "CONFIRMED; thrust envelope pending"
+    ],
+    [
+      "Future piping operating-load allowance",
+      20,
+      "percent",
+      "Bridge clause p42",
+      "CONFIRMED; included/excluded basis to reconcile"
+    ],
+    [
+      "Camber",
+      "Compensate dead-load deflection",
+      "profile",
+      "Bridge clause p43",
+      "RULE CONFIRMED; magnitude/profile pending"
+    ],
+    [
+      "Wind gust for56m/84m",
+      15,
+      "seconds",
+      "Annexure5 p73",
+      "CONFIRMED"
+    ],
+    [
+      "Wind gust for42m",
+      3,
+      "seconds",
+      "Annexure5 p73",
+      "CONFIRMED"
+    ],
+    [
+      "Environment",
+      "MH North and South",
+      "field",
+      "PartII p119;Annexure13A",
+      "CONFIRMED; height adjustment/calculation pending"
+    ],
+    [
+      "Material procurement",
+      "Spec6001F Rev14",
+      "requirements",
+      "Specification Combined pp169-243",
+      "Grade/toughness selection pending"
+    ],
+    [
+      "Welding/NDT",
+      "FS2009F Rev8",
+      "requirements",
+      "Specification Combined pp3-38",
+      "Apply by joint and inspection plan"
+    ],
+    [
+      "Coating",
+      "FS2005 Rev9",
+      "requirements",
+      "Specification Combined pp91-168",
+      "Exposure-specific system selection pending"
+    ],
+    [
+      "Roof",
+      "Process-platform connecting bridges; slope minimum1:50",
+      "applicability",
+      "Bridge clause p43",
+      "Confirm bridge-specific implementation"
+    ],
+    [
+      "Location tolerance",
+      "+1.0m as written in source",
+      "requirement",
+      "Bridge clause p43",
+      "Clarify interpretation for existing supports; NOT bearing travel"
+    ]
+  ],
+  "loadcases": [
+    [
+      "LC01",
+      "In-place extreme",
+      "Bridge dead + services dead + piping operating contents + extreme wind + friction",
+      "Include applicable allowances; verify source load map"
+    ],
+    [
+      "LC02",
+      "In-place operating",
+      "Bridge dead + services dead + piping contents + walkway LL + monorail LL + operating wind + friction",
+      "Assess both wind signs/directions and service configurations"
+    ],
+    [
+      "LC03",
+      "Dead / dry reference",
+      "Bridge dead + piping/cable/tray dead",
+      "Camber and construction-setting reference must be defined"
+    ],
+    [
+      "LC04",
+      "Hydrotest",
+      "Bridge dead + services dead + one large pipe hydrotest at a time",
+      "Check actual line/test sequence; not all lines assumed simultaneous"
+    ],
+    [
+      "LC05",
+      "Movement / supports",
+      "Relative platform translations and compatible rotations",
+      "150% specified translation;150% expected hinged axial thrust; no double counting"
+    ],
+    [
+      "LC06",
+      "VIV / fatigue",
+      "Wind-induced vibration of truss members",
+      "Displacement and fatigue damage; in-service and applicable transport states"
+    ],
+    [
+      "LC07",
+      "Fabrication / weighing",
+      "Actual support points and construction loads",
+      "Check changed support configurations and local effects"
+    ],
+    [
+      "LC08",
+      "Loadout",
+      "Actual loadout support positions / loss of support / yard bearing",
+      "Procedure-specific; applicable three-point cases"
+    ],
+    [
+      "LC09",
+      "Transport",
+      "Actual barge/vessel motions, cargo mass/COG and restraints",
+      "Criteria preliminary motions are screening basis; final route/spread analysis required"
+    ],
+    [
+      "LC10",
+      "Lifting / landing",
+      "Rigging geometry, skew distribution, weight/COG and dynamics",
+      "Operation-specific 3D model; no approved lift points defined"
+    ],
+    [
+      "LC11",
+      "Local grating / fittings",
+      "Local element loading and appropriate concentrated loads",
+      "500kg/m2 grating local check distinct from250kg/m2 global walkway"
+    ],
+    [
+      "LC12",
+      "Landings / jackets",
+      "Concurrent signed bridge reactions plus existing platform loads",
+      "Incorporate addendum strengthening and actual condition"
+    ]
+  ],
+  "queries": [
+    [
+      "Q01",
+      "Final bearing centres, levels, skew and condition",
+      "OPEN",
+      "Survey-dependent geometry; model length is not shop length"
+    ],
+    [
+      "Q02",
+      "Native analysis connectivity/member groups/load map",
+      "OPEN",
+      "No independently reproduced FE model in this package"
+    ],
+    [
+      "Q03",
+      "Actual live-load areas and report/model differences",
+      "OPEN",
+      "Rectangle screens do not replace documented load generation"
+    ],
+    [
+      "Q04",
+      "Camber instruction in reports versus criteria rule",
+      "PARTLY RESOLVED",
+      "Dead-load compensation governs; profile and construction datum still required"
+    ],
+    [
+      "Q05",
+      "BHS SLQ support wording",
+      "OPEN",
+      "Report and methodology support fixed intent; SOW conflicting wording needs formal resolution"
+    ],
+    [
+      "Q06",
+      "Wind duration difference",
+      "EXPLAINED",
+      "15sec for>50m;3sec for<50m; height/speed derivation pending"
+    ],
+    [
+      "Q07",
+      "Source member schedule / code editions / effective lengths",
+      "OPEN",
+      "VIV list is not a full member schedule"
+    ],
+    [
+      "Q08",
+      "Signed concurrent support reactions / existing capacity",
+      "OPEN",
+      "Summary values cannot be assembled into a fictitious concurrent case"
+    ],
+    [
+      "Q09",
+      "Missing101/102 main GA and0005;103series drawings",
+      "OPEN",
+      "Existing drawings and source studies used; gaps remain recorded"
+    ],
+    [
+      "Q10",
+      "Material grade, toughness and corrosion application",
+      "OPEN",
+      "50ksi yield in study does not establish full material procurement specification"
+    ],
+    [
+      "Q11",
+      "BHS piping20%future allowance",
+      "OPEN",
+      "Confirm whether source1440kN already contains it; avoid duplication"
+    ],
+    [
+      "Q12",
+      "Weights and lift modules",
+      "OPEN",
+      "Tender MT values are not verified lifted masses"
+    ],
+    [
+      "Q13",
+      "MTO1MT difference",
+      "OPEN",
+      "Existing landing strengthening rows216vs217MT summary"
+    ],
+    [
+      "Q14",
+      "Other-project documents",
+      "CONTROLLED",
+      "BRRP PartII adopted; S&SRP/WSSRP-2 project-specific scope excluded unless directed"
+    ]
+  ]
+}

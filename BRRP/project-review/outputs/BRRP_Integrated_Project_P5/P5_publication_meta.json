@@ -1,0 +1,602 @@
+{
+  "coverage": [
+    [
+      "Scopeofwork",
+      "Tenbridges;100workpackages",
+      "Preparedforreview",
+      "Quantities/interfacesmustbefrozen"
+    ],
+    [
+      "Designbasis",
+      "24criteriarecordsplus14sourcerecords",
+      "Consolidatedfromuploads",
+      "Resolveapplication/conflicts"
+    ],
+    [
+      "Structuraldesign",
+      "P4source-basedreviewandcalculations",
+      "PARTIAL / DEVELOPMENT",
+      "Independentglobal/member/joint/fatiguemodelnotcompleted"
+    ],
+    [
+      "Detailedengineering",
+      "101document/drawingdeliverableregister;P4developmentdrawings",
+      "PARTIAL / DEVELOPMENT",
+      "Finaldimensions,sections,connections,bearings/temporaryworksremainopen"
+    ],
+    [
+      "AFCdrawings",
+      "AFCreadiness/reviewregisterandcontrolprocedure",
+      "NOT AFC",
+      "Noapproval/signatureinvented"
+    ],
+    [
+      "MTO",
+      "Tenbridgequantityregisterplusdiscrepancies",
+      "Tenderquantitybasis",
+      "NotfinalpurchasingMTO"
+    ],
+    [
+      "Procurement",
+      "25packagesandreleaseworkflow",
+      "Planned;noenquiry/orderissued",
+      "Quotes/leadtime/vendorapproval/fundingrequired"
+    ],
+    [
+      "Fabrication",
+      "Workpacks,sequence,QA/ITPrequirements",
+      "Planned;notperformed",
+      "Releaseddrawings/materials/yardresourcesrequired"
+    ],
+    [
+      "Installation",
+      "Bridge-specificsequencesandmarinegates",
+      "Planned;notperformed",
+      "Operation-specificengineering/permitsrequired"
+    ],
+    [
+      "Executionmethodology",
+      "SourceRevCconvertedintomanagement/workpackprocedures",
+      "Forreview;notanapprovedoperationmethod",
+      "Temporaryworks/lifting/transportcalculationsrequired"
+    ],
+    [
+      "Commissioning",
+      "Tenreadiness/test/acceptancecategories",
+      "Planned;notperformed",
+      "Approveddiscipline-specificprocedures/testvaluesrequired"
+    ],
+    [
+      "Scheduling",
+      "205activityrecoverycaseand207activitytwo-crewcase",
+      "Computedscenarios",
+      "Duration/resource/NOAassumptionsunverified"
+    ],
+    [
+      "Criticalpath",
+      "Forward/backwardpass;53zero-floatnonzerotasks",
+      "Computedagainstinternalfinish",
+      "Notafinalapprovedresource-levelledP6baseline"
+    ],
+    [
+      "Overallprojectschedule",
+      "1Nov2026scenario;15Jun2027handovermilestone",
+      "Conditionaltarget",
+      "ActualNOAandseasonalmarginrequirevalidation"
+    ],
+    [
+      "Costandcash",
+      "16unpricedcategoriesandbillingcontrols",
+      "Inputstructureprepared",
+      "Noapprovedbudget/margin/fundingforecast"
+    ],
+    [
+      "Handoverandwarranty",
+      "Dossier/punch/acceptance/warrantyworkflow",
+      "Planned",
+      "Actualacceptanceandguaranteereleasespending"
+    ]
+  ],
+  "notes": [
+    [
+      "Status",
+      "P5 integrated preliminary project-management and engineering-development package; construction release deferred by user."
+    ],
+    [
+      "Scope",
+      "All10bridges; execution/procurement/fabrication/commissioning are planned activities, not completed field work."
+    ],
+    [
+      "Commencement",
+      "1Nov2026 is an unconfirmed scenario. Rebase full calendars after actualNOA; do not merely shiftdates acrossmonsoon."
+    ],
+    [
+      "Contract",
+      "ReviewedGCC/SCC12months fromNOA. Conservative lastworkday31Oct2027 in this scenario; confirm convention and extensions."
+    ],
+    [
+      "Duration",
+      "Elapsedcalendardays; seven-dayonshoreplanning. All durations are illustrative allocations within prior scenario, not measuredproductivity/vendorcommitments."
+    ],
+    [
+      "Offshorecalendar",
+      "No productive offshore work16May-15Oct inclusive. Each split activity fits wholly in an open season; safe stoppoints/renewedpermits require engineering."
+    ],
+    [
+      "Relationship",
+      "FSzero-lag; duration d occupies [ES,ES+d); milestone marks boundary. Lastworkingdate is EFminus1, while milestone date is EF."
+    ],
+    [
+      "Resources",
+      "2fabricationlines+1strengtheningcell;3strengtheningcrews plus installation/supportresources;1heavy-liftspread;1cargospread. Namedexclusivewindows checked; NOT full labour/POB/coating/QAlevelling."
+    ],
+    [
+      "F041",
+      "Firstkitrelease milestone at20days within one35-day strengtheningproductionstream; not duplicateproduction."
+    ],
+    [
+      "Weatherreserve",
+      "10days modeled as a seasonalcapacityhold after plannedoffshorecompletion, then3demobdays. This is a conservative allowance, not validatedmetoceanworkability."
+    ],
+    [
+      "CPM",
+      "Calendar-aware forward/backwardpass. Float is elapsedcalendar difference between latest and earlieststart, not an availableworkdaycount. Critical means zerofloat to internalearliestfinish; tied paths may exist."
+    ],
+    [
+      "Contractfloat",
+      "Separate backwardpass to unextendeddeadline. Completionmilestone float is NOT offshore float; seasonbarrier can leave only a fewdays of offshore margin."
+    ],
+    [
+      "Comparator",
+      "Twostrengtheningcrews withNQaftercrewApackages; explicit7daysecondseasonremob; safesuspension,capacity,costandweather are assumptions."
+    ],
+    [
+      "Scenario sensitivity",
+      "Extra days on P010.02 test calendar thresholds; not a probabilistic prediction. Noautomaticcontractualextension assumed."
+    ],
+    [
+      "Quantities",
+      "Row sums and printed totals both preserved. Steel1141vs1142MT;handrail1166vs1168m;grating718vs719m2."
+    ],
+    [
+      "Design",
+      "P4 arithmetic/source-baseddrawings included; new global3D, member/connection/bearing/fatigue/lifting designs remainopen."
+    ],
+    [
+      "AFC",
+      "FOR REVIEW / AFC PREPARATION only. No document is labelled actuallyapprovedforconstruction without evidence."
+    ],
+    [
+      "Actualprogress",
+      "No assumedpercentcomplete or procurement/fieldcompletion is credited."
+    ],
+    [
+      "Otherprojectdocuments",
+      "S&SRP/WSSRP-2 project-specificclauses not automaticallyadopted; BRRPPartII controlsapplicability."
+    ],
+    [
+      "Shivanshassets",
+      "Website/fleetcapabilities not independentlyverified; candidateassets are not projectcommitments."
+    ]
+  ],
+  "phase_gantt": [
+    [
+      "G010",
+      0,
+      7,
+      true,
+      "COMMON"
+    ],
+    [
+      "E010",
+      7,
+      21,
+      false,
+      "COMMON"
+    ],
+    [
+      "G020",
+      7,
+      21,
+      false,
+      "COMMON"
+    ],
+    [
+      "MR10",
+      7,
+      42,
+      false,
+      "COMMON"
+    ],
+    [
+      "S010",
+      7,
+      14,
+      true,
+      "COMMON"
+    ],
+    [
+      "S020",
+      14,
+      28,
+      true,
+      "ALL"
+    ],
+    [
+      "E020",
+      28,
+      38,
+      true,
+      "ALL"
+    ],
+    [
+      "E030",
+      28,
+      53,
+      false,
+      "REPLACEMENTS"
+    ],
+    [
+      "E040",
+      28,
+      53,
+      false,
+      "REFURBISHMENTS"
+    ],
+    [
+      "E050",
+      28,
+      63,
+      false,
+      "BHS-SLQ"
+    ],
+    [
+      "MR20",
+      53,
+      88,
+      false,
+      "REPLACEMENTS"
+    ],
+    [
+      "P010",
+      38,
+      63,
+      true,
+      "ALL"
+    ],
+    [
+      "F010",
+      63,
+      98,
+      false,
+      "ICW-ICG LD"
+    ],
+    [
+      "F020",
+      63,
+      118,
+      true,
+      "BHS-SLQ"
+    ],
+    [
+      "F030",
+      98,
+      138,
+      false,
+      "ICG-ICP LD"
+    ],
+    [
+      "F040",
+      63,
+      98,
+      false,
+      "ALL STRENGTHENING"
+    ],
+    [
+      "L010",
+      98,
+      103,
+      false,
+      "ICW-ICG LD"
+    ],
+    [
+      "L020",
+      118,
+      123,
+      true,
+      "BHS-SLQ"
+    ],
+    [
+      "L030",
+      138,
+      143,
+      false,
+      "ICG-ICP LD"
+    ],
+    [
+      "O010",
+      83,
+      93,
+      false,
+      "ALL"
+    ],
+    [
+      "H010",
+      93,
+      100,
+      false,
+      "COMMON"
+    ],
+    [
+      "J010",
+      93,
+      105,
+      false,
+      "ICG / BHS"
+    ],
+    [
+      "I010",
+      105,
+      121,
+      false,
+      "ICW-ICG LD"
+    ],
+    [
+      "I020",
+      123,
+      143,
+      true,
+      "BHS-SLQ"
+    ],
+    [
+      "D020",
+      143,
+      150,
+      true,
+      "BHS-SLQ"
+    ],
+    [
+      "J020",
+      93,
+      103,
+      false,
+      "ICP"
+    ],
+    [
+      "I030",
+      150,
+      168,
+      true,
+      "ICG-ICP LD"
+    ],
+    [
+      "RA01",
+      105,
+      121,
+      false,
+      "ICW-ICG UD"
+    ],
+    [
+      "RA02",
+      121,
+      143,
+      false,
+      "ICG-ICP UD"
+    ],
+    [
+      "RA03",
+      143,
+      161,
+      false,
+      "SLQ-WIS"
+    ],
+    [
+      "RA04",
+      98,
+      116,
+      false,
+      "NQO-NQD"
+    ],
+    [
+      "RB01",
+      103,
+      115,
+      false,
+      "WIN-NC"
+    ],
+    [
+      "RB02",
+      115,
+      131,
+      false,
+      "SCA-SC1"
+    ],
+    [
+      "RB03",
+      131,
+      155,
+      false,
+      "SCA-SCF"
+    ],
+    [
+      "D030",
+      168,
+      175,
+      true,
+      "OTHER BRIDGES"
+    ],
+    [
+      "O090",
+      175,
+      182,
+      true,
+      "ALL"
+    ],
+    [
+      "C010",
+      182,
+      212,
+      true,
+      "ALL"
+    ],
+    [
+      "W010",
+      182,
+      192,
+      false,
+      "ALL"
+    ],
+    [
+      "O100",
+      192,
+      195,
+      false,
+      "ALL"
+    ],
+    [
+      "C020",
+      212,
+      226,
+      true,
+      "ALL"
+    ]
+  ],
+  "mto_reconciliation": [
+    [
+      "NewbridgeMT",
+      367,
+      367,
+      0,
+      "ARITHMETICMATCH"
+    ],
+    [
+      "ExistingbridgestrengthMT",
+      361,
+      361,
+      0,
+      "ARITHMETICMATCH"
+    ],
+    [
+      "Newlanding/deckMT",
+      197,
+      197,
+      0,
+      "ARITHMETICMATCH"
+    ],
+    [
+      "ExistinglandingstrengthMT",
+      216,
+      217,
+      1,
+      "RECONCILE"
+    ],
+    [
+      "DemolitionMT",
+      357,
+      357,
+      0,
+      "ARITHMETICMATCH"
+    ],
+    [
+      "Handrailm",
+      1166,
+      1168,
+      2,
+      "RECONCILE"
+    ],
+    [
+      "Gratingm2",
+      718,
+      719,
+      1,
+      "RECONCILE"
+    ],
+    [
+      "GIsheetingm2",
+      1274,
+      1274,
+      0,
+      "ARITHMETICMATCH"
+    ],
+    [
+      "StructuraltotalMT",
+      1141,
+      1142,
+      1,
+      "RECONCILE"
+    ]
+  ],
+  "workbook_sheets": [
+    "READ ME",
+    "Coverage and Status",
+    "Source Register",
+    "Design Basis",
+    "Bridge MTO",
+    "MTO Reconciliation",
+    "Work Packages",
+    "AFC Review Register",
+    "Procurement",
+    "Detailed Schedule",
+    "Two Crew Scenario",
+    "Critical Activities",
+    "Driving Chain",
+    "Milestones",
+    "Delay Sensitivity",
+    "Quality ITP Basis",
+    "Commissioning",
+    "Release Gates",
+    "Risks and Actions",
+    "Cost Input Register",
+    "Overall Weekly Gantt"
+  ],
+  "actions": [
+    [
+      "1",
+      "ConfirmNOAandcontractualcalendar",
+      "Contracts",
+      "Beforebaseline"
+    ],
+    [
+      "2",
+      "Resolve1MTsteel,2mhandrail,1m2gratingdifferences",
+      "Engineering/QS",
+      "Beforematerialrelease"
+    ],
+    [
+      "3",
+      "Obtain/modelcompletegeometry,sections,loadsandreactions",
+      "Engineering",
+      "Beforefinaldesign"
+    ],
+    [
+      "4",
+      "Completecheckedconnections/bearings/platformandtemporaryworks",
+      "TechnicalAuthority",
+      "Beforeapplicabledrawingrelease"
+    ],
+    [
+      "5",
+      "Confirmyards,thirdcrew,QA/coatingandPOBcapacity",
+      "ProjectDirector",
+      "Beforecommitment"
+    ],
+    [
+      "6",
+      "Confirmactualvendorleadtimeandmarinewindows",
+      "Procurement/Marine",
+      "Beforebaseline"
+    ],
+    [
+      "7",
+      "Increaseverifiedseasonalmargin; reviewweatherhold/demobassumptions",
+      "Planning/Marine",
+      "Beforebaselineapproval"
+    ],
+    [
+      "8",
+      "Pricecost/cash/charterstandbyandsecondseasonexposure",
+      "Finance/Commercial",
+      "Beforefinancialsanction"
+    ]
+  ]
+}

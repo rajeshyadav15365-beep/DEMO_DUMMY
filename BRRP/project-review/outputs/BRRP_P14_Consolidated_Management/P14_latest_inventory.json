@@ -1,0 +1,785 @@
+[
+  {
+    "id": "file_00000000bfd482108b196f4d64e973d1",
+    "path": "/workspace/attachments/71d9446a-9284-4152-923c-f5c85a23c0f1/Addendum.pdf",
+    "size_bytes": 185402,
+    "name": "Addendum.pdf",
+    "sha256": "1742ad4dd672858b1ee148ba6e82b5d4594b3205a8db344d7631408e582a26fb",
+    "prior": [
+      "/workspace/attachments/17bb3d58-7383-4f3e-86a1-e5c430109953/Addendum.pdf",
+      "/workspace/attachments/eb44c8a7-5676-45e3-bc9e-fc39a3e26870/Addendum (1).pdf",
+      "/workspace/attachments/95eab3c8-2f08-42a4-b589-2c1daa0e45ee/Addendum (1).pdf",
+      "/workspace/attachments/1c91f166-6daf-4e67-aea3-f602a563e080/Addendum.pdf",
+      "/workspace/attachments/87c0d9a5-ac4e-4ffe-9629-67d936bccc9b/Addendum (1).pdf"
+    ],
+    "duplicate": null,
+    "pages": 7
+  },
+  {
+    "id": "file_00000000f1cc81f49d8c702a82bb65aa",
+    "path": "/workspace/attachments/62e4fd39-6c8f-4f77-88c2-7fbc71905567/Addendum (1).pdf",
+    "size_bytes": 185402,
+    "name": "Addendum (1).pdf",
+    "sha256": "1742ad4dd672858b1ee148ba6e82b5d4594b3205a8db344d7631408e582a26fb",
+    "prior": [
+      "/workspace/attachments/17bb3d58-7383-4f3e-86a1-e5c430109953/Addendum.pdf",
+      "/workspace/attachments/eb44c8a7-5676-45e3-bc9e-fc39a3e26870/Addendum (1).pdf",
+      "/workspace/attachments/95eab3c8-2f08-42a4-b589-2c1daa0e45ee/Addendum (1).pdf",
+      "/workspace/attachments/1c91f166-6daf-4e67-aea3-f602a563e080/Addendum.pdf",
+      "/workspace/attachments/87c0d9a5-ac4e-4ffe-9629-67d936bccc9b/Addendum (1).pdf"
+    ],
+    "duplicate": "Addendum.pdf"
+  },
+  {
+    "id": "file_00000000655481f49237a3caa2b81315",
+    "path": "/workspace/attachments/652f34f3-904c-4733-84f5-3badb6e94c6e/Addendum_Structure_SOW.pdf",
+    "size_bytes": 397216,
+    "name": "Addendum_Structure_SOW.pdf",
+    "sha256": "9720ca8546c67ef9cc4f44a8b4fb480de23da3eed38a6ca5dae2879de8c1485a",
+    "prior": [
+      "/workspace/attachments/948c1467-1c24-4185-ac24-603686fac075/Addendum_Structure_SOW.pdf",
+      "/workspace/attachments/78831a37-6a77-419e-9b93-ec5f8e15eb39/Addendum_Structure_SOW.pdf",
+      "/workspace/attachments/094ef66f-da08-4961-ba7e-a8e940407e64/Addendum_Structure_SOW.pdf",
+      "/workspace/attachments/40653511-3e98-417e-85cf-253f536126b6/Addendum_Structure_SOW.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_0000000093cc81f498e86ae4b0234a76",
+    "path": "/workspace/attachments/b9a9de3b-b77d-49f1-8ff1-a0c7d55ca00b/AddendumtoA3.pdf",
+    "size_bytes": 108580,
+    "name": "AddendumtoA3.pdf",
+    "sha256": "191ca9ccafb391c57652a1e4b5831484c2a53765cf6d813b8bdc87dc1de3ce07",
+    "prior": [
+      "/workspace/attachments/4826e669-27ad-43c5-a94c-f88a23521eb7/AddendumtoA3.pdf",
+      "/workspace/attachments/31035f99-cea8-4b80-95e6-2cd29f467360/AddendumtoA3.pdf"
+    ],
+    "duplicate": null,
+    "pages": 2
+  },
+  {
+    "id": "file_00000000b3008243972e3d7980c75854",
+    "path": "/workspace/attachments/67595e2c-856c-401e-833f-825f1401ae1e/Appendix A-9.pdf",
+    "size_bytes": 1606648,
+    "name": "Appendix A-9.pdf",
+    "sha256": "fea757b0e53dd170dbe9c645a10ddfe62eec08e2cfe6f151bbd0adf0bd4ed5e4",
+    "prior": [
+      "/workspace/attachments/8bbe7050-d33c-4c08-89ee-1b59204076ff/Appendix A-9.pdf",
+      "/workspace/attachments/0e651c5f-117a-4108-bf5a-f8c7734d9720/Appendix A-9.pdf"
+    ],
+    "duplicate": null,
+    "pages": 7
+  },
+  {
+    "id": "file_00000000eee481f4a4e6c6c7433604a9",
+    "path": "/workspace/attachments/2d2bfd9d-58b4-45b5-9b23-013e947fac6f/Appendix A-16 List of Agencies.pdf",
+    "size_bytes": 467272,
+    "name": "Appendix A-16 List of Agencies.pdf",
+    "sha256": "09a642f2eb6a23c02a735be3d51b57db316f4d5697aff8e1db8c1ee7bacaa50a",
+    "prior": [
+      "/workspace/attachments/9672565b-4503-4df1-90ab-cd41e6405e8d/Appendix A-16 List of Agencies.pdf",
+      "/workspace/attachments/8a6061ec-8f99-43dc-83d7-bc13c06ae66e/Appendix A-16 List of Agencies.pdf"
+    ],
+    "duplicate": null,
+    "pages": 10
+  },
+  {
+    "id": "file_00000000874081f49f8f208c40b40104",
+    "path": "/workspace/attachments/0cc90703-59ca-4d42-87f6-a21665d44d80/Appendix A-17.pdf",
+    "size_bytes": 126254,
+    "name": "Appendix A-17.pdf",
+    "sha256": "5d5cde215d0959b2e8126df4a2daf7edb4f91a7fc428146dda9d905c4aad6d6a",
+    "prior": [
+      "/workspace/attachments/f1d6eec0-cdd9-419b-a372-3cd72ea4c57e/Appendix A-17.pdf",
+      "/workspace/attachments/8b32ab84-d284-4775-8aad-495dc29e0d0a/Appendix A-17.pdf"
+    ],
+    "duplicate": null,
+    "pages": 3
+  },
+  {
+    "id": "file_0000000020fc81f49c18f645b8afce27",
+    "path": "/workspace/attachments/53ebe58d-28b5-4afe-a534-d4e5e90c0768/Appendix A-11 Offshore SVL Revision 12.1.pdf",
+    "size_bytes": 1340859,
+    "name": "Appendix A-11 Offshore SVL Revision 12.1.pdf",
+    "sha256": "86d3ab9001388087d63075d5cde421a51a6d1f4c5857fda8e18f7459637f5381",
+    "prior": [
+      "/workspace/attachments/50cc8fa5-b3e2-4ff2-a780-28eacce3d928/Appendix A-11 Offshore SVL Revision 12.1.pdf",
+      "/workspace/attachments/0deb3c65-1898-4705-8c98-8c36c5c40f70/Appendix A-11 Offshore SVL Revision 12.1.pdf"
+    ],
+    "duplicate": null,
+    "pages": 80
+  },
+  {
+    "id": "file_00000000f1f081f48bd2c4513afb8a89",
+    "path": "/workspace/attachments/0f6b6e5d-3512-48b3-b967-7e0b5e54488c/Appendix B-5.pdf",
+    "size_bytes": 240085,
+    "name": "Appendix B-5.pdf",
+    "sha256": "82222c4cdca2f142d619e139280c264c68085cca7444ad0f1152204a91f1bf3e",
+    "prior": [
+      "/workspace/attachments/06873690-72af-4687-a9a0-3762043deb7d/Appendix B-5.pdf",
+      "/workspace/attachments/916f21ad-c459-47c8-8868-3e78975c473e/Appendix B-5.pdf",
+      "/workspace/attachments/647cd2da-24fe-454a-8763-1ffb6428187e/Appendix B-5.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_00000000c1148210bc7a84e758fbcebe",
+    "path": "/workspace/attachments/4bee04c0-bc1c-43e2-9067-bf305f40553e/Appendix B-6.pdf",
+    "size_bytes": 181710,
+    "name": "Appendix B-6.pdf",
+    "sha256": "dd4ce8688af1b3976c4fc752c9a19e4e14d43984c0e25733d11c6703d9919858",
+    "prior": [
+      "/workspace/attachments/6d77ccb0-056d-4133-81a3-b18a0b12f2dc/Appendix B-6.pdf",
+      "/workspace/attachments/bca55dcd-b18e-471b-9279-825d78f7fe51/Appendix B-6.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_00000000806081f4a63d2ed0c007ba17",
+    "path": "/workspace/attachments/253ac71f-d176-432c-911f-60a8f984d59d/Appendix C-9.pdf",
+    "size_bytes": 668840,
+    "name": "Appendix C-9.pdf",
+    "sha256": "f20a85ca3a13c08e62bb18a41838d9e32910cd4f0d7c6b0ab0623df4ca9aeec5",
+    "prior": [
+      "/workspace/attachments/5e49cb26-313e-48e9-9660-187d29bee2c6/Appendix C-9.pdf",
+      "/workspace/attachments/3c8a90cc-9134-4f81-beaa-bc797f9f8c71/Appendix C-9.pdf"
+    ],
+    "duplicate": null,
+    "pages": 21
+  },
+  {
+    "id": "file_000000002fa481f49a4ee2e47c4e67a1",
+    "path": "/workspace/attachments/5e260e43-5134-4a2f-a8df-817300abf68d/Appendix C-8 DCI MCI.pdf",
+    "size_bytes": 1233765,
+    "name": "Appendix C-8 DCI MCI.pdf",
+    "sha256": "086b2f7837d09bc6320e2e0794f5b73fc7788b2cb9ecb5a08fa76836e2c97944",
+    "prior": [
+      "/workspace/attachments/b069fbb3-dee2-4129-bde7-83bcfafd779f/Appendix C-8 DCI MCI.pdf",
+      "/workspace/attachments/e57981f6-f4d1-4e45-a610-13896ccb632d/Appendix C-8 DCI MCI.pdf"
+    ],
+    "duplicate": null,
+    "pages": 67
+  },
+  {
+    "id": "file_00000000eeac81f4826aa4202e851238",
+    "path": "/workspace/attachments/0c0ae9b7-787b-400e-bb17-d6a1c1a58cb8/Appendix C-10.pdf",
+    "size_bytes": 1393791,
+    "name": "Appendix C-10.pdf",
+    "sha256": "8f0b1be35e96cc0e953e8614b751f08a987dca4a9060c54319b231f113d7d2d7",
+    "prior": [
+      "/workspace/attachments/72934c63-0615-4c73-b50f-f4d589cda8c1/Appendix C-10.pdf",
+      "/workspace/attachments/d9f51454-17f8-481e-8211-eb6719acb1b7/Appendix C-10.pdf"
+    ],
+    "duplicate": null,
+    "pages": 19
+  },
+  {
+    "id": "file_000000009fb481f48c15a8a29614940d",
+    "path": "/workspace/attachments/790dcc2a-429d-42e1-9aa9-b5fc913b3310/chart.pdf",
+    "size_bytes": 1046077,
+    "name": "chart.pdf",
+    "sha256": "30e8cf255d41edc9930b28ee4a2bea2c82dcd033222333c9a5e914ba0cb16b00",
+    "prior": [],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000000a6081f4a06305089d3d8f65",
+    "path": "/workspace/attachments/13283f00-2c75-40f7-9ce4-22e8724d624a/Combined_Addendum_2.pdf",
+    "size_bytes": 24795699,
+    "name": "Combined_Addendum_2.pdf",
+    "sha256": "f251ecb31a55528c700e82a095c36459b3b84610385d490fd492cc1ce1b9a6b4",
+    "prior": [
+      "/workspace/attachments/8de59956-54d6-4669-bc36-000ccc82a6b9/Combined_Addendum_2.pdf",
+      "/workspace/attachments/6996087c-980d-43f7-aaeb-219d504f5f32/Combined_Addendum_2.pdf"
+    ],
+    "duplicate": null,
+    "pages": 250
+  },
+  {
+    "id": "file_000000004f0c821089e1394b71228e5c",
+    "path": "/workspace/attachments/042f23bd-8110-4235-96d8-8673e520ea0d/Combined_Addendum_1 (1).pdf",
+    "size_bytes": 27334275,
+    "name": "Combined_Addendum_1 (1).pdf",
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "prior": [
+      "/workspace/attachments/5230b481-4f31-4d3c-9e12-8a81acf3701c/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/5eb9f6dc-7206-4584-bc8c-b40003aad345/Combined_Addendum_1.pdf",
+      "/workspace/attachments/85a8f434-da1a-4c34-887c-6798ac0df182/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/65383d6b-5619-4b62-bdbd-95005a032495/Combined_Addendum_1.pdf"
+    ],
+    "duplicate": null,
+    "pages": 285
+  },
+  {
+    "id": "file_00000000ffdc8210b5a520a96811122a",
+    "path": "/workspace/attachments/a569298e-9b51-4a0a-865f-1a4350827b47/Corrigendum.pdf",
+    "size_bytes": 44683,
+    "name": "Corrigendum.pdf",
+    "sha256": "02142550f5d609a6a2ffe4ed64d441eaa00540663cee661ed318446e6e19dea6",
+    "prior": [
+      "/workspace/attachments/da11bafd-662a-4a74-8847-e64ff795185a/Corrigendum.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_0000000060c08210af2dd083b44ccc35",
+    "path": "/workspace/attachments/24075e12-e392-4681-ac05-3e4aa60baea8/Combined_Addendum_1.pdf",
+    "size_bytes": 27334275,
+    "name": "Combined_Addendum_1.pdf",
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "prior": [
+      "/workspace/attachments/5230b481-4f31-4d3c-9e12-8a81acf3701c/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/5eb9f6dc-7206-4584-bc8c-b40003aad345/Combined_Addendum_1.pdf",
+      "/workspace/attachments/85a8f434-da1a-4c34-887c-6798ac0df182/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/65383d6b-5619-4b62-bdbd-95005a032495/Combined_Addendum_1.pdf"
+    ],
+    "duplicate": "Combined_Addendum_1 (1).pdf"
+  },
+  {
+    "id": "file_000000005be881f68d1b657c41aafcb2",
+    "path": "/workspace/attachments/ce432d19-ef2c-4984-9b8f-1061008c14af/Corrigendum_1_BRRP.pdf",
+    "size_bytes": 27021,
+    "name": "Corrigendum_1_BRRP.pdf",
+    "sha256": "54977537e10a8249587ad2965eca04a057eaa45f932e6a229959bc3fa30ab7c4",
+    "prior": [
+      "/workspace/attachments/9358f991-8462-41ff-8319-e51122d3cd94/Corrigendum_1_BRRP.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000005d7481f4857c4b9506621507",
+    "path": "/workspace/attachments/6f519900-18e2-4842-a3a4-47eab8f9279c/Corrigendum_2.pdf",
+    "size_bytes": 128319,
+    "name": "Corrigendum_2.pdf",
+    "sha256": "cb996ec5837ec4dcfab1a55e4ffcb56248919a73d70cd53492d64d39a2a7b435",
+    "prior": [
+      "/workspace/attachments/5a0c29c4-054f-457b-8054-b58f9d62b702/Corrigendum_2.pdf"
+    ],
+    "duplicate": null,
+    "pages": 5
+  },
+  {
+    "id": "file_0000000074488210bb67185ee1b6f417",
+    "path": "/workspace/attachments/7932c206-c79d-4425-99a1-c83f9e788608/Corrigendum_3.pdf",
+    "size_bytes": 154763,
+    "name": "Corrigendum_3.pdf",
+    "sha256": "e8a07f4059dcb9b81c1cc45b2ae60154c0c142999955b347d2c60133619656d7",
+    "prior": [
+      "/workspace/attachments/91ee811c-0512-4a1e-af23-5cb249cdfd53/Corrigendum_3.pdf"
+    ],
+    "duplicate": null,
+    "pages": 8
+  },
+  {
+    "id": "file_000000007aac8210b06837c185d54f30",
+    "path": "/workspace/attachments/e3752b17-cf9c-472e-a3f1-cdcfb97319d9/Corrigendum_4.pdf",
+    "size_bytes": 65993,
+    "name": "Corrigendum_4.pdf",
+    "sha256": "623614acba28baadc68c22229c039399e9b4385c0945b787197b2dedaaa4acf4",
+    "prior": [
+      "/workspace/attachments/520cb649-f91a-4a48-984a-acd0f69f8026/Corrigendum_4.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_000000000cf48210b46e87c27e650f55",
+    "path": "/workspace/attachments/dfc717ae-169c-4f98-a676-e4f9135968bb/CQ_replies_BRRP.pdf",
+    "size_bytes": 180984,
+    "name": "CQ_replies_BRRP.pdf",
+    "sha256": "b006f3d20e7ae10d9800b1b9fabfb3104091b09878fcd6bb83b2f328e926df4a",
+    "prior": [
+      "/workspace/attachments/54f82dbe-74a1-4e2a-be50-39de725d5ac7/CQ_replies_BRRP.pdf"
+    ],
+    "duplicate": null,
+    "pages": 9
+  },
+  {
+    "id": "file_0000000091cc81f48af8b2b1a8520126",
+    "path": "/workspace/attachments/86b20843-c858-4bbc-ba34-1eb21ae00511/IP (1).pdf",
+    "size_bytes": 244844,
+    "name": "IP (1).pdf",
+    "sha256": "8692fb4bca724408df3fe1ec8377faa678e6238f3fe14bb55fbc6ca4b8cdcf50",
+    "prior": [
+      "/workspace/attachments/383c6caf-401a-4da0-b4da-55b890bc5ebc/IP.pdf",
+      "/workspace/attachments/b6d3ed71-2d35-40b4-9288-0ff898ca6b55/IP (1).pdf"
+    ],
+    "duplicate": null,
+    "pages": 6
+  },
+  {
+    "id": "file_000000002d0881f4a9c1bc4f1105680c",
+    "path": "/workspace/attachments/1bc81107-8f35-4cbf-9221-83ba100de6ba/Combined_Addendum_3.pdf",
+    "size_bytes": 28388525,
+    "name": "Combined_Addendum_3.pdf",
+    "sha256": "6d6369b880718f0b84da0776adc723d99eae59b591c8b5d45f1f0b2596b9d5b6",
+    "prior": [
+      "/workspace/attachments/a4d19aca-72c3-4d27-b5be-a84f2a5be0dc/Combined_Addendum_3.pdf"
+    ],
+    "duplicate": null,
+    "pages": 341
+  },
+  {
+    "id": "file_00000000205881f49e71791fb9906161",
+    "path": "/workspace/attachments/88e427dd-3a5a-4b8d-bdbd-b42e46560820/Design Criteria & Execution Methodology.pdf",
+    "size_bytes": 2549863,
+    "name": "Design Criteria & Execution Methodology.pdf",
+    "sha256": "179b05dabdb90971b5132d38f2a1aa755ce091b640b4e844fa7b0c9cc4a7e706",
+    "prior": [
+      "/workspace/attachments/c1b8bee7-6e2e-45ab-a245-f17c5183645c/Design Criteria & Execution Methodology.pdf",
+      "/workspace/attachments/35713333-2919-46b6-acd8-5a7144a4a193/Design Criteria & Execution Methodology.pdf"
+    ],
+    "duplicate": null,
+    "pages": 154
+  },
+  {
+    "id": "file_00000000e33481f4922885c5f1d75747",
+    "path": "/workspace/attachments/e09fff9b-4787-43dc-9837-32803d295090/IP.pdf",
+    "size_bytes": 244844,
+    "name": "IP.pdf",
+    "sha256": "8692fb4bca724408df3fe1ec8377faa678e6238f3fe14bb55fbc6ca4b8cdcf50",
+    "prior": [
+      "/workspace/attachments/383c6caf-401a-4da0-b4da-55b890bc5ebc/IP.pdf",
+      "/workspace/attachments/b6d3ed71-2d35-40b4-9288-0ff898ca6b55/IP (1).pdf"
+    ],
+    "duplicate": "IP (1).pdf"
+  },
+  {
+    "id": "file_000000008828821095544d59dcf0e072",
+    "path": "/workspace/attachments/fd490052-5a1c-457b-8b21-f994277ea8ec/Kits PPE List-BRRP.pdf",
+    "size_bytes": 81541,
+    "name": "Kits PPE List-BRRP.pdf",
+    "sha256": "44e2e5f2214d741c15380702504a73ae00076ab5954bb6ce96011a1e06aed841",
+    "prior": [
+      "/workspace/attachments/b91a8826-af38-4973-9961-d3ef91fd1a68/Kits PPE List-BRRP.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "id": "file_0000000054e081f489a888ece5aee33f",
+    "path": "/workspace/attachments/8da610f6-1801-4fe3-823d-e61a9d261607/Section 1.pdf",
+    "size_bytes": 891163,
+    "name": "Section 1.pdf",
+    "sha256": "4396fb90c823805128145920d1348e69942a65e501773d80457a3b671e0f3641",
+    "prior": [
+      "/workspace/attachments/f671798e-4042-4c5e-ad54-f3b2e4092230/Section 1.pdf"
+    ],
+    "duplicate": null,
+    "pages": 12
+  },
+  {
+    "id": "file_00000000faa881f497fa7e60d73b15df",
+    "path": "/workspace/attachments/42bc04a5-aa70-4b68-8f62-6aa20791774b/Section 2.pdf",
+    "size_bytes": 1441383,
+    "name": "Section 2.pdf",
+    "sha256": "1d6c9da72ce45156e95586056c6d96a06da9563a9a27817dc77935d6fa470a7f",
+    "prior": [
+      "/workspace/attachments/76603c04-2e53-462a-99b6-4b9736a46736/Section 2.pdf",
+      "/workspace/attachments/6d7f02c2-9f19-4f43-a17a-1717707d530a/Section 2.pdf"
+    ],
+    "duplicate": null,
+    "pages": 43
+  },
+  {
+    "id": "file_00000000bf4c81f483ddaca6d0bfe52a",
+    "path": "/workspace/attachments/6ac405c9-4cf3-4694-b74c-4bf32ee762e0/MTO Drawings IRT.pdf",
+    "size_bytes": 4238195,
+    "name": "MTO Drawings IRT.pdf",
+    "sha256": "0a8a008d8bc139d05c75f83c52ba23d637c1f78926b7a19e4007297ac52485cb",
+    "prior": [
+      "/workspace/attachments/d09f801e-e346-445d-8c23-7188f8063e78/MTO Drawings IRT.pdf"
+    ],
+    "duplicate": null,
+    "pages": 34
+  },
+  {
+    "id": "file_000000000bf081f494e3347e7ad9645b",
+    "path": "/workspace/attachments/d9e9d456-d843-439f-9b8b-ba2073e00690/SHIVANSH ONGC Offshore Bridges - PRELIMINARY.xlsx",
+    "size_bytes": 11297,
+    "name": "SHIVANSH ONGC Offshore Bridges - PRELIMINARY.xlsx",
+    "sha256": "caba714d2cc9b32ddf723228a57797a6e588463c0554ced81701982fcd7f7f20",
+    "prior": [
+      "/workspace/attachments/2ce8388c-5d2b-4efc-b883-0bddd485de25/SHIVANSH ONGC Offshore Bridges - PRELIMINARY.xlsx",
+      "/workspace/attachments/edf363f2-8895-4ed7-a476-cf6228281169/SHIVANSH ONGC Offshore Bridges - PRELIMINARY.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000107881f4bc3fc49b15e502f4",
+    "path": "/workspace/attachments/9d725d18-b225-48ae-b2c7-08bfdae07e20/SHIVANSH_360_Day_EPC_Scheduling_Control_Workbook.xlsx",
+    "size_bytes": 71554,
+    "name": "SHIVANSH_360_Day_EPC_Scheduling_Control_Workbook.xlsx",
+    "sha256": "a4545c34bc3bfdf771c5918e9335e6b288626e024a5f517e4eb0ca7f6fe870ee",
+    "prior": [
+      "/workspace/attachments/205a8422-83ae-44eb-b238-0e604da873ec/SHIVANSH_360_Day_EPC_Scheduling_Control_Workbook.xlsx",
+      "/workspace/attachments/548746f2-8777-4764-91bd-8ec684b565a7/SHIVANSH_360_Day_EPC_Scheduling_Control_Workbook.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000d27081f49879f180fb4bcf2c",
+    "path": "/workspace/attachments/e26488ad-6288-488e-9a57-e805e58d373d/Shivansh_BRRPP_Integrated_Execution_Control.xlsx",
+    "size_bytes": 22985,
+    "name": "Shivansh_BRRPP_Integrated_Execution_Control.xlsx",
+    "sha256": "2c64809e2cbab409c9897e19ee5b46768287708a1adb9f923457d03177f24c36",
+    "prior": [
+      "/workspace/attachments/f906c3a9-60c9-4c6a-8172-381bb1522b17/Shivansh_BRRPP_Integrated_Execution_Control.xlsx",
+      "/workspace/attachments/42437990-e44d-4d72-a48c-3fe63768a6e6/Shivansh_BRRPP_Integrated_Execution_Control.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_000000006d7c81f49b9e95cd28bba16b",
+    "path": "/workspace/attachments/e8998ddd-f666-4184-8a06-cfe98fcee70d/Section 3.pdf",
+    "size_bytes": 6544792,
+    "name": "Section 3.pdf",
+    "sha256": "64146db7c46ea30fc3e5161cea2ce94bdb3435e4aefe05a81cfac0174c141108",
+    "prior": [
+      "/workspace/attachments/54351de5-1ab9-4f61-965b-fb5f66c0a6c2/Section 3.pdf",
+      "/workspace/attachments/d943396e-8175-4b56-a21b-66b69aa091ea/Section 3.pdf"
+    ],
+    "duplicate": null,
+    "pages": 323
+  },
+  {
+    "id": "file_000000001c1c81f4834ae513c404f3c2",
+    "path": "/workspace/attachments/5cd8d5fa-208f-4c83-8634-cc48ce45f232/Shivansh_BRRPP_Level3_P6_Preparation.xlsx",
+    "size_bytes": 15768,
+    "name": "Shivansh_BRRPP_Level3_P6_Preparation.xlsx",
+    "sha256": "186a4f446d7691b5c726f32e8600482c7abde182ef9bbc7d11c07729e4706074",
+    "prior": [
+      "/workspace/attachments/391e9080-2785-4c17-9446-f47dcd68537f/Shivansh_BRRPP_Level3_P6_Preparation.xlsx",
+      "/workspace/attachments/c2fad30c-f57c-486d-a94e-584a659d233a/Shivansh_BRRPP_Level3_P6_Preparation.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000cb8c8210bd85a15d1d5e9d4f",
+    "path": "/workspace/attachments/93fa0f79-840c-4179-a70c-0453a58a772a/Shivansh_BRRPP_P6_Activity_Import.csv",
+    "size_bytes": 17737,
+    "name": "Shivansh_BRRPP_P6_Activity_Import.csv",
+    "sha256": "cd3865f25e6d42bccc800bd4344e38816fdcf68c6dbbe63c26a0e76096f358d7",
+    "prior": [
+      "/workspace/attachments/7ec27e12-f977-48a9-a4ad-4ae8ddefb098/Shivansh_BRRPP_P6_Activity_Import.csv"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000592c821099b849dd364c6acf",
+    "path": "/workspace/attachments/7dc15993-36a3-4025-9400-43b50a6634fa/Shivansh_BRRPP_Stage4_Resource_Cost_Marine_Planning.xlsx",
+    "size_bytes": 16487,
+    "name": "Shivansh_BRRPP_Stage4_Resource_Cost_Marine_Planning.xlsx",
+    "sha256": "88adcd75ff58317d0215801c0cee35b3f8aa03b024e8acbd45382e8138db56f0",
+    "prior": [
+      "/workspace/attachments/361d9fc1-0d70-4a70-a8bd-b26572c915ba/Shivansh_BRRPP_Stage4_Resource_Cost_Marine_Planning.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000854c82109638932b68e7a730",
+    "path": "/workspace/attachments/d26e8648-ae53-4e11-9b9e-462a8c2d2bf2/Shivansh_BRRPP_Stage5_Integrated_Marine_Yard_Cost_P6.xlsx",
+    "size_bytes": 18952,
+    "name": "Shivansh_BRRPP_Stage5_Integrated_Marine_Yard_Cost_P6.xlsx",
+    "sha256": "ac85c7dec0f9db25e971b0795623e465a92732bcc873ba6234bd21f485cc2036",
+    "prior": [
+      "/workspace/attachments/8115a4be-66ae-4260-8bd3-4abb0d582f4f/Shivansh_BRRPP_Stage5_Integrated_Marine_Yard_Cost_P6.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_0000000043b0821091ada9a98acd20f8",
+    "path": "/workspace/attachments/eb12ce0c-0f11-4e8b-8f79-44bee2a5c743/Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx",
+    "size_bytes": 15553,
+    "name": "Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx",
+    "sha256": "44df6c84070a16804ad83487e7575ba1e99569a53e267c8e3da83ac9cfd59621",
+    "prior": [
+      "/workspace/attachments/6ea864ed-3fae-4c15-8068-b79637d5e55c/Shivansh_BRRPP_Stage10_Resource_Feasibility.xlsx",
+      "/workspace/attachments/5fe100bb-51d1-49b3-a526-be0d5a87b9b1/Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx",
+      "/workspace/attachments/a581c52e-f26a-46af-9b67-c8166bfaae20/Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000a5c081f4a693a121883bb559",
+    "path": "/workspace/attachments/af8b4024-34f5-445c-bf5a-6a9bdfb92b31/Shivansh_BRRPP_Stage10_Resource_Feasibility.xlsx",
+    "size_bytes": 15553,
+    "name": "Shivansh_BRRPP_Stage10_Resource_Feasibility.xlsx",
+    "sha256": "44df6c84070a16804ad83487e7575ba1e99569a53e267c8e3da83ac9cfd59621",
+    "prior": [
+      "/workspace/attachments/6ea864ed-3fae-4c15-8068-b79637d5e55c/Shivansh_BRRPP_Stage10_Resource_Feasibility.xlsx",
+      "/workspace/attachments/5fe100bb-51d1-49b3-a526-be0d5a87b9b1/Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx",
+      "/workspace/attachments/a581c52e-f26a-46af-9b67-c8166bfaae20/Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx"
+    ],
+    "duplicate": "Shivansh_BRRPP_Stage10_Resource_Feasibility (1).xlsx"
+  },
+  {
+    "id": "file_00000000679481f4ae204e1f048a0ff0",
+    "path": "/workspace/attachments/b862be55-df27-453e-abe6-771340b8533c/Shivansh_BRRPP_Stage25_Cost_Cashflow_Model.xlsx",
+    "size_bytes": 10506,
+    "name": "Shivansh_BRRPP_Stage25_Cost_Cashflow_Model.xlsx",
+    "sha256": "a46229faa98cf1d94ebad3412394eda944398ea5f209b3da5b3fce3af1c0a7d6",
+    "prior": [
+      "/workspace/attachments/28dbfc66-ac87-40a1-8fdb-df9eea1a73fc/Shivansh_BRRPP_Stage25_Cost_Cashflow_Model.xlsx",
+      "/workspace/attachments/fb20e0ec-ad8e-48f2-b7da-2a2d99fd9f28/Shivansh_BRRPP_Stage25_Cost_Cashflow_Model.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000e22c81f4bd5bfa7fc4981c96",
+    "path": "/workspace/attachments/ecfd871a-db42-4242-b752-7c413a1065c2/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital (1).xlsx",
+    "size_bytes": 13114,
+    "name": "Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital (1).xlsx",
+    "sha256": "9627644802f34de8ab9f44420ab6b7bad0437a6dbd5ea2a8dc0228d6f53bc422",
+    "prior": [
+      "/workspace/attachments/d0c1fec5-f375-4953-b6c6-47573f488ec3/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital (1).xlsx",
+      "/workspace/attachments/a708be99-df4f-44ac-ac73-9a767fce0c04/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000cdf08210b08182be8515d41a",
+    "path": "/workspace/attachments/f5e8b898-0da0-4e8c-a489-363b2fc2e689/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital.xlsx",
+    "size_bytes": 13114,
+    "name": "Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital.xlsx",
+    "sha256": "9627644802f34de8ab9f44420ab6b7bad0437a6dbd5ea2a8dc0228d6f53bc422",
+    "prior": [
+      "/workspace/attachments/d0c1fec5-f375-4953-b6c6-47573f488ec3/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital (1).xlsx",
+      "/workspace/attachments/a708be99-df4f-44ac-ac73-9a767fce0c04/Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital.xlsx"
+    ],
+    "duplicate": "Shivansh_BRRPP_Stage26_Revenue_Cashflow_WorkingCapital (1).xlsx"
+  },
+  {
+    "id": "file_00000000d9f88210bb5309a559f66bcf",
+    "path": "/workspace/attachments/c1f134e0-4c2b-483e-837f-7666380a5b4d/Shivansh_BRRPP_Stage27_Integrated_EPC_Control.xlsx",
+    "size_bytes": 17625,
+    "name": "Shivansh_BRRPP_Stage27_Integrated_EPC_Control.xlsx",
+    "sha256": "eaf6f3d25ff076225065d995c586af645d046c87ddc6bd205845e630ede8b4ef",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000cf7c81f4b5a65bb6122420b0",
+    "path": "/workspace/attachments/b5a48b69-16ae-4076-a4c5-9cf21de00369/Shivansh_BRRPP_Stage28_Level4_Execution_Schedule.xlsx",
+    "size_bytes": 14917,
+    "name": "Shivansh_BRRPP_Stage28_Level4_Execution_Schedule.xlsx",
+    "sha256": "9614bca82b60f80b1f746d826905e951351c8630aed6ec1009a194b83f5fb747",
+    "prior": [
+      "/workspace/attachments/38b41fbb-371d-4b9b-8265-e771201472e7/Shivansh_BRRPP_Stage28_Level4_Execution_Schedule.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_0000000086e081f4b20d35f3128cc2f8",
+    "path": "/workspace/attachments/5295e035-9004-4880-a5d5-8d42ef7d3efc/Shivansh_BRRPP_Stage29_Resource_Recovery_Model.xlsx",
+    "size_bytes": 12094,
+    "name": "Shivansh_BRRPP_Stage29_Resource_Recovery_Model.xlsx",
+    "sha256": "df1667a6a69dff2106ff4befae034044ceaf70a2876e448ba6561901adaa6f59",
+    "prior": [
+      "/workspace/attachments/9626b850-8c8b-4054-bf02-5d14ba29877b/Shivansh_BRRPP_Stage29_Resource_Recovery_Model.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_000000006b348210ae4b448dad8724d2",
+    "path": "/workspace/attachments/b58cc7bd-094f-4859-bbd6-71c815d50643/Shivansh_BRRPP_Stage30_Workpack_Productivity_Control.xlsx",
+    "size_bytes": 19851,
+    "name": "Shivansh_BRRPP_Stage30_Workpack_Productivity_Control.xlsx",
+    "sha256": "cb59fab7d9a995acde11a16d7ab6a90dcc9c9c8b1b9f399439c8522dad76f678",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_000000000b2c81f48be40d0a1892dc19",
+    "path": "/workspace/attachments/af5f377a-ecb4-4cc9-99de-17190c087166/Shivansh_BRRPP_Stage31_Daily_Readiness_Production_System.xlsx",
+    "size_bytes": 20782,
+    "name": "Shivansh_BRRPP_Stage31_Daily_Readiness_Production_System.xlsx",
+    "sha256": "8b3de0f36bc9a4109bb5d9163df942dab56258ed44ae9b708e8308d1bc16cc5b",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000e610821084cfb717772096a2",
+    "path": "/workspace/attachments/406d956f-fdc8-4096-8ed2-57dfdb944f4c/Shivansh_BRRPP_Stage32_Productivity_Forecast_Control (1).xlsx",
+    "size_bytes": 30642,
+    "name": "Shivansh_BRRPP_Stage32_Productivity_Forecast_Control (1).xlsx",
+    "sha256": "ac040e820fafb1c9806f6840331bf5c1272ba1df89f7b0ae87292b7aec99b7a0",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000e93481f48a0330ffb9e3077c",
+    "path": "/workspace/attachments/d957c5a5-a5e2-43c2-9ee2-d27b00e087ef/Shivansh_BRRPP_Stage33_Early_Warning_Recovery_Dashboard.xlsx",
+    "size_bytes": 23397,
+    "name": "Shivansh_BRRPP_Stage33_Early_Warning_Recovery_Dashboard.xlsx",
+    "sha256": "5bdcdaf794159caa61180384c6cdc30c01ff9485836f7c9b0693ea7e42f9b7cd",
+    "prior": [
+      "/workspace/attachments/541a7080-dc5b-4d49-bb24-f55e7c15d4fa/Shivansh_BRRPP_Stage33_Early_Warning_Recovery_Dashboard.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_000000006e0c81f4bbd6d43979e988db",
+    "path": "/workspace/attachments/87831bc1-2707-4555-8297-b539759e21d3/Shivansh_BRRPP_Stage32_Productivity_Forecast_Control.xlsx",
+    "size_bytes": 30642,
+    "name": "Shivansh_BRRPP_Stage32_Productivity_Forecast_Control.xlsx",
+    "sha256": "ac040e820fafb1c9806f6840331bf5c1272ba1df89f7b0ae87292b7aec99b7a0",
+    "prior": [],
+    "duplicate": "Shivansh_BRRPP_Stage32_Productivity_Forecast_Control (1).xlsx"
+  },
+  {
+    "id": "file_000000006cb08210a1ef14c014681d25",
+    "path": "/workspace/attachments/f9408db4-29b9-482e-8e94-de2213453ddf/Shivansh_BRRPP_Stage35_90_Day_Mobilisation_Command_Plan.xlsx",
+    "size_bytes": 14055,
+    "name": "Shivansh_BRRPP_Stage35_90_Day_Mobilisation_Command_Plan.xlsx",
+    "sha256": "5f19dcee0c81c6931459a5972763e6339eb036ac386518074246b415d1fc5be8",
+    "prior": [
+      "/workspace/attachments/b68b0829-5ae6-4f88-9455-26238c6e6a85/Shivansh_BRRPP_Stage35_90_Day_Mobilisation_Command_Plan.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000c7b481f48f37f3d27aa4bec9",
+    "path": "/workspace/attachments/eb68b3fc-f253-47a2-b220-ff21f3834259/Shivansh_BRRPP_Stage34_Integrated_EPC_Control_Centre.xlsx",
+    "size_bytes": 15384,
+    "name": "Shivansh_BRRPP_Stage34_Integrated_EPC_Control_Centre.xlsx",
+    "sha256": "bc4b4615629759d31ccc86ba1e4ecf532ee00d38596caad9a0da760c945362d6",
+    "prior": [
+      "/workspace/attachments/eb602c28-72f1-4c93-9374-1dd29099aa46/Shivansh_BRRPP_Stage34_Integrated_EPC_Control_Centre.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000fcc481f4b60a643016dcdb4d",
+    "path": "/workspace/attachments/37c20864-f5e3-4a94-85c7-cc94db455b87/SHIVANSH_EPC_Master_Plan_All_6_Volumes.zip",
+    "size_bytes": 235348,
+    "name": "SHIVANSH_EPC_Master_Plan_All_6_Volumes.zip",
+    "sha256": "d3d3ec37f51bb3dae0e4e52ff8af94dd9735bfcd341f12fb8debdb33c1354dd1",
+    "prior": [
+      "/workspace/attachments/bed50fcc-2c4c-4f6d-ae22-7813c4521f02/SHIVANSH_EPC_Master_Plan_All_6_Volumes.zip"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000374c81f4ae210f94e3356ce5",
+    "path": "/workspace/attachments/0518acf9-e4f9-4e04-8b74-c94b26366252/SHIVANSH_EPC_Master_Plan_Volume_1 - Copy.docx",
+    "size_bytes": 41575,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_1 - Copy.docx",
+    "sha256": "9b5eb6c4f99d251e612ffcc5acd598f69427282d0d12a4a1cf7a5c933ab3af6f",
+    "prior": [
+      "/workspace/attachments/0b7b0be0-5c16-49c2-8c82-d3a8a5beb440/SHIVANSH_EPC_Master_Plan_Volume_1 - Copy.docx"
+    ],
+    "duplicate": null
+  },
+  {
+    "id": "file_0000000047e88243a9d3b881097c3a1a",
+    "path": "/workspace/attachments/27497066-85c1-47c6-93db-8c616fd503c6/SHIVANSH_EPC_Master_Plan_Volume_1.docx",
+    "size_bytes": 41575,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_1.docx",
+    "sha256": "9b5eb6c4f99d251e612ffcc5acd598f69427282d0d12a4a1cf7a5c933ab3af6f",
+    "prior": [
+      "/workspace/attachments/0b7b0be0-5c16-49c2-8c82-d3a8a5beb440/SHIVANSH_EPC_Master_Plan_Volume_1 - Copy.docx"
+    ],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_1 - Copy.docx"
+  },
+  {
+    "id": "file_00000000090c82109f6781f6496907cb",
+    "path": "/workspace/attachments/44c92e4b-5800-43ac-97df-48e11ac8d63b/SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2) - Copy.docx",
+    "size_bytes": 41608,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2) - Copy.docx",
+    "sha256": "ce3642b042ad5b0013de702d9361b1759e5c8e3fbd12839ba2a65de97cf17533",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_00000000a7d882438821e61c35a1826c",
+    "path": "/workspace/attachments/4448d91b-75d1-4b69-99e3-1c2b1a86b75c/SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2).docx",
+    "size_bytes": 41608,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2).docx",
+    "sha256": "ce3642b042ad5b0013de702d9361b1759e5c8e3fbd12839ba2a65de97cf17533",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2) - Copy.docx"
+  },
+  {
+    "id": "file_0000000071e881f48a272a5ea12b5b1e",
+    "path": "/workspace/attachments/64000d7c-788f-4100-8ae7-a2015a09c0d2/SHIVANSH_EPC_Master_Plan_Volume_2 - Copy.docx",
+    "size_bytes": 41608,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy.docx",
+    "sha256": "ce3642b042ad5b0013de702d9361b1759e5c8e3fbd12839ba2a65de97cf17533",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2) - Copy.docx"
+  },
+  {
+    "id": "file_00000000cd1081f491192d99f2e2d378",
+    "path": "/workspace/attachments/8a6d78e8-4db2-4f46-96a6-9eae1c917653/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "id": "file_000000008f388210be8dbbef1f27880c",
+    "path": "/workspace/attachments/3e570754-b37e-4c16-a5f3-5fefb1847ca2/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy (2).docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy (2).docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000003e8c821085eb76b8727818fe",
+    "path": "/workspace/attachments/f8a5dc0c-f647-4318-be98-22b2f8f4b7a6/SHIVANSH_EPC_Master_Plan_Volume_2.docx",
+    "size_bytes": 41608,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_2.docx",
+    "sha256": "ce3642b042ad5b0013de702d9361b1759e5c8e3fbd12839ba2a65de97cf17533",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_2 - Copy (2) - Copy.docx"
+  },
+  {
+    "id": "file_00000000fc2481f48a548723a46e810a",
+    "path": "/workspace/attachments/ee92c4a0-d95c-41b3-a1cc-8581af1ee023/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy.docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy.docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_0000000096dc81f49e16ec6d2aab81e7",
+    "path": "/workspace/attachments/7a21c556-65d6-482c-a802-ed369b4d4df9/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (2) - Copy.docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (2) - Copy.docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_000000005b6c81f48c484ff4bbe27eea",
+    "path": "/workspace/attachments/6ad32486-2ba2-4baf-a610-d11053809828/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (2).docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (2).docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "file_0000000083bc8210a3fd4114356c9a0f",
+    "path": "/workspace/attachments/cde4c99b-9f2d-43d9-bef9-3fdd909b5310/SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (3).docx",
+    "size_bytes": 41723,
+    "name": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy (3).docx",
+    "sha256": "c477c827f9aa7be3bb8ee77c5e4ae906d13836dac27daee468518f4ff869c526",
+    "prior": [],
+    "duplicate": "SHIVANSH_EPC_Master_Plan_Volume_3 - Copy - Copy - Copy.docx"
+  },
+  {
+    "id": "a39081f492e62c73c1243a6f",
+    "error": "file exceeds the executor transfer limit of 32 MiB"
+  }
+]

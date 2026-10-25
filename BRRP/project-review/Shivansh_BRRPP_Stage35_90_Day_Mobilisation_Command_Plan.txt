@@ -1,0 +1,104 @@
+
+SHEET CEO 90 Day Gates
+Day | Target date* | Gate / outcome | Accountable | Evidence | Status | CEO decision
+1 | 2026-11-01 | Conditional award-to-execution kick-off | Project Director | NOA and contract start basis | Not started | Authorise mobilisation ceiling
+7 | 2026-11-07 | Appoint named delivery leadership | CEO | Organisation chart and availability declarations | Not started | Approve named leaders
+15 | 2026-11-15 | Conditional engineering / yard / marine slots | Project Director | Signed capacity letters or offers | Not started | Approve conditional reservations
+30 | 2026-11-30 | Survey and engineering baseline frozen where possible | Engineering Manager | Survey register, EWP register, approval matrix | Not started | Resolve scope gaps
+45 | 2026-12-15 | First AFC fabrication work packs where approved | Engineering Manager | Signed AFC drawings, ITP and MTO | Not started | Authorise only released work
+60 | 2026-12-30 | Critical procurement and fabrication production underway | Procurement / Fabrication | Delivery and accepted output reports | Not started | Expedite critical items
+75 | 2027-01-14 | First strengthening assemblies accepted in yard | Fabrication Manager | NDT and dimensional release | Not started | Approve offshore readiness review
+90 | 2027-01-29 | 90-day readiness and CPM recovery review | Project Director | P6 update, vessel calendar, cost forecast | Not started | Approve revised resources
+
+SHEET 13 Week Resource Plan
+Week | Start* | End* | Dominant work | Engineering teams | Fabrication lines/cells | Offshore teams | Heavy-lift vessel status | Support vessel status | Planned accepted MT | Actual accepted MT | Crew days actual | Constraint owner | Basis
+1 | 2026-11-01 | 2026-11-07 | Mobilisation & survey | 2 | 0 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+2 | 2026-11-08 | 2026-11-14 | Mobilisation & survey | 2 | 0 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+3 | 2026-11-15 | 2026-11-21 | Mobilisation & survey | 2 | 1 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+4 | 2026-11-22 | 2026-11-28 | Mobilisation & survey | 2 | 1 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+5 | 2026-11-29 | 2026-12-05 | AFC & procurement | 2 | 2 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+6 | 2026-12-06 | 2026-12-12 | AFC & procurement | 2 | 2 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+7 | 2026-12-13 | 2026-12-19 | AFC & procurement | 2 | 2 | 0 | TBC | TBC | TBC |  |  |  | Planning assumption
+8 | 2026-12-20 | 2026-12-26 | AFC & procurement | 2 | 2 | 1 | TBC | TBC | TBC |  |  |  | Planning assumption
+9 | 2026-12-27 | 2027-01-02 | Fabrication & offshore readiness | 2 | 3 | 1 | TBC | TBC | TBC |  |  |  | Planning assumption
+10 | 2027-01-03 | 2027-01-09 | Fabrication & offshore readiness | 2 | 3 | 1 | TBC | TBC | TBC |  |  |  | Planning assumption
+11 | 2027-01-10 | 2027-01-16 | Fabrication & offshore readiness | 2 | 3 | 2 | TBC | TBC | TBC |  |  |  | Planning assumption
+12 | 2027-01-17 | 2027-01-23 | Fabrication & offshore readiness | 2 | 3 | 2 | TBC | TBC | TBC |  |  |  | Planning assumption
+13 | 2027-01-24 | 2027-01-30 | Fabrication & offshore readiness | 2 | 3 | 2 | TBC | TBC | TBC |  |  |  | Planning assumption
+
+SHEET Bridge 90 Day Tracker
+Bridge | Scope | Steel MT* | Survey status | Engineering | Material status | Fabrication | Marine readiness | Workpack release | Survey date | AFC target | Fabrication start | Accountable
+ICW-ICG LD | New bridge | 122 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+ICG-ICP LD | New bridge | 160 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+BHS-SLQ | Replacement | 282 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+ICW-ICG UD | Strengthening | 49 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+ICG-ICP UD | Strengthening | 116 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+SLQ-WIS | Strengthening | 91 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+NQO-NQD | Strengthening | 93 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+WIN-NC | Strengthening | 46 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+SCA-SC1 | Strengthening | 63 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+SCA-SCF | Strengthening | 119 | Survey | AFC design | Procurement | Fabrication | Offshore readiness | Not released | TBC | TBC | TBC | Package Manager
+
+SHEET Resource Commitment
+Resource | Initial units* | Qualification / requirement | Owner | Target | Commitment status | Critical caveat
+Project Director | 1 | Named individual | CEO | Before award | TBC | Cross-project availability
+Planning / Project Controls | 2 | Primavera and cost control | Project Director | D7 | TBC | Integrated schedule ownership
+Structural design teams | 2 | Offshore bridge design | Engineering Manager | D15 | TBC | Qualified checking authority
+Fabrication lines | 2 | Yard bays and QA resources | Fabrication Manager | D30 | TBC | Peak production demand
+Strengthening fabrication cell | 1 | Dedicated prefabrication | Fabrication Manager | D45 | TBC | May share facility
+Offshore strengthening crews | 2 | Competent and equipped | Construction Manager | D60 | TBC | Dependent on access and approvals
+Heavy-lift spread | 1 | Vessel suitability to be engineered | Marine Manager | D30 | TBC | No vessel selection from total MT
+Support / accommodation vessels |  | POB and deck/logistics verification | Marine Manager | D30 | TBC | No assumed fleet availability
+NDT / coating inspection |  | Independent QA coverage | QA Manager | D30 | TBC | Match production rate
+
+SHEET 6 Week Constraints
+Package | Constraint | Owner | Target | Closure evidence | Status | Escalation
+BHS-SLQ | Survey / utility interface | Engineering Manager | D15 | Survey drawings and operational interface register | Open | Project Director
+All bridges | AFC drawing release | Engineering Manager | D30 | Approved drawings and calculation register | Open | Project Director
+All bridges | Material supply / traceability | Procurement Manager | D30 | Vendor offers and lead times | Open | Project Director
+New / replacement | Module size, weight and COG | Marine / Engineering | D45 | Engineered module and lift register | Open | Project Director
+All bridges | Vessel window and cross-project conflicts | Marine Manager | D15 | Fleet commitment calendar | Open | Project Director
+All bridges | ONGC permits / SIMOPS | Construction Manager | D45 | Approved access and permits | Open | Project Director
+BHS-SLQ | Service transfer and demolition sequence | Technical Authority | D60 | Independent engineering verification | Open | Project Director
+All bridges | SCC monsoon and completion provisions | Contracts Manager | D7 | Signed contractual interpretation | Open | Project Director
+
+SHEET Weekly Cash Control
+Week | Engineering outflow ₹ | Materials outflow ₹ | Fabrication outflow ₹ | Marine outflow ₹ | Other outflow ₹ | Total outflow ₹ | Receipts ₹ | Net cash ₹ | Cumulative net ₹
+1 |  |  |  |  |  | 0 |  | 0 | 0
+2 |  |  |  |  |  | 0 |  | 0 | 0
+3 |  |  |  |  |  | 0 |  | 0 | 0
+4 |  |  |  |  |  | 0 |  | 0 | 0
+5 |  |  |  |  |  | 0 |  | 0 | 0
+6 |  |  |  |  |  | 0 |  | 0 | 0
+7 |  |  |  |  |  | 0 |  | 0 | 0
+8 |  |  |  |  |  | 0 |  | 0 | 0
+9 |  |  |  |  |  | 0 |  | 0 | 0
+10 |  |  |  |  |  | 0 |  | 0 | 0
+11 |  |  |  |  |  | 0 |  | 0 | 0
+12 |  |  |  |  |  | 0 |  | 0 | 0
+13 |  |  |  |  |  | 0 |  | 0 | 0
+
+SHEET Release and Assurance
+Gate | Release evidence | Accountable | Hold point
+Engineering | Approved calculations, AFC drawings, verified load paths | Engineering Technical Authority | Before fabrication or modification
+Fabrication | Material traceability, WPS/PQR, weld/NDT and dimensional acceptance | QA Manager | Before loadout
+Lift engineering | Verified weight, COG, rigging, crane/vessel suitability | Qualified Marine/Lifting Engineer | Before marine commitment and lift
+Loadout | Sea-fastening, stability, transport plan and approvals | Marine Manager | Before sail-away
+Offshore work | Permits, SIMOPS, access, temporary works and isolations | Construction Manager / ONGC | Before work release
+Demolition | Approved stability, services transfer and removal sequence | Technical Authority / ONGC | Before removal
+Handover | Accepted inspections, punch closure and dossiers | QA / Completions | Before contractual acceptance
+
+SHEET Basis and Instructions
+Topic | Basis / action
+Contract status | Pre-award conditional planning; NOA not received
+Provisional Day 1 | 1 November 2026; actual contractual commencement to be verified
+Target | 360 days subject to signed SCC and qualifying monsoon provisions
+Steel MTO | 1,141 MT summed bridge rows vs 1,142 MT printed summary; unresolved 1 MT
+Demolition | 357 MT carried forward from prior planning baseline
+Resource numbers | Illustrative capacity assumptions, not Shivansh commitments
+Dates | Internal mobilisation targets, not ONGC-approved contractual milestones
+Weekly cash | Enter actual expected payments/receipts; blank inputs mean unknown, not zero
+Schedule | Workbook is not resource-levelled CPM or P6 import file
+Safety | Qualified offshore engineers must approve structural/lifting/demolition methods
+Reference | McDermott offshore: https://www.mcdermott.com/solutions/offshore
+Reference | CII AWP: https://www.construction-institute.org/awp-overview

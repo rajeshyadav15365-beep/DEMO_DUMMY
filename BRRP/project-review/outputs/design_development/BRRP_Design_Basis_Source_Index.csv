@@ -1,0 +1,13 @@
+ID,Subject,Document,Uploaded file,PDF pages,Evidence status,Application
+DB01,Structural standards register,B774-000-83-43-ST-01 Rev A,Specification Combined.pdf,1-2,Located,Defines listed standards and specifications
+DB02,Welding and NDT,2009F Rev 8,Specification Combined.pdf,3-38,Located,Apply applicable procedures and inspection requirements
+DB03,Fabrication and assembly,6-60-0013 Rev 3,Specification Combined.pdf,55-81,Located,Fabrication and assembly requirements
+DB04,Protective coating,2005 Rev 9,Specification Combined.pdf,91-168,Located,Select applicable coating systems by exposure and service
+DB05,Material fabrication installation,6001F Rev 14,Specification Combined.pdf,169-243,Located,Includes material and construction requirements; apply relevant clauses
+DB06,Design-code references,API RP 2A WSD / AWS / AISC within 6001F,Specification Combined.pdf,172-175,Located,Confirm governing editions and hierarchy; listed standards are not all applicable to every item
+DB07,ICW-ICG study basis,BPR-0004 Rev 0,SOW & Bridge Report Combined.pdf,133-135,Located,56m model;54.5m approximate gap; material/wind/loading/support study inputs
+DB08,ICP-ICG study basis,BPR-0003 Rev 0,SOW & Bridge Report Combined.pdf,196-199,Located,84m model;80.5m approximate gap; material/wind/loading/support study inputs
+DB09,BHS-SLQ study basis,BPR-0005 Rev A,SOW & Bridge Report Combined.pdf,97-100,Located,42m model;40m approximate gap; material/wind/loading/support study inputs
+DB10,Structural project scope,B774-000-83-43-SOW-0001 Rev C,SOW & Bridge Report Combined.pdf,15-53,Located,"Replacement scope, landings and drawing references"
+DB11,Jacket strengthening addendum,Addendum_Structure_SOW,Addendum_Structure_SOW.pdf,1,Located,ICG ICP BHS enabling strengthening
+DB12,Referenced structural design criteria,DC-3.4-Part-1-Rev.14,Referenced in bridge reports,98;133;197,Reference located; complete text not identified,Do not mark entire design basis missing; distinguish source excerpts from standalone criteria

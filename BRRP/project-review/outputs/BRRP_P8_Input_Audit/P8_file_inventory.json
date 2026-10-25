@@ -1,0 +1,249 @@
+[
+  {
+    "id": "file_000000001a3c81f4a4c38efc5a3b95b1",
+    "name": "Addendum (1).pdf",
+    "path": "/workspace/attachments/87c0d9a5-ac4e-4ffe-9629-67d936bccc9b/Addendum (1).pdf",
+    "bytes": 185402,
+    "sha256": "1742ad4dd672858b1ee148ba6e82b5d4594b3205a8db344d7631408e582a26fb",
+    "pages": 7,
+    "prior_matches": [
+      "/workspace/attachments/17bb3d58-7383-4f3e-86a1-e5c430109953/Addendum.pdf",
+      "/workspace/attachments/eb44c8a7-5676-45e3-bc9e-fc39a3e26870/Addendum (1).pdf",
+      "/workspace/attachments/95eab3c8-2f08-42a4-b589-2c1daa0e45ee/Addendum (1).pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/01_Addendum (1).txt"
+  },
+  {
+    "id": "file_00000000a5d081f48cec1dcbdfe3e3d2",
+    "name": "Addendum_Structure_SOW.pdf",
+    "path": "/workspace/attachments/094ef66f-da08-4961-ba7e-a8e940407e64/Addendum_Structure_SOW.pdf",
+    "bytes": 397216,
+    "sha256": "9720ca8546c67ef9cc4f44a8b4fb480de23da3eed38a6ca5dae2879de8c1485a",
+    "pages": 1,
+    "prior_matches": [
+      "/workspace/attachments/948c1467-1c24-4185-ac24-603686fac075/Addendum_Structure_SOW.pdf",
+      "/workspace/attachments/78831a37-6a77-419e-9b93-ec5f8e15eb39/Addendum_Structure_SOW.pdf",
+      "/workspace/attachments/40653511-3e98-417e-85cf-253f536126b6/Addendum_Structure_SOW.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/02_Addendum_Structure_SOW.txt"
+  },
+  {
+    "id": "file_0000000063788243a737d88e52c9d0cb",
+    "name": "Addendum.pdf",
+    "path": "/workspace/attachments/1c91f166-6daf-4e67-aea3-f602a563e080/Addendum.pdf",
+    "bytes": 185402,
+    "sha256": "1742ad4dd672858b1ee148ba6e82b5d4594b3205a8db344d7631408e582a26fb",
+    "pages": 7,
+    "prior_matches": [
+      "/workspace/attachments/17bb3d58-7383-4f3e-86a1-e5c430109953/Addendum.pdf",
+      "/workspace/attachments/eb44c8a7-5676-45e3-bc9e-fc39a3e26870/Addendum (1).pdf",
+      "/workspace/attachments/95eab3c8-2f08-42a4-b589-2c1daa0e45ee/Addendum (1).pdf"
+    ],
+    "duplicate_in_batch": "Addendum (1).pdf",
+    "low_text_pages": []
+  },
+  {
+    "id": "file_000000005a8881f4a6df48a0d8261566",
+    "name": "AddendumtoA3.pdf",
+    "path": "/workspace/attachments/31035f99-cea8-4b80-95e6-2cd29f467360/AddendumtoA3.pdf",
+    "bytes": 108580,
+    "sha256": "191ca9ccafb391c57652a1e4b5831484c2a53765cf6d813b8bdc87dc1de3ce07",
+    "pages": 2,
+    "prior_matches": [
+      "/workspace/attachments/4826e669-27ad-43c5-a94c-f88a23521eb7/AddendumtoA3.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/04_AddendumtoA3.txt"
+  },
+  {
+    "id": "file_0000000017c481f4af78604a1af40338",
+    "name": "Appendix A-9.pdf",
+    "path": "/workspace/attachments/8bbe7050-d33c-4c08-89ee-1b59204076ff/Appendix A-9.pdf",
+    "bytes": 1606648,
+    "sha256": "fea757b0e53dd170dbe9c645a10ddfe62eec08e2cfe6f151bbd0adf0bd4ed5e4",
+    "pages": 7,
+    "prior_matches": [
+      "/workspace/attachments/0e651c5f-117a-4108-bf5a-f8c7734d9720/Appendix A-9.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/05_Appendix A-9.txt"
+  },
+  {
+    "id": "file_000000002cc4821084cfc937fdc21dcd",
+    "name": "Appendix A-11 Offshore SVL Revision 12.1.pdf",
+    "path": "/workspace/attachments/50cc8fa5-b3e2-4ff2-a780-28eacce3d928/Appendix A-11 Offshore SVL Revision 12.1.pdf",
+    "bytes": 1340859,
+    "sha256": "86d3ab9001388087d63075d5cde421a51a6d1f4c5857fda8e18f7459637f5381",
+    "pages": 80,
+    "prior_matches": [
+      "/workspace/attachments/0deb3c65-1898-4705-8c98-8c36c5c40f70/Appendix A-11 Offshore SVL Revision 12.1.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/06_Appendix A-11 Offshore SVL Revision 12.1.txt"
+  },
+  {
+    "id": "file_00000000133081f492abbb2e970e8ece",
+    "name": "Appendix A-16 List of Agencies.pdf",
+    "path": "/workspace/attachments/8a6061ec-8f99-43dc-83d7-bc13c06ae66e/Appendix A-16 List of Agencies.pdf",
+    "bytes": 467272,
+    "sha256": "09a642f2eb6a23c02a735be3d51b57db316f4d5697aff8e1db8c1ee7bacaa50a",
+    "pages": 10,
+    "prior_matches": [
+      "/workspace/attachments/9672565b-4503-4df1-90ab-cd41e6405e8d/Appendix A-16 List of Agencies.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/07_Appendix A-16 List of Agencies.txt"
+  },
+  {
+    "id": "file_0000000055f481f4a4a2ae1b48536620",
+    "name": "Appendix A-17.pdf",
+    "path": "/workspace/attachments/f1d6eec0-cdd9-419b-a372-3cd72ea4c57e/Appendix A-17.pdf",
+    "bytes": 126254,
+    "sha256": "5d5cde215d0959b2e8126df4a2daf7edb4f91a7fc428146dda9d905c4aad6d6a",
+    "pages": 3,
+    "prior_matches": [
+      "/workspace/attachments/8b32ab84-d284-4775-8aad-495dc29e0d0a/Appendix A-17.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/08_Appendix A-17.txt"
+  },
+  {
+    "id": "file_00000000b59881f49caff438f41124a0",
+    "name": "Appendix B-5.pdf",
+    "path": "/workspace/attachments/647cd2da-24fe-454a-8763-1ffb6428187e/Appendix B-5.pdf",
+    "bytes": 240085,
+    "sha256": "82222c4cdca2f142d619e139280c264c68085cca7444ad0f1152204a91f1bf3e",
+    "pages": 1,
+    "prior_matches": [
+      "/workspace/attachments/06873690-72af-4687-a9a0-3762043deb7d/Appendix B-5.pdf"
+    ],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      1
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/09_Appendix B-5.txt"
+  },
+  {
+    "id": "file_00000000cf9c81f4bdc1a93cc97c3697",
+    "name": "Appendix B-6.pdf",
+    "path": "/workspace/attachments/6d77ccb0-056d-4133-81a3-b18a0b12f2dc/Appendix B-6.pdf",
+    "bytes": 181710,
+    "sha256": "dd4ce8688af1b3976c4fc752c9a19e4e14d43984c0e25733d11c6703d9919858",
+    "pages": 1,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      1
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/10_Appendix B-6.txt"
+  },
+  {
+    "id": "file_00000000ec5c81f4b0c3253d0fea0154",
+    "name": "Appendix C-9.pdf",
+    "path": "/workspace/attachments/3c8a90cc-9134-4f81-beaa-bc797f9f8c71/Appendix C-9.pdf",
+    "bytes": 668840,
+    "sha256": "f20a85ca3a13c08e62bb18a41838d9e32910cd4f0d7c6b0ab0623df4ca9aeec5",
+    "pages": 21,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/11_Appendix C-9.txt"
+  },
+  {
+    "id": "file_00000000555881f4bd88b72e210fec86",
+    "name": "Appendix C-8 DCI MCI.pdf",
+    "path": "/workspace/attachments/b069fbb3-dee2-4129-bde7-83bcfafd779f/Appendix C-8 DCI MCI.pdf",
+    "bytes": 1233765,
+    "sha256": "086b2f7837d09bc6320e2e0794f5b73fc7788b2cb9ecb5a08fa76836e2c97944",
+    "pages": 67,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      1,
+      5,
+      35,
+      57
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/12_Appendix C-8 DCI MCI.txt"
+  },
+  {
+    "id": "file_0000000011ec8210a94a62a8a6e08086",
+    "name": "Appendix C-10.pdf",
+    "path": "/workspace/attachments/72934c63-0615-4c73-b50f-f4d589cda8c1/Appendix C-10.pdf",
+    "bytes": 1393791,
+    "sha256": "8f0b1be35e96cc0e953e8614b751f08a987dca4a9060c54319b231f113d7d2d7",
+    "pages": 19,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [],
+    "text_path": "/workspace/project-review/p8_extracts/13_Appendix C-10.txt"
+  },
+  {
+    "id": "file_00000000525081f4b25a7c454730d6ed",
+    "name": "Combined_Addendum_2.pdf",
+    "path": "/workspace/attachments/6996087c-980d-43f7-aaeb-219d504f5f32/Combined_Addendum_2.pdf",
+    "bytes": 24795699,
+    "sha256": "f251ecb31a55528c700e82a095c36459b3b84610385d490fd492cc1ce1b9a6b4",
+    "pages": 250,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      76
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/14_Combined_Addendum_2.txt"
+  },
+  {
+    "id": "file_00000000958c821095775862687d4d34",
+    "name": "Combined_Addendum_1 (1).pdf",
+    "path": "/workspace/attachments/5230b481-4f31-4d3c-9e12-8a81acf3701c/Combined_Addendum_1 (1).pdf",
+    "bytes": 27334275,
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "pages": 285,
+    "prior_matches": [],
+    "duplicate_in_batch": null,
+    "low_text_pages": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "text_path": "/workspace/project-review/p8_extracts/15_Combined_Addendum_1 (1).txt"
+  },
+  {
+    "id": "file_000000001d24821096e482345f95194d",
+    "name": "Combined_Addendum_1.pdf",
+    "path": "/workspace/attachments/65383d6b-5619-4b62-bdbd-95005a032495/Combined_Addendum_1.pdf",
+    "bytes": 27334275,
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "pages": 285,
+    "prior_matches": [],
+    "duplicate_in_batch": "Combined_Addendum_1 (1).pdf",
+    "low_text_pages": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+
+=== PDF PAGE 1 ===
+S    For Indian Bidders                            For Foreign Bidders
+No.
+1     Definition of Import Content: Total value of   Definition of local content: Total value of
+     goods,  works,  or  services  sourced  from  goods, works, or services sourced in India
+      outside India                                   including Indian Agent Commission and
+                                                   excluding GST
+
+                                                   Advisory Note: The declared local content
+                                             above should not be lower than the "Local
+                                                Content  confirmed  under  the  Public
+                                               Procurement  (Preference  to  Make  in
+                                                      India)  (PPP-MII)  Order,  2017,  dated
+                                                19.07.2024 (as amended from time to
+                                                       time),  issued by  the Department  for
+                                                Promotion of Industry and Internal Trade
+                                                     (DPIIT), Government  of  India,  under
+                                               Order  No.  P-45021/2/2017-PP(BE-II)-
+                                                      Part(4) Vol.II
+2     Indian bidders are required to quote in INR   Foreign bidders can quote the price and
+      only. However, Indian bidders can quote and   receive payments either in Indian Rupees
+      receive payment in foreign currency to the   or US Dollars or Euros or Pound Sterling
+      extent  of  their  import  content  indicated   or Yen or other relevant currencies, or a
+     above. The payment towards GST  will be  combination thereof. However, prices for
+    made by ONGC  in Indian rupees as per  goods,  works,  or  services  (including
+      actuals.                                      Indian Agent Commission) sourced  in
+                                                     India must be quoted and shall be paid
+                                             by ONGC only in Indian Rupees to the
+                                                   extent of their Local Content indicated in
+                                                   the  bid.  In  all  cases,  Indian  Agent
+                                              commission shall be paid in INR only.
+3    The bidder shall specify the foreign currency  Payments    toward   each    invoice,
+       in which payment for the declared import  corresponding   to  the   local  content
+      content is requested. Payment against each   specified in the bid, shall be made in INR.
+      invoice, limited to the declared import content  The local content portion /percentage will
+      portion, shall be made in specified foreign  be deducted from forex invoice value (as
+      currency.     The      import      content  per contractual rates) and paid in INR.
+      portion/percentage will be deducted from INR  Conversion  from  the  quoted  foreign
+      invoice value and paid in foreign currency.  currency to INR shall be carried out based
+      Foreign currency conversion from INR for the  on the following:
+     purpose of payment of the declared import
+      content will be governed as follows:
+
+           a. The  closing currency exchange  rate as
+              applicable on the day prior to the price bid   a. The  closing  currency exchange  rate as
+            opening as per "Daily" Closing exchange       applicable on the day prior to the price bid
+              rate  published  on  Thomson  Reuters      opening as per "Daily" Closing exchange
+              internet                                    site       rate  published  on  Thomson  Reuters
+              https://in.reuters.com/markets/currencies,       internet                                    site
+
+=== PDF PAGE 2 ===
+              upto three places of decimal, will be taken       https://in.reuters.com/markets/currencies,
+                 into account for conversion of INR into      upto three places of decimal, will be taken
+                foreign  currency.  The  exchange  rates       into  account  for  conversion  of  foreign
+               presently  appearing on  the  right-hand       currency   into   Indian   Rupees.  The
+               corner of the exchange rate chart of the      exchange rates presently appearing on the
+                said internet site shall be considered as       right-hand corner of the exchange rate
+                                                                   chart of the said  internet  site  shall be                closing rate for the day.
+                                                               considered as closing rate for the day.
+            b. Where the time lag between opening of
+                                                                 b. Where the time lag between opening of                price bid and final decision exceeds three
+                                                                      price bid and final decision exceeds three             months, the currency exchange rate as
+                                                           months, the currency exchange rate as
+             above on the day prior to date of final                                                         above on the day prior to date of  final
+                decision will be adopted for conversion of                                                                    decision will be adopted for conversion of
+            INR into Foreign Currency.                                                                    foreign currency into Indian Rupees.
+
+
+Existing Provision                             ModifiedProvision
+PercentageofLocalContent(LC)asperthePPP-MIIpolicy %ofLocalContent[pricesforgoods,works,or
+in the bid of ____________ (name of bidder) is ______  services including Indian Agent Commission
+%.                                               sourced in India] For foreign bidders is
+                                             ______%.
+Percentage of Import Content (IC) in the bid is % of Import Content (for Indian bidders) is
+____________%.                               _____%.

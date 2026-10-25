@@ -1,0 +1,51 @@
+silat sh
+OnGC
+
+Offshore Design Section
+Engineering Services
+ISO - 9001:2008
+
+FUNCTIONAL Spec. No. | Z009F
+SPECIFICATION FOR R =
+. ev. No. [1
+Welding of Duplex Stainless Discipline | GA & Welding
+Steel Page: 6 OF 7
+
+6.1 No fabrication shall start until the Company has approved the chemistry of the
+
+materials, the results of welding procedure qualification tests and welders are
+
+qualified as per the approved procedure.
+
+6.2
+
+6.2
+
+6.2
+
+Working practices shall be designed to minimize contamination and before
+welding, internal and external surfaces shall be cleaned for a distance of at least
+50mm from the fusion face.
+
+In production welding the heat input shall be monitored and the same shall not
+deviate from the qualified WPS by more than +/- 10%.
+
+Production/Fabrication Tests
+Shop/Site Fabrication Tests for each weld shall include :
+- Non — destructive hardness tests by portable hardness tester
+- Radiography
+- DPI/MP Examination
+- Ferrite Measurement by either
+a) Magnegage method (extended range, according to Kotecki)
+OR
+
+b) Forster Probe Method.
+
+FORMAT NG:
+
+Tat PROEDURE Na, BSUENS, TEVA, TEVA:
+
+DOSSORDOS
+
+GOS SOP OR. oF oo 21.07.2010
+

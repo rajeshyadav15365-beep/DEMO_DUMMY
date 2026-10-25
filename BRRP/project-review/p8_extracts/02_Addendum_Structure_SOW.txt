@@ -1,0 +1,20 @@
+
+=== PDF PAGE 1 ===
+                      Addendum to Structure Scope of Work
+
+Following strengthening measures are to be carried out before installation of new bridges:
+
+  Sl. No.  Platform                          Strengthening Required
+        Name
+ 1       ICG      One member (660 X 12.7 mm) at Jacket walkway level (El +6.96 m) along Row
+                B between Rows 2 and 3 (15m Length) shall be strengthened with 10 mm thick
+                 wrap plate (4 Quarters) through the entire length of 15m.
+
+ 2        ICP      One member (762 X 16 mm) at Jacket walkway level (El +7.8 m) along Row 1
+                 between Rows A and B (13.5m Length) shall be strengthened with 12 mm thick
+                 wrap plate (4 Quarters) through the entire length of 13.5m.
+
+ 3      BHS     One plan brace member (457 X 12.7 mm) at Jacket walkway level (El +6.272 m)
+                    supporting the fire water caissons near Leg B1 (3 m Length portion near to fire
+                   water caisson supports only) shall be strengthened with 10mm thick wrap
+                      plate (4 Quarters).

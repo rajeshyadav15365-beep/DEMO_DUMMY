@@ -1,0 +1,96 @@
+seas ONSA UMITED
+
+GEN SERPS ISR «(A Gent ina Unig)
+
+INSPECTION AND TEST PLAN
+FOR MEDIUM AND HIGH
+VOLTAGE CABLES & ACCESSORIES
+
+STANDARD SPECIFICATION NO.
+
+6-81-1051 Rev. 4
+Page 5 of 6
+
+SL
+
+NO.
+
+STAGE/ ACTIVITY
+
+CHARACTERISTICS
+
+QUANTUM OF
+CHECK
+
+RECORD
+
+SCOPE OF INSPECTION
+
+SUB
+SUPPLIER SUPPLIER | EIL/TPIA
+
+44
+
+Finished Cable
+(Special tests)
+
+Flammability test as per IS 10810 part 61
+& part 62 / IEC 60332 Part 1 & part 3
+Smoke density test (for FRLS outer sheet)
+Acid Gas generation (for FRLS outer sheet)
+Accelerated water absorption test as per
+NEMA (Electrical method ) as applicable #
+Test for resistance to Ultra Violet
+Radiation #
+
+Oxygen Index and temperature index test
+as per ASTM D2863
+
+Rodent & Termite repulsion check
+
+Test for circuit integrity for fire survival
+cables as per IEC
+
+Drum length /surface finish/color/marking
+check by re-winding (1 or 2 drums)
+
+For ladder test
+(1 sample/order)
+
+1 Sample/Lot
+
+Inspection test
+records
+
+H H/R**
+
+4.5.
+
+Finished Cable
+(Type tests **)
+
+Dielectric Retention.
+
+Type tests on PVC insulation and Sheath
+High Voltage test (Water Immersion) for
+HT cable
+
+Dielectric power factor tests as function of
+voltage, temperature. (HT cables)
+
+Heating cycle test ( HT Cables)
+
+Impulse withstand test ( HT Cables)
+
+Short circuit test on conductor and screen
+(CHT Cable )
+
+On Similar type
+cable
+
+Test Records
+
+Format No. 8-00-0001-F7 Rev. 0
+
+Copyright EIL — All rights reserved
+

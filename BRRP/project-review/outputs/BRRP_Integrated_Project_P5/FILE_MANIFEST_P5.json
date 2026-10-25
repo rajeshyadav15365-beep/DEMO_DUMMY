@@ -1,0 +1,117 @@
+[
+  {
+    "file": "BRRP_P5_AFC_Preparation_Review_Forms.docx",
+    "bytes": 39070,
+    "sha256": "cb623e5cc88c8db97e26b8bcbe64a1524d2f388f3486ac55a05c085d71d28a67"
+  },
+  {
+    "file": "BRRP_P5_Critical_Path_and_Project_Review.pdf",
+    "bytes": 11281,
+    "sha256": "933e588d3fe8b6260a44842d07013990f7465f39fcc2ee5a1042a09c5d146cd6"
+  },
+  {
+    "file": "BRRP_P5_Critical_Path_and_Project_Review_preview.png",
+    "bytes": 107932,
+    "sha256": "1a6b97ceb72a82d74955899f94a0641ae6b6d4d2c116dd8ef9af06f83c663e92"
+  },
+  {
+    "file": "BRRP_P5_Integrated_Project_Control.xlsx",
+    "bytes": 106221,
+    "sha256": "18148824f6e9fc965b1c1d24e14ffeb2ce5fdc00ddcc0574844b2116d84fd3b6"
+  },
+  {
+    "file": "BRRP_P5_Integrated_Project_Execution_Plan.docx",
+    "bytes": 73445,
+    "sha256": "b0ad5b9fc64ac53b1233dfe224a9c48fef2937aed827af128f5d8bd32d38ba20"
+  },
+  {
+    "file": "BRRP_P5_Overall_Project_Schedule.pdf",
+    "bytes": 5151,
+    "sha256": "a0baa972784650afd2de519cb3d07ce53f7b0d816aa05072580f87b972cc90b3"
+  },
+  {
+    "file": "BRRP_P5_Overall_Project_Schedule_preview.png",
+    "bytes": 178647,
+    "sha256": "8ba9108bc7f27a038537ac50787db3e188987df0dd252283a80d987d62ea909b"
+  },
+  {
+    "file": "Detailed_Schedule.csv",
+    "bytes": 37830,
+    "sha256": "bc5027cdc465b3fe76f26316c054f4d3b21589b10208b3f679279a9277111ed6"
+  },
+  {
+    "file": "Engineering_Development_P4/BRRP_P4_Calculation_Snapshot.csv",
+    "bytes": 350,
+    "sha256": "eb746725347be1e1b529cbafcf599dc79d80f1a2e90390d7664baddb91268f98"
+  },
+  {
+    "file": "Engineering_Development_P4/BRRP_P4_Design_Development_Calculations.xlsx",
+    "bytes": 20205,
+    "sha256": "cb1d60d07a1c278f0e0eeded48bfcaea72fc10c36ee28f431f5406deba047684"
+  },
+  {
+    "file": "Engineering_Development_P4/BRRP_P4_Design_Development_Report.docx",
+    "bytes": 43957,
+    "sha256": "9b70633a747c04a518f93fba5dc26de9418e715bffac2207e115cb44cdcdbbdf"
+  },
+  {
+    "file": "Engineering_Development_P4/BRRP_P4_Drawings_With_Tender_Landing_Appendix.pdf",
+    "bytes": 4353144,
+    "sha256": "1a3bacd237d67f3552a96db1708faa8c3b46b2002b01466f74c40530f98fdfe2"
+  },
+  {
+    "file": "P5_integrated_data.json",
+    "bytes": 327242,
+    "sha256": "db5ae0bd5b6f188d50c930d1b86184d059aef0b916818293e3a07b5b8406f1ed"
+  },
+  {
+    "file": "P5_publication_meta.json",
+    "bytes": 11749,
+    "sha256": "61b2d186dc2a216ef5d5a9362f374edcea694fb989fc8c30227005d3bca0d9a7"
+  },
+  {
+    "file": "P5_register_data.json",
+    "bytes": 99211,
+    "sha256": "ceeb4de6f86c67bbb03837ac0dfb773d72d7266e47e01ce2e59c86a397321ade"
+  },
+  {
+    "file": "README_P5.txt",
+    "bytes": 1475,
+    "sha256": "d26d5b8296b71f14729fd0de140300dc6f79d5cd9ee4e5a0b42cb2623440dd15"
+  },
+  {
+    "file": "Reproduction_Scripts/beautify_p5.py",
+    "bytes": 8319,
+    "sha256": "52be681aeb16282ac7f86d1f2b4789151ad912338531ed1843cc5754e58c6e6b"
+  },
+  {
+    "file": "Reproduction_Scripts/build_p5_data.py",
+    "bytes": 14047,
+    "sha256": "788296da27f28402840ade1e302fe3e868414c2ab4bc3fb637c1ef45a57d239c"
+  },
+  {
+    "file": "Reproduction_Scripts/build_p5_registers.py",
+    "bytes": 18163,
+    "sha256": "4b6951d887ceea15a41938b07c1bb791feb8610564869f4cc2fa7cd60b3bc940"
+  },
+  {
+    "file": "Reproduction_Scripts/publish_p5_package.py",
+    "bytes": 39221,
+    "sha256": "d7612b8c2e8a6f95186a7305cbbfb42fb1f1e1f2423ff2f480deb87b50ba20bf"
+  },
+  {
+    "file": "Reproduction_Scripts/render_p5_reviews.py",
+    "bytes": 13701,
+    "sha256": "61356a8fab3ef5348fa76715e3149f98bab581e30485467340c8aee2ea24258a"
+  },
+  {
+    "file": "Two_Crew_Scenario.csv",
+    "bytes": 38269,
+    "sha256": "f2201a1ea5237f8bf2be80fee87899a8d626ed833e1865fbb705b942ca1c0d93"
+  },
+  {
+    "file": "VALIDATION_P5.txt",
+    "bytes": 363,
+    "sha256": "2f062361d5f1bea1682c21262a7b1eadc664f08b9271f3f56cdc06b7a7836519"
+  }
+]

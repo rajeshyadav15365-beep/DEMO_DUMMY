@@ -1,0 +1,51 @@
+i] | Offshore Design Section FUNCTIONAL Spec. No. 2008F
+im | Engineering Services SPECIFICATION FOR Disci line QA & Weldin
+Pissed! | iSO — 9001:2008 Welding & NDT P 8
+
+Page: 36 OF 36
+
+Additionally, AUT operators shall have received a sufficient level of training of Automated Ultrasonic
+Testing, including practical and theoretical aspects applicable to the equipment and configuration to be
+examined. This training shall be documented and will be verified by the Company.
+
+PL4.8. Repair Welding
+
+Repair welding shall be performed in accordance with a qualified repair welding procedure.
+
+After
+
+grinding / gouging, Magnetic particle testing or liquid penetrant testing of non-ferromagnetic materials
+
+shall be performed to verify complete removal of defects before commencing weld repairs.
+Pre-heat for repair welding shall be 50°C more than that used for production welding.
+
+Only two times repairs are allowed on any joint.
+
+If the repair welding station is after the pipe tensioner, a weld repair analysis shall be carried out.
+
+The analysis shall determine the maximum allowable excavation length and depth combinations taking
+in to account all stresses acting at the area of the repair. The weld repair analysis shall be subject to
+
+agreement.
+
+PL4.9. Other Materials
+
+For materials other than CS & CS NACE, contractor shall prepare various procedures like WPS,
+NDT ete. and shall submit for Company’s review and approval.
+
+FORKING.
+
+Ral PROCEDURE Wo.
+
+ESUENE. REVI:
+
+REVDATE:
+
+GDSSORDOE
+
+‘ODSISORIO
+
+oF cm
+
+2.072010
+

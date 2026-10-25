@@ -1,0 +1,7 @@
+Correction to P0: uploaded bridge reports contain preliminary replacement-study lengths and model figures. P1 incorporates these source references; dimensioned B774 fabrication GAs remain unlocated.
+ICW: gap54.5m/model56m; ICP: gap80.5m/model84m; BHS: gap40m/model42m. These are different quantities.
+Walkway widths are loading assumptions, not overall structural widths.
+BHS report corroborates fixed SLQ intent but does not remove the SOW conflict.
+Wind gust durations differ between reports; do not adopt speeds without reconciling the design basis.
+ICW report live-load table156.25kN vs SACS summary144.69kN requires reconciliation. ICP report model84m/walkway1.2m/live load288kN also requires area/load reconciliation; no correction assumed.
+Detailed member, connection, bearing, fatigue and temporary-condition checks remain required.

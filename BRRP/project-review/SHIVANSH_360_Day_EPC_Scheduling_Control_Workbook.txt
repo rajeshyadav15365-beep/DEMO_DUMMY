@@ -1,0 +1,638 @@
+
+SHEET START HERE
+Topic | Instruction / planning basis
+Purpose | Editable pre-award planning and controls workbook for ten ONGC offshore bridge packages. Not a validated contractual CPM.
+Status | PRE-AWARD / PROVISIONAL. Do not use activity windows as construction authorisation.
+Project duration | 360 relative days; Day 1 is not yet contractually established.
+Quantity baseline | 1,141 MT bridge-wise sum; 1,142 MT printed total discrepancy remains open. Demolition 357 MT provisional.
+Editing | Update Master Activities first; use discipline views as templates. Enter actual quantities, progress and resource budgets after verification.
+Scheduling | Day columns are provisional target windows; detailed dependencies, calendars, float and resource levelling must be validated in ProjectLibre or equivalent.
+Safety | All lift plans, temporary works, demolition, isolations and offshore operations require competent engineering and ONGC approval.
+Source | Compiled from prior conversation planning assumptions, not re-extracted from controlling tender/MTO in this deliverable.
+Software | ProjectLibre Desktop official documentation: https://projectlibre.com/projectlibre-documentation/
+
+SHEET Bridge Baseline
+Bridge ID | Provisional MT | Work Type | Team | MTO Status | Lift Pieces | Weld m | Coating m2 | Demolition MT | Engineering Release
+ICW-ICG-LD | 122 | Installation | C | Verify against MTO |  |  |  |  | Pending
+ICG-ICP-LD | 160 | Installation | C | Verify against MTO |  |  |  |  | Pending
+BHS-SLQ | 282 | Replacement | C | Verify against MTO |  |  |  | 357 | Pending
+ICW-ICG-UD | 49 | Strengthening | A | Verify against MTO |  |  |  |  | Pending
+ICG-ICP-UD | 116 | Strengthening | A | Verify against MTO |  |  |  |  | Pending
+SLQ-WIS | 91 | Strengthening | A | Verify against MTO |  |  |  |  | Pending
+NQO-NQD | 93 | Strengthening | B | Verify against MTO |  |  |  |  | Pending
+WIN-NC | 46 | Strengthening | B | Verify against MTO |  |  |  |  | Pending
+SCA-SC1 | 63 | Strengthening | B | Verify against MTO |  |  |  |  | Pending
+SCA-SCF | 119 | Strengthening | B | Verify against MTO |  |  |  |  | Pending
+
+SHEET Master Activities
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-01 | ICW-ICG-LD | Installation | C | Engineering | Existing-condition survey |  | FS | 1 | 28 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-02 | ICW-ICG-LD | Installation | C | Engineering | Design basis and interface verification | ICW-ICG-LD-01 | FS | 15 | 38 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-03 | ICW-ICG-LD | Installation | C | Engineering | Detailed structural and temporary works engineering | ICW-ICG-LD-02 | FS | 28 | 92 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-04 | ICW-ICG-LD | Installation | C | Engineering | Fabrication drawing release | ICW-ICG-LD-03 | FS | 48 | 105 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-05 | ICW-ICG-LD | Installation | C | Procurement | Material requisitions and vendor approval |  | FS | 28 | 55 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-06 | ICW-ICG-LD | Installation | C | Procurement | Steel purchasing and delivery | ICW-ICG-LD-05 | FS | 48 | 110 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-07 | ICW-ICG-LD | Installation | C | Fabrication | Cutting and material preparation |  | FS | 75 | 105 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-08 | ICW-ICG-LD | Installation | C | Fabrication | Assembly and fit-up | ICW-ICG-LD-07 | FS | 90 | 135 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-09 | ICW-ICG-LD | Installation | C | Fabrication | Shop welding | ICW-ICG-LD-08 | FS | 103 | 148 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-10 | ICW-ICG-LD | Installation | C | Quality | NDT and dimensional acceptance |  | FS | 120 | 157 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-11 | ICW-ICG-LD | Installation | C | Quality | Blast, coat and preserve | ICW-ICG-LD-10 | FS | 135 | 165 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-12 | ICW-ICG-LD | Installation | C | Logistics | Module weight COG and loadout engineering |  | FS | 90 | 162 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-13 | ICW-ICG-LD | Installation | C | Logistics | Cargo manifest and shore base transfer | ICW-ICG-LD-12 | FS | 135 | 175 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-14 | ICW-ICG-LD | Installation | C | Marine | Vessel technical selection and assurance |  | FS | 45 | 135 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-15 | ICW-ICG-LD | Installation | C | Marine | Marine mobilisation and readiness | ICW-ICG-LD-14 | FS | 130 | 170 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-16 | ICW-ICG-LD | Installation | C | Offshore | Access and permit readiness |  | FS | 75 | 155 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-18 | ICW-ICG-LD | Installation | C | Offshore | Structural fit-up or landing | ICW-ICG-LD-16 | FS | 125 | 215 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-19 | ICW-ICG-LD | Installation | C | Offshore | Connection welding and bolting | ICW-ICG-LD-18 | FS | 140 | 230 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-20 | ICW-ICG-LD | Installation | C | Offshore | Inspection and coating restoration | ICW-ICG-LD-19 | FS | 160 | 250 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-21 | ICW-ICG-LD | Installation | C | Closeout | Punch closure and dossier |  | FS | 235 | 320 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-22 | ICW-ICG-LD | Installation | C | Closeout | Client acceptance and final handover | ICW-ICG-LD-21 | FS | 300 | 350 | 51 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-01 | ICG-ICP-LD | Installation | C | Engineering | Existing-condition survey |  | FS | 29 | 56 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-02 | ICG-ICP-LD | Installation | C | Engineering | Design basis and interface verification | ICG-ICP-LD-01 | FS | 43 | 66 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-03 | ICG-ICP-LD | Installation | C | Engineering | Detailed structural and temporary works engineering | ICG-ICP-LD-02 | FS | 56 | 120 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-04 | ICG-ICP-LD | Installation | C | Engineering | Fabrication drawing release | ICG-ICP-LD-03 | FS | 76 | 133 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-05 | ICG-ICP-LD | Installation | C | Procurement | Material requisitions and vendor approval |  | FS | 56 | 83 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-06 | ICG-ICP-LD | Installation | C | Procurement | Steel purchasing and delivery | ICG-ICP-LD-05 | FS | 76 | 138 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-07 | ICG-ICP-LD | Installation | C | Fabrication | Cutting and material preparation |  | FS | 103 | 133 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-08 | ICG-ICP-LD | Installation | C | Fabrication | Assembly and fit-up | ICG-ICP-LD-07 | FS | 118 | 163 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-09 | ICG-ICP-LD | Installation | C | Fabrication | Shop welding | ICG-ICP-LD-08 | FS | 131 | 176 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-10 | ICG-ICP-LD | Installation | C | Quality | NDT and dimensional acceptance |  | FS | 148 | 185 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-11 | ICG-ICP-LD | Installation | C | Quality | Blast, coat and preserve | ICG-ICP-LD-10 | FS | 163 | 193 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-12 | ICG-ICP-LD | Installation | C | Logistics | Module weight COG and loadout engineering |  | FS | 118 | 190 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-13 | ICG-ICP-LD | Installation | C | Logistics | Cargo manifest and shore base transfer | ICG-ICP-LD-12 | FS | 163 | 203 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-14 | ICG-ICP-LD | Installation | C | Marine | Vessel technical selection and assurance |  | FS | 73 | 163 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-15 | ICG-ICP-LD | Installation | C | Marine | Marine mobilisation and readiness | ICG-ICP-LD-14 | FS | 158 | 198 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-16 | ICG-ICP-LD | Installation | C | Offshore | Access and permit readiness |  | FS | 103 | 183 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-18 | ICG-ICP-LD | Installation | C | Offshore | Structural fit-up or landing | ICG-ICP-LD-16 | FS | 153 | 243 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-19 | ICG-ICP-LD | Installation | C | Offshore | Connection welding and bolting | ICG-ICP-LD-18 | FS | 168 | 258 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-20 | ICG-ICP-LD | Installation | C | Offshore | Inspection and coating restoration | ICG-ICP-LD-19 | FS | 188 | 278 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-21 | ICG-ICP-LD | Installation | C | Closeout | Punch closure and dossier |  | FS | 263 | 348 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-22 | ICG-ICP-LD | Installation | C | Closeout | Client acceptance and final handover | ICG-ICP-LD-21 | FS | 328 | 355 | 28 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-01 | BHS-SLQ | Replacement | C | Engineering | Existing-condition survey |  | FS | 61 | 88 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-02 | BHS-SLQ | Replacement | C | Engineering | Design basis and interface verification | BHS-SLQ-01 | FS | 75 | 98 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-03 | BHS-SLQ | Replacement | C | Engineering | Detailed structural and temporary works engineering | BHS-SLQ-02 | FS | 88 | 152 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-04 | BHS-SLQ | Replacement | C | Engineering | Fabrication drawing release | BHS-SLQ-03 | FS | 108 | 165 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-05 | BHS-SLQ | Replacement | C | Procurement | Material requisitions and vendor approval |  | FS | 88 | 115 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-06 | BHS-SLQ | Replacement | C | Procurement | Steel purchasing and delivery | BHS-SLQ-05 | FS | 108 | 170 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-07 | BHS-SLQ | Replacement | C | Fabrication | Cutting and material preparation |  | FS | 135 | 165 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-08 | BHS-SLQ | Replacement | C | Fabrication | Assembly and fit-up | BHS-SLQ-07 | FS | 150 | 195 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-09 | BHS-SLQ | Replacement | C | Fabrication | Shop welding | BHS-SLQ-08 | FS | 163 | 208 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-10 | BHS-SLQ | Replacement | C | Quality | NDT and dimensional acceptance |  | FS | 180 | 217 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-11 | BHS-SLQ | Replacement | C | Quality | Blast, coat and preserve | BHS-SLQ-10 | FS | 195 | 225 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-12 | BHS-SLQ | Replacement | C | Logistics | Module weight COG and loadout engineering |  | FS | 150 | 222 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-13 | BHS-SLQ | Replacement | C | Logistics | Cargo manifest and shore base transfer | BHS-SLQ-12 | FS | 195 | 235 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-14 | BHS-SLQ | Replacement | C | Marine | Vessel technical selection and assurance |  | FS | 105 | 195 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-15 | BHS-SLQ | Replacement | C | Marine | Marine mobilisation and readiness | BHS-SLQ-14 | FS | 190 | 230 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-16 | BHS-SLQ | Replacement | C | Offshore | Access and permit readiness |  | FS | 135 | 215 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-17 | BHS-SLQ | Replacement | C | Offshore | Temporary access and works | BHS-SLQ-16 | FS | 160 | 250 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-18 | BHS-SLQ | Replacement | C | Offshore | Structural fit-up or landing | BHS-SLQ-17 | FS | 185 | 275 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-19 | BHS-SLQ | Replacement | C | Offshore | Connection welding and bolting | BHS-SLQ-18 | FS | 200 | 290 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-20 | BHS-SLQ | Replacement | C | Offshore | Inspection and coating restoration | BHS-SLQ-19 | FS | 220 | 310 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-21 | BHS-SLQ | Replacement | C | Closeout | Punch closure and dossier |  | FS | 295 | 355 | 61 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-22 | BHS-SLQ | Replacement | C | Closeout | Client acceptance and final handover | BHS-SLQ-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-SP64 | BHS-SLQ | Replacement | C | Demolition | Operational isolation and service transfer |  | FS | 165 | 192 | 28 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+BHS-SLQ-SP65 | BHS-SLQ | Replacement | C | Demolition | Engineered demolition and removal |  | FS | 210 | 240 | 31 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+BHS-SLQ-SP66 | BHS-SLQ | Replacement | C | Demolition | Backload and disposal |  | FS | 225 | 260 | 36 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+ICW-ICG-UD-01 | ICW-ICG-UD | Strengthening | A | Engineering | Existing-condition survey |  | FS | 1 | 28 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-02 | ICW-ICG-UD | Strengthening | A | Engineering | Design basis and interface verification | ICW-ICG-UD-01 | FS | 15 | 38 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-03 | ICW-ICG-UD | Strengthening | A | Engineering | Detailed structural and temporary works engineering | ICW-ICG-UD-02 | FS | 28 | 92 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-04 | ICW-ICG-UD | Strengthening | A | Engineering | Fabrication drawing release | ICW-ICG-UD-03 | FS | 48 | 105 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-05 | ICW-ICG-UD | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 28 | 55 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-06 | ICW-ICG-UD | Strengthening | A | Procurement | Steel purchasing and delivery | ICW-ICG-UD-05 | FS | 48 | 110 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-07 | ICW-ICG-UD | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 75 | 105 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-08 | ICW-ICG-UD | Strengthening | A | Fabrication | Assembly and fit-up | ICW-ICG-UD-07 | FS | 90 | 135 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-09 | ICW-ICG-UD | Strengthening | A | Fabrication | Shop welding | ICW-ICG-UD-08 | FS | 103 | 148 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-10 | ICW-ICG-UD | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 120 | 157 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-11 | ICW-ICG-UD | Strengthening | A | Quality | Blast, coat and preserve | ICW-ICG-UD-10 | FS | 135 | 165 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-13 | ICW-ICG-UD | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 135 | 175 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-14 | ICW-ICG-UD | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 45 | 135 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-16 | ICW-ICG-UD | Strengthening | A | Offshore | Access and permit readiness |  | FS | 60 | 140 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-17 | ICW-ICG-UD | Strengthening | A | Offshore | Temporary access and works | ICW-ICG-UD-16 | FS | 85 | 175 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-18 | ICW-ICG-UD | Strengthening | A | Offshore | Structural fit-up or landing | ICW-ICG-UD-17 | FS | 110 | 200 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-19 | ICW-ICG-UD | Strengthening | A | Offshore | Connection welding and bolting | ICW-ICG-UD-18 | FS | 125 | 215 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-20 | ICW-ICG-UD | Strengthening | A | Offshore | Inspection and coating restoration | ICW-ICG-UD-19 | FS | 145 | 235 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-21 | ICW-ICG-UD | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 235 | 320 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-22 | ICW-ICG-UD | Strengthening | A | Closeout | Client acceptance and final handover | ICW-ICG-UD-21 | FS | 300 | 350 | 51 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-01 | ICG-ICP-UD | Strengthening | A | Engineering | Existing-condition survey |  | FS | 13 | 40 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-02 | ICG-ICP-UD | Strengthening | A | Engineering | Design basis and interface verification | ICG-ICP-UD-01 | FS | 27 | 50 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-03 | ICG-ICP-UD | Strengthening | A | Engineering | Detailed structural and temporary works engineering | ICG-ICP-UD-02 | FS | 40 | 104 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-04 | ICG-ICP-UD | Strengthening | A | Engineering | Fabrication drawing release | ICG-ICP-UD-03 | FS | 60 | 117 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-05 | ICG-ICP-UD | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 40 | 67 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-06 | ICG-ICP-UD | Strengthening | A | Procurement | Steel purchasing and delivery | ICG-ICP-UD-05 | FS | 60 | 122 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-07 | ICG-ICP-UD | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 87 | 117 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-08 | ICG-ICP-UD | Strengthening | A | Fabrication | Assembly and fit-up | ICG-ICP-UD-07 | FS | 102 | 147 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-09 | ICG-ICP-UD | Strengthening | A | Fabrication | Shop welding | ICG-ICP-UD-08 | FS | 115 | 160 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-10 | ICG-ICP-UD | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 132 | 169 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-11 | ICG-ICP-UD | Strengthening | A | Quality | Blast, coat and preserve | ICG-ICP-UD-10 | FS | 147 | 177 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-13 | ICG-ICP-UD | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 147 | 187 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-14 | ICG-ICP-UD | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 57 | 147 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-16 | ICG-ICP-UD | Strengthening | A | Offshore | Access and permit readiness |  | FS | 72 | 152 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-17 | ICG-ICP-UD | Strengthening | A | Offshore | Temporary access and works | ICG-ICP-UD-16 | FS | 97 | 187 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-18 | ICG-ICP-UD | Strengthening | A | Offshore | Structural fit-up or landing | ICG-ICP-UD-17 | FS | 122 | 212 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-19 | ICG-ICP-UD | Strengthening | A | Offshore | Connection welding and bolting | ICG-ICP-UD-18 | FS | 137 | 227 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-20 | ICG-ICP-UD | Strengthening | A | Offshore | Inspection and coating restoration | ICG-ICP-UD-19 | FS | 157 | 247 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-21 | ICG-ICP-UD | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 247 | 332 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-22 | ICG-ICP-UD | Strengthening | A | Closeout | Client acceptance and final handover | ICG-ICP-UD-21 | FS | 312 | 355 | 44 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-01 | SLQ-WIS | Strengthening | A | Engineering | Existing-condition survey |  | FS | 25 | 52 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-02 | SLQ-WIS | Strengthening | A | Engineering | Design basis and interface verification | SLQ-WIS-01 | FS | 39 | 62 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-03 | SLQ-WIS | Strengthening | A | Engineering | Detailed structural and temporary works engineering | SLQ-WIS-02 | FS | 52 | 116 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-04 | SLQ-WIS | Strengthening | A | Engineering | Fabrication drawing release | SLQ-WIS-03 | FS | 72 | 129 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-05 | SLQ-WIS | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 52 | 79 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-06 | SLQ-WIS | Strengthening | A | Procurement | Steel purchasing and delivery | SLQ-WIS-05 | FS | 72 | 134 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-07 | SLQ-WIS | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 99 | 129 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-08 | SLQ-WIS | Strengthening | A | Fabrication | Assembly and fit-up | SLQ-WIS-07 | FS | 114 | 159 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-09 | SLQ-WIS | Strengthening | A | Fabrication | Shop welding | SLQ-WIS-08 | FS | 127 | 172 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-10 | SLQ-WIS | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 144 | 181 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-11 | SLQ-WIS | Strengthening | A | Quality | Blast, coat and preserve | SLQ-WIS-10 | FS | 159 | 189 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-13 | SLQ-WIS | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 159 | 199 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-14 | SLQ-WIS | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 69 | 159 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-16 | SLQ-WIS | Strengthening | A | Offshore | Access and permit readiness |  | FS | 84 | 164 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-17 | SLQ-WIS | Strengthening | A | Offshore | Temporary access and works | SLQ-WIS-16 | FS | 109 | 199 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-18 | SLQ-WIS | Strengthening | A | Offshore | Structural fit-up or landing | SLQ-WIS-17 | FS | 134 | 224 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-19 | SLQ-WIS | Strengthening | A | Offshore | Connection welding and bolting | SLQ-WIS-18 | FS | 149 | 239 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-20 | SLQ-WIS | Strengthening | A | Offshore | Inspection and coating restoration | SLQ-WIS-19 | FS | 169 | 259 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-21 | SLQ-WIS | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 259 | 344 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-22 | SLQ-WIS | Strengthening | A | Closeout | Client acceptance and final handover | SLQ-WIS-21 | FS | 324 | 355 | 32 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-01 | NQO-NQD | Strengthening | B | Engineering | Existing-condition survey |  | FS | 37 | 64 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-02 | NQO-NQD | Strengthening | B | Engineering | Design basis and interface verification | NQO-NQD-01 | FS | 51 | 74 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-03 | NQO-NQD | Strengthening | B | Engineering | Detailed structural and temporary works engineering | NQO-NQD-02 | FS | 64 | 128 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-04 | NQO-NQD | Strengthening | B | Engineering | Fabrication drawing release | NQO-NQD-03 | FS | 84 | 141 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-05 | NQO-NQD | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 64 | 91 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-06 | NQO-NQD | Strengthening | B | Procurement | Steel purchasing and delivery | NQO-NQD-05 | FS | 84 | 146 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-07 | NQO-NQD | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 111 | 141 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-08 | NQO-NQD | Strengthening | B | Fabrication | Assembly and fit-up | NQO-NQD-07 | FS | 126 | 171 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-09 | NQO-NQD | Strengthening | B | Fabrication | Shop welding | NQO-NQD-08 | FS | 139 | 184 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-10 | NQO-NQD | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 156 | 193 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-11 | NQO-NQD | Strengthening | B | Quality | Blast, coat and preserve | NQO-NQD-10 | FS | 171 | 201 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-13 | NQO-NQD | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 171 | 211 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-14 | NQO-NQD | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 81 | 171 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-16 | NQO-NQD | Strengthening | B | Offshore | Access and permit readiness |  | FS | 96 | 176 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-17 | NQO-NQD | Strengthening | B | Offshore | Temporary access and works | NQO-NQD-16 | FS | 121 | 211 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-18 | NQO-NQD | Strengthening | B | Offshore | Structural fit-up or landing | NQO-NQD-17 | FS | 146 | 236 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-19 | NQO-NQD | Strengthening | B | Offshore | Connection welding and bolting | NQO-NQD-18 | FS | 161 | 251 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-20 | NQO-NQD | Strengthening | B | Offshore | Inspection and coating restoration | NQO-NQD-19 | FS | 181 | 271 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-21 | NQO-NQD | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 271 | 355 | 85 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-22 | NQO-NQD | Strengthening | B | Closeout | Client acceptance and final handover | NQO-NQD-21 | FS | 336 | 355 | 20 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-01 | WIN-NC | Strengthening | B | Engineering | Existing-condition survey |  | FS | 49 | 76 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-02 | WIN-NC | Strengthening | B | Engineering | Design basis and interface verification | WIN-NC-01 | FS | 63 | 86 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-03 | WIN-NC | Strengthening | B | Engineering | Detailed structural and temporary works engineering | WIN-NC-02 | FS | 76 | 140 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-04 | WIN-NC | Strengthening | B | Engineering | Fabrication drawing release | WIN-NC-03 | FS | 96 | 153 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-05 | WIN-NC | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 76 | 103 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-06 | WIN-NC | Strengthening | B | Procurement | Steel purchasing and delivery | WIN-NC-05 | FS | 96 | 158 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-07 | WIN-NC | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 123 | 153 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-08 | WIN-NC | Strengthening | B | Fabrication | Assembly and fit-up | WIN-NC-07 | FS | 138 | 183 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-09 | WIN-NC | Strengthening | B | Fabrication | Shop welding | WIN-NC-08 | FS | 151 | 196 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-10 | WIN-NC | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 168 | 205 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-11 | WIN-NC | Strengthening | B | Quality | Blast, coat and preserve | WIN-NC-10 | FS | 183 | 213 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-13 | WIN-NC | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 183 | 223 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-14 | WIN-NC | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 93 | 183 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-16 | WIN-NC | Strengthening | B | Offshore | Access and permit readiness |  | FS | 108 | 188 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-17 | WIN-NC | Strengthening | B | Offshore | Temporary access and works | WIN-NC-16 | FS | 133 | 223 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-18 | WIN-NC | Strengthening | B | Offshore | Structural fit-up or landing | WIN-NC-17 | FS | 158 | 248 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-19 | WIN-NC | Strengthening | B | Offshore | Connection welding and bolting | WIN-NC-18 | FS | 173 | 263 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-20 | WIN-NC | Strengthening | B | Offshore | Inspection and coating restoration | WIN-NC-19 | FS | 193 | 283 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-21 | WIN-NC | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 283 | 355 | 73 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-22 | WIN-NC | Strengthening | B | Closeout | Client acceptance and final handover | WIN-NC-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-01 | SCA-SC1 | Strengthening | B | Engineering | Existing-condition survey |  | FS | 61 | 88 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-02 | SCA-SC1 | Strengthening | B | Engineering | Design basis and interface verification | SCA-SC1-01 | FS | 75 | 98 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-03 | SCA-SC1 | Strengthening | B | Engineering | Detailed structural and temporary works engineering | SCA-SC1-02 | FS | 88 | 152 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-04 | SCA-SC1 | Strengthening | B | Engineering | Fabrication drawing release | SCA-SC1-03 | FS | 108 | 165 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-05 | SCA-SC1 | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 88 | 115 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-06 | SCA-SC1 | Strengthening | B | Procurement | Steel purchasing and delivery | SCA-SC1-05 | FS | 108 | 170 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-07 | SCA-SC1 | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 135 | 165 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-08 | SCA-SC1 | Strengthening | B | Fabrication | Assembly and fit-up | SCA-SC1-07 | FS | 150 | 195 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-09 | SCA-SC1 | Strengthening | B | Fabrication | Shop welding | SCA-SC1-08 | FS | 163 | 208 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-10 | SCA-SC1 | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 180 | 217 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-11 | SCA-SC1 | Strengthening | B | Quality | Blast, coat and preserve | SCA-SC1-10 | FS | 195 | 225 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-13 | SCA-SC1 | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 195 | 235 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-14 | SCA-SC1 | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 105 | 195 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-16 | SCA-SC1 | Strengthening | B | Offshore | Access and permit readiness |  | FS | 120 | 200 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-17 | SCA-SC1 | Strengthening | B | Offshore | Temporary access and works | SCA-SC1-16 | FS | 145 | 235 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-18 | SCA-SC1 | Strengthening | B | Offshore | Structural fit-up or landing | SCA-SC1-17 | FS | 170 | 260 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-19 | SCA-SC1 | Strengthening | B | Offshore | Connection welding and bolting | SCA-SC1-18 | FS | 185 | 275 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-20 | SCA-SC1 | Strengthening | B | Offshore | Inspection and coating restoration | SCA-SC1-19 | FS | 205 | 295 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-21 | SCA-SC1 | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 295 | 355 | 61 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-22 | SCA-SC1 | Strengthening | B | Closeout | Client acceptance and final handover | SCA-SC1-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-01 | SCA-SCF | Strengthening | B | Engineering | Existing-condition survey |  | FS | 73 | 100 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-02 | SCA-SCF | Strengthening | B | Engineering | Design basis and interface verification | SCA-SCF-01 | FS | 87 | 110 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-03 | SCA-SCF | Strengthening | B | Engineering | Detailed structural and temporary works engineering | SCA-SCF-02 | FS | 100 | 164 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-04 | SCA-SCF | Strengthening | B | Engineering | Fabrication drawing release | SCA-SCF-03 | FS | 120 | 177 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-05 | SCA-SCF | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 100 | 127 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-06 | SCA-SCF | Strengthening | B | Procurement | Steel purchasing and delivery | SCA-SCF-05 | FS | 120 | 182 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-07 | SCA-SCF | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 147 | 177 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-08 | SCA-SCF | Strengthening | B | Fabrication | Assembly and fit-up | SCA-SCF-07 | FS | 162 | 207 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-09 | SCA-SCF | Strengthening | B | Fabrication | Shop welding | SCA-SCF-08 | FS | 175 | 220 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-10 | SCA-SCF | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 192 | 229 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-11 | SCA-SCF | Strengthening | B | Quality | Blast, coat and preserve | SCA-SCF-10 | FS | 207 | 237 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-13 | SCA-SCF | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 207 | 247 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-14 | SCA-SCF | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 117 | 207 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-16 | SCA-SCF | Strengthening | B | Offshore | Access and permit readiness |  | FS | 132 | 212 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-17 | SCA-SCF | Strengthening | B | Offshore | Temporary access and works | SCA-SCF-16 | FS | 157 | 247 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-18 | SCA-SCF | Strengthening | B | Offshore | Structural fit-up or landing | SCA-SCF-17 | FS | 182 | 272 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-19 | SCA-SCF | Strengthening | B | Offshore | Connection welding and bolting | SCA-SCF-18 | FS | 197 | 287 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-20 | SCA-SCF | Strengthening | B | Offshore | Inspection and coating restoration | SCA-SCF-19 | FS | 217 | 307 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-21 | SCA-SCF | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 307 | 355 | 49 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-22 | SCA-SCF | Strengthening | B | Closeout | Client acceptance and final handover | SCA-SCF-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Engineering
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-01 | ICW-ICG-LD | Installation | C | Engineering | Existing-condition survey |  | FS | 1 | 28 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-02 | ICW-ICG-LD | Installation | C | Engineering | Design basis and interface verification | ICW-ICG-LD-01 | FS | 15 | 38 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-03 | ICW-ICG-LD | Installation | C | Engineering | Detailed structural and temporary works engineering | ICW-ICG-LD-02 | FS | 28 | 92 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-04 | ICW-ICG-LD | Installation | C | Engineering | Fabrication drawing release | ICW-ICG-LD-03 | FS | 48 | 105 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-01 | ICG-ICP-LD | Installation | C | Engineering | Existing-condition survey |  | FS | 29 | 56 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-02 | ICG-ICP-LD | Installation | C | Engineering | Design basis and interface verification | ICG-ICP-LD-01 | FS | 43 | 66 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-03 | ICG-ICP-LD | Installation | C | Engineering | Detailed structural and temporary works engineering | ICG-ICP-LD-02 | FS | 56 | 120 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-04 | ICG-ICP-LD | Installation | C | Engineering | Fabrication drawing release | ICG-ICP-LD-03 | FS | 76 | 133 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-01 | BHS-SLQ | Replacement | C | Engineering | Existing-condition survey |  | FS | 61 | 88 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-02 | BHS-SLQ | Replacement | C | Engineering | Design basis and interface verification | BHS-SLQ-01 | FS | 75 | 98 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-03 | BHS-SLQ | Replacement | C | Engineering | Detailed structural and temporary works engineering | BHS-SLQ-02 | FS | 88 | 152 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-04 | BHS-SLQ | Replacement | C | Engineering | Fabrication drawing release | BHS-SLQ-03 | FS | 108 | 165 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-01 | ICW-ICG-UD | Strengthening | A | Engineering | Existing-condition survey |  | FS | 1 | 28 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-02 | ICW-ICG-UD | Strengthening | A | Engineering | Design basis and interface verification | ICW-ICG-UD-01 | FS | 15 | 38 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-03 | ICW-ICG-UD | Strengthening | A | Engineering | Detailed structural and temporary works engineering | ICW-ICG-UD-02 | FS | 28 | 92 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-04 | ICW-ICG-UD | Strengthening | A | Engineering | Fabrication drawing release | ICW-ICG-UD-03 | FS | 48 | 105 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-01 | ICG-ICP-UD | Strengthening | A | Engineering | Existing-condition survey |  | FS | 13 | 40 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-02 | ICG-ICP-UD | Strengthening | A | Engineering | Design basis and interface verification | ICG-ICP-UD-01 | FS | 27 | 50 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-03 | ICG-ICP-UD | Strengthening | A | Engineering | Detailed structural and temporary works engineering | ICG-ICP-UD-02 | FS | 40 | 104 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-04 | ICG-ICP-UD | Strengthening | A | Engineering | Fabrication drawing release | ICG-ICP-UD-03 | FS | 60 | 117 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-01 | SLQ-WIS | Strengthening | A | Engineering | Existing-condition survey |  | FS | 25 | 52 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-02 | SLQ-WIS | Strengthening | A | Engineering | Design basis and interface verification | SLQ-WIS-01 | FS | 39 | 62 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-03 | SLQ-WIS | Strengthening | A | Engineering | Detailed structural and temporary works engineering | SLQ-WIS-02 | FS | 52 | 116 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-04 | SLQ-WIS | Strengthening | A | Engineering | Fabrication drawing release | SLQ-WIS-03 | FS | 72 | 129 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-01 | NQO-NQD | Strengthening | B | Engineering | Existing-condition survey |  | FS | 37 | 64 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-02 | NQO-NQD | Strengthening | B | Engineering | Design basis and interface verification | NQO-NQD-01 | FS | 51 | 74 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-03 | NQO-NQD | Strengthening | B | Engineering | Detailed structural and temporary works engineering | NQO-NQD-02 | FS | 64 | 128 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-04 | NQO-NQD | Strengthening | B | Engineering | Fabrication drawing release | NQO-NQD-03 | FS | 84 | 141 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-01 | WIN-NC | Strengthening | B | Engineering | Existing-condition survey |  | FS | 49 | 76 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-02 | WIN-NC | Strengthening | B | Engineering | Design basis and interface verification | WIN-NC-01 | FS | 63 | 86 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-03 | WIN-NC | Strengthening | B | Engineering | Detailed structural and temporary works engineering | WIN-NC-02 | FS | 76 | 140 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-04 | WIN-NC | Strengthening | B | Engineering | Fabrication drawing release | WIN-NC-03 | FS | 96 | 153 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-01 | SCA-SC1 | Strengthening | B | Engineering | Existing-condition survey |  | FS | 61 | 88 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-02 | SCA-SC1 | Strengthening | B | Engineering | Design basis and interface verification | SCA-SC1-01 | FS | 75 | 98 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-03 | SCA-SC1 | Strengthening | B | Engineering | Detailed structural and temporary works engineering | SCA-SC1-02 | FS | 88 | 152 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-04 | SCA-SC1 | Strengthening | B | Engineering | Fabrication drawing release | SCA-SC1-03 | FS | 108 | 165 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-01 | SCA-SCF | Strengthening | B | Engineering | Existing-condition survey |  | FS | 73 | 100 | 28 | Engineering Manager | survey |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-02 | SCA-SCF | Strengthening | B | Engineering | Design basis and interface verification | SCA-SCF-01 | FS | 87 | 110 | 24 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-03 | SCA-SCF | Strengthening | B | Engineering | Detailed structural and temporary works engineering | SCA-SCF-02 | FS | 100 | 164 | 65 | Engineering Manager | design |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-04 | SCA-SCF | Strengthening | B | Engineering | Fabrication drawing release | SCA-SCF-03 | FS | 120 | 177 | 58 | Engineering Manager | drawing |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Procurement
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-05 | ICW-ICG-LD | Installation | C | Procurement | Material requisitions and vendor approval |  | FS | 28 | 55 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-06 | ICW-ICG-LD | Installation | C | Procurement | Steel purchasing and delivery | ICW-ICG-LD-05 | FS | 48 | 110 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-05 | ICG-ICP-LD | Installation | C | Procurement | Material requisitions and vendor approval |  | FS | 56 | 83 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-06 | ICG-ICP-LD | Installation | C | Procurement | Steel purchasing and delivery | ICG-ICP-LD-05 | FS | 76 | 138 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-05 | BHS-SLQ | Replacement | C | Procurement | Material requisitions and vendor approval |  | FS | 88 | 115 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-06 | BHS-SLQ | Replacement | C | Procurement | Steel purchasing and delivery | BHS-SLQ-05 | FS | 108 | 170 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-05 | ICW-ICG-UD | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 28 | 55 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-06 | ICW-ICG-UD | Strengthening | A | Procurement | Steel purchasing and delivery | ICW-ICG-UD-05 | FS | 48 | 110 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-05 | ICG-ICP-UD | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 40 | 67 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-06 | ICG-ICP-UD | Strengthening | A | Procurement | Steel purchasing and delivery | ICG-ICP-UD-05 | FS | 60 | 122 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-05 | SLQ-WIS | Strengthening | A | Procurement | Material requisitions and vendor approval |  | FS | 52 | 79 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-06 | SLQ-WIS | Strengthening | A | Procurement | Steel purchasing and delivery | SLQ-WIS-05 | FS | 72 | 134 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-05 | NQO-NQD | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 64 | 91 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-06 | NQO-NQD | Strengthening | B | Procurement | Steel purchasing and delivery | NQO-NQD-05 | FS | 84 | 146 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-05 | WIN-NC | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 76 | 103 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-06 | WIN-NC | Strengthening | B | Procurement | Steel purchasing and delivery | WIN-NC-05 | FS | 96 | 158 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-05 | SCA-SC1 | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 88 | 115 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-06 | SCA-SC1 | Strengthening | B | Procurement | Steel purchasing and delivery | SCA-SC1-05 | FS | 108 | 170 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-05 | SCA-SCF | Strengthening | B | Procurement | Material requisitions and vendor approval |  | FS | 100 | 127 | 28 | Procurement Manager | MR |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-06 | SCA-SCF | Strengthening | B | Procurement | Steel purchasing and delivery | SCA-SCF-05 | FS | 120 | 182 | 63 | Procurement Manager | MT |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Fabrication
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-07 | ICW-ICG-LD | Installation | C | Fabrication | Cutting and material preparation |  | FS | 75 | 105 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-08 | ICW-ICG-LD | Installation | C | Fabrication | Assembly and fit-up | ICW-ICG-LD-07 | FS | 90 | 135 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-09 | ICW-ICG-LD | Installation | C | Fabrication | Shop welding | ICW-ICG-LD-08 | FS | 103 | 148 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-07 | ICG-ICP-LD | Installation | C | Fabrication | Cutting and material preparation |  | FS | 103 | 133 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-08 | ICG-ICP-LD | Installation | C | Fabrication | Assembly and fit-up | ICG-ICP-LD-07 | FS | 118 | 163 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-09 | ICG-ICP-LD | Installation | C | Fabrication | Shop welding | ICG-ICP-LD-08 | FS | 131 | 176 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-07 | BHS-SLQ | Replacement | C | Fabrication | Cutting and material preparation |  | FS | 135 | 165 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-08 | BHS-SLQ | Replacement | C | Fabrication | Assembly and fit-up | BHS-SLQ-07 | FS | 150 | 195 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-09 | BHS-SLQ | Replacement | C | Fabrication | Shop welding | BHS-SLQ-08 | FS | 163 | 208 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-07 | ICW-ICG-UD | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 75 | 105 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-08 | ICW-ICG-UD | Strengthening | A | Fabrication | Assembly and fit-up | ICW-ICG-UD-07 | FS | 90 | 135 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-09 | ICW-ICG-UD | Strengthening | A | Fabrication | Shop welding | ICW-ICG-UD-08 | FS | 103 | 148 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-07 | ICG-ICP-UD | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 87 | 117 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-08 | ICG-ICP-UD | Strengthening | A | Fabrication | Assembly and fit-up | ICG-ICP-UD-07 | FS | 102 | 147 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-09 | ICG-ICP-UD | Strengthening | A | Fabrication | Shop welding | ICG-ICP-UD-08 | FS | 115 | 160 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-07 | SLQ-WIS | Strengthening | A | Fabrication | Cutting and material preparation |  | FS | 99 | 129 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-08 | SLQ-WIS | Strengthening | A | Fabrication | Assembly and fit-up | SLQ-WIS-07 | FS | 114 | 159 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-09 | SLQ-WIS | Strengthening | A | Fabrication | Shop welding | SLQ-WIS-08 | FS | 127 | 172 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-07 | NQO-NQD | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 111 | 141 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-08 | NQO-NQD | Strengthening | B | Fabrication | Assembly and fit-up | NQO-NQD-07 | FS | 126 | 171 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-09 | NQO-NQD | Strengthening | B | Fabrication | Shop welding | NQO-NQD-08 | FS | 139 | 184 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-07 | WIN-NC | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 123 | 153 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-08 | WIN-NC | Strengthening | B | Fabrication | Assembly and fit-up | WIN-NC-07 | FS | 138 | 183 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-09 | WIN-NC | Strengthening | B | Fabrication | Shop welding | WIN-NC-08 | FS | 151 | 196 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-07 | SCA-SC1 | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 135 | 165 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-08 | SCA-SC1 | Strengthening | B | Fabrication | Assembly and fit-up | SCA-SC1-07 | FS | 150 | 195 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-09 | SCA-SC1 | Strengthening | B | Fabrication | Shop welding | SCA-SC1-08 | FS | 163 | 208 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-07 | SCA-SCF | Strengthening | B | Fabrication | Cutting and material preparation |  | FS | 147 | 177 | 31 | Fabrication Manager | pieces |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-08 | SCA-SCF | Strengthening | B | Fabrication | Assembly and fit-up | SCA-SCF-07 | FS | 162 | 207 | 46 | Fabrication Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-09 | SCA-SCF | Strengthening | B | Fabrication | Shop welding | SCA-SCF-08 | FS | 175 | 220 | 46 | Fabrication Manager | weld-m |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Quality
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-10 | ICW-ICG-LD | Installation | C | Quality | NDT and dimensional acceptance |  | FS | 120 | 157 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-11 | ICW-ICG-LD | Installation | C | Quality | Blast, coat and preserve | ICW-ICG-LD-10 | FS | 135 | 165 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-10 | ICG-ICP-LD | Installation | C | Quality | NDT and dimensional acceptance |  | FS | 148 | 185 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-11 | ICG-ICP-LD | Installation | C | Quality | Blast, coat and preserve | ICG-ICP-LD-10 | FS | 163 | 193 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-10 | BHS-SLQ | Replacement | C | Quality | NDT and dimensional acceptance |  | FS | 180 | 217 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-11 | BHS-SLQ | Replacement | C | Quality | Blast, coat and preserve | BHS-SLQ-10 | FS | 195 | 225 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-10 | ICW-ICG-UD | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 120 | 157 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-11 | ICW-ICG-UD | Strengthening | A | Quality | Blast, coat and preserve | ICW-ICG-UD-10 | FS | 135 | 165 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-10 | ICG-ICP-UD | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 132 | 169 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-11 | ICG-ICP-UD | Strengthening | A | Quality | Blast, coat and preserve | ICG-ICP-UD-10 | FS | 147 | 177 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-10 | SLQ-WIS | Strengthening | A | Quality | NDT and dimensional acceptance |  | FS | 144 | 181 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-11 | SLQ-WIS | Strengthening | A | Quality | Blast, coat and preserve | SLQ-WIS-10 | FS | 159 | 189 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-10 | NQO-NQD | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 156 | 193 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-11 | NQO-NQD | Strengthening | B | Quality | Blast, coat and preserve | NQO-NQD-10 | FS | 171 | 201 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-10 | WIN-NC | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 168 | 205 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-11 | WIN-NC | Strengthening | B | Quality | Blast, coat and preserve | WIN-NC-10 | FS | 183 | 213 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-10 | SCA-SC1 | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 180 | 217 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-11 | SCA-SC1 | Strengthening | B | Quality | Blast, coat and preserve | SCA-SC1-10 | FS | 195 | 225 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-10 | SCA-SCF | Strengthening | B | Quality | NDT and dimensional acceptance |  | FS | 192 | 229 | 38 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-11 | SCA-SCF | Strengthening | B | Quality | Blast, coat and preserve | SCA-SCF-10 | FS | 207 | 237 | 31 | QAQC Manager | m2 |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Logistics
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-12 | ICW-ICG-LD | Installation | C | Logistics | Module weight COG and loadout engineering |  | FS | 90 | 162 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-13 | ICW-ICG-LD | Installation | C | Logistics | Cargo manifest and shore base transfer | ICW-ICG-LD-12 | FS | 135 | 175 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-12 | ICG-ICP-LD | Installation | C | Logistics | Module weight COG and loadout engineering |  | FS | 118 | 190 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-13 | ICG-ICP-LD | Installation | C | Logistics | Cargo manifest and shore base transfer | ICG-ICP-LD-12 | FS | 163 | 203 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-12 | BHS-SLQ | Replacement | C | Logistics | Module weight COG and loadout engineering |  | FS | 150 | 222 | 73 | Marine Manager | modules |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-13 | BHS-SLQ | Replacement | C | Logistics | Cargo manifest and shore base transfer | BHS-SLQ-12 | FS | 195 | 235 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-13 | ICW-ICG-UD | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 135 | 175 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-13 | ICG-ICP-UD | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 147 | 187 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-13 | SLQ-WIS | Strengthening | A | Logistics | Cargo manifest and shore base transfer |  | FS | 159 | 199 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-13 | NQO-NQD | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 171 | 211 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-13 | WIN-NC | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 183 | 223 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-13 | SCA-SC1 | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 195 | 235 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-13 | SCA-SCF | Strengthening | B | Logistics | Cargo manifest and shore base transfer |  | FS | 207 | 247 | 41 | Logistics Manager | shipments |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Marine
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-14 | ICW-ICG-LD | Installation | C | Marine | Vessel technical selection and assurance |  | FS | 45 | 135 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-15 | ICW-ICG-LD | Installation | C | Marine | Marine mobilisation and readiness | ICW-ICG-LD-14 | FS | 130 | 170 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-14 | ICG-ICP-LD | Installation | C | Marine | Vessel technical selection and assurance |  | FS | 73 | 163 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-15 | ICG-ICP-LD | Installation | C | Marine | Marine mobilisation and readiness | ICG-ICP-LD-14 | FS | 158 | 198 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-14 | BHS-SLQ | Replacement | C | Marine | Vessel technical selection and assurance |  | FS | 105 | 195 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-15 | BHS-SLQ | Replacement | C | Marine | Marine mobilisation and readiness | BHS-SLQ-14 | FS | 190 | 230 | 41 | Marine Manager | days |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-14 | ICW-ICG-UD | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 45 | 135 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-14 | ICG-ICP-UD | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 57 | 147 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-14 | SLQ-WIS | Strengthening | A | Marine | Vessel technical selection and assurance |  | FS | 69 | 159 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-14 | NQO-NQD | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 81 | 171 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-14 | WIN-NC | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 93 | 183 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-14 | SCA-SC1 | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 105 | 195 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-14 | SCA-SCF | Strengthening | B | Marine | Vessel technical selection and assurance |  | FS | 117 | 207 | 91 | Marine Manager | vessel |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Offshore
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-16 | ICW-ICG-LD | Installation | C | Offshore | Access and permit readiness |  | FS | 75 | 155 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-18 | ICW-ICG-LD | Installation | C | Offshore | Structural fit-up or landing | ICW-ICG-LD-16 | FS | 125 | 215 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-19 | ICW-ICG-LD | Installation | C | Offshore | Connection welding and bolting | ICW-ICG-LD-18 | FS | 140 | 230 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-20 | ICW-ICG-LD | Installation | C | Offshore | Inspection and coating restoration | ICW-ICG-LD-19 | FS | 160 | 250 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-16 | ICG-ICP-LD | Installation | C | Offshore | Access and permit readiness |  | FS | 103 | 183 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-18 | ICG-ICP-LD | Installation | C | Offshore | Structural fit-up or landing | ICG-ICP-LD-16 | FS | 153 | 243 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-19 | ICG-ICP-LD | Installation | C | Offshore | Connection welding and bolting | ICG-ICP-LD-18 | FS | 168 | 258 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-20 | ICG-ICP-LD | Installation | C | Offshore | Inspection and coating restoration | ICG-ICP-LD-19 | FS | 188 | 278 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-16 | BHS-SLQ | Replacement | C | Offshore | Access and permit readiness |  | FS | 135 | 215 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-17 | BHS-SLQ | Replacement | C | Offshore | Temporary access and works | BHS-SLQ-16 | FS | 160 | 250 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-18 | BHS-SLQ | Replacement | C | Offshore | Structural fit-up or landing | BHS-SLQ-17 | FS | 185 | 275 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-19 | BHS-SLQ | Replacement | C | Offshore | Connection welding and bolting | BHS-SLQ-18 | FS | 200 | 290 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-20 | BHS-SLQ | Replacement | C | Offshore | Inspection and coating restoration | BHS-SLQ-19 | FS | 220 | 310 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-16 | ICW-ICG-UD | Strengthening | A | Offshore | Access and permit readiness |  | FS | 60 | 140 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-17 | ICW-ICG-UD | Strengthening | A | Offshore | Temporary access and works | ICW-ICG-UD-16 | FS | 85 | 175 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-18 | ICW-ICG-UD | Strengthening | A | Offshore | Structural fit-up or landing | ICW-ICG-UD-17 | FS | 110 | 200 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-19 | ICW-ICG-UD | Strengthening | A | Offshore | Connection welding and bolting | ICW-ICG-UD-18 | FS | 125 | 215 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-20 | ICW-ICG-UD | Strengthening | A | Offshore | Inspection and coating restoration | ICW-ICG-UD-19 | FS | 145 | 235 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-16 | ICG-ICP-UD | Strengthening | A | Offshore | Access and permit readiness |  | FS | 72 | 152 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-17 | ICG-ICP-UD | Strengthening | A | Offshore | Temporary access and works | ICG-ICP-UD-16 | FS | 97 | 187 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-18 | ICG-ICP-UD | Strengthening | A | Offshore | Structural fit-up or landing | ICG-ICP-UD-17 | FS | 122 | 212 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-19 | ICG-ICP-UD | Strengthening | A | Offshore | Connection welding and bolting | ICG-ICP-UD-18 | FS | 137 | 227 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-20 | ICG-ICP-UD | Strengthening | A | Offshore | Inspection and coating restoration | ICG-ICP-UD-19 | FS | 157 | 247 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-16 | SLQ-WIS | Strengthening | A | Offshore | Access and permit readiness |  | FS | 84 | 164 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-17 | SLQ-WIS | Strengthening | A | Offshore | Temporary access and works | SLQ-WIS-16 | FS | 109 | 199 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-18 | SLQ-WIS | Strengthening | A | Offshore | Structural fit-up or landing | SLQ-WIS-17 | FS | 134 | 224 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-19 | SLQ-WIS | Strengthening | A | Offshore | Connection welding and bolting | SLQ-WIS-18 | FS | 149 | 239 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-20 | SLQ-WIS | Strengthening | A | Offshore | Inspection and coating restoration | SLQ-WIS-19 | FS | 169 | 259 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-16 | NQO-NQD | Strengthening | B | Offshore | Access and permit readiness |  | FS | 96 | 176 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-17 | NQO-NQD | Strengthening | B | Offshore | Temporary access and works | NQO-NQD-16 | FS | 121 | 211 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-18 | NQO-NQD | Strengthening | B | Offshore | Structural fit-up or landing | NQO-NQD-17 | FS | 146 | 236 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-19 | NQO-NQD | Strengthening | B | Offshore | Connection welding and bolting | NQO-NQD-18 | FS | 161 | 251 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-20 | NQO-NQD | Strengthening | B | Offshore | Inspection and coating restoration | NQO-NQD-19 | FS | 181 | 271 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-16 | WIN-NC | Strengthening | B | Offshore | Access and permit readiness |  | FS | 108 | 188 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-17 | WIN-NC | Strengthening | B | Offshore | Temporary access and works | WIN-NC-16 | FS | 133 | 223 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-18 | WIN-NC | Strengthening | B | Offshore | Structural fit-up or landing | WIN-NC-17 | FS | 158 | 248 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-19 | WIN-NC | Strengthening | B | Offshore | Connection welding and bolting | WIN-NC-18 | FS | 173 | 263 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-20 | WIN-NC | Strengthening | B | Offshore | Inspection and coating restoration | WIN-NC-19 | FS | 193 | 283 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-16 | SCA-SC1 | Strengthening | B | Offshore | Access and permit readiness |  | FS | 120 | 200 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-17 | SCA-SC1 | Strengthening | B | Offshore | Temporary access and works | SCA-SC1-16 | FS | 145 | 235 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-18 | SCA-SC1 | Strengthening | B | Offshore | Structural fit-up or landing | SCA-SC1-17 | FS | 170 | 260 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-19 | SCA-SC1 | Strengthening | B | Offshore | Connection welding and bolting | SCA-SC1-18 | FS | 185 | 275 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-20 | SCA-SC1 | Strengthening | B | Offshore | Inspection and coating restoration | SCA-SC1-19 | FS | 205 | 295 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-16 | SCA-SCF | Strengthening | B | Offshore | Access and permit readiness |  | FS | 132 | 212 | 81 | Offshore Manager | fronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-17 | SCA-SCF | Strengthening | B | Offshore | Temporary access and works | SCA-SCF-16 | FS | 157 | 247 | 91 | Offshore Manager | workfronts |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-18 | SCA-SCF | Strengthening | B | Offshore | Structural fit-up or landing | SCA-SCF-17 | FS | 182 | 272 | 91 | Offshore Manager | assemblies |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-19 | SCA-SCF | Strengthening | B | Offshore | Connection welding and bolting | SCA-SCF-18 | FS | 197 | 287 | 91 | Offshore Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-20 | SCA-SCF | Strengthening | B | Offshore | Inspection and coating restoration | SCA-SCF-19 | FS | 217 | 307 | 91 | QAQC Manager | joints |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Demolition
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+BHS-SLQ-SP64 | BHS-SLQ | Replacement | C | Demolition | Operational isolation and service transfer |  | FS | 165 | 192 | 28 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+BHS-SLQ-SP65 | BHS-SLQ | Replacement | C | Demolition | Engineered demolition and removal |  | FS | 210 | 240 | 31 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+BHS-SLQ-SP66 | BHS-SLQ | Replacement | C | Demolition | Backload and disposal |  | FS | 225 | 260 | 36 | Marine / Offshore Manager | pieces |  |  |  | 0 | Not started | Provisional | Requires approved structural and operational removal sequence
+
+SHEET Closeout
+Activity ID | Bridge ID | Work Type | Team | Discipline | Activity | Predecessor ID | Link | Start Day | Finish Day | Duration Days | Responsible | Unit | Budget Qty | Actual Qty | Budget MH | Progress % | Status | Basis | Constraints / Notes
+ICW-ICG-LD-21 | ICW-ICG-LD | Installation | C | Closeout | Punch closure and dossier |  | FS | 235 | 320 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-LD-22 | ICW-ICG-LD | Installation | C | Closeout | Client acceptance and final handover | ICW-ICG-LD-21 | FS | 300 | 350 | 51 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-21 | ICG-ICP-LD | Installation | C | Closeout | Punch closure and dossier |  | FS | 263 | 348 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-LD-22 | ICG-ICP-LD | Installation | C | Closeout | Client acceptance and final handover | ICG-ICP-LD-21 | FS | 328 | 355 | 28 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-21 | BHS-SLQ | Replacement | C | Closeout | Punch closure and dossier |  | FS | 295 | 355 | 61 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+BHS-SLQ-22 | BHS-SLQ | Replacement | C | Closeout | Client acceptance and final handover | BHS-SLQ-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-21 | ICW-ICG-UD | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 235 | 320 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICW-ICG-UD-22 | ICW-ICG-UD | Strengthening | A | Closeout | Client acceptance and final handover | ICW-ICG-UD-21 | FS | 300 | 350 | 51 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-21 | ICG-ICP-UD | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 247 | 332 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+ICG-ICP-UD-22 | ICG-ICP-UD | Strengthening | A | Closeout | Client acceptance and final handover | ICG-ICP-UD-21 | FS | 312 | 355 | 44 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-21 | SLQ-WIS | Strengthening | A | Closeout | Punch closure and dossier |  | FS | 259 | 344 | 86 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SLQ-WIS-22 | SLQ-WIS | Strengthening | A | Closeout | Client acceptance and final handover | SLQ-WIS-21 | FS | 324 | 355 | 32 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-21 | NQO-NQD | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 271 | 355 | 85 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+NQO-NQD-22 | NQO-NQD | Strengthening | B | Closeout | Client acceptance and final handover | NQO-NQD-21 | FS | 336 | 355 | 20 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-21 | WIN-NC | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 283 | 355 | 73 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+WIN-NC-22 | WIN-NC | Strengthening | B | Closeout | Client acceptance and final handover | WIN-NC-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-21 | SCA-SC1 | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 295 | 355 | 61 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SC1-22 | SCA-SC1 | Strengthening | B | Closeout | Client acceptance and final handover | SCA-SC1-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-21 | SCA-SCF | Strengthening | B | Closeout | Punch closure and dossier |  | FS | 307 | 355 | 49 | Completion Manager | packs |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+SCA-SCF-22 | SCA-SCF | Strengthening | B | Closeout | Client acceptance and final handover | SCA-SCF-21 | FS | 345 | 355 | 11 | Project Director | milestones |  |  |  | 0 | Not started | Provisional | Verify measured scope, resources and predecessor logic
+
+SHEET Resources
+Resource ID | Type | Trade / Equipment | Available Qty | Unit | Daily Hours | Days per Week | Productivity Factor | Verified? | Assigned Owner
+R01 | People | Structural fitter |  | persons |  |  |  | No | Fabrication Manager
+R02 | People | Qualified welder |  | persons |  |  |  | No | Fabrication Manager
+R03 | People | Rigger |  | persons |  |  |  | No | Offshore Manager
+R04 | People | Scaffolder |  | persons |  |  |  | No | Offshore Manager
+R05 | People | NDT technician |  | persons |  |  |  | No | QAQC Manager
+R06 | Equipment | Welding set |  | sets |  |  |  | No | Fabrication Manager
+R07 | Equipment | Fabrication bay |  | bays |  |  |  | No | Fabrication Manager
+R08 | Marine | Crane vessel |  | vessel-days |  |  |  | No | Marine Manager
+R09 | Marine | Cargo barge |  | vessel-days |  |  |  | No | Marine Manager
+R10 | Marine | Crew transport |  | vessel-days |  |  |  | No | Marine Manager
+
+SHEET Daily Progress
+Report Day | Bridge ID | Activity ID | Work Front | Planned Qty | Accepted Qty | Unit | Actual MH | Crew | Equipment / Vessel | Downtime Hours | Cause | QA Acceptance | Supervisor | Remarks
+
+SHEET 6 Week Lookahead
+Week | Bridge ID | Activity ID | Required Start Day | Engineering Ready | Material Ready | Access Ready | Vessel Ready | Permits Ready | Inspection Ready | Constraint Owner | Target Closure Day | Release Decision
+
+SHEET Constraints Risks
+ID | Bridge | Activity ID | Type | Issue | Probability | Impact Days | Owner | Action | Due Day | Status
+
+SHEET Cost Cashflow
+Period | Planned Cost INR | Actual Cost INR | Committed INR | Certified Billing INR | Cash Received INR | Cash Paid INR | Forecast to Complete INR | Notes
+D1-D30 |  |  |  |  |  |  |  | Enter verified figures
+D31-D60 |  |  |  |  |  |  |  | Enter verified figures
+D61-D90 |  |  |  |  |  |  |  | Enter verified figures
+D91-D120 |  |  |  |  |  |  |  | Enter verified figures
+D121-D150 |  |  |  |  |  |  |  | Enter verified figures
+D151-D180 |  |  |  |  |  |  |  | Enter verified figures
+D181-D210 |  |  |  |  |  |  |  | Enter verified figures
+D211-D240 |  |  |  |  |  |  |  | Enter verified figures
+D241-D270 |  |  |  |  |  |  |  | Enter verified figures
+D271-D300 |  |  |  |  |  |  |  | Enter verified figures
+D301-D330 |  |  |  |  |  |  |  | Enter verified figures
+D331-D360 |  |  |  |  |  |  |  | Enter verified figures
+
+SHEET Marine Campaigns
+Campaign | Bridges | Target Start Day | Target Finish Day | Vessel / Spread | Vessel Days | Lift Register | COG Verified | ONGC Release | Marine Assurance | Status
+M01 | Seven strengthening bridges | 85 | 230 |  |  | Pending | No | Pending | Pending | Provisional
+M02 | ICW-ICG-LD | 110 | 145 |  |  | Pending | No | Pending | Pending | Provisional
+M03 | ICG-ICP-LD | 145 | 180 |  |  | Pending | No | Pending | Pending | Provisional
+M04 | BHS-SLQ | 170 | 240 |  |  | Pending | No | Pending | Pending | Provisional
+
+SHEET Milestones
+Milestone | Target Day | Verified? | Owner | Prerequisite / Evidence
+Contract commencement | 1 | No | Contracts Manager | Award and contractual start date
+First offshore workfront | 85 | No | Offshore Manager | Approved permits and work packs
+Lower deck 1 campaign finish | 145 | No | Marine Manager | Accepted installation
+Lower deck 2 campaign finish | 180 | No | Marine Manager | Accepted installation
+Replacement campaign finish | 240 | No | Marine Manager | Operational reinstatement and acceptance
+Offshore closeout target | 320 | No | Completion Manager | Punch and dossiers
+Contractual completion limit | 360 | No | Project Director | Contract-specific completion obligations
+
+SHEET CEO Dashboard
+Indicator | Value | Interpretation
+Bridge packages | 10 | Provisional scope
+Structural MT | 1141 | Bridge-wise total, subject to reconciliation
+Activities in master | 207 | Planning-level activities; not yet resource validated
+Completed activities | 0 | Status field must be updated in Master Activities
+Open activities | 207 | Planning-level work remaining
+Activities beyond Day 360 | 0 | Checks provisional planned finish days
+Overall progress (unweighted) | 0 | Activity count-weighted; NOT quantity earned progress
+Baseline verification | PENDING | No 360-day feasibility certification
+Contract award | NOT CONFIRMED | No irreversible pre-award commitments
+
+SHEET 360 Day Gantt
+Activity ID | Bridge | Discipline | Activity | Start Day | Finish Day | D1-30 | D31-60 | D61-90 | D91-120 | D121-150 | D151-180 | D181-210 | D211-240 | D241-270 | D271-300 | D301-330 | D331-360
+ICW-ICG-LD-01 | ICW-ICG-LD | Engineering | Existing-condition survey | 1 | 28 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-02 | ICW-ICG-LD | Engineering | Design basis and interface verification | 15 | 38 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-03 | ICW-ICG-LD | Engineering | Detailed structural and temporary works engineering | 28 | 92 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-04 | ICW-ICG-LD | Engineering | Fabrication drawing release | 48 | 105 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-05 | ICW-ICG-LD | Procurement | Material requisitions and vendor approval | 28 | 55 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-06 | ICW-ICG-LD | Procurement | Steel purchasing and delivery | 48 | 110 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-07 | ICW-ICG-LD | Fabrication | Cutting and material preparation | 75 | 105 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-08 | ICW-ICG-LD | Fabrication | Assembly and fit-up | 90 | 135 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-09 | ICW-ICG-LD | Fabrication | Shop welding | 103 | 148 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-10 | ICW-ICG-LD | Quality | NDT and dimensional acceptance | 120 | 157 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-11 | ICW-ICG-LD | Quality | Blast, coat and preserve | 135 | 165 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-12 | ICW-ICG-LD | Logistics | Module weight COG and loadout engineering | 90 | 162 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-13 | ICW-ICG-LD | Logistics | Cargo manifest and shore base transfer | 135 | 175 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-14 | ICW-ICG-LD | Marine | Vessel technical selection and assurance | 45 | 135 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-15 | ICW-ICG-LD | Marine | Marine mobilisation and readiness | 130 | 170 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-16 | ICW-ICG-LD | Offshore | Access and permit readiness | 75 | 155 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-LD-18 | ICW-ICG-LD | Offshore | Structural fit-up or landing | 125 | 215 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+ICW-ICG-LD-19 | ICW-ICG-LD | Offshore | Connection welding and bolting | 140 | 230 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+ICW-ICG-LD-20 | ICW-ICG-LD | Offshore | Inspection and coating restoration | 160 | 250 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0
+ICW-ICG-LD-21 | ICW-ICG-LD | Closeout | Punch closure and dossier | 235 | 320 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0
+ICW-ICG-LD-22 | ICW-ICG-LD | Closeout | Client acceptance and final handover | 300 | 350 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1
+ICG-ICP-LD-01 | ICG-ICP-LD | Engineering | Existing-condition survey | 29 | 56 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-02 | ICG-ICP-LD | Engineering | Design basis and interface verification | 43 | 66 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-03 | ICG-ICP-LD | Engineering | Detailed structural and temporary works engineering | 56 | 120 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-04 | ICG-ICP-LD | Engineering | Fabrication drawing release | 76 | 133 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-05 | ICG-ICP-LD | Procurement | Material requisitions and vendor approval | 56 | 83 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-06 | ICG-ICP-LD | Procurement | Steel purchasing and delivery | 76 | 138 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-07 | ICG-ICP-LD | Fabrication | Cutting and material preparation | 103 | 133 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-08 | ICG-ICP-LD | Fabrication | Assembly and fit-up | 118 | 163 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-09 | ICG-ICP-LD | Fabrication | Shop welding | 131 | 176 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-10 | ICG-ICP-LD | Quality | NDT and dimensional acceptance | 148 | 185 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-11 | ICG-ICP-LD | Quality | Blast, coat and preserve | 163 | 193 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-12 | ICG-ICP-LD | Logistics | Module weight COG and loadout engineering | 118 | 190 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-13 | ICG-ICP-LD | Logistics | Cargo manifest and shore base transfer | 163 | 203 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-14 | ICG-ICP-LD | Marine | Vessel technical selection and assurance | 73 | 163 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-15 | ICG-ICP-LD | Marine | Marine mobilisation and readiness | 158 | 198 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-16 | ICG-ICP-LD | Offshore | Access and permit readiness | 103 | 183 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-LD-18 | ICG-ICP-LD | Offshore | Structural fit-up or landing | 153 | 243 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0
+ICG-ICP-LD-19 | ICG-ICP-LD | Offshore | Connection welding and bolting | 168 | 258 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0
+ICG-ICP-LD-20 | ICG-ICP-LD | Offshore | Inspection and coating restoration | 188 | 278 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0
+ICG-ICP-LD-21 | ICG-ICP-LD | Closeout | Punch closure and dossier | 263 | 348 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1
+ICG-ICP-LD-22 | ICG-ICP-LD | Closeout | Client acceptance and final handover | 328 | 355 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1
+BHS-SLQ-01 | BHS-SLQ | Engineering | Existing-condition survey | 61 | 88 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-02 | BHS-SLQ | Engineering | Design basis and interface verification | 75 | 98 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-03 | BHS-SLQ | Engineering | Detailed structural and temporary works engineering | 88 | 152 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-04 | BHS-SLQ | Engineering | Fabrication drawing release | 108 | 165 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-05 | BHS-SLQ | Procurement | Material requisitions and vendor approval | 88 | 115 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-06 | BHS-SLQ | Procurement | Steel purchasing and delivery | 108 | 170 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-07 | BHS-SLQ | Fabrication | Cutting and material preparation | 135 | 165 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-08 | BHS-SLQ | Fabrication | Assembly and fit-up | 150 | 195 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-09 | BHS-SLQ | Fabrication | Shop welding | 163 | 208 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-10 | BHS-SLQ | Quality | NDT and dimensional acceptance | 180 | 217 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-11 | BHS-SLQ | Quality | Blast, coat and preserve | 195 | 225 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-12 | BHS-SLQ | Logistics | Module weight COG and loadout engineering | 150 | 222 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-13 | BHS-SLQ | Logistics | Cargo manifest and shore base transfer | 195 | 235 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-14 | BHS-SLQ | Marine | Vessel technical selection and assurance | 105 | 195 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-15 | BHS-SLQ | Marine | Marine mobilisation and readiness | 190 | 230 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-16 | BHS-SLQ | Offshore | Access and permit readiness | 135 | 215 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-17 | BHS-SLQ | Offshore | Temporary access and works | 160 | 250 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0
+BHS-SLQ-18 | BHS-SLQ | Offshore | Structural fit-up or landing | 185 | 275 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0
+BHS-SLQ-19 | BHS-SLQ | Offshore | Connection welding and bolting | 200 | 290 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0
+BHS-SLQ-20 | BHS-SLQ | Offshore | Inspection and coating restoration | 220 | 310 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0
+BHS-SLQ-21 | BHS-SLQ | Closeout | Punch closure and dossier | 295 | 355 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1
+BHS-SLQ-22 | BHS-SLQ | Closeout | Client acceptance and final handover | 345 | 355 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1
+BHS-SLQ-SP64 | BHS-SLQ | Demolition | Operational isolation and service transfer | 165 | 192 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+BHS-SLQ-SP65 | BHS-SLQ | Demolition | Engineered demolition and removal | 210 | 240 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0
+BHS-SLQ-SP66 | BHS-SLQ | Demolition | Backload and disposal | 225 | 260 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0
+ICW-ICG-UD-01 | ICW-ICG-UD | Engineering | Existing-condition survey | 1 | 28 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-02 | ICW-ICG-UD | Engineering | Design basis and interface verification | 15 | 38 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-03 | ICW-ICG-UD | Engineering | Detailed structural and temporary works engineering | 28 | 92 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-04 | ICW-ICG-UD | Engineering | Fabrication drawing release | 48 | 105 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-05 | ICW-ICG-UD | Procurement | Material requisitions and vendor approval | 28 | 55 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-06 | ICW-ICG-UD | Procurement | Steel purchasing and delivery | 48 | 110 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-07 | ICW-ICG-UD | Fabrication | Cutting and material preparation | 75 | 105 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-08 | ICW-ICG-UD | Fabrication | Assembly and fit-up | 90 | 135 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-09 | ICW-ICG-UD | Fabrication | Shop welding | 103 | 148 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-10 | ICW-ICG-UD | Quality | NDT and dimensional acceptance | 120 | 157 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-11 | ICW-ICG-UD | Quality | Blast, coat and preserve | 135 | 165 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-13 | ICW-ICG-UD | Logistics | Cargo manifest and shore base transfer | 135 | 175 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-14 | ICW-ICG-UD | Marine | Vessel technical selection and assurance | 45 | 135 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-16 | ICW-ICG-UD | Offshore | Access and permit readiness | 60 | 140 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-17 | ICW-ICG-UD | Offshore | Temporary access and works | 85 | 175 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-18 | ICW-ICG-UD | Offshore | Structural fit-up or landing | 110 | 200 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICW-ICG-UD-19 | ICW-ICG-UD | Offshore | Connection welding and bolting | 125 | 215 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+ICW-ICG-UD-20 | ICW-ICG-UD | Offshore | Inspection and coating restoration | 145 | 235 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0
+ICW-ICG-UD-21 | ICW-ICG-UD | Closeout | Punch closure and dossier | 235 | 320 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0
+ICW-ICG-UD-22 | ICW-ICG-UD | Closeout | Client acceptance and final handover | 300 | 350 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1
+ICG-ICP-UD-01 | ICG-ICP-UD | Engineering | Existing-condition survey | 13 | 40 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-02 | ICG-ICP-UD | Engineering | Design basis and interface verification | 27 | 50 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-03 | ICG-ICP-UD | Engineering | Detailed structural and temporary works engineering | 40 | 104 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-04 | ICG-ICP-UD | Engineering | Fabrication drawing release | 60 | 117 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-05 | ICG-ICP-UD | Procurement | Material requisitions and vendor approval | 40 | 67 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-06 | ICG-ICP-UD | Procurement | Steel purchasing and delivery | 60 | 122 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-07 | ICG-ICP-UD | Fabrication | Cutting and material preparation | 87 | 117 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-08 | ICG-ICP-UD | Fabrication | Assembly and fit-up | 102 | 147 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-09 | ICG-ICP-UD | Fabrication | Shop welding | 115 | 160 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-10 | ICG-ICP-UD | Quality | NDT and dimensional acceptance | 132 | 169 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-11 | ICG-ICP-UD | Quality | Blast, coat and preserve | 147 | 177 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-13 | ICG-ICP-UD | Logistics | Cargo manifest and shore base transfer | 147 | 187 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+ICG-ICP-UD-14 | ICG-ICP-UD | Marine | Vessel technical selection and assurance | 57 | 147 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0

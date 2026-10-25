@@ -1,0 +1,182 @@
+
+SHEET L4 Activities
+Activity ID | WBS / Bridge | Steel MT | Demolition MT | Activity | Duration d (assumed) | Predecessor FS | Primary Resource | Start (input) | Finish (input) | Actual % | Status | Evidence / hold point
+BR01-01 | ICW-ICG UD | 49 | 25 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-02 | ICW-ICG UD |  |  | Engineering design | 22 | BR01-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-03 | ICW-ICG UD |  |  | AFC review/release | 12 | BR01-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-04 | ICW-ICG UD |  |  | Material procurement | 35 | BR01-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-05 | ICW-ICG UD |  |  | Shop fabrication | 45 | BR01-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-06 | ICW-ICG UD |  |  | Inspection and coating | 9 | BR01-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-07 | ICW-ICG UD |  |  | Marine transport readiness | 10 | BR01-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-08 | ICW-ICG UD |  |  | Offshore access/enabling | 12 | BR01-07 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-09 | ICW-ICG UD |  |  | Installation/strengthening | 20 | BR01-08 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-10 | ICW-ICG UD |  |  | Connections and NDT | 10 | BR01-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-11 | ICW-ICG UD |  |  | Approved removal / modifications (if applicable) | 12 | BR01-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR01-12 | ICW-ICG UD |  |  | Completion and handover | 7 | BR01-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-01 | ICW-ICG LD | 122 | 1 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-02 | ICW-ICG LD |  |  | Engineering design | 22 | BR02-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-03 | ICW-ICG LD |  |  | AFC review/release | 12 | BR02-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-04 | ICW-ICG LD |  |  | Material procurement | 35 | BR02-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-05 | ICW-ICG LD |  |  | Shop fabrication | 45 | BR02-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-06 | ICW-ICG LD |  |  | Inspection and coating | 9 | BR02-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-07 | ICW-ICG LD |  |  | Marine transport readiness | 10 | BR02-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-08 | ICW-ICG LD |  |  | Offshore access/enabling | 12 | BR02-07 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-09 | ICW-ICG LD |  |  | Installation/strengthening | 20 | BR02-08 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-10 | ICW-ICG LD |  |  | Connections and NDT | 10 | BR02-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-11 | ICW-ICG LD |  |  | Approved removal / modifications (if applicable) | 12 | BR02-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR02-12 | ICW-ICG LD |  |  | Completion and handover | 7 | BR02-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-01 | ICG-ICP UD | 116 | 25 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-02 | ICG-ICP UD |  |  | Engineering design | 22 | BR03-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-03 | ICG-ICP UD |  |  | AFC review/release | 12 | BR03-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-04 | ICG-ICP UD |  |  | Material procurement | 35 | BR03-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-05 | ICG-ICP UD |  |  | Shop fabrication | 45 | BR03-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-06 | ICG-ICP UD |  |  | Inspection and coating | 9 | BR03-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-07 | ICG-ICP UD |  |  | Marine transport readiness | 10 | BR03-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-08 | ICG-ICP UD |  |  | Offshore access/enabling | 12 | BR03-07 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-09 | ICG-ICP UD |  |  | Installation/strengthening | 20 | BR03-08 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-10 | ICG-ICP UD |  |  | Connections and NDT | 10 | BR03-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-11 | ICG-ICP UD |  |  | Approved removal / modifications (if applicable) | 12 | BR03-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR03-12 | ICG-ICP UD |  |  | Completion and handover | 7 | BR03-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-01 | ICG-ICP LD | 160 | 1 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-02 | ICG-ICP LD |  |  | Engineering design | 22 | BR04-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-03 | ICG-ICP LD |  |  | AFC review/release | 12 | BR04-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-04 | ICG-ICP LD |  |  | Material procurement | 35 | BR04-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-05 | ICG-ICP LD |  |  | Shop fabrication | 45 | BR04-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-06 | ICG-ICP LD |  |  | Inspection and coating | 9 | BR04-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-07 | ICG-ICP LD |  |  | Marine transport readiness | 10 | BR04-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-08 | ICG-ICP LD |  |  | Offshore access/enabling | 12 | BR04-07 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-09 | ICG-ICP LD |  |  | Installation/strengthening | 20 | BR04-08 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-10 | ICG-ICP LD |  |  | Connections and NDT | 10 | BR04-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-11 | ICG-ICP LD |  |  | Approved removal / modifications (if applicable) | 12 | BR04-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR04-12 | ICG-ICP LD |  |  | Completion and handover | 7 | BR04-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-01 | BHS-SLQ | 282 | 210 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-02 | BHS-SLQ |  |  | Engineering design | 22 | BR05-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-03 | BHS-SLQ |  |  | AFC review/release | 12 | BR05-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-04 | BHS-SLQ |  |  | Material procurement | 35 | BR05-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-05 | BHS-SLQ |  |  | Shop fabrication | 45 | BR05-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-06 | BHS-SLQ |  |  | Inspection and coating | 9 | BR05-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-07 | BHS-SLQ |  |  | Marine transport readiness | 10 | BR05-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-08 | BHS-SLQ |  |  | Offshore access/enabling | 12 | BR05-07 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-09 | BHS-SLQ |  |  | Installation/strengthening | 20 | BR05-08 | INSTALL |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-10 | BHS-SLQ |  |  | Connections and NDT | 10 | BR05-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-11 | BHS-SLQ |  |  | Service transfer, operational release, engineered demolition | 12 | BR05-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR05-12 | BHS-SLQ |  |  | Completion and handover | 7 | BR05-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-01 | SLQ-WIS | 91 | 15 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-02 | SLQ-WIS |  |  | Engineering design | 22 | BR06-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-03 | SLQ-WIS |  |  | AFC review/release | 12 | BR06-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-04 | SLQ-WIS |  |  | Material procurement | 35 | BR06-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-05 | SLQ-WIS |  |  | Shop fabrication | 45 | BR06-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-06 | SLQ-WIS |  |  | Inspection and coating | 9 | BR06-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-07 | SLQ-WIS |  |  | Marine transport readiness | 10 | BR06-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-08 | SLQ-WIS |  |  | Offshore access/enabling | 12 | BR06-07 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-09 | SLQ-WIS |  |  | Installation/strengthening | 20 | BR06-08 | A |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-10 | SLQ-WIS |  |  | Connections and NDT | 10 | BR06-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-11 | SLQ-WIS |  |  | Approved removal / modifications (if applicable) | 12 | BR06-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR06-12 | SLQ-WIS |  |  | Completion and handover | 7 | BR06-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-01 | NQO-NQD | 93 | 25 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-02 | NQO-NQD |  |  | Engineering design | 22 | BR07-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-03 | NQO-NQD |  |  | AFC review/release | 12 | BR07-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-04 | NQO-NQD |  |  | Material procurement | 35 | BR07-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-05 | NQO-NQD |  |  | Shop fabrication | 45 | BR07-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-06 | NQO-NQD |  |  | Inspection and coating | 9 | BR07-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-07 | NQO-NQD |  |  | Marine transport readiness | 10 | BR07-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-08 | NQO-NQD |  |  | Offshore access/enabling | 12 | BR07-07 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-09 | NQO-NQD |  |  | Installation/strengthening | 20 | BR07-08 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-10 | NQO-NQD |  |  | Connections and NDT | 10 | BR07-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-11 | NQO-NQD |  |  | Approved removal / modifications (if applicable) | 12 | BR07-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR07-12 | NQO-NQD |  |  | Completion and handover | 7 | BR07-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-01 | WIN-NC | 46 | 10 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-02 | WIN-NC |  |  | Engineering design | 22 | BR08-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-03 | WIN-NC |  |  | AFC review/release | 12 | BR08-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-04 | WIN-NC |  |  | Material procurement | 35 | BR08-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-05 | WIN-NC |  |  | Shop fabrication | 45 | BR08-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-06 | WIN-NC |  |  | Inspection and coating | 9 | BR08-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-07 | WIN-NC |  |  | Marine transport readiness | 10 | BR08-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-08 | WIN-NC |  |  | Offshore access/enabling | 12 | BR08-07 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-09 | WIN-NC |  |  | Installation/strengthening | 20 | BR08-08 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-10 | WIN-NC |  |  | Connections and NDT | 10 | BR08-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-11 | WIN-NC |  |  | Approved removal / modifications (if applicable) | 12 | BR08-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR08-12 | WIN-NC |  |  | Completion and handover | 7 | BR08-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-01 | SCA-SC1 | 63 | 15 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-02 | SCA-SC1 |  |  | Engineering design | 22 | BR09-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-03 | SCA-SC1 |  |  | AFC review/release | 12 | BR09-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-04 | SCA-SC1 |  |  | Material procurement | 35 | BR09-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-05 | SCA-SC1 |  |  | Shop fabrication | 45 | BR09-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-06 | SCA-SC1 |  |  | Inspection and coating | 9 | BR09-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-07 | SCA-SC1 |  |  | Marine transport readiness | 10 | BR09-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-08 | SCA-SC1 |  |  | Offshore access/enabling | 12 | BR09-07 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-09 | SCA-SC1 |  |  | Installation/strengthening | 20 | BR09-08 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-10 | SCA-SC1 |  |  | Connections and NDT | 10 | BR09-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-11 | SCA-SC1 |  |  | Approved removal / modifications (if applicable) | 12 | BR09-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR09-12 | SCA-SC1 |  |  | Completion and handover | 7 | BR09-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-01 | SCA-SCF | 119 | 30 | Survey | 8 | AWARD | SURVEY |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-02 | SCA-SCF |  |  | Engineering design | 22 | BR10-01 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-03 | SCA-SCF |  |  | AFC review/release | 12 | BR10-02 | ENG |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-04 | SCA-SCF |  |  | Material procurement | 35 | BR10-03 | PROC |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-05 | SCA-SCF |  |  | Shop fabrication | 45 | BR10-04 | FAB |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-06 | SCA-SCF |  |  | Inspection and coating | 9 | BR10-05 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-07 | SCA-SCF |  |  | Marine transport readiness | 10 | BR10-06 | MAR |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-08 | SCA-SCF |  |  | Offshore access/enabling | 12 | BR10-07 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-09 | SCA-SCF |  |  | Installation/strengthening | 20 | BR10-08 | B |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-10 | SCA-SCF |  |  | Connections and NDT | 10 | BR10-09 | QA |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-11 | SCA-SCF |  |  | Approved removal / modifications (if applicable) | 12 | BR10-10 | DEM |  |  | 0 | Not started | Approval / actual quantity to verify
+BR10-12 | SCA-SCF |  |  | Completion and handover | 7 | BR10-11 | CLOSE |  |  | 0 | Not started | Approval / actual quantity to verify
+
+SHEET Resource Pools
+Resource ID | Planning configuration | Capacity input | Unit | Confirmed? | Key constraint
+ENG | 2 engineering teams | 2 | teams | No | Shared project workload
+SURVEY | Offshore survey crew | 1 | crew | No | Access / platform operations
+PROC | Procurement expediting team | 1 | team | No | Approved specifications
+FAB | 2 main lines + 1 strengthening cell | 3 | lines/cells | No | Throughput and available bays
+QA | Yard and offshore inspection | 2 | teams | No | Hold points / NDT capacity
+MAR | Primary lift spread + support | 1 | spread | No | Lift weight, vessel charts, charter
+A | Strengthening crew A | 1 | crew | No | Access, permits and berths
+B | Strengthening crew B | 1 | crew | No | Access, permits and berths
+INSTALL | Bridge installation crew | 1 | crew | No | Heavy-lift interface
+DEM | Specialist demolition team | 1 | crew | No | Removal engineering / isolations
+CLOSE | Completions and documentation | 1 | team | No | Client acceptance
+
+SHEET Execution Gates
+Gate | Mandatory evidence | Accountable | Status
+G1 Survey | Existing-condition survey, geometry, structural condition | Engineering | Open
+G2 AFC | Approved calculations, AFC drawings, quantity reconciliation | Engineering | Open
+G3 Fabrication | Traceability, WPS/PQR, inspection and coating records | Fabrication / QA | Open
+G4 Marine | Weight/COG, lift points, rigging, vessel suitability | Marine / Engineer | Open
+G5 SIMOPS | ONGC permits, isolations, access, simultaneous operations | Construction / ONGC | Open
+G6 Removal | Temporary stability, services transfer, demolition release | Engineer / ONGC | Open
+G7 Acceptance | NDT, coating, punch clearance, as-built dossier | QA / Completion | Open
+
+SHEET Quantity Baseline
+Bridge | Steel MT | Demolition MT | Planning group
+ICW-ICG UD | 49 | 25 | A
+ICW-ICG LD | 122 | 1 | INSTALL
+ICG-ICP UD | 116 | 25 | A
+ICG-ICP LD | 160 | 1 | INSTALL
+BHS-SLQ | 282 | 210 | INSTALL
+SLQ-WIS | 91 | 15 | A
+NQO-NQD | 93 | 25 | B
+WIN-NC | 46 | 10 | B
+SCA-SC1 | 63 | 15 | B
+SCA-SCF | 119 | 30 | B
+SUM OF BRIDGE ROWS | 1141 | 357 | 
+Printed summary steel MT | 1142 |  | 
+Bridge row total MT | 1141 |  | 
+Discrepancy MT | 1 |  | 
+Status | Verify original detailed MTO |  | 
+
+SHEET Basis and Actions
+STAGE 28 | PRE-AWARD PLANNING ONLY
+Reference commencement | 2026-11-01 assumed; contract commencement not verified
+Calendar | 360 calendar days assumed; SCC and monsoon treatment to confirm
+Activities | 120 illustrative Level-4 activity placeholders across ten bridges
+Durations | Illustrative and not derived from measured work quantities
+Logic | Within-bridge FS chain is deliberately conservative; replace with constructability-verified overlap and cross-package logic
+Resource levelling | Not performed; shared resources may be double booked
+Cost | Not priced; link Stage 25/26 cost models after vendor quotations
+P6 import | Map columns into official P6-generated Excel import template; not directly import-ready
+Structural quantity | 1,142 MT printed summary vs 1,141 MT bridge rows; reconcile 1 MT
+Marine safety | Qualified engineers to validate lifting, temporary stability, demolition, weather limits and ONGC permits
+Next action 1 | Replace placeholder durations with quantity × demonstrated productivity calculations
+Next action 2 | Insert engineering/procurement overlaps and true predecessor relationships
+Next action 3 | Obtain vendor and vessel commitments; run resource-levelled CPM
+Next action 4 | Link acceptance quantities, cost and cash receipts to package codes

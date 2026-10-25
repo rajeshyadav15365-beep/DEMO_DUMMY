@@ -1,0 +1,221 @@
+
+SHEET PRICE SCHEDULE
+ |  | Bid Package for 
+Bridge Refurbishment & Replacement Project (BRRP) |  |  | PART – V
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | APPENDIX A-3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | PROFORMA FOR PRICE SCHEDULE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.A.  LUMP SUM PRICE   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |     |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No | ITEM | Quote Currency* | Quote Amount |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.A(i)(a) | a. Lump sum price of materials, for execution of entire work scope as described in the bid document incl. addendum, if any, (EXCLUDING Customs duty, if applicable on imported materials/ equipment/ items as per GCC 3.4.1) | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Total Price I.A(i)(a) |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No | ITEM | Quote Currency* | Quote Amount |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.A 
+(i) (b)  | Lump sum price of services for execution of entire work scope as described in the bid document incl. addendum, if any | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Total Price  I.A (i)(b) |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No | Marine Spread Mobilization/Demobilization** (one Mobilization and corresponding Demobilization will be taken as one unit) | No. of Mob/Demob during schedule completion period | Currency (Bidder to enter name of currency eg. INR/USD etc. | Unit rate | Amount |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.A (ii) (a) | Accommodation Work Barge /Hook-up Barge | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Derrick Barge  | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Supply Vessel | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ** This is Lump sum turnkey contract. Individual mob/ demob rates in Table IA (ii)(b) above are solely for the purpose of calculating the applicable Rate for mob/ demob for extra work/ change orders, with reference to the original scope of work. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No | Marine Spread operating cost***
+(Excluding Mobilization & demobilization) | Estimated no of days for loading of bids ( Column 3) | *Quote Currency | Unit Rate including all Taxes | Quote Total operating cost
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.A (ii)(b) | Accommodation Work Barge /Hook-up Barge | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Derrick Barge  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Supply Vessel | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  | X |  | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Subtotal I.A (ii) |  |  |  |  | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  ***This is Lump sum turnkey contract. Individual marine spread rates quoted in Table 1A (ii) above is part of the bid evaluation and same shall also be referred for calculating the applicable operating Day Rate for change orders, if any, with reference to the original scope of work.
+
+All marine spreads rates should be inclusive of required associated support vessels, man power, consumables, etc. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.B. CUSTOMS DUTY (Basic Customs Duty)	                                                                                                                                   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  		Price (Indicate Currency/Currencies) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No. | PARTICULARS |  |  | Quote Currency* | Quote Amount |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.B  | i) Customs duty on “imported materials/equipment/items” as per Clause 3.4.1.1 |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | 
+ii) Customs duty on “Constructional Plant and equipment” as per Clause 3.4.1.3
+ |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | iii) Customs duty on “As built Documents”  as per Clause 3.4.1.4 |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sub Total I.B. |  |  |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.C.  GOODS AND SERVICE TAX |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |      													Price (Indicate Currency/Currencies) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sr. No. | PARTICULARS |  |  | Quote Currency* | Quote Amount |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.C | Goods & Service tax (GST) as applicable on {I.A(i)(a)+ I.A 
+(i) (b) + I.B} |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Subtotal I.C |  |  |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.D.  TOTAL LUMP SUM PRICE  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | PARTICULARS |  |  |  | Quote Currency* | Quote Amount |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.D | Total  price for execution of the indicative scope of work as detailed in Bid Document {I.A(i)(a)+ I.A (i) (b) + I.B+I.C } i.e. Lumpsum awarded price |  |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | I.E | Price Including I.A (ii) (I.A(ii)(a)+IA.ii(b)) (Marine Spread Proposed to be deployed by the contractor) for arriving at Evaluated Pice (I.A + I.B + I.C) |  |  | X | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Note: i. * Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns. 
+	      ii. Total lump sum price quoted by the bidder shall be inclusive of all costs inter alia, insurance, taxes and duties. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |       Percentage of Local Content (LC) as per the PPP-MII policy in the bid of ____________ (name of bidder) is   ______ %.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Percentage of Import Content (IC) in the bid is ____________%. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | General Notes: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1) Bidder to note that total lump sum price quoted at I.D is inclusive of all activities including Insurance, Survey, Design & Engineering, Procurement of Materials, Fabrication, Transportation (including free issue materials), Offshore Installation and dismantling / removal / transportation and handover of old dismantled scrap materials at ONGC, Nhava (if applicable), all taxes & duties and all associated costs whatsoever for the entire scope of work as indicated in the bid package including Addendums if any. Bidder to refer Special conditions of contract for dismantling/removal/transportation and handover of old dismantled scrap materials at ONGC Nhava and include all corresponding costs as per scope in their total lump sum price. Bidder to also refer GST Rate notification 3/2017 under GST Act and Customs notification No. 23/2008 dated 01.03.2008, Customs notification No. 72/2017 dated 16.08.2017, Customs notification No. 50/2017 dated 30.06.2017 (including sl no 557B) and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022 (As amended from time to time). Bidder to also refer any another relevant notifications and its amendments till date issued under Customs Act and GST Act. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2) Bidder shall retain ‘X’ mark in the Proforma for Price Schedule in the unpriced (techno-contractual) Bid as a confirmation that he has quoted against that particular item. Bidder may indicate ‘NA’ wherever price quote is not be applicable to them. Bidder shall not quote his prices wherever `NA’ is already indicated in the Proforma for Price Schedule. However, in case bidder quotes his prices in that cell, payment will not be made of the price indicated therein but would be taken for evaluation. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3) Bidder to ascertain Customs Duties and include Customs Duties in their offer, as applicable, and also to indicate the Custom duty, which bidder is liable to pay directly to Tax authorities, separately in I.B. Re-imbursement of Custom Duty, if applicable, would however be made at actuals in Indian Rupees upon submission of documentary proof of duty assessment and payment thereof and would further be limited to the total amount indicated in IB of the price schedule. For Goods & Service Tax, the payment will be made in Indian Rupees along with each invoice as stipulated in Appendix A-10 as per Rule 34 of CGST Rules, 2017. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4) All the new and existing facilities under the tender are operated by ONGC and are covered under Petroleum Mining Lease.   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5) In order to accommodate more than one foreign currencies, bidder may add vertical column in the price column of Appendix A-3 i.e. Proforma for Price Schedule, wherever bidder intends to indicate the amount in various currencies. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6) Bidders are advised not to add additional text/note or make any changes in the Appendix A-3 `Proforma for Price Schedule’, except for additional columns for price quote in multiple foreign currencies. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 7) Bidders shall raise Invoices of each Milestones as per Milestone Payment Formula clearly showing material value and/or Services value as applicable. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | II .UNIT ADJUSTMENT RATES |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | II.A UNIT RATE (FOR BASIS OF UNIT RATE ADJUSTMENT) FOR POSITIVE/NEGATIVE VARIATION): – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | S. No (1) | Description (2) | Unit (3) | Total Estimated Quantity (4) | All inclusive unit adjustment rate for increase or decrease in quantities (USD) (5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1.       | Structural    Members (New Bridge, Strengthening of Existing Bridge, New Landing/Strengthening of Existing Deck, Strengthening of Existing Landing/Deck | MT | 1142 | 2246 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2.       | Demolition including Handrails, Gratings | MT | 357 | 2246 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3.       | Handrails | MT | 40.88 | 3298 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4.       | Gratings | MT | 35.95 | 1596 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5.       | GI Sheetings | Sqm | 1274 | 225 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Notes for II.A: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1.     The estimated quantity given in Column 4 above shall be considered by the bidder for the quote in I.D Total Lump Sum cost. The unit rates are given for the purpose of adjustment in quantity increase/decrease than estimated quantity in Column 4 in terms of clause 3.5 of GCC. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2.     Bidder to note that the contract price adjustment shall be carried out for variation as per table above for “as installed” of items at Sl No. 1 to 5 above with respect to estimates provided in column 4 above in accordance with the unit adjustment rates specified in the price at column 5 above. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3.     The unit Price is all inclusive cost i.e. including Insurance, Survey, Design & Engineering, Procurement of Material, Fabrication, Transportation, dismantling / removal and disposal of damaged materials, Offshore Installation, all taxes & duties and all associated costs etc., excluding GST. GST shall be extra, as per the rate quoted by the bidder.  There shall be no further extra cost on any account whatsoever. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4.     The adjustment rate for both increase and decrease of items at Sl No. 1 to 5 above are the same. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5.     In case of unit rate adjustment, if Consortium requires the payment to be made to Consortium members separately, then bidder to indicate percentage under Appendix A – 10 i.e. Milestone Payment Formula. However, bidder is required to accept single rate for adjustment under Item – II.A – Unit Rates (For Basis of Adjustment).  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6.     The unit adjustment rates given above are inclusive of all taxes and duties excluding GST.  GST shall be extra, as per the rate quoted by the bidder. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | III  Details of fuel:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1.     The total cost of diesel fuel required in the project shall be included by bidder in lump sum price I.D.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  IV.	COST REIMBURSABLE ADDITIONAL ITEMS: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |               |  | (COST PLUS PERCENTAGE) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1. Percentage fee applicable to cost of material used for extra work items.		                                                                   |  | 0.075 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 	2. 	Percentage fee applicable to equipment subcontracts for extra work.		 |  | 0.075 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3. Percentage fee applicable to labour subcontracts for extra work. 			                                                                               |  | 0.075 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4. Percentage fee applicable to one year’s spares					 |  | 0.075 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Notes for item IV: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1) In respect of item 1 and 4 above, the percentage shall be applicable on CIF price (Offshore supply base/Contractors yard) for imported items/ FOR Destination price (Offshore supply base/contractors yard) for indigenous items. However, the same shall not be applicable on duties & taxes. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2) The above percentage may also be used by the Company to order bought-out items and extra equipment not included in the Bidding documents. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3) In respect of item 4 above the cost shall be reimbursed as per provision of clause 5.16 of General Conditions of Contract. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | V. CUSTOMS DUTY |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Bidder shall furnish break-up of the amount included in the Total lump sum price towards meeting his obligation as per clause 3.4.1.3 of General Conditions of Contract pertaining to Customs Duty. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |        |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Notes for item V : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1. The break-up furnished above shall form the basis for adjustment only to the extent covered under clauses 7.6 (Change in Law) of General Conditions of Contract so far as it pertains to Customs Duty. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2. Bidder agrees that in case the Custom Duty actually levied/imposed on the above mentioned Marine Spread and Bidder’s material consumables after deducting the admissible duty drawback/exemption is less that the amount(s) indicated above, then Company shall recover the difference between the net Custom Duty levied/Imposed, after taking into account the admissible duty drawback and the amount(s) indicated by the Bidder. Bidder to refer Customs notification no. 50/2017 (including Sl no 557B) dated 30.06.2017 and 72/2017 dated 16.08.2017 and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022, 23/2008-Cus. Dated 01.03.2008 (As amended from time to time) of Govt. of India and all other amendments in the Act. Company shall reimburse custom duty on account of change in law against documentary evidence as per provisions of the contract in clause 3.4 subject to clause 7.6 of GCC. Bidder to also refer ITB clause 10.11 in this regard. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3. Company shall bear the additional custom duty only if it becomes payable in terms of provisions of clause 7.6 of General Conditions of Contract. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4. Bidder shall indicate the details of Customs Law reference and Tariff indicating the duties of customs and rate under column (2) and (3) respectively in the un-priced bid also. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5. The total amount quoted above shall tally with total amount of custom duty quoted in lump sum price I-B (ii)- Customs duty for these items. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6. Change in law shall be applicable only in case of variation of rate of taxes and duties on supply of services to ONGC and not applicable on taxes and duties on input (goods and services), in line with clause 7.6.6 of GCC. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Change in law shall not be applicable to taxes and duties in respect of subcontractors, vendors etc. of contractors. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | VI. CHANGE IN LAWS AND REGULATIONS (Refer clause 3.4 of GCC of tender Documents) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Laws, Acts, Rules, Regulations etc. and the tariffs thereof considered by the Bidder while estimating the incidence of taxes, duties, fees, charges, levies etc. included in the Bidder’s lump sum prices for the Works (as quoted in the Appendix A-3 I.B (i) & (iii) and I.C) as per relevant provisions of  General Conditions of Contract to be used for the purpose of adjustment of Contract Price in the event of change of Law in terms of Clause 7.6 of General Conditions of Contract are as under: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ITEM | Bidding Documents
+Clause Reference | Customs laws reference | Tariff indicating rate of
+customs duty (CD)  | Amount	included	in the
+Total Lump sum Price at I.D |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | 2 | 3 | 4 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Customs duty on “imported materials/ equipment/items” | 3.4.1.1 | x | x | x |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Customs duty (CD)-on As Built Documents | 3.4.1.4 | x | x | x |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ITEM | Bidding Documents
+Clause Reference | GST Laws reference | Tariff indicating rate of
+GST | Amount	included	in the
+Total Lump sum Price at I.D |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Goods and Service tax | 3.4 | x | x | x |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Note for item VI: Refer general note 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1. Bidder to also refer Customs notification No. 50/2017 dated 30.06.2017 (including Sl no 557B) and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022 (As amended from time to time) and GST Rate notification 3/2017 under GST Act. Bidder to also refer any another relevant notifications and its amendments till date issued under Customs Act and GST Act. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2. Bidders to go through Clause 7.6 of General Conditions of Contract carefully, while furnishing the above table. If `Not applicable’ write `Not Applicable’. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3. The GST shown above shall tally with the same quoted in Lump sum price – I.C-Goods and Service Tax.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4. The Customs duty shown above shall tally with total amount of custom duty quoted in lump sum price at I-B (i) & (iii). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5. Bidder shall indicate the details of GST reference and Tariff indicating rate of GST under column 3 and 4 respectively in the un-priced bid also. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6. Change in law shall not be applicable to taxes and duties in respect of subcontractors, vendors etc. of contractors. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 7. Change in law shall be applicable only in case of variation of rate of taxes and duties on supply of services to ONGC and not applicable on taxes and duties on input (goods and services), in line with clause 7.6.6 of GCC. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | VII.   Disclosure for availing Deemed Export Benefit for domestic materials and Concessional Customs duty for import of materials: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Contractor has disclosed the following:- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sl. No. | ITEM | Amount
+(Currencies to be mentioned by the Contractor) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | Value of domestic materials for which Contractor intend to avail Deemed Export Benefit/GST at concessional rates. | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2 | CIF Value of Imported materials for which Contractor intend to avail Concessional rate of Customs Duty / GST. | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Bidders are requested to submit their quotes in a single currency. However, In case of more than one currency, add more columns as required.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |      Notes for VII: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1. The total value of domestic materials and imported materials at above table shall be restricted to the quoted price as per I.A.  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2. Bidder is allowed to change the indicated amount shown above during the execution based on detailed engineering but the sum of value of goods/materials on which concessional Customs duty and GST is leviable shall be restricted to the sum of amount indicated at table I.A above. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3. For items under clause 3.4 of Part - II GCC, Certificate and/or Undertaking shall be issued by Company for items covered under list 33 of Notification 50/2017-Cus (including Sl no 557B)   as amended by Notification 02/2022-Cus. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4. For items under clause 3.6 of Part - II GCC, PAC as per Deemed Export Policy and recommendatory letter for obtaining EC from DGH shall be issued by Company. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5. Bidder to refer Customs notification No. 50/2017 (including Sl no 557B) dated 30.06.2017 and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022 (As amended from time to time) and GST Rate notification 3/2017 under GST Act. Bidder to also refer any another relevant notifications and its amendments till date issued under Customs Act and GST Act. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | VIII. Rental Rate Schedule: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | (Company has  furnished Rate Sheet and Fee Schedules in accordance with Clause 11.2 (d) of Part I “Instructions to Bidders” and Clause 8.1 of Part II “General Conditions of Contract). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Note:- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Rental Rate Schedule shall be as per day basis, unless otherwise stated. If required same shall be calculated on pro rata basis. Rental rate schedule is attached at Annexure 1, 2, 3 and 4 as under. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Annexure-1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Rental Rate Schedule |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | S No | Equipment |  | Day Rate (INR) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | Air Compressors: |  | 14191 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2 | Generator Sets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | 560-625 KW |  | 18049 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | 210-250 KW |  | 13569 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | 90-125  KW |  | 9833 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3 | Nitrogen Generator |  | 14315 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4 | Hydraulic Jack 5OT & Pump |  | 10581 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Hydraulic Jack 25T & Pump |  | 8092 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5 | Welding Machines: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Diesel upto 400A |  | 5601 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Electric 300-600 A |  | 1493 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6 | Cutting and Burning Outfits: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Multihead Plate Cutting Torch |  | 1743 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 7 | Miscellaneous  : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Punch machine |  | 1245 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Pipe cut off. Machine |  | 1805 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | UT machine |  | 5228 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Fitter tool box |  | 934 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Welder tool box |  | 1245 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | B) TOOLS AND MISCELLANEOUS : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 9 | Pumps |  | - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | High Pressure |  | 10892 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Centrifugal |  | 13693 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 10 | Scaffolding |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Scaffolding Pipe |  | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Scaffolding wooden plank |  | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Scaffolding Clamp |  | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 11 | Sand blasting & Painting With Air Compressor (excluding sand and/or paint) |  | 15810 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Chain Block 10T |  | 374 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Chain Block 20T |  | 1058 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | The rates are inclusive of Percentage fee. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Annexure-2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Manpower Rate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | S No | Description | Rates( per day) in INR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | Worker/Technician/welder/operator etc. | 1820 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2 | Supervisor | 6209 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | The rates are inclusive of Percentage fee. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Annexure-3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | S No | Engineering | Price in INR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Deliverable |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | Drawings | 86076 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2 | P&ID | 161553 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3 | Local Analysis of Deck | 232962 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4 | Calculations | 106739 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5 | Purchase Specifications | 421388 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6 | Report | 119693 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 7 | Data Sheet | 93784 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 8 | Loop Diagram | 46892 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 9 | Control Architecture | 179539 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 10 | Site survey | a)         Engineers per day – 12954 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | b)         Draftsman per day – 10492 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | c)         Senior Engineer per day – 15738 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | The rates are inclusive of Percentage fee. However, all above rates are exclusive of GST. For Annexure-3, please note that site survey rates are on per day basis whereas for others it is based on number of engineering deliverables. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | IX. DETAILS  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Annexure - A to Appendix A-3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Annexure A to Appendix A-3: Basis for Facility wise breakup of Lump sum Cost Weight factors: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  Basis for Facility-wise breakup of lump-sum Cost Weight factors: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sl.No | Facility | Weight  Factors (Materials+Services) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1 | ICP-ICG Lower Deck bridge | 10.75 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2 | ICW-ICG Lower Deck bridge | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 3 | ICP-ICG Upper Deck bridge | 9.13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 4 | ICW-ICG Upper Deck bridge | 4.38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5 | BHS-SLQ Lower Deck bridge | 34.26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6 | SLQ-WIS Lower Deck bridge | 6.94 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 7 | NQO-NQD Bridge | 7.44 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 8 | WIN-NC Bridge | 3.61 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 9 | SC1-SCA Bridge | 4.96 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 10 | SCA-SCF(Flare) Bridge | 9.53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Total | 100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Note:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | The weight factors shall be used to derive the item wise cost from the lump sum price quoted by the bidder for the purpose of calculation of Liquidated Damages and deletion of scope, if any. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 

@@ -1,0 +1,1586 @@
+
+
+
+
+
+
+
+
+
+	
+PART - I
+	
+
+
+
+
+
+INSTRUCTIONS TO BIDDERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIONS TO BIDDERS
+
+            Sl. No.             Description
+
+A.		Introduction
+
+1.0		ELIGIBILITY AND EXPERIENCE OF THE BIDDER                                                            
+	
+2.0		COST OF BIDDING                                                            
+
+3.0		TRANSFER OF BIDDING DOCUMENT
+	
+4.0		ASSURANCE             
+
+5.0		SITE VISIT, LOCAL CONDITIONS ETC.    
+
+B.		BIDDING DOCUMENTS		
+
+6.0		Contents of Bidding Documents
+
+7.0		Clarification of Bidding Documents
+
+8.0		Amendment / Addendum of Bidding Documents
+
+C.		PREPARATION OF BIDS
+
+9.0		Language & Signing of Bid
+
+10.0		Bidding System                     
+
+11.0		Information/Documents Required in the Bid
+
+11.1		Un-priced Techno-contractual Bid
+          
+11.2		Priced Commercial Bid
+
+12.0		Prices
+
+13.0		Bid Currencies
+
+14.0		Experience/Capability of the Bidder
+
+15.0		Opportunity to Indian Vendors
+
+16.0		Bid Validity
+
+17.0		Bid Security
+
+D.		SUBMISSION AND OPENING OF BIDS    
+
+Submission of Bids
+
+Deadline for Submission of Bids
+
+20.0		Late Bids
+
+21.0		Modification and Withdrawal of Bids
+
+22.0		Opening of Bid by Company
+
+E.		EVALUATION AND COMPARISON OF BIDS
+
+23.0		Evaluation
+
+24.0		Contacting the Company
+
+25.0		Company's Right to Accept any Bid and to Reject any or all Bids
+
+F.		EVALUATION AND COMPARISON OF BIDS
+
+26.0		Notification of Award (NOA)
+     
+27.0		Signing of the Contract
+
+28.0		Performance Guarantee
+
+29.0 		Employment of Officials/Ex-officials of Company
+
+30.0		Contracts with relatives of Directors of ONGC
+
+31.0              	Representation from the bidders
+
+32.0	Certificate on submission of techno-contractual complaint bid without any deviation to terms and conditions of Bidding Documents
+
+          	Third Party Inspection Agency And Certification Agency (CA)
+
+    	Deleted
+
+35.0               Unsolicited Communication
+		
+		36.0               Mandatory training for Offshore going Personnel 
+
+37.0	          	Deleted 
+		
+		38.0	         	Deleted
+
+39.0		Evaluation of new barges
+
+40.0		Evaluation of new yards 
+
+41.0	Jacket & Composite Cable Adjustments 
+
+42.0		SCADA - Deleted
+
+43.0   		Annual Maintenance Contract 
+
+44.0	          	 Undertaking regarding ‘Conflict of Interest’
+
+45.0	          	Painting system for all new Platforms.
+
+46.0	         	Submission of forged documents.
+
+47.0		Deleted
+
+48.0		Fraud prevention policy
+
+49.0 	Govt. Policy for providing preference to domestically manufactured Iron & Steel products (DMI&SP) notified vide Gazette No. CG-DL-E-26052025-263378 dated 26.05.2025 [G.S.R. 341 (E)] and further amendments / notifications
+
+50.0 	Guidelines for Eligibility of Bidders from a Country sharing a land border with India
+
+51.0	Deleted
+
+52.0	Deleted
+
+53.0	Anti-Competitive Practices by bidders (Cartel Formation / Pool Rates / Collusion/ Bid Rigging etc.)
+54.0	Non-conformities between Figures and Words
+55.0	ONGC’s Policy on Climate Change and Sustainability
+56.0	GST LEGISLATIONS
+57.0	Financing of trade receivables of Micro and Small Enterprises (MSEs) through Trade Receivables Discounting System(TReDS) platform
+
+58.0	Policy for providing preference to Domestically Manufactured Electronics products (DMEP)
+A.	INTRODUCTION
+
+	Oil and Natural Gas Corporation Ltd. incorporated under the Companies Act, 1956 having its registered office at Deen Dayal Urja Bhawan, 5-A Nelson Mandela Marg, Vasant Kunj, New Delhi-110070, India and one of its offices at ONGC, 15th Floor, Maker Tower-E, Cuffe Parade, Mumbai - 400005 (India), hereinafter called the Company is engaged in developing its new and existing offshore fields located off the West and East Coast of India.
+
+The details of the facilities which the Company requires to be set up in the present instance and for which bids are hereby invited on ICB basis are described in Clause 2 of General Conditions of Contract and Section 2, Part IV of the Bidding Documents.
+
+1.0	ELIGIBILITY AND EXPERIENCE OF THE BIDDER:
+
+1.1      TECHNICAL 
+
+a.	Bidder is required to comply the requirements of Bid Evaluation Criteria (BEC) annexed with the bidding document.
+b.	In case the bidder is an Incorporated Indian Joint Venture Company, registered in India and incorporated under the Companies Act 1956 and any amendments thereunder, then the technical experience criteria laid down in the Technical BEC should be met as under:
+
+i)	The Joint Venture Company by itself should meet the experience criteria 
+or
+
+ii)	Any Partner in the Joint Venture Company having a stake of at least 26% in the Joint Venture Company should meet the technical experience criteria stipulated in the tender on its own and cannot rely on any other arrangement such as Consortium or Supporting Company of the JV Partner for meeting the technical experience criteria. Documentary evidence in support of the above should be submitted along with the techno-commercial bid. 
+
+iii)	An undertaking from the Joint Venture partner, based on whose experience the JV has qualified, shall be submitted with the techno commercial bid stating that they shall maintain minimum 26% shareholding in the JV till the execution of the contract.
+
+1.2     	Details of experience and past performance of the bidder and the of joint venture partner (in case of a joint venture), on works/ jobs done of similar nature in the past and details of current work in hand and other contractual commitments, indicating areas and clients are to be submitted along with the techno-commercial bid, in support of the experience laid down at para 1.1(a) and (b) above.
+
+1.3	JOINT VENTURE BIDS / CONSORTIUM BIDS:
+
+1.3.1	In view of the complexity of nature of work involved as covered by the Bidding Documents, it is anticipated that some of the intending bidders may pool their resources and experiences to form Consortia/Joint Ventures. In their own interest, before forming a Consortium, the bidders/ individual constituents of the Consortium are advised to investigate the capabilities, availability of expertise and resources such as construction equipment, experienced personnel, financial soundness, past experience and concurrent engagements of constituting partners/members of the consortium/ joint venture.
+
+1.3.2	Deleted
+1.3.3	The Leader of the Consortium shall submit the bid on behalf of the Consortium of bidders. Memorandum of Understanding (MoU) (as per format enclosed in tender document at Appendix B-30) between the Consortium members duly signed by the authority (ies) as per the note in the MOU format, must accompany the techno-commercial bid. 
+1.3.4  	The bid shall be digitally signed by leader of the Consortium. The Power of Attorney from each member authorizing the leader for signing and submission of Bid on behalf of individual member must accompany the Bid offer.  Other members of the consortium may participate in techno-contractual discussions and sign the minutes of such discussions/ meetings along with the Leader of the Consortium.  
+	
+However, Integrity Pact should be signed by all the constituents of the Consortium. The scanned copy of Integrity Pact duly signed by the authorised signatories of each Consortium member, shall be digitally signed by leader of the Consortium and uploaded with techno-commercial bid.  
+
+In case of consortium bids, the bid bond Electronic Bank Guarantee (e-BG) should be submitted in the joint name of the consortium members. 
+
+	In case the consortium bid is led by an Indian Company the bid bond can be submitted in Indian rupees. However, in case the consortium bid is led by a Foreign Company the bid bond should be submitted in foreign currency.
+
+1.3.5   	Documents/details pertaining to qualification of bidder as per Proforma of documents attached with the Bidding Documents must be furnished by each partner/member of consortium complete in all respects along with the bid, clearly bringing up their experience especially in the form of work in their scope. The division of scope of work in between the members of Consortium in terms of % of bid value and jobs should be indicated in the un-priced techno-contractual bid.
+
+1.3.6.	CONSTITUTION OF CONSORTIUM
+
+	Consortium can be formed either between Indian and foreign companies or only Indian companies or between foreign companies. No alteration or modification in the constituents or composition of a Consortium shall be permitted after submission of bid and also after award of the Contract during currency of the contract.
+
+	A constituent of the Consortium shall be allowed to undertake and carry out only that activity for which that constituent has been evaluated and qualified technically. 
+
+A constituent of the Consortium shall not be permitted to participate either in an individual capacity as a bidder or as a member of another Consortium in the same tender.
+
+1.3.7	SIGNING OF CONTRACT
+
+	Contract, if awarded (in case of Consortium), shall be in the name of the Consortium clearly specifying the names and addresses of all the constituents and also mentioning that the Consortium is led by which constituent. Accordingly, EMD/Bid Bond and SD/PBG shall be submitted in the name of the Consortium clearly specifying the names and addresses of all the constituents along with that of the leader. 
+
+In case of award to the consortium, only the leader of the Consortium shall submit the Performance security / Security deposit for the entire requisite amount of the Performance security / Security deposit on behalf of the Consortium.
+
+In the event of award of contract to the Consortium, the contract shall be signed by each constituent of the Consortium. Alternatively, the Leader of the Consortium may sign the contract subject to submission of a Power of Attorney (duly notarized) from each constituent authorizing the Leader of the Consortium to sign the contract on behalf of the individual member of the Consortium. Irrespective of whether the Contract is signed by all the constituents or by the Leader, all the constituents of the Consortium shall be jointly and severally responsible for satisfactory execution of the contract.
+
+Payment for work done under the contract shall be made by ONGC only to the Leader of the Consortium. However, in case payment is to be made directly to each constituent corresponding to their part of the scope of work, the same shall be clearly indicated in the bid along with the constituent-wise details of the price break-up.
+
+In the event that the successful bidders is a joint venture formed of two or more companies, the Company requires that the parties to the joint venture accept joint and several liability for discharging all obligations under the Contract.
+1.3.8	The leader of the Consortium on behalf of the Consortium shall undertake full responsibility for timely completion of Work and shall co-ordinate with ONGC during the period the bid is under evaluation and also during the execution of the contract, if the same is awarded. ONGC shall correspond / communicate only with the leader of a Consortium and like-wise, the leader of the Consortium only should communicate with ONGC on behalf of the Consortium. No cognizance shall be given to communication received directly from other consortium members. The Leader of the Consortium shall also be responsible for resolving dispute/ misunderstanding/ undefined activities if any amongst all the constituents of the Consortium.
+Any correspondence exchanged between ONGC and the leader of Consortium shall be binding on all the constituents of the Consortium. Notwithstanding the provisions that the members of consortium shall be jointly and severally liable to ONGC, the leader of consortium should confirm unconditional acceptance of primary responsibility of executing the ‘Scope of work’ of this tender. This confirmation should be submitted along with the techno-commercial bid. 
+		
+1.3.9	EXPERIENCE
+
+In case of Consortium Bids, Leader and members of consortium should themselves meet the experience criteria covering the respective activities of work to be performed by them on their own and not through any other arrangement like through Supporting Company, Parent / Subsidiary / Sister Subsidiary / Co-Subsidiary / Technical Collaboration / Sub-contracting. Necessary documentary evidence to this effect should be submitted with techno-commercial bid.
+
+The members of consortium shall decide the Leader of consortium. The leader of consortium shall have minimum 51% stake in terms of bid value, as reflected in the MOU executed by consortium members. Each member of consortium shall remain jointly and severally liable to ONGC.
+
+For this purpose, the role and scope of work to be performed by the respective consortium members expressed as a percentage of bid value should be indicated in the Memorandum of Understanding (MOU) submitted along with techno-commercial bid as per format provided in the tender.
+
+	The Memorandum of Understanding executed by the members of the Consortium is attached at Appendix B-30 “Standardized format for Memorandum of Understanding (MoU) for Consortium”.
+
+	The Leader of the Consortium can submit the bid on behalf of the Consortium. Memorandum of Understanding (MoU) (as per format enclosed in tender) between the Consortium members duly signed by the authority (ies) as per the note in the MOU format, must accompany the techno-commercial bid. 
+
+The MoU should clearly define the role / scope of work to be performed by each constituent and should clearly define the leader of the Consortium. All the members of the Consortium must resolve and affirm in the MoU that each party shall be jointly and severally liable to ONGC for any and all obligations and responsibility arising out of the Contract and for discharging all obligations under the Contract. MoU signed between the members of the Consortium shall form part of the contract.  In case of award of contract, the MoU shall be kept valid throughout the entire contract period, including extensions, if any. After the award of contract, no alterations / modifications would be permitted in the MoU.
+
+Only that consortium member who has undertaken a particular activity in execution of a contract shall be considered as having technical experience of that particular activity.
+Documents/details pertaining to qualification of bidder as per proforma of document attached with the bidding documents must be furnished by each partner/member of consortium/joint venture complete in all respects along with the bid clearly bringing up their experience especially in the form of work in their scope
+
+1.4	Indian companies/ Joint Venture companies (Incorporated JV):- Indian bidders whose proposal for Joint Venture involves foreign equity participation or payment of royalty and / or lumpsum for technical know-how and wherever Govt. approval is necessary, are required to submit copy of Govt. approval, on their application submitted to SIA, prior to the date price bid opening
+
+1.5	Bid will not be considered for evaluation where bidder /supporting company/ultimate controlling company/JV partner/Consortium Partner is undergoing an Insolvency Resolution Process under the Insolvency & Bankruptcy Code, 2016 (or any amendments thereof)  or, in case of an international bidder, is undergoing any proceedings for resolution of bankruptcy /insolvency by concerned court/authority of relevant jurisdiction, as on actual techno-commercial bid opening date. 
+
+	In case a bidder /supporting company/ultimate controlling company/JV partner/Consortium Partner is undergoing or gets admitted to an Insolvency Resolution Process under the Insolvency & Bankruptcy Code, 2016 (or any amendments thereof) or in case of an international bidder, is undergoing or gets admitted to any proceedings for resolution of bankruptcy /insolvency, or is declared as bankrupt/insolvent by concerned court/authority of relevant jurisdiction, prior to or during Tender evaluation stages, then such bids will be rejected.
+
+	Note: Rejection of bid in case Supporting company/ultimate controlling company shall be applicable wherever bidding entity seek the support (Technical or Financial) in the tender.
+
+1.6 	Bidder to check constraints/restrictions for obtaining Bank Guarantee or Currency of payment from a Company which is in the FATF Black/Grey list or under any other international sanction which restrict scheduled bank registered with RBI in India to release payments in the currency or to issue BG on behalf of such Supporting Company. Bidder shall be solely responsible for consequences (including but not limited to termination of contract) if they take support from such firm or quoted currency in ICB tenders.
+
+1.7	SCOPE OF WORK
+
+		Refer GCC clause no. 2.1.1. 
+
+1.8		The work shall be completed in a manner so as to require minimum time for replacement of items/ materials & maintenance Painting (wherever applicable as detailed in bidding document). The completion of the facilities is scheduled as per Clause 1.9. Bidder is encouraged to quote for an earlier date of completion.
+The design information, specification, and drawings indicate the "Minimum" requirements. Bidders are expected to supplement the information included in the Bidding Documents as required and submit a comprehensive bid.
+Changes and additions required to make Contractor's selected materials including equipment, fabrication and installation and procedures to meet the Bidding Documents requirements and to make entire facilities safe, operable and as per specified Codes and Standards shall be done at no extra cost or time effect to the Company. In the event of any revision in the Codes and Standards, which become effective after the date of submission Techno Contractual Bid or revised Techno-Contractual bids, the cost effect shall be borne by the Company subject to such change(s) being effected with prior approval of the Company.
+Any addition carried out by the Bidders over what has been shown in the drawings and the specifications to meet the operational safety and to meet the intent of Bidding documents and conceptual design shall also be carried out at no extra cost and time effect to the Company.
+     
+1.9	COMPLETION DATE
+The scheduled Completion Date(s) for the works described in the bidding documents shall be as per GCC Clause 6.3.1.
+
+Bidder shall develop a detailed project schedule to accomplish above completion date and submit it along-with his offer.
+
+2.0	COST OF BIDDING: 
+	
+	The Bidder shall bear all costs associated with the preparation and submission of its bid, and the ONGC will in no case be responsible or liable for those costs, regardless of the conduct or outcome of the bidding process.
+
+3.0	TRANSFER OF BIDDING DOCUMENT
+                 
+	The Bidding document is not transferable.         
+4.0	ASSURANCE	
+	
+	The successful bidder will be required to give satisfactory assurance of its ability and intention to supply the Goods and Services pursuant to the Contract, within the time set forth therein.  
+
+5.0	SITE VISIT, LOCAL CONDITIONS ETC.
+
+5.1	SITE VISIT
+
+5.1.1	The Bidder is advised to visit and examine the site of Works and its surroundings and obtain for himself on his own responsibility all information that may be necessary for preparing the bid and entering into a Contract. The costs of visiting the Site shall be at Bidder's own expense. 
+
+5.1.2	The Bidder and any of his authorized personnel or agents will be granted permission by the Company to enter upon its premises and lands for the purpose of such inspection, but only upon the express condition that the Bidder, his personnel or agents, will release and indemnify the Company and his personnel and agents from and against all liability in respect thereof and will be responsible for personal injury (whether fatal or otherwise), loss of or damage to property and any other loss, damage, costs and expenses however caused, which, but for the exercise of such permission would not have arisen. 
+
+5.1.3	Failure to visit the Site or failure to study the Bidding Documents will in no way relieve the successful bidder from furnishing any material or performing any work in accordance with the Bidding Documents, as a lumpsum turnkey contract.
+
+5.2	LOCAL CONDITIONS
+
+5.2.1	It will be imperative for each bidder to fully inform himself of all local conditions and factors which may have any effect on the execution of the Contract as described in the Bidding Documents. In their own interest, the foreign bidders are particularly requested to familiarize themselves with the Income Tax Act 1961, the Insurance Act, 1938, the Companies Act, 1956, the Customs Act, 1961, GST Legislations 2017, including any amendments thereof and other related acts and laws prevalent in India.
+
+	The Company shall not entertain any request for clarification from the bidder, regarding such local conditions.
+
+	It is the responsibility of the bidder that such factors have properly been investigated and considered while submitting the bid proposals and that no claim whatsoever including those for financial adjustment to the Contract awarded under the Bidding Documents will be entertained by the Company and that neither any change in the time schedule of the Contract nor any financial adjustments arising thereof shall be permitted by the Company on account of failure of the bidder to appraise himself of local laws/ conditions.
+
+B. 	THE BIDDING DOCUMENT
+6.0	CONTENTS OF BIDDING DOCUMENTS
+
+6.1	The set of Bidding Documents issued for the purpose of bidding includes the following Volumes in addition to Invitation for Bids, together with any amendment / addendum thereto issued in accordance with Clause 8.0 of Part-I and with para 7.3 of Invitation for Bids:
+
+	Volume-I (Part- I, II, III, IV, V & VI):
+	Part-I: Instructions to Bidders (with relevant Appendices).
+	Part-II: General Conditions of Contract, Special Conditions of Contract.
+	Part-III: Appendices.
+A- Appendices
+
+B - Appendices
+
+C - Appendices
+
+Part-IV: Bid Evaluation Criteria 
+	Part-IV-A: Bidder’s GTE 
+	Part-V: Price Bid Format and Milestone Payment Formula (Appendix-A3 & A10)
+Part-V-A: Bidders Response Sheet (Appendix-A3)
+Part-VI: Integrity Pact
+
+	Volume-II (Part VII): 
+	Part VII: Technical Bid Package (TBP) comprising of Scope of Work, Specifications & Drawings, Functional Specifications and Design Criteria
+	
+6.2.	The bidder is expected to examine all instructions, forms, terms and specifications in the bidding documents. Failure to furnish all information required by the bidding documents will be at the bidder’s risk. Bidders not complying with tender conditions and not conforming to tender specifications may result in the rejection of their bid without seeking any clarifications.
+The first six parts viz. Part-I, II, III, IV, V &VI are covered in Volume-I of the Bidding Documents whereas Part-VII (Technical Bid Package) is covered in Volume-II.
+
+7.0	CLARIFICATIONS OF BIDDING DOCUMENTS
+
+Prospective bidders requiring clarification of the Bidding documents may notify the Company, through GePNIC-CPPP portal, latest by 03.04.2026 at 1800 hrs. (IST), so that same can be taken up during Pre-Bid Conference scheduled on 08.04.2026. Bidders are requested to submit query/clarifications for technical and Commercial separately. Further, under Technical Query/ clarification, bidders shall submit the query Discipline wise.
+
+The bidders shall send any request for clarification in the Pre bid conference only through GePNIC-CPPP portal (https:// etenders.gov.in). Queries received by any other means like post/fax/hand/email shall be ignored. 
+
+The bidders queries for clarification of bidding document received after the cutoff date will not be entertained for clarification from ONGC. Bidders shall not wait for any reply from ONGC for the queries submitted after the cutoff date i.e. 03.04.2026. 
+The Pre-bid queries shall be restricted to Technical specification, scope of work, Technical BEC, special conditions of contract and mobilization/ delivery/ completion period only and that no queries whatsoever shall be entertained on provisions of GCC and other standard provisions/ proforma/ format of the tender document.
+7.1	PRE-BID CONFERENCE
+
+7.1.1	In order to avoid clarification/confirmation after opening of bids, wherever specifically mentioned in NIT, Pre-bid conference shall be held so as to provide an opportunity to the participating bidders to interact with ONGC with regard to various tender provisions/tender specifications, before the bids are submitted.   
+
+          The pre-bid queries shall be restricted to Technical specifications, scope of work, Technical BEC, special conditions of contract and mobilization/ delivery/ completion period only and that no queries whatsoever shall be entertained on provisions of GCC and other standard provisions/ proforma/ format of the tender document.
+
+7.1.2	After pre-bid conference, the specifications & other tender conditions will be frozen. No change in specifications and tender conditions will be permissible after bid opening.  All the bidders must ensure that their bid is complete in all respects and conforms to tender terms and conditions, BEC and the tender specifications in toto failing which their bids are liable to be rejected without seeking any clarifications on any exception/deviation taken by the bidder in their bid.
+
+7.1.3	The bidders meeting following requirement shall only be considered for attending the pre-bid conference. 
+
+The bidders who are in the business of providing similar Services/Goods as per tender requirement only shall be allowed to participate in Pre-Bid conference. 
+
+Accordingly, an undertaking in the prescribed format as per Appendix B– 32 shall be submitted by the bidder along with Pre-Bid queries (Appendix-32-A) within prescribed date. Failing which the bidder shall not be allowed to attend pre-bid conference. 
+
+Bidders should depute their employees (preferably) who are competent to present their queries in the Pre-Bid Conference (PBC). 
+Only those bidders who have submitted queries within prescribed date shall be allowed to attend PBC.
+
+While submitting Pre-Bid queries, bidder(s) shall be required to provide details (Name, Designation, mobile no. etc.) of its representative, who will attend PBC and those persons(s) only will be permitted to attend the pre-bid conference.
+
+Maximum 03 (three) number of persons would be permitted per bidder for participation in pre-bid conference.
+
+7.1.4	Deleted.
+
+7.2	POST-BID CONFERENCE
+
+In order to avoid delay in processing of tenders ONGC shall hold post bid conference with the interested bidders.  
+
+	For holding Post Bid conference following process shall be followed:
+
+Clarifications / confirmations / deficient documents required, if any, from bidders shall be conveyed to the bidders.
+To address bidders doubts, if any, only on the clarifications / confirmations / deficient documents being sought, a post bid conference shall be held by ONGC with bidders who seek to have the meeting on one-to-one basis. Interested bidders may attend the same. No issues other than the listed queries pertaining to clarifications / confirmations / deficient documents sought by ONGC shall be discussed in post bid conference.
+In case bidder chooses not to seek/request for a post bid meeting, it will be noted by ONGC that such bidder(s) has well understood the query of ONGC. 
+Accordingly, in case bidder has completely understood the queries and they have no doubts, they may submit their replies within the date specified for submission of clarifications.
+Bidders who attend the post-bid conference shall provide the following undertaking immediately on conclusion of the post-bid conference: 
+
+“This is to confirm that we ….. (name of the bidder) have attended the post bid conference on … and have fully understood the queries of ONGC issued vide their Letter No. … Dated….” 
+Bidders shall depute their competent employee(s) /authorised representative(s) for the Post-Bid Conference.
+Only those bidders from whom clarifications are being sought shall be eligible for post bid conference.
+Bidder(s) shall be required to provide details (Name, Designation/status, mobile no. etc) of its employee/(s)/authorised representative(s), who will attend Post Bid Conference and those person(s) only will be permitted to attend the post-bid conference.
+8.0	 AMENDMENT/ADDENDUM OF BIDDING DOCUMENTS.
+
+8.1	The Company may, for any reason, whether its own initiative or in response to a clarification request by a prospective bidder modify the Bidding Documents by amendment/ addendum. 
+
+8.2	The amendment / addendum shall be part of the Bidding Documents pursuant to Clause 6.1 will be notified through GePNIC e-procurement website to all prospective bidders who have received the Bidding Documents and will be binding on them. Bidders will be required to view and download any such amendment / addendum to the Bidding Documents.
+
+8.3	In order to afford prospective bidders reasonable time in which to take the amendment/addendum into account in preparing their bids, the company may allow two weeks’ time to bidders for submission of bids after issuance of such amendment/addendum.
+
+C. 	PREPARATION OF BIDS
+
+9.0	  LANGUAGE AND SIGNING OF BID:
+	
+The bid prepared by the bidder and all correspondence and documents relating to the bid exchanged by the Bidder and the ONGC shall be written in English language. Supporting documents and printed literature furnished by the Bidder may be in another language provided they are accompanied by an accurate translation of the relevant passages in English, duly authenticated by local chamber of Commerce of bidder’s country, in which case, for purposes of interpretation of the bid, the translation shall prevail.
+10.0       BIDDING SYSTEM
+
+10.1	Two Bid System shall be followed as described in this Clause. The bids shall be submitted only in the name of the Bidder or incorporated Joint Venture or a Consortium led by the bidder in whose name the Bidding Documents were issued by Company. The tender papers shall be filled complete in all respects and shall be submitted together with requisite information and Appendices. It shall be complete and free from ambiguity, change or interlineations. 
+
+10.2.1	The original Bidding Documents as received by the bidder along-with bidder's offer as prepared by the bidder in original and all other required appendices as given in Clause 6.1, such as power of attorney of the signatory to the bid, descriptive literature and any other information required to be furnished by the bidder shall be construed to constitute the Bid Document.
+
+10.2.2	The lump sum prices shall be quoted by the bidder as per Appendix A-2 and the breakup of the same shall be submitted as per Appendix A-3 as provided in tender documents (under Finance cover). Priced bid i.e. Appendix A-2 and Appendix A-3 in Excel (.xls) sheet, should be loaded as attachment in the Finance cover on GePNIC-CPPP (https://etenders.gov.in). Bidders shall necessarily use the same in Excel (.xls) sheet for price bid (Appendix A-3). The price bids submitted in physical form against e-procurement tenders shall not be given any cognizance.
+	            Unpriced techno-commercial Bids shall be submitted in the prescribed bid proforma as per appendices of PART-III. The above appendices shall be duly filled in without any alteration to ONGC’s proforma whether quoting for full items or not, need to be submitted in the un-priced bid. Any other supporting documents need to be scanned and submitted. The above appendices along with copy of Bid Bond and all other techno-commercial documents other than price details to be submitted with unpriced bid as per tender requirement should be placed in the un-priced bid folder (Fee/PreQual/Technical Cover). 
+
+	            The bid and all attached documents should be digitally signed by the authorized signatory using digital signatures issued by an acceptable Certifying Authority (CA) as per Indian IT Act 2000 (as amended from time to time) before bid is uploaded. DSC of Class 3 category issued by a licensed Certifying Authority (CA) needs to be obtained for efiling on the eTendering Portal. If any modifications are made to a document after attaching digital signature, the digital signature shall again be attached to such documents before uploading the same. 
+
+	             The authenticity of above digital signature shall be verified through authorized CA after bid opening and in case the digital signature is not authorized the bid will be rejected.
+
+	             Bidder is responsible for ensuring the validity of digital signature and it’s proper usage by their employee.
+
+10.3  	The bid along with all appendices and copies of documents should invariably be submitted in the ‘un-priced bid folder (Fee/PreQual/Technical Cover)’ through GePNIC-CPPP (https://etenders.gov.in) portal, before the scheduled date and time for the tender closing. 
+
+The password protected e-bids (Techno-commercial / Price bids), which require the password to open the file, will not be considered.
+
+However, the following documents should be submitted in physical form, in a sealed envelope super-scribed as “Physical documents against e-procurement Tender Reference Number …………….., Tender ID…………………….., due on …………  To be opened by Tender Opening Officers at 15.30 Hrs. on due date for opening of bid” [Documents should reach the purchaser’s office on or before 15:00 Hrs. of the closing date specified for submission of bid through GePNIC-CPPP. Wherever any other time for receipt/ opening of documents have been specified in the tender document, same should be appropriately indicated/followed in place of 15.00 Hrs. / 15.30 Hrs.]:
+
+(Applicable only in case bid security is submitted in the form of SFMS Bank Guarantee/ Insurance Surety Bond. The envelope contains only the SFMS BG or Insurance Surety Bond (as case may be) should be superscribed on the face of the envelope. Not applicable in case bid security is submitted via NEFT/RTGS/Electronic fund transfer or e-BG). 
+
+The original SFMS BG towards bid security (along with SFMS delivery report /message copy which has been transmitted by issuing bank through SFMS system to beneficiary's i.e. ONGC's bank)
+
+Or
+
+The original Insurance Surety Bond in the prescribed format provided in the tender.
+
+The lump sum prices shall be quoted by the bidder as per Appendix A-2 and the breakup of the same shall be submitted as per Appendix A-3 as provided in tender documents under “other documents”.
+
+Priced bid i.e. Appendix A-2 and Appendix A-3 in in Excel (.xls) format, should be loaded as attachment to "Finance cover" tab of GePNIC-CPPP (https://etenders.gov.in)    site. The price bids submitted in physical form against e-tenders shall not be given any cognizance.
+
+Bidders should not indicate/ disclose prices in techno-commercial (un-priced bid). In case bidders indicate / disclose prices in techno-commercial (un-priced bid) or at any stage before opening of price-bid, their bids shall be evaluated without giving any cognizance to such prices.
+
+Evaluation will be done as per Price Evaluation Criteria of BEC on the basis of prices quoted in the price bid only.
+
+If the bidder has indicated / disclosed some price in techno-commercial bid (at techno-commercial stage) or at any stage before opening of price-bid, but has not indicated any price in its Price Bid, its offer shall be considered as without any price and thus shall be rejected and in no case price revealed in techno-commercial bid shall be considered for award.
+
+10.4	Bidders are requested to use the formats given as Appendices given in Part III of Volume - I. 
+
+10.4.1	ONGC reserves right to seek in physical form original/notarized true copy of any document uploaded in digital form, at any time during the processing of tender and execution of contract. 
+
+10.5	The proposal form incorporating the schedule of prices is enclosed as Appendix A-3. For filling the Appendix A-3 the bidder should follow the instruction given therein.
+	 
+10.6	Company will not be responsible for the loss or for the delay in postal transit for submission of physical document against the tender.
+
+10.7	The bid including all attached documents shall be digitally signed by duly authorized representative of the bidding company.  Each file should be digitally signed and then uploaded.  The file (s) should not be zipped in a folder and then digitally singed.
+
+In the event of the space on the bid proforma being insufficient for the required purpose, additional pages may be added.  Each such additional page must be numbered consecutively, showing the tender number and signed digitally. In such cases reference to the additional page(s) must be made in the bid.  
+The bid proforma referred to above, if not attached in unpriced bid folder or if attached but not duly filled in will be liable to result in rejection of the bid. 
+
+	Bidders are advised in their own interest to ensure that all the points brought out in the out in the check list (Appendix-A-5) and Bidder’s GTE file enclosed at Part-IV-A are complied with in their bid failing which the offer is liable to be rejected.
+
+The bidder shall clearly indicate their legal constitution and the person digitally signing the bid shall state his/her capacity and also the source of his/her ability to bind the bidder.
+The Bidder, in each tender, will have to give a certificate in its offer, that the terms and conditions as laid down in this bidding document are acceptable to it in to-to.
+The proper power of attorney or authorization or any other document constituting adequate proof of the authority of the signatory to bind the bidder, shall be uploaded with unpriced bid. ONGC may reject outright any tender unsupported by adequate proof of the signatory's authority.
+
+	Where the bid is made by a Consortium, the bidder shall submit a Memorandum of Understanding (MOU) between the Consortium members as per format attached at Appendix B-30 and shall specifically indicate full particulars of members of the Consortium by whom and/or on whose behalf the bid is being made and shall indicate with reference to each member of the consortium, whether such member contributes directly to the work or not and if so the what extent he contributes to the said work. In the event of the said work having to be performed by a person/firm who is not a member of the said Consortium, the bidder shall also specifically indicate the details of name and address of such person/firm and the bid shall be accompanied by valid proof or authority drawn in favour of Consortium and Company to bind such person/firm. Bidder will also indicate the name of leader of consortium to whom the Company will address all correspondence before and after award of contract. All coordination between the Company and various consortium members shall be the responsibility of the leader so named/identified.
+
+	Other terms and conditions shall apply "mutatis mutandis" as in the case of consortium arrangement as per Clause 1.3 above. All the partners of consortium shall be jointly and severally liable to the Company for execution of the entire works and discharging all obligations under the Contract.
+
+10.9	Company reserves the right to seek the revised/adjusted price offer (if any) to the extent and in areas required for evaluation only of such bidder(s) whose technical proposals are acceptable and complete. Company's decision in this regard shall be final and binding on the bidders.
+
+10.10	CONCESSIONS / EXEMPTIONS PERMISSIBLE UNDER STATUTES
+
+Bidder, while quoting against this tender, must take cognizance of all concessions permissible under the statutes including the benefit under GST legislations, failing which it will have to bear extra cost where bidder does not avail exemptions/concessional rate of GST. ONGC will not take responsibility towards this. However, wherever required and applicable, ONGC shall provide the necessary documents as required under the notification(s) for the bidders to obtain such concessions.
+
+Bidders must also consider benefits of input tax credit under the GST legislations, as amended from time to time on Input goods/Capital goods / Input Services, while quoting the prices. 
+
+Bidders need to take into account notification no.72/2017 – Customs dtd. 16.08.2017, as amended from time to time, issued by Ministry of Finance while quoting in the tenders. 
+
+Undertaking to provide necessary documents, for enabling ONGC to avail Input tax credit benefits under GST legislations (Not applicable for bidder under composition levy of the GST legislation):
+
+Further, the bidders shall undertake to provide all the necessary compliances / invoice /documents for enabling ONGC to avail Input tax credit benefits, in respect of the payments of GST which are payable against the contract (if awarded). The successful bidders should provide Tax Invoice issued under GST legislations.
+
+The successful bidders should upload the details of the invoices raised on ONGC on the GST Network within the prescribed time limits and undertake to adhere to all other compliances under the GST regulations/ legislations.
+
+In case any credit, refund or other benefit is denied or delayed to ONGC due to any non-compliance of GST legislation by the bidder such as failure to upload the details of the supply on the GSTN portal, failure to pay GST to the Government or due to non-furnishing or furnishing of incorrect or incomplete documents/ information by the bidder, the bidder would reimburse the loss to ONGC and/ or ONGC may recover the same, but not limited to, the tax loss, interest and penalty.
+
+10.11	CONCESSIONAL RATE OF CUSTOMS DUTY and GST
+
+10.11.1	In terms of Sl No 404 of Customs notification No. 50/2017-Customs dated 30.06.2017 and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022 & 40/2022-Customs dated 13.07.2022 and 36/2025-Cus. dated 17.09.2025 (As amended from time to time), the goods specified in list 33 imported in relation with Petroleum operations will attract 18% Customs Duty (BCD Nil, SWS Nil & IGST @18%), for which, ONGC is eligible for its nominated blocks or NELP/other eligible blocks. Hence, ONGC will issue required undertaking/certificate as per Government guidelines so as to enable the contractor to import goods against concessional rate of Custom Duty provided these are specified in the list 33 of said Customs notification.  
+
+All imports and import clearance under the contract including payment of Customs Duty either for items covered under above referred list 33 or otherwise shall be the responsibility of the bidder. ONGC will not provide any assistance in this regard. 
+
+Notwithstanding what is stated above, the bidders should also consider the position in regard to import of goods as specified in list No. 33 of above notification against concessional rate of 18% Customs Duty.  ONGC is not liable in whatsoever manner, for the rejection of their claims for concessional rate of 18% Customs Duty by any of the authorities. 
+However, in terms of CBIC Circular No. 189/01/2023-GST dated 13.01.2023, if the standard/merit-rate of IGST itself is lower than 18% on the specified goods, then such lower rate of IGST would apply, along with exemption from BCD & SWS, upon submission of EC issued by the authorized ONGC official.
+The bidder while quoting would need to consider the duty drawback as per notification No. 23/2008 dated 01.03.2008 available to them upon re-export of the equipment, if any. The bidder should also note that input tax credit would also be available to them on the IGST paid by them excluding duty drawback and this aspect should also be considered by them while quoting their rates.
+Similarly, the specified goods required for petroleum operations if procured from domestic sources would attract 18% concessional Rate of GST (IGST or CGST & SGST/UTGST) as per GST-Rate Notification No. 3/2017 dtd. 28.06.2017 and amended vide Notification No. 08/2022 dtd. 13.07.2022 and 11/2025-IGST(R) dated 17.09.2025 against issuance of EC by DGH for which ONGC shall issue the recommendatory letter. If the standard/merit-rate of GST on the specified goods itself is 18% or lower, then such lower rate of GST would apply directly i.e. without invoking Notification No. 3/2017-IGST(R).
+
+Note: 
+The required Certificate and/or Undertaking will be given only for those items which are either consumed during the execution of work or for those equipment/tools which are undertaken to be re-exported by the bidder. The required certificate and/or undertaking will not be issued when the bidder imports the equipment/tools on acquisition basis and does not undertake to re-export the same after the completion of the contract.
+Successful Bidder(s) needs to raise proforma invoice at least 21 days prior to submission of actual invoice to enable ONGC to issue the required recommendatory letter for issuance of EC by DGH.
+10.11.2	Re-export of equipment, unutilized spares etc: 
+	The equipment, unutilized spares, accessories etc. imported to India for providing service needs to be re-exported by the bidder upon the completion of the terms of contract or any extended period thereof at their own expense.  Bidder must furnish an undertaking (Appendix B-9) that “the equipment imported and also spares & accessories which remained unutilized after the expiry of contract, would be re-exported at his own cost after completion of contractual obligation after observing all the formalities/rules as per Customs Act or any other relevant Act of Govt. of India applicable on the subject”. Immediately after re-export, bidder would furnish to ONGC, details and other relevant documents as a proof of re-export. In case of non-observance of formalities of any provisions of the Customs Act or any other act of Government of India, the contractor shall be held solely responsible for all the liabilities including the payment of Customs Duty and penalties to the Govt. on each issue. Non-compliance of these provisions will be treated as breach of contract and their performance bond will be forfeited.
+
+10.11.3	As the above statutory provisions are frequently reviewed by the Govt., the bidders are advised to check the latest position in their own interest and ONGC will not bear any responsibilities for any incorrect assessment of the statutory levies by any bidder.
+
+10.12	PERSONNEL TAXES 
+	
+	Bidder must agree to bear all personnel taxes as may be imposed on his employees and the employees of his sub-Contractors, Vendors, back-up Consultants, etc., on account of their association with or for performance of work in India.
+
+10.13 	CORPORATE TAX
+
+10.13.1	Indian bidders and Consortium led by an Indian bidder must agree to bear corporate tax which may be levied on the Contractor, his Consortium/Joint Venture partner(s), sub-Contractors, back-up Consultants, etc.
+
+10.13.2 	Foreign Bidders must agree to bear corporate tax, which may be levied on the Contractor, their Indian Consortium / Joint Venture partners, sub-Contractors, Vendors, Agents / Consultants / Retainers etc.
+
+10.13.3	In case of foreign bidder corporate tax will be deducted at source from each invoice   as per instructions/orders of Government of India, Indian Income Tax Authority. The Contractor and/or his sub-Contractors etc. shall comply with the provisions of Indian Income Tax Act as applicable from time to time.
+
+10.13.4	Particulars to be furnished by foreign bidders (non-residents as per Income Tax Act, 1961): 
+Foreign bidders should invariably submit (along with their bid) the following particulars, which are  required to be furnished by ONGC to Income Tax Department for complying with the requirements for making remittances to non-residents as per Income Tax Act, 1961 (as amended from time to time):
+
+(i)	Whether the non-resident has a Fixed Place Permanent Establishment (PE) or a Dependent Agency PE in India, in terms of the Double Taxation Avoidance Agreement (DTAA) between India and his country of tax residence through which the non-resident carries on business activities in relation to its engagement by ONGC and if, yes, address of the Fixed Place PE or name & address of the Dependent Agent?
+(ii)	Whether by carrying on activities in relation to its engagement by ONGC, the non-resident constitutes an Installation/Construction PE or a Service PE, or a PE in any other manner, in India in terms of the DTAA between India and his country of tax residence? 
+(iii)	If the non-resident has PE in India, whether the remittances to be made to him under his engagement by ONGC are attributable to such PE?
+(iv)	If the remittances to be made to the non-resident under his engagement by ONGC are attributable to a PE which it has in India, what quantum of the profits resulting to the non-resident from his engagement by ONGC, can be said to be attributable to the role played by the PE, and the basis of arriving at such quantum?
+(v)	If no part of the remittances to be made to the non-resident under his engagement by ONGC is attributable to a PE which it has in India, what are the reasons for the same?
+(vi)	Non-resident’s complete address (not necessarily in India).
+(vii)	If the non-resident has an Indian Income Tax Permanent Account Number (PAN), what is that PAN? 
+	If the non-resident does not have a PAN but has a Tax Identification Number (TIN) allotted in his country of tax residence, what is the TIN?
+(viii)	Country of tax residence of the non-resident supported by a Tax Residency Certificate (TRC) issued by the Government of country or specified territory to the effect that the person named therein is a resident of that country or specified territory.
+(ix)	In accordance with Rule 21AB of the Income-tax Rules, 1962, along with the TRC, the non-resident shall also furnish the requisite information in the prescribed Form ‘10F’ which is enclosed as Appendix C-11 of the “Part-III Appendices” of the tender document. 
+(x)	If it is not possible for the non-resident to obtain & submit Tax Residency Certificate and Form No. 10F to ONGC within a reasonable time, he should furnish an undertaking to the effect that he is a tax resident of _______________ (the specified country) and that he shall obtain and provide the TRC and Form No. 10F  to ONGC before 30 days of submission of first Invoice by them or within 3 months from the date of entering into the contract whichever is earlier.  
+(xi)	Country which can be called the non-resident’s principal place of business. This could be the same as his country of tax residence or different depending on facts.
+(xii)	Non-resident’s e-mail address.
+(xiii)	Non-resident’s phone number with International Dialling code.
+(xiv)	Whether the non-resident is constituted as a company, a partnership firm, or any other form of business organization.
+
+In addition to above particulars, the bidder should also provide any other information as may be required later for determining the taxability of the amount to be remitted to the non-resident.  Further, the bidder shall be liable to intimate the subsequent changes (if any) to the information submitted against any of the above particulars, along with full details.
+
+Bidders should note that any delay in submission of TRC/PE information within the specified time may lead to the Income Tax Department directing ONGC to deduct tax at a higher rate than at which it may otherwise have directed.  Such increased tax liability shall be recovered from the contractor.
+
+10.13.5	Particulars required before releasing payments to (foreign CONTRACTOR (non-resident as per Income Tax Act, 1961): 
+The particulars as per clause 10.13.4 above are invariably required before releasing payments to foreign CONTRACTOR, in accordance with the requirements for making remittances to non-residents as per Income Tax Act, 1961 (as amended from time to time).   
+In addition to the said particulars submitted along with the bid, the CONTRACTOR should also provide any other information as may be required for determining the taxability of the amount to be remitted to the non-resident.  Further, the CONTRACTOR shall be liable to intimate the subsequent changes (if any) to the information submitted against any of the said particulars, along with full details.
+Bidders should note that any delay in submission of information/documents as per clause 10.13.4 above within the specified time may lead to the Income Tax Department directing ONGC to deduct tax at a higher rate than at which it may otherwise have directed.  Such increased tax liability shall be recovered from contractor.
+10.14	   Deleted
+
+10.15	During evaluation of bids, Company may at its discretion ask the bidder for clarifications /confirmations/deficient documents of its bid. The request for clarification and the response shall be in writing and no change in the price of substance of the bid shall be sought or permitted.
+
+10.16	COMPLIANCE WITH THE REQUIREMENTS OF BID EVALUATION CRITERIA (BEC) AND ALL OTHER TENDER CONDITIONS:
+
+10.16.1	Advice to bidders for avoiding rejection of their offers:
+	ONGC has to finalise its purchase within a limited time schedule. Therefore, it may not be feasible for ONGC to seek clarifications in respect of incomplete offers.
+Prospective bidders are advised to ensure that their bids are complete in all respects and conform to ONGC’s terms, conditions and bid evaluation criteria of the tender. Bids not complying with ONGC’s requirement may be rejected without seeking any clarification
+10.16.2	Submission of ‘Bidder’s GTE file’ duly filled-in, to re-confirm compliance with tender requirements:
+Bidders should submit the ‘Bidder’s GTE file’ (as enclosed at Part IV-A of Vol-I of the bid document) duly filled-in, so as to re-confirm compliance with each of the requirements of BEC and other important conditions of the tender.  Each such confirmation should be clearly stated in the ‘Bidder’s GTE file’ indicating “Yes” or “No”, as applicable. Further, against each such confirmation, bidders should also indicate the reference/location (page No. / Annexure etc.) of the respective detail(s)/document(s) enclosed in the bid, so as to easily locate the same in bid document. Each entry in the ‘Bidder’s GTE file’ must be filled-in.
+Further, the ‘Bidder’s GTE file’ should be digitally signed by the bid signatory and uploaded in the un-priced bid folder.
+Bidders are advised to ensure submission of the ‘Bidder’s GTE file’, duly filled-in as per above requirements, for avoiding rejection of their offers.
+11.0	   INFORMATION/DOCUMENTS REQUIRED IN THE BID
+
+	The bid prepared by the Bidder shall comprise the following components, duly completed	
+
+11.1	  UNPRICED TECHNO-CONTRACTUAL BID
+
+11.1.1	Documentary evidence establishing that the Bidder is eligible to bid and is qualified to perform the contract if its bid is accepted. The documentary evidence of the Bidder's qualifications to perform the Contract if its bid is accepted, shall establish to the ONGC's satisfaction:
+
+	(i) that the Bidder has the financial capability necessary as per clause A-1.8 of BEC to perform the Contract;
+           
+(ii) that   the   Bidder meets all the  criteria prescribed in the Bid Evaluation Criteria (Part-IV).
+
+11.1.2	Documentary evidence that the services to be rendered by the Bidder conform to the requirements of bidding documents.
+	The documentary evidence of conformity of the services to the bidding documents may be in the form of literature, drawings and data and shall consist of:
+            
+A detailed description of essential technical and performance characteristics of the services.
+
+An item-by-item commentary on the ONGC’s technical specifications demonstrating conformity to the provisions of the technical specifications of the bidding document
+
+11.1.3		Bid security (Refer clause 17.0)
+
+11.1.4	Bid submitted by foreign Bidder shall include a detailed description of the relationship between the bidder and its Local Agent/ Consultant / representative/ retainer   including specific services to be rendered, permanent income   tax   account   number    of    agent/consultant/representative/retainer, permanent income tax account number of foreign bidder and amount of commission or other payments. If no such agent/consultant/representative/ retainer is involved, the same should be explicitly stated in the techno-commercial bid.
+
+11.1.5.  Integrity Pact
+
+	With a view to bring transparency and integrity in the bidding process, ONGC intends to enter into ‘Integrity Pact’ with the bidders.
+	The Proforma of Integrity Pact is enclosed herewith at Part VI, Vol-I.
+	Scanned copy of Integrity Pact duly signed on all the pages by the same signatory who is duly authorized to sign the bid digitally shall be uploaded with techno-commercial bid. 
+	For e-tenders, the integrity pact digitally signed by bidder can also be accepted (except for consortium bid, where Integrity Pact should be signed by all the constituents of the Consortium along with witness and scanned copy to be uploaded). In case of digitally signed Integrity Pact, signature of witness shall not be required.
+
+11.1.6.  Undertakings/ Certificates/ Appendices
+
+	The bidder should submit requisite undertakings / certificates /MOUs/ Agreement(s) / Deed(s) as per the formats provided in the appendices of Part-III of the bidding documents.
+	The above appendices shall be duly filled in without any alteration to ONGC’s proforma, whether quoting for full items or not, need to be submitted in the un-priced bid. Any other supporting documents need to be scanned and submitted. The above appendices along with copy of Bid Bond and all other techno-commercial documents other than price details to be submitted with unpriced bid as per tender requirement should be placed in the un-priced bid folder (Fee/PreQual/Technical Cover).
+11.1.7	Udyam Registration Certificate for MSE Bidders:
+	
+	Copy of valid Udyam Registration Certificate, (as notified vide Gazette notification no. S.O. 2119(E) dated 26.06.2020 and FAQs on the Policy (as amended) issued by Ministry of Micro, Small and Medium Enterprises) if bidder is a Micro or Small Enterprises (MSE).  
+	In case bidding MSE is owned by Schedule Caste or Schedule Tribe entrepreneur or owned by Women, valid documentary evidence issued by the agency who has registered the bidder as MSE owned by SC/ST or Women entrepreneur should also be enclosed. 
+	Note:
+The above documents are required for Tie breaking situation Only as stipulated in BEC clause C-3.4.
+No other benefits like EMD exemption/purchase preference would be available to MSE bidders even though they possess valid Udyam Registration Certificate, as the PPP-MSE policy is not applicable for the subject tender. 
+Bid of any MSE bidder (manufacturer/services provider of the quoted item/service /trader/dealer) submitted without Bid Security would be summarily rejected.
+11.1.8	Power of Attorney
+Scanned copy of original of “Power of Attorney” or authorization, or any other document consisting of adequate proof of the ability of the signatory to bind the bidder when the power of attorney is a special “Power of Attorney” relating to the specific tender of ONGC only, shall be uploaded with techno-commercial bid
+Scanned copy of the notarized true copy of the “Power of Attorney” uploaded with the techno-commercial bid shall also be accepted, if the power of attorney is a general “Power of Attorney”.  
+However, ONGC reserves right to seek original Power of Attorney (when the power of attorney is a special “Power of Attorney” relating to the specific tender of ONGC only) / notarized true copy (when Power of Attorney is a general Power of Attorney) at any time during the processing of tender and execution of contract.
+
+Note: Guidelines on issue of Power of Attorney (PoA) for authorized signatory in tender:
+
+1. Sole Proprietorship
+Authority to Sign PoA: The sole proprietor (the individual owner).
+Can Delegate to: An employee of sole proprietor via PoA.
+Documentation Needed: attested copy of Proprietorship declaration, Copy of PAN and ID of the Proprietor, GST registration of the proprietorship (if applicable)
+
+2. Partnership Firm
+Authority to Sign PoA: (i). By Managing Partner or (ii) By all the partners /, as the case may be, authorized as per Partnership Deed
+Can Delegate to: any partner, an employee of partnership firm via PoA.
+Documentation Needed: Partnership Deed and attested copy of Resolution signed by all the partners authorizing the signatory.
+3. Limited Liability Partnership (LLP)
+Authority to Sign PoA: 
+(i) Designated Partner responsible for managing LLP’s operations along with the seal/stamp of LLP, authorized for said purpose as per the LLP Agreement. or 
+(ii) By all partners of LLP.
+Can Delegate to: any partner, an employee of LLP via PoA.
+Documentation Needed: Certificate of Incorporation, LLP Agreement and certified copy of resolution passed by LLP.
+
+4. Private Limited or Public Limited Company
+Authority to Sign PoA: Board (authorizing Director and/or any senior employee of Company through its Board Resolution).
+Can Delegate to: any employee, Director of Company via PoA
+Documentation Needed: Certified copy of Board Resolution ceritifed either by its company secretary or Directors for such purpose, Certificate of Incorporation, MOA/AOA (for verification of powers).
+
+(Comments: *For the Company, incorporated under Companies Act, the certified copy of Board resolution would suffice to ascertain the identity/authority of such authorized for the purpose.)
+
+Notes:
+PoA to be executed on non-judicial stamp paper of appropriate value as per rules of the state of issue.
+Full name, address, ID details and business designation of both the authorizing person and the person being authorized should be mentioned in the PoA.
+PoA must include the specimen signature of the person being authorized.
+PoA must be attested by at least two witnesses (with full names and addresses) and be notarised.
+The PoA can be General PoA or tender Specific PoA
+
+11.1.9	Bidder shall be required to indicate ONGC’s Vendor code in the bid as per Appendix B-24 of Part-III, Vol-1. The bidders, who do not have ONGC’s Vendor code, will require to submit following documents for creation of vendor code:   
+Company/ Firm registration copy, 
+GST registration copy, 
+PAN detail copy
+Valid email ID, Contact No.
+Complete Address
+
+11.2	PRICED COMMERCIAL BID
+
+a)	The lumpsum price for all the work described in the Bidding Documents shall be itemized as shown in Proforma Schedule for Prices given in Appendix A-3. 
+
+Deleted
+
+c)	Contractors executing any Work in Offshore India and/or onshore India would normally be expected to accept as much payment as possible in Indian Rupees to cover expenses to be incurred by them in India. Bidders are therefore requested to clearly indicate in their Price Bid the amount they will accept in Indian Rupee.
+
+d)	For use in determining cost for extra work in connection with changes or revisions in the work that are not covered by the unit rates indicated in table II of Appendix A-3 (referred in clause 12.4), the Rental Rate Schedule for labour, engineering, marine equipment, construction tools etc. for all the areas where Work will be done shall be as per Rental rate schedule provided by the company in the Appendix A-3 item VIII.
+
+12.0	 PRICES
+
+12.1	The Bidder to provide a bid for the Works described in clause 1.2 of the Instructions to Bidders and Clause 1.1.37 of the General Conditions of Contract. The Bidder must clearly understand the status of the Part VII documents (which are described in clause 1.2) and that it is Bidder’s responsibility to carry out all design, engineering and everything else required for the Works. Bidder’s responsibilities include the provision, within its Contract Price and within the required time schedule, of everything required for the Works.
+
+	Prices quoted by the bidder shall be firm during the bidder's performance of the contract and not subject to variation on any account.
+	Discount: 
+	Bidders are advised not to indicate any separate discount.  Discount, if any, should be merged with the quoted prices.  Discount of any type, indicated separately, will not be taken into account for evaluation purpose.  However, in the event of such an offer, without considering discount, is found to be lowest, ONGC shall avail such discount at the time of award of contract
+12.2	The lumpsum price shall cover the price for but not limited to scope of work as described in GCC clause 2.1.1, including, insurance, taxes including GST, duties, permits, royalty, license fee etc. necessary for the complete facilities and services as described in the Bidding Documents.
+ 
+12.3	The bidder shall quote all his prices for all the facilities covered under this tender in a manner as shown in Appendix A-3 and as given at a) to d) below: 
+
+a)      The Lump sum price of materials (I.A(i)) for execution of entire work scope as described in the bid document incl. addendum, if any (EXCLUDING Customs duty, if applicable on imported materials/equipment /items as per 3.4.1) and Lump sum price of services (I.A(ii)) for execution of entire work scope as described in the bid document incl. addendum, if any including insurance shall be shown in the Schedule of Prices under item I.A. 
+
+b)	Basic Custom Duty shall be shown as Item I.B of the Schedule of Prices.
+
+c)		Goods and Service Tax (GST) on the quoted price in I.A and I.B shall be shown as item I.C of the Schedule of Prices.
+
+d)	The TOTAL LUMPSUM PRICE for the works as defined in the Bidding Documents shall be shown as I.D. of the schedule of prices.
+
+12.4	BASIS FOR ADJUSTMENTS TO THE LUMPSUM PRICE
+
+	a)    Cost Break-up: 
+Quoted Price at  II Rate (For basis of Unit rate adjustment) for positive & negative variation) shall be the basis for Unit rate adjustment against each item under table II Rate (For basis of Unit rate adjustment) for positive & negative variation) in Appendix A-3 Schedule of Prices for  both increase and decrease (A3-II) in actual quantity from estimated quantity.
+This will be used by Company for adjustment to the lump sum price in the event Company requires modifications to the facilities / materials. Company will make every effort to resolve areas of potential adjustment as early in the project as possible so that changes will be minimized.
+b)    Unit Prices:
+Consistent with the principle laid down in Section 12.4 (a), all inclusive unit Prices for various items ( A3.II) shall be utilized in computing debits or credits to the appropriate lump sum amount on the basis of ‘as installed’ quantities. This all inclusive unit prices (excluding GST) shall be as shown in the manner indicated on the Schedule of Prices, Item II of Appendix – A-3.
+12.5	CHANGES IN THE WORK:
+
+The Company has provided Rate Sheet and Fee Schedules in accordance with Section 11.2 (d) of this Part I and with Section 8.1 of Part II, General Conditions of Contract. It is intended that extra work, if required, for categories not covered by the method set out in Section 12.3 and 12.4 be carried out using the above Rate Sheet Schedules and Fees as per item IV of price schedule appendix A-3. The rates provided by the Company in rental rate schedule are all inclusive rates, inclusive of percentage fees and exclusive of GST. 
+	
+Prior approval of Company is must before considering the Rental Rate Schedule under any change order.
+
+12.6	ADDITIONAL ITEMS 
+
+	The Company may ask the Contractor to procure additional items/materials equipment or spare parts required for the works or related work during the execution of the Contract. The Contractor shall procure such items, arrange for necessary inspection and ship them to the Company.
+	The Company shall reimburse the Contractor the cost of these items as provided under section 5.16 of part II, General Conditions of Contract of Bidding Documents. The percentage fee applicable for these cost reimbursable items shall be 7.5% as per item IV of the Schedule of Prices at Appendix-A3.
+
+12.7	Apart from provisions stipulated at para no.12.4 above, prices quoted by the bidder shall remain fixed and valid until completion of the Contract performance and will not be subject to variation on any other account.
+
+12.8	DUTIES AND TAXES
+
+	The Bidder should quote the GST, clearly indicating the rate and the amount of GST included in the bid and the description of the respective service (as per GST rules) under which the GST is payable. 
+	In case the GST is not quoted explicitly in the offer by the Bidder, the offer will be considered as inclusive of all liabilities of GST and ONGC will not entertain any future claim in respect of GST against such offers.  
+
+	In case, the quoted information related to various taxes and duties subsequently proves wrong, incorrect or misleading:-
+
+Payment towards GST shall be restricted to the GST amount as charged on the ‘Tax-Invoice’ or the quoted GST rate, whichever is lower unless the same is due to applicability of change in law clause. ONGC will have no liability to reimburse the difference   in the duty/tax, if the finally assessed amount is on the higher side.
+
+ONGC will have the right to recover the difference in case the rate of duty/tax finally assessed is on the lower side.
+
+Notes:
+
+	The Service Provider (other than the Service Providers supplying services from outside India and not required to be Registered under GST Law) should have a valid registration Certificate under GST legislation and a copy of such registration certificate should be submitted along with the offer.
+ 
+	In case of foreign bidders, if GST registration certificate is not available at the time of submission of bid, the bidder shall submit an undertaking to provide copy of the same at least two weeks before submission of first invoice. 
+
+12.8.1	In case Contract executing office(s) based on the tender scope of work are different from bidding office of bidder, the bidder shall also provide details of Contract executing office(s) based on the tender scope of work in their bid duly indicating/providing their respective ONGC Vendor Code (if already available). In case ONGC vendor code is not available for such contract executing location of bidder, GSTIN and Bank account details etc. shall also be submitted by bidders in their bid for creation of vendor code for such office.
+		
+	If bidder indicates that details like GSTIN and Bank account details etc. of the office identified by bidder in their bid for executing work, would be provided only after they emerge as successful bidder, they shall provide the same at least 15 days before submission of first invoice, such bidder shall provide an undertaking to this effect.
+
+12.9	DEEMED EXPORT BENEFIT
+	
+	Supplies to ONGC shall be entitled for Deemed Export Benefits as per para 7.02(e) read with para 7.03 of FTP 2023 for petroleum operation, provided the tendered and offered items are covered in the list 33 of Notification No. 50/2017-Customs dated 30.06.2017 and amended vide Customs Notification No. 02/2022-Cus dated 01.02.2022 & 40/2022-Customs dated 13.07.2022 and 36/2025-Cus. dated 17.09.2025 (as amended from time to time).
+
+12.10	AGENT/CONSULTANT/REPRESENTATIVE/RETAINER/ASSOCIATE
+
+12.10.1	ONGC would   prefer   to   deal  directly with the  manufacturers / principals  abroad, but in case they decide to  have  their   Agent / Consultant / Representative / Retainer / Associate in  India and pay commission for their services against a particular  tender it should be bare minimum and the principal would have to certify that such a commission is commensurate with the  services rendered  to them by such an Agent / Consultant / Representative / Retainer /  Associate   in India. The principal will also have to broadly list out such services to be rendered by the Agent / Consultant / Representative / Retainer / Associate in India.
+
+12.10.2	In the event Bidder is having an agent/consultant/ representative/ retainer/ associate/ servicing facilities in India (who is not an employee of the Bidder), the Bidder should indicate in their offer the name of such an agent/ consultant/ representative/ retainer/associate they have for services in India. The Bidder must also indicate clearly the commission payable to the agent/ consultant/ representative /retainer/associate in Rupees in terms of Agreement enclosing copy of the same. The Bidder in his bid, will indicate the nature and extent of services to be provided by such an agent/ consultant/ representative/ retainer/associate on behalf of the Bidder and also the remuneration thereof provided in the price, as a separate item quoted, by the Bidder to the Company. 
+	Such remuneration/commission will be paid by Company in non-convertible Indian Currency in India. Should it be established at any subsequent point of time that the above statement of the Bidder is not correct or that any other amount of remuneration/commission either in India or abroad is being paid to anyone (who is not an employee of the Bidder), the Bidder would be liable to be black-listed. Failure to give such information will lead to rejection of the offer.
+	The following particulars will also be furnished by the Bidder:
+
+The precise relationship between the foreign manufacturer's principals and their agent/ consultant/ representative/retainer/associate in India. 
+
+The mutual interest which the manufacturers / principal and the agent / consultant / representative / retainer / associate in India have in the business of each other. 
+
+Any payment which the agent/consultant/ representative/ retainer/ associate receives in India or abroad from the manufacturers/ principal whether as a commission for the Contract or as a general retainer fee.
+
+Permanent Income Tax account number of agent/ consultant/ representative/  retainer/associate in India. 
+
+Permanent Income Tax account of Foreign Contractor.
+
+All services to be rendered by the agent/ consultant/ representative/ retainer/associate. 
+
+Undertaking from the Agent /Consultant/Representative/ Retainer/ Associate declaring that he is not representing any other Bidder in the instant Tender. 
+
+Note:  Tenders which do not comply with the above stipulations are liable to be ignored. 
+12.10.3	Overseas Bidder should send their quotation directly and not through agents / consultants/representatives/ retainer/associates. Bid made by agents/consultants/ representatives/ retainer/ associates will not be recognized. Agents/consultants/ representatives/ retainers/ associates of the overseas manufactures/supplier are however permitted to register themselves in the tender on e-portal and attend Bid Opening provided such an agent/ consultant/ representative/retainer/associate has a power of attorney/ letter of authority setting out very clearly his role which will be limited to such areas of activity as registering in the tender on e-portal, attending of Bid opening and claiming of payment for their services provided further that such a power of Attorney / letter of authority or as well as agreement is submitted to the Company in advance for scrutiny and acceptance or otherwise.
+	The commission/fee/remuneration of the Indian agent/ consultant/ associate/ representative/retainer will be paid within 30 days of the payment of first invoice made to the Contractor provided installation/commissioning of equipment by such agent/consultant/ representative /retainer/ associate is not involved. In such case, the amount of commission/fee/remuneration will be deducted by Company from the payment of first invoice of the Contractor and paid to the Indian agent/ consultant/ representative/ retainer/associate in non-convertible Indian Rupees at the closing currency exchange rate as applicable on the working day prior to the price bid opening date/revised price bid opening date (if any) as per “Daily” Closing exchange rate published on Thomson Reuters internet site https://in.reuters.com/markets/currencies, up to three places of decimal. The exchange rates presently appearing on the right-hand corner of the exchange rate chart of the said internet site shall be considered as closing rate for the day.
+	Where, as a condition of contract, the equipment is to be installed/ commissioned satisfactorily by Indian agent/ consultant/ associate/ representative/retainer, the payment of commission/fee/remuneration shall be made within 30 days of satisfactory installation/commissioning and issue of certificate to the effect by authorised officer of Company. The payment of Indian agent/ consultant/ associate/representative/retainer will be subject to the condition that he sends stamped pre-receipted bill for the commission/fee/remuneration.
+Indian Agent is not permitted to represent more than one foreign bidder (supplier/ manufacturer/ contractor) in a particular tender. In case an Indian agent represents more than one foreign bidder (supplier/ manufacturer/ contractor) in a particular tender, then offers of such foreign bidders (suppliers/ manufacturers/ contractors) shall be rejected in that tender.
+13.0	BID CURRENCIES
+
+13.1	The bidders are to quote firm prices. Foreign bidders can quote the price and receive payments either in Indian Rupees or US Dollars or Euros or Pound Sterling or Yen or other relevant currencies, or a combination thereof. However, prices for goods, works, or services (including Indian Agent Commission) sourced in India must be quoted and shall be paid by ONGC only in Indian Rupees only to the extent of their Local Content indicated in the bid. In all cases, Indian Agent commission shall be paid in INR only.
+
+Indian bidders are required to quote in INR only. However, Indian bidders can quote and receive payment in foreign currency to the extent of their import content indicated in the bid. Foreign currency payment will not exceed the quoted import content and payment will be regulated accordingly. The freight and insurance elements must be quoted by Indian bidders in Indian Rupees only and payment will be made accordingly. However, total payment (including payments made in foreign currency) shall not exceed the lumpsum awarded price.
+
+The payment towards GST and Customs Duty (Wherever applicable) will be made by ONGC in Indian Rupees as per actuals, irrespective of Indian or Foreign bidder. For this purpose, the amount of GST paid as per the invoice signed by the officer duly authorized for this purpose will be taken into account.
+
+	In case of bidders indicating the custom duty in foreign currency, the foreign exchange rate at which actual payment is made by the contractor to the customs authorities will be used for regulating the custom duty reimbursement. In the case of bidders quoting Goods and Service Tax (GST) (wherever applicable) in foreign currency, the exchange rate as per Rule 34 of the CGST Rules,2017 shall be used for regulating the reimbursement of Goods and Service Tax (GST). 
+
+Currency once quoted will not be allowed to be changed.
+
+13.2	Deleted
+
+Experience/Capability of the Bidder
+
+14.1 	TECHNICAL: 
+
+Bidder is required to comply with the requirements of Technical BEC (attached separately) of the bidding documents. The bidder shall submit the documentary evidence in support of his experience/capability as required above along with techno-contractual (Unpriced) bid. 
+
+14.2 	FINANCIAL: 
+
+Bidder is required to comply with the requirements of para A-1.8 of Bid Evaluation Criteria (BEC) at Part IV of the bidding documents. The bidder shall submit the documentary evidence in support of his financial capability as required above along with techno-contractual (Unpriced) bid.
+
+15.0	Opportunity to Indian Vendors
+	
+	Bidders shall give adequate opportunity to Indian Vendors/Manufacturers to supply material and equipment for these Works. However, these arrangements should not have any adverse effect on the project completion schedule.
+
+16.0	 Bid Validity
+
+16.1	Bids shall remain valid and open for acceptance for a period of 120 days from the date of opening of Unpriced Techno-contractual Bids. A Bid valid for shorter period shall be rejected by the Company as being non-responsive.
+
+16.2 	In exceptional circumstances, prior to expiry of the original Bid validity period, the Company may request the Bidder for a specified extension in the period of validity. The request and the responses thereto shall be made in writing. The Bidder will undertake not to vary/modify   the   bid   during the validity period or any extension agreed thereof.  Bidder agreeing to the request for extension of validity of offer shall be required to extend the validity of Bid Security correspondingly.
+
+	The provisions of Clause 17.5 regarding discharge and forfeiture of Bid Security shall continue to apply during the extended period of Bid Validity.
+
+17.0	 BID Security/EMD:
+17.1	The Bid Security is required to protect the ONGC against the risk of Bidder's conduct which would warrant the security's forfeiture in pursuance to clause 17.5
+	
+17.1.1	Offer without bid security/ bid bond shall not be considered and summarily rejected. However, Central Government Departments and Central PSUs are exempted from submission of bid security. The Consortium bid led by  is not exempted from submission of Bid security.
+
+EMD exempted bidders to submit a Bid securing declaration (BSD) accepting that if they withdraw or modify their Bids during the period of validity or if they are awarded the contract and they fail to submit performance security, or to sign the contract, before the deadline defined in the tender documents, it shall be considered as a violation of Code on Integrity and they shall be suspended for the time period specified in the BSD from being eligible to submit Bids/Proposals for contracts.
+
+Bid Securing Declaration (as annexed at Appendix B-43):
+"We (Name of the bidder) hereby declare and accept that if we withdraw or modify our Bid during the period of validity, or if we are awarded the contract and we fail to sign the contract, or fail to submit the performance security before the deadline defined in the NIT, we will be banned for a period of two years. We understand that no further correspondence in this regard shall be accepted by ONGC"
+
+17.1.2	Firms registered with ONGC under Indigenisation Programme will not qualify for exemptions from payment of the Bid Security.
+
+	Bidders not covered under Para 17.1.1 above must enclose with their offer (in case of two bid systems, with techno-commercial bid) bid security. 
+However, the bidder paying bid security via NEFT/RTGS/Electronic fund transfer shall be required to submit/ upload (in case of e-tenders) the proof of successful payment of bid security and details of payment thereof with the offer (with techno-commercial bid in case of two bid system). The amount for bid security has been indicated in the "Invitation For Bid".
+The Bid Security shall be denominated in Indian Rupees by Indian bidders and in US Dollars by the foreign bidders.
+Bid Security from foreign bidders shall also be acceptable in Indian Rupees. In case any foreign bidder is submitting EMD in INR, the formality required to be completed as per APPLICABLE Indian law is to be fulfilled by the concerned foreign bidder.
+In such cases, the refund (as applicable) to foreign bidders will be in Indian Rupees only and for that foreign bidder should have Bank account in India.
+
+17.2	The Bid Security shall be acceptable in any of the following forms:
+
+Electronic Bank Guarantee (e-BG) in the prescribed format (given at Appendix B-7)/ valid for 45 days beyond the date of required validity of offer. 
+The e-bank guarantee by Indian bidder will have to be given e-stamping as per stamp duty applicable at the place from where the bid has emanated. The e-stamping should be either in the name of the issuing bank or the bidder.
+The bidders will give Electronic Bank Guarantee from any of the following categories of Banks:
+Any Scheduled Bank incorporated in India, Bank Guarantee issued by foreign branches / foreign offices of such Scheduled Banks be counter guaranteed by the Indian Branch of any Scheduled Bank incorporated in India. 
+OR
+Any Branch of an International Bank situated in India and registered with Reserve Bank of India as scheduled foreign bank.                                        
+OR
+Any foreign Bank which is not a Scheduled Bank in India provided the Bank Guarantee issued by such Bank is counter guaranteed by any Branch situated in India of any Scheduled Bank incorporated in India.
+Bidders will be required to provide the details of e-BG such as Number, Date, Name of issuing bank, Expiry, Claim period and amount in their bid. The e-BG in pdf format should also be submitted by bidder in its e-bid in the e-bidding portal.
+Deleted
+NEFT/RTGS/Electronic fund transfer to account of ONGC as per following details:
+
+The bidder shall be required to submit/ upload (in case of e-tenders) the proof of successful payment of bid security amount to the designated account of ONGC, and details of payment thereof with the offer (with techno-commercial bid in case of two bid system).
+SFMS Bank Guarantee (SFMS-BG): in the prescribed format as per Appendix B-7, valid for 45 days beyond the date of required validity of offer. The default /Preferable mode of submission of Bid Security will be NEFT/RTGS/Electronic fund transfer or e-BG, however, whenever a bidder submits SFMS BG, the bidder will mandatorily be required to submit letter from issuing bank that it is unable to issue NeSL based e-BG as on date. Such letter should accompany the SFMS Bank Guarantee (SFMS-BG).
+Bidders will be required to provide the details of SFMS-BG such as Number, Date, Name of issuing bank, Expiry, Claim period and amount in their bid. The SFMS-BG in pdf format should also be submitted by bidder in its e-bid in the e-bidding portal.
+Bidder shall get SFMS BG issued from SFMS enabled Bank as allowed by ONGC in tender conditions. Bank shall issue the Bank Guarantee through SFMS system and send SFMS message to ONGC's Bank confirming the authenticity of Bank Guarantee. Bidder will be required to submit SFMS BG towards Bid Security along with SFMS delivery report /message copy which has been transmitted to ONGC’s bank by BG issuing bank through SFMS system.
+The SFMS BG will have to be given on non-judicial stamp paper / with franking receipt e-stamping as per stamp duty applicable at the place from where the bid has emanated. The non-judicial stamp paper / franking receipt e-stamping should be either in the name of the issuing bank or the bidder.
+The original SFMS BG in physical form towards Bid Security (along with SFMS delivery report /message copy which has been transmitted by issuing bank through SFMS system to beneficiary’s i.e. ONGC’s bank) should reach to the designated ONGC office on or before date & time of bid submission. 
+SFMS BG will not be acceptable unless details of the same is transmitted to the ONGC’s Bank through SFMS platform. It’s bidder’s responsibility to ensure that BG issuing bank sends the BG advice correctly in the form of message format 760COV via SFMS (Structured Financial Messaging System) as provided by RBI while capturing all requisite fields including Beneficiary Account Name, Bank Name, Bank Account Number, IFSC Code etc.
+Note: Please refer to Appendix-B7 for SFMS BG format
+In case of any error by the applicant (bidder/contractor) or BG issuing bank while capturing the requisite field details/format or non-receipt of confirmation of BG through SFMS 760COV message format, the bid shall be liable for rejection and bidder/contractor shall be responsible for the same. 
+For any amendment of SFMS BG, message 767COV through SFMS should be used.
+Irrevocable Unconditional Insurance Surety Bond in the prescribed format as per Appendix – B-7A, valid for 45 days beyond the date of required validity of offer. The Insurance Surety Bond by Indian bidder will have to be given on non-judicial stamp paper / franking receipt as per stamp duty applicable at the place where Insurer is issuing the Insurance Surety Bond. The non-judicial stamp paper / franking receipt should be either in the name of the insurance company (insurer) or the bidder. 
+The bidders will give Insurance surety Bond from an Indian Insurance Company (Insurer) registered with Insurance Regulatory and Development Authority of India (IRDAI).
+Bidders will be required to provide the details of unconditional Insurance Surety Bond such as Number, Date, Name of Insurance company (Insurer), Expiry date, Claim period and amount in their bid. The Insurance Surety Bond in pdf format should also be submitted by bidder in its e-bid in the e-bidding portal.
+Bidders should note that acceptance of their offer is subject to remittance of Bid Security/EMD amount to designated account of ONGC on or before due date and time of Tender closing. If required, ONGC reserve right to obtain confirmation regarding date and time of credit of Bid Security/EMD amount to its account from concerned bank.  The decision of ONGC in this regard shall be final and binding on the bidder. In case amount has been credited to ONGC’s designated account after tender closing, such amount shall be refunded back to bidder within 10 days. 
+In their own interest bidders submitting EMD/Bid Security via NEFT/RTGS/Electronic fund transfer are advised to complete the transaction at least 24 hours before bid closing date.
+17.3	ONGC shall not be liable to pay any bank charges, commission or interest on the amount of Bid Security.
+17.4	Subject to provisions in para 17.2 above, offers without Bid Security will be ignored.
+
+17.5	CONDITIONS FOR FORFEITURE OF BID SECURITY:
+
+The Bid Security shall be forfeited by ONGC in the following events:
+
+If Bid is withdrawn during the validity period or any extension thereof duly agreed by the Bidder.
+If Bid is varied or modified in a manner not acceptable   to ONGC during the validity period or any extension of the validity duly agreed by the Bidder.
+If a Bidder, having been notified of the acceptance of its bid, fails to furnish Security Deposit/Performance Bank Guarantee (Performance Security) within 30 days of notification of such acceptance.
+If the Bidder has been disqualified from the tender process prior to the award of contract according to the provisions under Section 3 of Integrity Pact. ONGC shall be entitled to demand and recover from bidder Liquidated damages amount thereon, by forfeiting the EMD/ Bid security (Bid Bond) as per section 4 of Integrity Pact.
+In case at any stage of tendering process, it is established that bidder has submitted forged documents/ certificates/ information towards fulfilment of any of the tender/contract conditions.
+Any effort by the bidder to influence the company on bid evaluation, bid comparison or contract award decision.
+Any exception to the acceptance of information provided at clause no. 23.1 of Part-I of bidding document.
+
+17.6	The Bid Security of unsuccessful Bidders will be returned on finalization of the bid.  The Bid Security of successful bidder will be returned on receipt of Security Deposit/Performance Bond (Performance Security).
+
+The Bid Security in respect of the successful Bidder shall be released after receipt of the Performance Guarantee as per 28.1 of Part I and Clause 3.3 of Part II.
+
+The bidder also undertakes that the validity of the bid bond will be extended suitably until he it furnishes to Company performance security / security deposit for 10.0% of the contract value in the event of becoming successful bidder.     
+
+Note: The bid security received via NEFT/RTGS/Electronic fund transfer, shall be refunded/returned as per tender conditions, to the same account from which payment of bid security was made to ONGC.     
+
+17.6	In accordance with the conditions at para 10.3 and 19.1, the bid along with all appendices and copies of documents should be submitted through GePNIC-CPPP portal (https://etenders.gov.in), before the scheduled date and time for the tender closing. Such documents submitted through e-bidding portal should be as per requirements of the tender, valid and legally operative as on the date fixed for opening of bids (techno-commercial bid opening date in case of Two Bid System). However, the documents required in physical form should be received at the purchaser’s office (as indicated in “Invitation to Bid”) on or before the closing date and time specified for submission of bid through the GePNIC-CPPP.
+
+	Bidder should ensure to submit original documents in accordance with the bidding document.
+
+17.7 	The documents required to be submitted in physical form as per para 10.3 above, should positively reach the purchaser’s office on or before 15:00 Hrs. of the closing date specified for submission of bid through e-bidding portal.
+
+17.8	Bidders may also request for release of EMD/bid bond/bid security before tender finalization against submission of an undertaking as per format given at 17.8.1. However, bidder’s request may be considered only under following situations:
+Bidder(s) whose bid has been rejected and in case rejection of bid is not an incident that attracts forfeiture of bid security as per tender proviso.
+Bidder(s) whose bid has been rejected on account of non-extension of bid validity and in case rejection of bid is not an incident that attracts forfeiture of bid security as per tender proviso.
+TA/CA bidder(s) who are not in contention / reckoning for award of contract after price bid opening.
+
+17.8.1 	Format for undertaking to be submitted by the bidder along with request for release of EMD/bid bond/bid security under para (i),(ii) and (iii) above:
+
+“I ………………….(name and designation of authorized signatory) on behalf of M/s ……………..(the name of bidder) hereby request to release the bid security submitted with the offer against tender No………..(tender no. to be indicated by bidder). It is   undertaken that  any aspect of the tender evaluation process will not be challenged before any forum / authority and the recourse allowed under the bidding conditions for representing / raising dispute will be deemed to have been foregone by M/s ……………..(the name of bidder).”
+D. SUBMISSION AND OPENING OF BIDS    
+
+18.0	SUBMISSION OF BIDS
+	
+	Offers not submitted through GePNIC-CPPP will be rejected.
+	Bids uploaded should be signed digitally failing which the same shall be rejected.
+18.1    Format and Signing of Bids.
+		
+18.1.1	The bid along with all appendices and copies of documents (except copies of the documents required in physical form) should invariably be submitted through GePNIC-CPPP portal (https://etenders.gov.in) portal, before the scheduled date and time for the tender closing. All the documents uploaded shall be digitally signed by the authorized signatory of the bidder. 
+
+	The password protected e-bids (Techno-commercial / Price bids), which require the password to open the file, will not be considered.
+
+	The price bids submitted in physical form against e-tenders shall not be given any cognizance.
+
+18.1.2	 The Techno-Commercial bid shall contain all details without indicating prices of the quoted items. However, a suitable response shall be selected of the given options against each item of the format at Appendix A-2 & Appendix A-3 {Bidder response sheet (BRS)} to indicate that there is a quote against this item in the Priced bid. 
+
+	The Price bid shall contain only the prices duly filled. Priced bid i.e. Appendix A-2 and Appendix A-3 in xls format, may be loaded as attachment to "Finance cover" tab of GePNIC-CPPP (https://etenders.gov.in) site. 
+
+	The price bids submitted in physical form against e-procurement tenders shall not be given any cognizance.
+
+18.1.3	The document submitted in physical form (if applicable) as mentioned in para 10.3 of ITB shall be without alterations, interlineations or erasures, except those to accord with instructions issued by the Company, or as necessary to correct errors made by the Bidder, in which case such corrections shall be initialed by the person or persons signing the Bid.
+
+18.1.4	Deleted.
+19.0	Deadline for Submission of Bids
+
+19.1	Bids must be submitted before deadline specified in e-procurement site. 
+
+The duly completed bid with no system error message can be submitted in GePNIC-CPPP portal any time before the submission deadline is reached. The bidder shall also be permitted to make change in his bid and re-submit the same in GePNIC-CPPP portal till the submission deadline. The final submitted version of bid only shall be considered by ONGC.
+No bid can be submitted after the submission deadline is reached. The system time that will be displayed on GePNIC-CPPP portal web page shall decide the submission deadline. Bidders are advised in their own interest to ensure that bid is uploaded in system well before closing date and time of the bid.
+
+All the documents required to be submitted in physical form as per para 10.3 above should positively reach to the purchaser’s office on or before 15.00 Hrs. of the closing date specified for submission of bid through e-bidding portal.
+
+19.2	The Company may at its discretion extend the deadline for the submission of Bids by amending the Bidding Documents in accordance with clause 8.0 in which case all rights and obligation of the Company and Bidders previously subject to the deadline will thereafter be subject to the deadline as extended. 
+
+19.3	In case of the unscheduled holiday in Mumbai (India) being declared on the prescribed closing/opening day of the tender, the next working day will be treated as the scheduled prescribed day of closing/opening of the tender.
+
+20.0	 Late Bids
+
+20.1	Any bid received by the Company after the deadline for submission of Bids prescribed by the Company pursuant to Clause 19.0 will be rejected and will not be opened for further consideration. 
+	Bidders are advised in their own interest to ensure that bid is uploaded in system well before the closing date and time of the bid.
+	Bidders to also ensure that Physical document i.e. Bid Security (if not submitted through NEFT/RTGS/Electronic fund transfer to account of ONGC) should also reach the specified office well before the due date and time mentioned in the bid.
+20.2	Deleted
+
+21.0	Modification and Withdrawal of Bids
+
+21.1	In case certain clarifications are sought by Company after opening of bid, then the reply of the bidder should be restricted to the clarification sought. Any bidder who modifies his bid (including all modifications which have the effect of altering his offer) after the closing date, without any specific reference by Company shall render his bid liable to be ignored and rejected without notice and without reference to the Bidder.
+
+21.2	No bid may be withdrawn in the interval between the deadline for the Submission of Bids and the expiration of the period of the Bid Validity specified by the Bidder on the Bid Form. Withdrawal or unsolicited modification of a bid during this interval shall result in the Bidder's forfeiture of its Bid Security.
+
+21.3	No bid may be modified after the deadline for submission of bids.
+22.0	Opening of Bids by Company
+
+22.1	Unpriced Techno-contractual Bids shall be opened at 15.30 Hrs. (IST) the time and date mentioned in “Invitation for Bid” /or at the date subsequently informed by the company, at the Company's designated office. The opening report giving details of bids received shall be uploaded in system for viewing by all bidders participating in the tender. 
+The Bidder or his authorised  representative may be present at the  time  of  opening   of  bid on the specified date, but a letter in the form annexed at B-44 of Part -III hereto  must be forwarded to this office along with bid and a copy of this letter must be produced in the office by  the person attending the opening of bid.  Unless this letter is presented by him, he may not be allowed to attend the opening of bid.
+
+In addition to above, the person attending the opening of bid, needs to apply in ONGC e-pass (https://epassvpms.ongc.co.in/) for gate pass.  The detailed procedure to obtain an e-pass will be provided to the interested bidders, who wish to attend the bid opening by e-mail. For this the interested bidder(s) should communicate to this office at least one day prior to the opening of the bid.
+
+After evaluation of Unpriced Techno-contractual bids, Priced Commercial Bids of short-listed bidders shall be opened at the time and date to be intimated separately by the Company.
+
+22.2 	At the time of tender opening the Company will permit only one authorised representative of each bidder to be present provided such representative presents to the Company at that time a letter in original duly signed by the bidder authorizing him as per clause 22.1, to be present on behalf of the bidder at the time of tender opening. Intending bidders are advised not to authorise or depute more than one representative.
+
+22.3	Deleted.
+
+22.4	In case of the unscheduled holiday in Mumbai (India) being declared on the prescribed closing/opening day of the tender, the next working day will be treated as the scheduled prescribed day of closing/opening of the tender.
+
+22.5	Bidders whose bid have been rejected during techno-commercial evaluation, shall be informed about the reasons for rejection of their bid through official e-mail id mentioned in the bid. Such bidders can review reason for rejection of their bid and raise a one-time representation to challenge rejection for any incorrect disqualification within 48 hours of such intimation.
+
+However, any additional/new documents/information/details submitted with representation, will not be considered for evaluation.
+E. EVALUATION AND COMPARISON OF BIDS
+
+23.0	 Evaluation
+
+23.1	The Company wishes to finalize the award of work of the facilities covered under this Bidding Documents within a limited time schedule. ONGC expects bidders to confirm compliance to tender term, conditions & Specifications, failing which the Bids are liable to be rejected. Hence the bidders in their own interest are advised to submit their bids complete in all respects conforming to all terms and conditions of the bid document.
+
+Bids shall be evaluated based on the information/documents available in the bid. Hence bidders are advised to ensure that they submit appropriate and relevant supporting documentation along with their proposal in the first instance itself. Bids not complying to the requirements of bid documents are liable to be rejected. Bidders are advised to fill up Appendix A-9 carefully and provide reference to all relevant documents given in their bid offer.
+	
+          	Bidders are advised to note that the sub-contractors/ agencies listed in the bidder’s Bid, shall be evaluated in terms of the experience criteria stipulated in the BEC.  Therefore, the bidders in their own interest are requested to select the sub-contractors/agencies conforming to the criteria stipulated therein. Prior to opening of price bids of short-listed bidders, the acceptable sub-contractors/ agencies shall be intimated to the respective bidders and the decision of Company shall be final. Any exception to this information shall render their offer disqualified and in such an event their bid bond shall be forfeited.
+
+23.2	Apart from commercial and technical requirements set forth in the Bidding Documents, the evaluation of bids shall be carried out on the basis of Bid Evaluation Criteria at Part-IV of Bidding Documents.
+
+23.3	Bidders shall quote their prices/rates in firm figures and without any qualifications. Each figure stated shall also be repeated in words and in the event of a discrepancy between the amount stated in figures and words, the rates quoted in words shall be deemed to be the correct amount. Tenders containing qualifying expressions such as "subject to minimum acceptance" or "subject to prior sale" etc. will not be considered.
+
+23.4	Evaluation:
+While evaluating the Bids, the closing currency exchange rate as applicable on the working day prior to the price bid/revised price bid (if any) opening date i.e. _____ as per “Daily” Closing exchange rate published on Thomson para internet site https://in.reuters.com/markets/currencies, up to three places of decimal will be taken into account for conversion of foreign currency into Indian Rupees. The exchange rates presently appearing on the right-hand corner of the exchange rate chart of the said internet site shall be considered as closing rate for the day.
+	Where the time lag between opening of the Price Bids / revised Price Bids / adjusted Price Bids and final decision exceeds 3 (three) months, the currency exchange rate as above on the day prior to the date of final decision will be adopted for conversion, evaluation and comparison of prices.
+
+23.4.1	CLARIFICATIONS OF BIDS: 
+During evaluation of bids, Company may at its discretion ask the bidder for clarifications /confirmations/deficient documents of its bid. The request for clarification and the response shall be in writing and no change in the price of substance of the bid shall be sought or permitted.
+23.4.2	EXAMINATION OF BID: 
+Company will examine the bids to determine whether they are complete, whether any computational errors have been made, whether required sureties have been furnished, whether the documents have been properly signed and whether the bids are generally in order.
+Company will determine the conformity of each bid to the bidding documents.  Bids falling under the purview of “Rejection Criteria” of the bid Evaluation Criteria of the bidding document will be rejected.
+
+23.4.3	SPECIFICATIONS:
+The Bidder must note that its Bid will be rejected in case the tender stipulations are not complied with strictly or the services offered do not conform to the required specifications indicated therein.  The lowest Bid will be determined from among those Bids which are in full conformity with the required specifications.
+23.4.4	CONVERSION TO SINGLE CURRENCY:
+	To facilitate evaluation and comparison, the ONGC will convert all bid prices expressed in the amounts in various currencies in which bid prices are payable utilising the currency, source and date of exchange rate specified in the Evaluation Criteria of Bid-Evaluation-Criteria at Part IV.
+23.5	UNSOLICITED POST TENDER MODIFICATIONS:
+
+23.5.1	Unsolicited post-tender modification will lead to straight away rejection of the offer.        
+
+23.5.2	In case certain clarifications are sought by ONGC after opening of bid then the reply of the Bidder should be restricted to the clarification sought.  Any bidder who modifies his bid (including all modifications which have the effect of altering his offer) after the closing date, without any specific reference by ONGC, shall render his bid liable to be ignored and rejected without notice and without reference to the bidder.
+23.6	 PRICE PREFERENCE/PURCHASE PREFERENCE.
+
+23.6.1   Price Preference
+
+	 Deleted
+
+23.6.2   Purchase Preference 
+
+
+23.6.2(a)	PURCHASE PREFERENCE TO MICRO AND SMALL ENTERPRISES POSSESSING VALID UDYAM REGISTRATION CERTIFICATE AS NOTIFIED VIDE GAZETTE NOTIFICATION NO. S.O. 2119(E)  DATED 26.06.2020 (AS AMENDED) ISSUED BY MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES:
+	Not applicable for this tender
+
+23.6.2(b)	''Public  Procurement  (Preference  to Make in India) (PPP-MII), Order 2017" dated 19.07.2024 issued by Department for Promotion of Industry and Internal Trade (as amended from time to time):
+
+
+Public  Procurement  (Preference to Make in India) (PPP-MII), Order 2017" dated 19.07.2024 (as amended from time to time) issued by Department for Promotion of Industry and Internal Trade, Government of India is applicable to this procurement (read with MoPNG O.M. No. FP-20013/2/2017-FP-PNG-Part(4)(E-41432) dated 26.04.2022 & 26.03.2024, 20013/2/2017-FP-PNG-Part(l) (E-36682) dated 11.07.2023 and FP-20013/24/2017-FP-PNG(E-17013) dated 21.08.2024 (as amended)):
+
+
+Works covered under the subject (Individual items) project are not divisible and therefore provisions as per Clause No. 3A (c) below of ITB under Clause 23.6.2 (b) is applicable for the instant tender.
+
+Definitions
+
+2.1	'Local content ' means the amount of value added in India which shall, unless otherwise prescribed by the Nodal Ministry, be the total value of the item procured (excluding net domestic indirect taxes) minus the value of imported content in the item (including all customs duties) as a proportion of the total value, in percent.
+
+Explanatory notes for calculation of local content given above:
+
+Imported items sourced locally from resellers/distributors shall be excluded from calculation of local content.
+
+The license fees/royalties paid/ technical charges paid out of India shall be excluded from local content calculation.
+
+
+Procurement/Supply of repackaged/refurbished/rebranded imported products as understood commonly shall be treated as reselling of imported products and shall be excluded from calculation of local content. The definition of repackaged/refurbished/rebranded imported products is as follows;
+
+'Refurbishing' means repair or reconditioning of an imported product does not amount to manufacture because no new goods come into existence.
+
+'Repackaging' means repacking of imported goods from bulk pack to smaller packs would not ordinarily amount to manufacture of a new item.
+
+'Rebranding' means relabeling or renaming or change in symbol or logo/makes or corporate image of a company/organization/firm for an imported product would amount to rebranding.
+
+The imported items sourced locally from resellers/distributors are excluded from calculation of local content, the bidders shall submit the cost of such locally-sourced imported items (Inclusive of taxes) along with break-up on license/royalties paid/technical expertise cost etc. sourced from outside India. For items sold by bidder as reseller, OEM certificate for country of origin to be submitted.
+
+For contracts involving supply of multiple items, weighted average of all items to be taken while calculating the local content.
+
+2.2 'Class-I local supplier ' means a supplier or service provider, whose goods, services or works offered for procurement, meets the minimum local content as prescribed for 'Class-I local supplier' under this Order.
+
+2.3 'Class-II local supplier ' means a supplier or service provider, whose goods, services or works offered for procurement, meets the minimum local content as prescribed for 'Class-II local supplier' but less than that prescribed for 'Class-I local supplier' under this Order.
+
+2.4 'Non - Local supplier ' means a supplier or service provider, whose goods, services or works offered for procurement, has local content less than that prescribed for 'Class- II local supplier' under this Order.
+
+2.5 'L 1' means the lowest tender or lowest bid or the lowest quotation received in a tender, bidding process or other procurement solicitation as adjudged in the evaluation process as per the tender or other procurement solicitation.
+
+2.6 'Margin of purchase preference ' means the maximum extent to which the price quoted by a "Class-I local supplier" may be above the L1 for the purpose of purchase preference.
+
+2.7 'Nodal Ministry ' means the Ministry or Department identified pursuant to this order in respect of a particular item of goods or services or works.
+
+2.8 'Procuring entity ' means a Ministry or department or attached or subordinate office of, or autonomous body controlled by, the Government of India and includes Government companies as defined in the Companies Act.
+
+2.9 'Works' will also include 'turnkey works'/LSTK Contracts.
+
+2A	Special treatment for items covered under PLI Scheme
+
+The manufacturers manufacturing an item under PLI scheme shall be treated as deemed Class-II local supplier for that item unless they have minimum local content equal to or higher than that notified for Class-I local supplier for that item, provided the manufacturer has received incentive from the concerned PLI Ministry for the Item. The above shall be applicable for the specific time period only, as notified by concerned PLI Ministry.
+
+Eligibility of 'Class-I local supplier'/ 'Class-II local supplier '/ 'Non-local suppliers’:
+(a)	'Class-I local supplier', 'Class-II local supplier' and 'Non-local supplier', as defined under the Order, shall be eligible to bid. 
+(b)	For the purpose of this Order, works includes Engineering, Procurement and Construction (EPC) contracts and services include System Integrator (SI) contracts.
+3.1 Mandatory sourcing of items, with sufficient local capacity and competition, from Class-I local suppliers in SI/EPC/Turnkey Contracts/Service Tenders
+
+The items, notified as having sufficient local capacity and competition, shall mandatory be sourced from Class-I local suppliers in SI/EPC/Turnkey Contracts/ Services tenders. This provision will be applicable only for those items which have been notified by the Nodal Ministry as Class-I i.e. having sufficient local capacity and competition, with specific HSN codes.
+
+3A Purchase Preference
+(a)	Subject to the provisions of this Order and to any specific instructions issued by the Nodal Ministry or in pursuance of this Order, purchase preference shall be given to 'Class-I local supplier' in procurements undertaken by procuring entities in the manner specified here under.
+(b) 	In the procurements, which are divisible in nature, the 'Class-I local supplier' shall get purchase preference over 'Class-II local supplier' as well as 'Non-local supplier', as per following procedure:-
+
+Among all qualified bids, the lowest bid will be termed as L1. If L1 is 'Class- I local supplier', the contract for full quantity will be awarded to L1.
+
+If L1 bid is not a 'Class-I local supplier', 50% of the order quantity shall be awarded to L1. Thereafter , the lowest bidder among the 'Class-I local supplier' will be invited to match the L1 price for the remaining 50% quantity subject to the Class-I local supplier's quoted price falling within the margin of purchase preference, and contract for that quantity shall be awarded to such 'Class-I local supplier' subject to matching the L1 price. In case such lowest eligible 'Class-I local supplier' fails to match the L1 price or accepts less than the offered quantity , the next higher 'Class-I local supplier' within the margin of purchase preference shall be invited to match the L1 price for remaining quantity and so on, and contract shall be awarded accordingly. In case some quantity is still left uncovered on Class-I local suppliers, then such balance quantity may also be ordered on the L1 bidder.
+
+(c) 	In the procurements of goods or works, which are not divisible in nature, and in procurement of services where the bid is evaluated on price alone, the 'Class-I local supplier' shall get   purchase preference over 'Class-II local supplier ' as well as 'Non-local supplier', as per following procedure:
+
+Among all qualified bids , the lowest bid will be termed as L1. If L1 is 'Class-I local supplier', the contract will be awarded to L1.
+
+If L1 is not 'Class-I local supplier', the lowest bidder among the 'Class-I local supplier', will be invited to match the L1 price subject to Class-I local supplier's quoted price falling within the margin of purchase preference, and the contract shall be awarded to such 'Class-I local supplier' subject to matching the L1 price.
+
+In case such lowest eligible 'Class-I local supplier' fails to match the L1 price, the 'Class-I local supplier' with the next higher bid within the margin of purchase preference shall be invited to match the L1 price and so on and contract shall be awarded accordingly. In case none of the 'Class-I local supplier' within the margin of purchase preference matches the L1 price, the contract may be awarded to the L1 bidder.
+
+(d) "Class-II local supplier" will not get purchase preference in any procurement, undertaken by procuring entities.
+
+3B. Applicability in tenders where contract is to be awarded to multiple bidders. 
+In tenders where contract is awarded to multiple bidders subject to matching of L1 rates or otherwise, the 'Class-I local supplier' shall get purchase preference over 'Class-II local supplier' as well as 'Non-local supplier', as per following procedure:
+
+a) 	'Class II local suppliers' and 'Non local suppliers' may also participate in the bidding process along with 'Class I Local suppliers' as per provisions of this Order.
+b)	If Class I Local suppliers' qualify for award of contract for at least 50% of the tendered quantity in any tender , the contract may be awarded to all the qualified bidders as per award criteria stipulated in the bid documents . However, in case 'Class I Local suppliers' do not qualify for award of contract for at least 50% of the tendered quantity, purchase preference should be given to the 'Class I local supplier' over 'Class II local suppliers'/ 'Non local suppliers' provided that their quoted rate falls within 10% margin of purchase preference of the highest quoted bidder considered for award of contract so as to ensure that the 'Class I Local suppliers' taken in totality are considered for award of contract for at least 50% of the tendered quantity.
+
+c)	First purchase preference has to be given to the lowest quoting 'Class-I local supplier', whose quoted rates fall within 10% margin of purchase preference, subject to its meeting the prescribed criteria for award of contract as also the constraint of maximum quantity that can be sourced from any single supplier. If the lowest quoting 'Class- I local supplier', does not qualify for purchase preference because of aforesaid constraints or does not accept the offered quantity, an opportunity may be given to next higher 'Class-I local supplier', falling within 10% margin of purchase preference, and so on.
+
+Minimum local content: 
+The 'local content' requirement to categorize a supplier as 'Class-I local supplier' is minimum 50%. For 'Class-II local supplier', the 'local content' requirement is minimum 20%. Nodal Ministry/ Department may prescribe only a higher percentage of minimum local content requirement to categorize a supplier as 'Class-I local supplier'/ 'Class-II local supplier'. For the items, for which Nodal Ministry/ Department has not prescribed higher minimum local content notification under the Order, it shall be 50% and 20% for 'Class-I local supplier'/ 'Class-II local supplier' respectively.
+
+Margin of Purchase Preference: 
+The margin of purchase preference shall be 10%.
+
+Verification of local content:
+
+The 'Class-I local supplier'(as per Appendix A-18)/ 'Class-II local supplier' (as per Appendix A-18B)at the time of tender, bidding or solicitation shall be required to indicate percentage of local content and provide self-certification that the item offered meets the local content requirement for 'Class-I local supplier'/ 'Class-II local supplier', as the case may be. They shall also give details of the location(s) at which the local value addition is made. 
+
+In cases of procurement for a value in excess of Rs. 10 crores, the 'Class-I local supplier'(as per Appendix-A-19) / 'Class-II local supplier'(as per Appendix-A-19B) shall be required to provide a certificate from the statutory auditor or cost auditor of the company (in the case of companies) or from a practicing cost accountant or practicing chartered accountant (in respect of suppliers other than companies) giving the percentage of local content.
+
+The bidder shall give self-certification for local content in the quoted item (goods/works/services) at the time of tendering. However, at the time of execution of the project, for all contracts above INR 10 Crore, the contractor/ supplier shall be required to give local content certification duly certified by cost/ chartered accountant in practice.
+
+For cases where it is not possible to provide certification by Cost/Chartered Accountant at the time of execution of project, the supplier shall be permitted to provide the certificate for local content from Cost/ Chartered Accountant after completion of the contract, but not later than Final Bill submitted by the contractor/supplier. In case the contractor/ supplier does not meet the stipulated local content requirement and the category of the supplier changes from Class-I to Class- II/ Non-local or from Class-II to Non-local, a penalty up to 10% of the contract value shall be imposed by ONGC. The same shall be recovered from the Final Bill(s) and/or Security deposit or any other amount due to the contractor/supplier in ONGC. However, contract once awarded shall not be terminated on this account. Payment of last 10% of Contract value shall be made only after receipt of aforesaid certificate for local content from Cost/ Chartered Accountant.
+
+Decisions on complaints relating to implementation of this Order shall be taken by the competent authority which is empowered to look into procurement-related complaints relating to the procuring entity.
+
+Nodal Ministries may constitute committees with internal and external experts for independent verification of self-declarations and auditor's/ accountant's certificates on random basis and in the case of complaints.
+
+Nodal Ministries and procuring entities may prescribe fees for such complaints.
+
+False declarations will be in breach of the tender conditions for which a bidder or its successors can be debarred for up to two years as per ONGC Banning provisions along with such other actions as may be permissible under law.
+
+A supplier who has been debarred by any procuring entity for violation of this Order shall not be eligible for preference under this Order for procurement by any other procuring entity for the duration of the debarment. The debarment for such other procuring entities shall take effect prospectively from the date on which it comes to the notice of other procurement entities, in the manner prescribed in the PPP-MII Order issued by DPIIT (as amended).
+
+In respect of procuring entities other than the one which has carried out the debarment, the debarment takes effect prospectively from the date of uploading on the website(s) in such a manner that ongoing procurements are not disrupted.
+
+Reciprocity Clause
+Entities of countries which have been identified by the nodal Ministry/Department as not allowing Indian companies to participate in their Government procurement for any item related to that nodal Ministry shall not be allowed to participate in Government procurement in India for all items related to that nodal Ministry/ Department, except for the list of items published by the Ministry/ Department permitting their participation.
+
+The term 'entity' of a country shall have the same meaning as under the FDI Policy of DPllT as amended from time to time.
+
+Manufacture under license/ technology collaboration agreements with phased indigenization: 
+While notifying the minimum local content, Nodal Ministries may make special provisions for exempting suppliers from meeting the stipulated local content if the product is being manufactured in India under a license from a foreign manufacturer who holds intellectual property rights and where there is a technology collaboration agreement / transfer of technology agreement for indigenous manufacture of a product developed abroad with clear phasing of increase in local content.
+
+8A In procurement of all goods, services or works in respect of which there is substantial quantity of public procurement and for which the nodal ministry has not notified that there is sufficient local capacity and local competition, the concerned nodal ministry shall notify an upper threshold value of procurement beyond which foreign companies shall enter into a joint venture with an Indian company to participate in the tender. Procuring entities, while procuring such items beyond the notified threshold value, shall prescribe in their respective tenders that foreign companies may enter into a joint venture with an Indian company to participate in the tender. The procuring Ministries/Departments shall also make special provisions for exempting such joint ventures from meeting the stipulated minimum local content requirement, which shall be increased in a phased manner.
+
+In case of consortium bids, Class I local supplier / class II supplier bidder needs to submit following w.r.t. PPP-MII:
+Appendix A-18-A/Appendix A-18-C: Proforma for Certificate/ Undertaking for meeting the mandatory local content requirements: This format is to be signed by all the consortium members and to be submitted along with techno-commercial bid. 
+
+Appendix A-19-A/Appendix 19-C: Proforma for Certificate from Statutory Auditor or cost auditor of the company (in the case of companies) or from a practicing cost accountant or practicing chartered accountant (in respect of suppliers other than companies), for mandatory local content requirements for cases of procurement for a value in excess of Rs. 10 crores. 
+This is to be submitted on the letter head of Auditor or as the case may be, of each of the consortium member along with the techno-commercial bid.
+   
+23.6.2(c)	Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012 and Public Procurement (Preference to Make in India) Order, 2017 (DoE O.M. No. No. F.1/4/2021-PPD dated 18.05.2023):
+	Not applicable for this tender
+
+23.7	After the receipt of tenders the Company may send a team of engineers if necessary to inspect the engineering facilities, fabrication yard(s) to ensure suitability and satisfactory working conditions at the Contractor's works/yards(s) and equipment listed to be used by the bidder for the work. The bidder shall ensure that the aforesaid team shall at all the times have access to visit and inspect works/yard(s), equipment etc.
+
+23.8	Arithmetical errors will be corrected in the following manner:
+
+	If there is a discrepancy between amounts expressed in words and figures, the amount in words shall prevail. 
+
+In case of any discrepancy between the total prices indicated the BoQ1 sheet and those indicated in the respective Appendix A-3-sheets, the lower of the two prices shall be considered for evaluation. Bidder to refer BEC clause C-2.1 in this regard.
+
+24.0	Contacting the Company
+
+24.1	The Bidders may please note that the Company will not entertain any correspondence or queries on the status of the offers received against this Bidding Documents. Bidders are advised not to depute any of their personnel or Agents to visit the Company's or its Consultant's office for making such inquiries.
+
+24.2	Any effort by a Bidder to influence the Company on the Company's Bid evaluation, Bid comparison or Contract award decision may result in the rejection of the Bidder's bid. 
+24.3	No bidder shall contact the ONGC on any matter relating to its bid, from the time of the opening to the time the contract is awarded.
+
+25.0	Company's Right to Accept any Bid and to Reject any or all Bids
+
+The Company reserves the right to accept or reject any bid and to annul the bidding process and reject all bids at any time prior to award of Contract, without thereby incurring any liability to the affected Bidder or Bidders or any obligation to inform the affected Bidder or Bidders of the grounds for the Company's action. 
+
+F. AWARD OF CONTRACT
+
+26.0    Notification of Award(NOA)
+
+26.1	Prior to the expiration of the period of Bid Validity, the company will notify the successful Bidder in writing that its Bid has been accepted.
+
+26.2	The Notification of Award shall constitute a binding contract between the successful bidder and the Company.
+
+26.3	Upon the successful bidder’s furnishing performance security, pursuant to clause 28.0, the contract shall be signed between the parties as per clause 27.0
+
+27.0	Signing of the Contract
+
+Within 15 days from receipt of acceptable e-PBG/SD, the successful Bidder shall sign the formal contract with the Company. 
+
+Any payment under the contract shall be made only after signing of formal contract and Contractor furnishes to the Company Performance Guarantee and Certificate of Insurance.
+
+The contract agreement can be digitally signed by authorized executive of Contractor as per POA and signing authority of ONGC. In case of digitally signed Contract agreement, signature of witness shall not be required. 
+
+28.0	 Performance Guarantee 
+
+28.1		Within 30 days from the date of issue of NOA the successful Bidder shall furnish to the Company Performance Security/Security deposit in the form of NEFT/RTGS/Electronic fund transfer to designated account of ONGC# or in lieu thereof, Performance Electronic Bank Guarantee (e-BG)/SFMS BG*/Insurance Surety Bond for an amount of (10%) Ten percent of the Contract Price of the LSTK part in accordance with clause 3.3 of `General Conditions of Contract'.
+
+#Subject to credit in ONGC’s account within prescribed time.
+
+The bank guarantee by contractor will have to be given on non-judicial stamp paper / franking receipt as per stamp duty applicable at the place from where the tenders have been invited.  The non-judicial stamp paper / franking receipt should be either in the name of the issuing bank or the bidder.
+
+The Contractor can either submit the entire performance security of 10% of the Contract value of LSTK part within 30 days from the date of issue of LOA/NOA upfront or submit the Performance security partly for an amount of 3% of the Contract value within 15 days from the date of issue of LOA/NOA and balance 7% performance security amount to be deducted from Contractual payments progressively till 50% financial progress is achieved with the amount to be deducted towards performance security from monthly invoices fixed@14% of Invoice value.
+
+After completion of Project (LSTK part), the contractor shall submit Electronic Bank Guarantee/ SFMS BG/Insurance Surety Bond equivalent to 5% of the LSTK part of Contract Value towards warranty/guarantee of completed Works under this Contract. Such Electronic Bank Guarantee/ SFMS BG/Insurance Surety Bond shall be submitted to Company not later than 30 days prior to expiry of Performance Electronic Bank Guarantee/ SFMS BG/Insurance Surety Bond equivalent to 10% furnished by Contractor under the Contract.
+
+The contractor will give Electronic Bank Guarantee from any of the following categories of Banks:
+
+(a)   Any Scheduled Bank incorporated in India, Bank Guarantee issued by foreign branches / foreign offices of such Scheduled Banks be counter guaranteed by the Indian Branch of any scheduled Bank incorporated in India.
+                                  OR
+(b)	Any branch of an International Bank situated in India and registered with Reserve Bank of India as scheduled foreign bank.
+                                OR
+(c)   Any foreign Bank which is not a scheduled Bank in India provided the Bank Guarantee issued by such Bank is counter guaranteed by any Branch situated in India of any Scheduled Bank incorporated in India. 
+
+The bidders will give Unconditional irrevocable Insurance Surety Bond from an Indian Insurance Company (Insurer) registered with Insurance Regulatory and Development Authority of India (IRDAI).
+
+Bidders will be required to provide the details of e-BG/SFMS BG/Insurance Surety Bond such as Number, Date, Name of issuing bank and amount in their bid. 
+  
+		The format of the guarantee shall be in accordance with the sample form included in Appendix B-3. The format for Insurance Surety Bond is at Appendix B-3A.
+	
+	*SFMS BG: 
+The default/Preferable mode of submission of Security Deposit will be NEFT/RTGS/Electronic Fund Transfer or e-BG, however, whenever a bidder submits SFMS BG, the bidder will mandatorily be required to submit letter from issuing bank that it is unable to issue NeSL based e-BG as on date. Such letter should accompany the SFMS Bank Guarantee (SFMS-BG). 
+
+Bidder shall get SFMS BG issued from SFMS enabled Bank as allowed by ONGC in tender conditions. Bank shall issue the Bank Guarantee through SFMS system and send SFMS message to ONGC's Bank confirming the authenticity of Bank Guarantee. Bidder will be required to submit SFMS BG towards Bid Security along with SFMS delivery report /message copy which has been transmitted to ONGC's bank by BG issuing bank through SFMS system. 
+
+The SFMS BG will have to be given on non-judicial stamp paper / with franking receipt e-stamping as per stamp duty applicable at the place from where the bid has emanated. The non-judicial stamp paper / franking receipt e-stamping should be either in the name of the issuing bank or the bidder. 
+
+The original SFMS BG in physical form towards Bid Security (along with SFMS delivery report /message copy which has been transmitted by issuing bank through SFMS system to beneficiary's i.e. ONGC's bank) should reach to the designated ONGC office on or before date & time of bid submission. 
+
+SFMS based BG will not be acceptable unless details of the same is transmitted to the ONGC's Bank through SFMS platform. It's bidder's responsibility to ensure that BG issuing bank sends the BG advice correctly in the form of message format 760COV via SFMS (Structured Financial Messaging System) as provided by RBI while capturing all requisite fields including following:
+
+Beneficiary Account Name: Oil and Natural Gas Corporation Limited 
+Bank Name: State Bank of India 
+Branch: BKC, Bandra (E), Mumbai, Maharashtra – 400 051. 
+Branch Code: 004380 
+Bank Account No.: 30061117039 
+IFSC Code: SBIN0004380 
+SWIFT Code: SBININBB356 (SBI, BKC is not authorized for Forex Transactions, therefore, its SWIFT Code is linked with Commercial Branch, SBI, Vile Parle, Branch Code: 04115)
+
+Note: Please refer to Appendix B-3 for SFMS BG Format. 
+
+In case of any error by the applicant (bidder/contractor) or BG issuing bank while capturing the requisite field details/format or non-receipt of confirmation of BG through SFMS 760COV message format, the bid shall be liable for rejection and bidder/contractor shall be responsible for the same. 
+
+For any amendment of SFMS BG, message 767COV through SFMS should be used.
+
+28.1.1	In case successful bidder is seeking financial support from supporting company, the supporting company shall furnish additional Performance Security / Security deposit equivalent to 50% of amount of Performance Security / Security deposit submitted by bidder. 
+
+Similarly in case bidder is seeking technical support from supporting company, the supporting company shall submit additional Performance Security / Security deposit for equivalent to 50% of amount of Performance Security / Security deposit submitted by bidder. 
+
+In case of award, if bidder has taken both technical and financial support from the supporting company, the supporting company shall submit two separate additional Performance Security / Security deposit, each equivalent to 50% of amount of Performance Security / Security deposit submitted by Bidder.  
+
+28.2	Failure of the successful Bidder to comply with the requirements of Clause 27.0 or Clause 28.0 shall constitute sufficient grounds for the annulment of the award and forfeiture of the Bid Security as per clause 17.5 of ITB.
+
+28.3	Performance Bank Guarantee for Painting:
+
+Contractor to furnish a warranty for the maintenance painting of platform for a period of 26 (twenty-six) months from the date of expiry of initial warranty period (or extended warranty period as the case may be) for the works. Other terms and conditions for the warranty shall be governed as per clause 6.1.1 to 6.1.11. Warranty for Maintenance Painting is required to have back up warranty from the Paint Manufacturer also.
+
+Contractor to furnish Performance Security/Security Deposit in the form of NEFT/RTGS/Electronic Fund Transfer to designated account of ONGC# or in lieu thereof Bank Guarantee for (e-BG)/SFMS BG/Insurance Surety Bond) for an amount of (1%) One Percent of the Contract Price valid for 24 + 2 months i.e. 26 months to cover the above warranty period.
+
+#Subject to credit in ONGC’s account within prescribed time.
+     	
+29.0	Employment of Officials / Ex-official of Company
+
+Bidders are advised not to employ serving Company employees without its prior permission. It is also advised not to employ ex-personnel of Company within the initial one year period after their retirement/ resignation/severance from the service without specific permission of Company. The Company may decide not to deal with such firm(s) who fails to comply with the above advice. 
+
+30.0	Contracts with Relatives etc. of Directors of ONGC pursuant to Sec. 297 of the Companies Act,1956      
+          	
+The bidders are required to certify in prescribed format Appendix A-7 whether he/they is/are related to any of the Directors of ONGC (in terms of Sec.6 of the Companies Act 1956 as amended from time to time) in any of the ways mentioned in the Certificate. It is clarified that any such affirmative certificate shall not, by itself, prejudice consideration of the bid. This certificate must accompany the bid.
+
+31.0     Representation from the bidder
+	
+31.1	The bidder(s) can submit representation(s) if any, in connection with the processing of the tender directly only to ED-CPO, Scope Minar, Laxmi Nagar, New Delhi-110092, Phone No. +91-11- 22406801, E-mail: - singh_sanjayk@ongc.co.in
+
+31.2	Raising Disputes / Complaints.
+
+	The bidders may raise disputes / complaints, if any, either with the ED-CPO or with concerned Director of ONGC or directly with the IEM c/o Chief Vigilance Officer, ONGC, Deen Dayal Urja Bhawan, 5-A Nelson Mandela Marg, Vasant Kunj, New Delhi-110070.
+Curriculum Vitae of Independent External Monitors (IEMs) are placed permanently on the home page of ONGC’s website www.tenders.ongc.co.in.    
+Note:
+IEMs shall not consider any representation received after the oral submission have been made by the representing bidder unless some additional documents or clarifications have specifically been sought by IEMs from the representing bidder.
+IEM shall consider only those representations on post contract issues wherein there is an alleged violation of provisions of IP.
+The name and e-mail IDs of the IEMs appointed in ONGC are as under:
+Shri. Vijay Kumar Singh, IPS (Retd.), (vijaysinghsls10@gmail.com).
+Shri. Arvinda Kumar, IPS (Retd.), Former Vigilance Commissioner (arvindak@gmail.com)
+Smt. Seema Bahuguna, Retd. IAS, Former Secretary DPE (bahugunaseema@gmail.com)
+Bidders should not send pre bid queries/clarifications or any other tender related queries to IEMs.
+32.0 	Certificate on submission of techno-contractual COMPLIANT bid without any deviations to terms and conditions of bidding document.
+
+ONGC expects the bidders shall desist from taking exception / deviations to the terms and conditions of the bidding document and submit a techno-contractually compliant bid.
+	Therefore the bidders are required to submit a certificate as per proforma at Appendix B-9. 
+
+33.0		THIRD PARTY INSPECTION AGENCY (TPI) AND CERTIFICATION AGENCY (CA) 
+
+a) COMPANY shall engage a Third party inspection (TPI) agency for inspection etc. for Procurement, Fabrication, Construction, Erection, Testing, during the execution of the project.
+
+b)  COMPANY shall engage a Certification agency (CA) for certification etc. for Engineering, Procurement, Fabrication, Construction, Erection, Testing, during the execution of the project.
+
+34.0 	Deleted 
+
+35.0  	Unsolicited Communication:
+
+In case any bidder makes any unsolicited communication in any manner, after bids have been opened (for tenders processed either on single bid or on two bid basis), the bid submitted by the particular bidder shall be summarily rejected, irrespective of the circumstances for such unsolicited communication. 
+
+Further, if the tender has to be closed because of such rejection, and the job has to be re-tendered, then the particular bidder shall not be allowed to bid in the re-tender.
+The above provision will not prevent any bidder from making representation in connection with processing of tender directly and only to the Competent Purchase Authority (CPA) as mentioned in the tender document. However, if such representation is found by CPA to be un-substantiative and / or frivolous and if the tender has to be closed because of the delays / disruptions caused by such representations and the job has to be re-tendered, then such bidder will not be allowed to participate in the re-invited tender.
+
+In case, any bidder while making such representations to Competent Purchase Authority (CPA) /Directors / IEMs also involves other officials of ONGC and / or solicits / invokes external intervention other than as may be permitted under the law and if the tender has to be closed because of the delays / disruptions caused by such interventions and has to be re-tendered, then the particular bidder will not be allowed to participate in the re-invited tender.
+
+
+
+
+36.0    	Mandatory training for Offshore going Personnel:
+
+Bidder is required to ensure that personnel to be deployed at Offshore for execution of the Contract have undergone mandatory trainings on the following, from an institute which is duly recognized by `Directorate General of Shipping’, Mumbai:
+Basic Sea Survival.
+Elementary First Aid.
+Fire Fighting.
+Helicopter Under Water Escape training (if going by helicopter)
+Bidder will be required to produce original copy of the certificate for obtaining NED Passes / Smart Cards.
+
+37.0    	Deleted
+
+38.0     Deleted.
+
+39.0	The contractor’s offer of new barges(s) without adequate track record shall be evaluated during Contract execution stage for acceptance and usage as per evaluation criteria specified at Appendix A-12 of Part III, Volume-I of the Bid Document.
+
+40.0	In case, the contractor’s offer of new yard(s) without adequate track record shall be evaluated for acceptance and usage as per evaluation criteria specified at Appendix A-13 of Part III, Volume-I of the Bid Document.
+41.0  	Jacket, Piles, conductor, Pipeline Length, No. of Free Span Corrections, Crossings  is not envisaged in the project.
+Structural steel tonnage adjustment shall be applicable for Structural    Members (New Bridge, Strengthening of Existing Bridge, New Landing/Strengthening of Existing Deck, Strengthening of Existing Landing/Deck, deck extension) as specified in Appendix-A3 of Volume I of the Bid Document. Bidder to quote for the total structural tonnage including estimated structure weight as indicated in the bid document and the same shall be considered for bid evaluation.
+42.0	SCADA 
+         
+ 	Deleted  
+
+43.0    	Annual Maintenance Contract
+
+a)  Bidder must furnish the following undertakings from the original Equipment Manufacturer(s), along with his bid:
+
+(i)  The OEM shall provide the maintenance / service / calibration facilities in India, for all the equipment to be supplied under the contract, if awarded to him by ONGC.
+
+(ii) The bidder shall indicate the source of their bought out items and also the names of the original equipment/materials manufacturer for the major components. The OEM shall guarantee the 'lifetime supply' (i.e. 7 years in case of electronic equipment / items and 10 years in case of mechanical equipment / items) of spares for all the equipment to be supplied under the contract, if awarded to him by ONGC.
+
+(iii) The OEM undertakes to enter into Annual Maintenance Contract for 'lifetime' (i.e. 7 years in case of electronic equipment/items and 10 years in case of mechanical equipment/items) for all the equipment to be supplied under the contract, if awarded to him by ONGC.
+
+In case the OEM declines / fails to honour any of his above commitments, business dealings with such OEM shall be considered for banning from future business dealings.
+
+b)  In LSTK contract, in case of any difficulty in submitting above commitments from any OEMs at the bidding stage, the bidder shall submit his own undertaking to the effect that the undertaking required in sub Para (a) above from those OEM(s) will be furnished at the detailed engineering stage. However, in case successful bidder fails to submit the same at the detailed engineering stage, ONGC reserves the rights to cancel the contract, forfeit the Performance Security and take suitable action for banning such bidders from future business dealings with ONGC as deemed fit.
+44.0	Undertaking regarding ‘Conflict of Interest’. 	
+
+Bidder to submit proforma of undertaking as per Appendix B-9 regarding ‘Conflict of Interest’ between the Bidder and the Agency / Consultant‘.
+
+45.0	Painting System: As per Design Functional Specification
+
+46.0	Submission of forged documents:
+
+Bidders should note that ONGC may verify authenticity of all the documents/certificate/information submitted by the bidder(s) against the tender.  In case at any stage of tendering process or Contract/PO execution etc., if it is established prima facie with reasonable grounds that bidder has submitted forged documents/certificates/information towards fulfilment of any of the tender/contract conditions, ONGC shall immediately reject the bid of such bidder(s) or cancel/terminate the contract and forfeit EMD/SD submitted by the bidder.
+Further, actions as per ONGC's 'Policy for Banning/ provisional Suspension of Business dealings with erring Firms' shall be taken against the Supplier.
+Aforesaid policy is available at ONGC portals https://tenders.ongc.co.in and https://ongcindia.com.
+
+46.1    	The bidder shall be required to give an undertaking on the company’s letter head and duly signed by the signatory of the bid, that all the documents/certificates/information submitted by them against the tender are genuine.  In case any of the documents/certificates/ information submitted by the bidder is found to be false or forged, action as deemed fit may be initiated by ONGC at its sole discretion.
+
+ONGC, at its sole discretion, may consider the documents of bidders submitted by them against any past tenders of ONGC and same are available with ONGC. However, bidder cannot have the right to challenge any decision of ONGC on considering/not considering of these documents for evaluation. 
+Bidder shall hold continued liability of the documents submitted in the bid, since, ONGC can utilize the same for future qualification in other tenders of ONGC
+
+47.0   	As the above statutory provisions are frequently reviewed by the Govt., the bidders are advised to check the latest position in their own interest and ONGC will not bear any responsibilities for any incorrect assessment of the statutory levies by any bidder.
+48.0    	Fraud prevention policy
+Fraud Prevention policy of ONGC is available at ONGC’s public portal http://www.ongcindia.com. The bidder(s) shall be required to certify that they have read the Fraud prevention policy of ONGC and they would adhere to the same and shall not indulge themselves or allow others to indulge in fraudulent activities and they would immediately apprise the ONGC of the fraud/suspected fraud as soon as it comes to their notice (Format provided at Appendix B-9).
+
+49.0 	DMI&SP Policy:
+Govt. Policy for providing preference to domestically manufactured Iron & Steel products (DMI&SP) issued by Ministry of Steel vide Gazette notification No. CG-DL-E-26052025-263378 dated 26.05.2025 [G.S.R. 341 (E)]  and further amendments / notifications.
+
+Definitions 
+
+1. Bidder may be a domestic/ foreign manufacturer of iron & steel or their selling agents/ authorized distributors/authorized dealers/ authorized supply houses or any other company engaged in the bidding of projects funded by Government agencies. 
+
+2. Domestically Manufactured Iron & Steel Products are those iron and steel products that are manufactured by entities that are registered and established in India, including in Special Economic Zones (SEZs). 
+
+3. Domestic Manufacturer is a manufacturer of iron & steel products conforming to guidelines in section 7 and the definition of 'manufacturer' as per the Central Excise Act. 
+
+4. Domestic value addition means the amount of value added in India which shall be the total value of the item to be procured (excluding net domestic indirect taxes) minus the value of imported content in the item (including all custom duties) as a proportion of the total value of the item to be procured., in percent. The 'domestic value addition' definition shall be in line with the DPIIT guidelines and shall be suitably amended in case of any changes by DPIIT in the future. For the purpose of this policy document, domestic value addition and local content have been used interchangeably. 
+
+% Domestic value addition= {Total value of the item to be procured (excluding net domestic indirect taxes) - The value of imported content in the item (including all customs duties)}/ {Total value of the item to be procured} X 100% 
+
+5. Finished Steel shall mean flat and long products, which can be subsequently processed into manufactured items.
+
+6. Government for the purpose of the Policy means Government of India.
+
+7. Government agencies include Government PSUs, Societies, Trusts, and Statutory bodies set up by the Government of India.
+
+8. Indigenous Technology: A technology shall be deemed to be Indigenous technology if, at least 51 % of the entity's equity is held by Indian residents and the IPR is owned or co-owned by an Indian entity or licensed exclusively to them and the core engineering R&D, and project execution capabilities reside in India.
+
+9. L-l means the lowest tender or the lowest bid or the lowest quotation received in a tender, bidding process, or other procurement solicitation as adjudged in the evaluation process as per the tender or other procurement solicitation.
+
+10. MoS shall mean Ministry of Steel, Government of India.
+
+11. Margin of purchase preference means the maximum extent to which the price quoted
+by a domestic supplier may be above L-1 for the purpose of purchase preference. In the case of DMl&SP policy, the margin of purchase preference shall be 20 % for items in Appendix B.
+12. Melt & Pour is defined as the steel that has been produced in a steel-making furnace and poured into its first solid shape. The location where this process takes place is called the country of melt and pour (COM). The COM is the original location where crude steel is first produced in a liquid state and poured into its first solid shape. The first solid shape can be a semi-finished product, like a slab, billet, ingot, or a finished steel mill product.
+
+13. Net Selling Price shall be the invoiced price excluding net domestic taxes and duties.
+
+14. Semi-Finished Steel shall mean Ingots, billets, blooms, and slabs, which can be subsequently processed into finished steel.
+
+Tender procedure for procurement
+
+Bidders who are selling agents/authorized distributors/ authorized dealers/authorized supply houses of the domestic manufacturers of iron & steel products, covered by Appendix-A of the policy, are eligible to bid with self- certification on behalf of the domestic manufacturers under the policy, subject to the bidder furnishing an authorisation certificate issued by the domestic manufacturer at the time of delivery.
+For products covered under Appendix B of the DMI&SP policy, the bidder shall furnish certification issued by the statutory auditor or cost auditor of the company (in the case of companies) or from a practicing cost accountant or practicing chartered accountant (in respect of suppliers other than companies) declaring that the capital goods to be used in iron & steel industry are domestically manufactured in terms of the domestic value addition prescribed. 
+
+
+A supplier debarred by any procuring entity for violation of this Order shall not be eligible for preference under this Order for procurement by any other procuring entity for the duration of the debarment. The debarment for such other procuring entities shall take effect prospectively from the date on which it comes to the notice of other procurement entities.
+
+In case, the matter is referred to the Ministry of Steel, the grievance redressal committee set up under the MoS shall dispose of the complaint within 4 weeks of its reference and receipt of all documents from the bidder after taking into consideration, the view of the Government Agency. The bidder shall be required to furnish the necessary documentation in support of domestic value addition claimed in iron & steel products to the grievance redressal committee under MoS within 2 weeks of the reference of the matter. 
+
+Procuring agency shall define the penalties, in case of a wrong declaration by the bidder of the prescribed domestic value addition, in the tender document. The penalties may include forfeiting of the EMD, other financial penalties, and blacklisting of such manufacturer/service provider etc., in terms of extant rules
+
+Bidder shall submit Undertaking on the company’s letter Head for complying with Government Policy for providing preference to Domestically Manufactured Iron & Steel products (DMI&SP) as per format at Appendix B-39 of Vol I 05 Part III Appendices   of tender document.
+
+50.0	GUIDELINES FOR ELIGIBILITY OF A ‘BIDDER FROM A COUNTRY WHICH SHARES A LAND BORDER WITH INDIA’
+
+Guidelines for Eligibility of a 'Bidder from a Country sharing a land border with India '(Order (Public Procurement No. 1) dated 23.07.2020, Order (Public Procurement No. 2) dated 23.07.2020, Order (Public Procurement No. 3) dated 24.07.2020, Order(Public Procurement No. 4) dated 23.02.2023,   issued by Department of Expenditure, Ministry of Finance, Govt. of India in this regard are available at website https://doe.gov.in/procurement-policy-divisions)
+
+Any bidder from a country which shares a land border with India will be eligible to bid in any procurement whether of goods, services (including consultancy services and non-consultancy services) or works (including turnkey projects) only if the bidder is registered with the Competent Authority. Further, any bidder (including bidder from India) having specified Transfer of Technology (ToT) arrangement with an entity from a country which shares a land border with India, shall also require to be registered with the same competent authority.
+"Bidder" (including the term 'tenderer', 'consultant' or 'service provider' in certain contexts) means any person or firm or company, including any member of a consortium or joint venture (that is an association of several persons, or firms or companies), every artificial juridical person not falling in any of the descriptions of bidders stated hereinbefore, including any agency branch or office controlled by such person, participating in a procurement process.
+
+"Bidder (or entity) from a country which shares a land border with India" for the purpose of this Order means: - 
+
+(a) An entity incorporated, established or registered in such a country; or 
+(b) A subsidiary of an entity incorporated, established or registered in such a country; or 
+(c) An entity substantially controlled through entities incorporated, established or registered in such a country; or 
+(d) An entity whose beneficial owner is situated in such a country; or 
+(e) An Indian (or other) agent of such an entity; or 
+(f) A natural person who is a citizen of such a country; or 
+(g) A consortium or joint venture where any member of the consortium or joint venture falls under any of the above.
+
+4.  The beneficial owner for the purpose of (3) above will be as under:
+i.  In case of a company or Limited Liability Partnership, the beneficial owner is the natural person(s), who, whether acting alone or together, or through one or more juridical person, has a controlling ownership interest or who exercises control through other means.
+
+Explanation-
+
+"Controlling ownership interest" means ownership of or entitlement to more than twenty-five per cent. of shares or capital or profits of the company; 
+"Control" shall include the right to appoint majority of the directors or to control the management or policy decisions including by virtue of their shareholding or management rights or shareholders agreements or voting agreements; 
+
+ii. In case of a partnership firm, the beneficial owner is the natural person(s) who, whether acting alone or together, or through one or more juridical person, has ownership of entitlement to more than fifteen percent of capital or profits of the partnership; 
+iii. In case of an unincorporated association or body of individuals, the beneficial owner is the natural person(s), who, whether acting alone or together, or through one or more juridical person, has ownership of or entitlement to more than fifteen percent of the property or capital or profits of such association or body of individuals; 
+
+iv. Where no natural person is identified under (1) or (2) or (3) above, the beneficial owner is the relevant natural person who holds the position of senior managing official; 
+
+v. In case of a trust, the identification of beneficial owner(s) shall include identification of the author of the trust, the trustee, the beneficiaries with fifteen percent or more interest in the trust and any other natural person exercising ultimate effective control over the trust through a chain of control or ownership.
+
+5. An Agent is a person employed to do any act for another, or to represent another in dealings with third person. 
+
+[Note: 
+A person who procures and supplies finished goods from an entity from a country which shares a land border with India will, regardless of the nature of his legal or commercial relationship with the producer of the goods, be deemed to be an Agent for the purpose of this Order. 
+However, a bidder who only procures raw material, components etc. from an entity from a country which shares a land border with India and then manufactures or converts them into other goods will not be treated as an Agent.]
+
+6.  The successful bidder shall not be allowed to sub-contract works to any contractor from a country which shares a land border with India unless such contractor is registered with the Competent Authority. [Note: Procurement of raw material, components, etc. does not constitute subcontracting.]
+
+7. The registration shall be valid at the time of submission of bid and at the time of acceptance of bid. 
+
+8. If the bidder was validly registered at the time of acceptance / placement of order, registration shall not be a relevant consideration during contract execution.
+
+9. 	Certificate regarding Compliance (format provided at Appendix B-36):-
+
+ a) Bidder shall submit following certificate:
+
+“We have read the above clause regarding restrictions on procurement from a bidder of a country which shares a land border with India. We certify that bidder M/s. …………(name of the bidder) is not from such a country or, if from such a country, has been registered with the Competent Authority. 
+We hereby certify that bidder M/s. ………….(name of the bidder)  fulfills all requirements in this regard and is eligible to be considered against tender." [Where applicable bidder must submit evidence of valid registration by the Competent Authority] 
+
+b) The successful bidder shall not be allowed to sub-contract works to any contractor from a country which shares a land border with India unless such contractor is registered with the Competent Authority. Bidder shall submit the following certificate in this regard:
+
+“We have read the above clauses regarding restrictions on procurement from a bidder of a country which shares a land border with India and on sub-contracting to contractors from such countries.
+We certify that bidder M/s. ......................(Name of the bidder) will not sub-contract any work to a contractor from such countries unless such contractor is registered with the Competent Authority.
+[Where applicable, bidder must submit evidence of valid registration by Competent Authority]”
+
+c)  Bidder shall submit following certificate:
+
+"We have read the clause regarding restrictions on procurement from a bidder having Transfer of Technology (ToT) arrangement. We certify that the bidder ___________ (name of the bidder) does not have any ToT arrangement requiring registration with the competent authority."
+OR
+"We have read the clause regarding restrictions on procurement from a bidder having Transfer of Technology (ToT) arrangement. We certify that the bidder  ___________ (name of the bidder) has valid registration to participate in this procurement." [Where applicable bidder must submit evidence of valid registration by the Competent Authority]
+
+If such certificate (as mentioned as (a), (b) & (c) above given by a bidder whose bid is accepted, is found to be false, this would be a ground for immediate rejection of bid/termination of contract and forfeiture of EMD/Security Deposit.
+
+The above certificate shall form part of  PO/contract.
+
+The registration, wherever applicable, should be valid at the time of submission of bids and at the time of acceptance of bids. If the bidder was validly registered at the time of acceptance/placement of order, registration shall not be a relevant consideration during contract execution.
+
+51.0		Deleted
+
+52.0	Deleted
+
+53.0	Anti-Competitive Practices by bidders (Cartel Formation / Pool Rates / Collusion/ Bid Rigging etc.)
+
+Any indication of pool bidding or cartel formation wherein multiple bidders quote identical or non-competitive rates shall be viewed as a serious breach of fair competition. Such practices are against the core principles of company’s transparent and competitive procurement process and may be subject to action under the Competition Act, 2002.
+
+54.0	Non-conformities between Figures and Words
+
+Non-conformities/errors between the quoted prices in figures and words (This situation normally does not arise in the case of e-procurement)
+
+This should be taken care of in the manner indicated below:
+If, in the price structure quoted for the required goods, there is a discrepancy between the unit price and total price (which is obtained by multiplying the unit price by the quantity), the unit price shall prevail, and the total price corrected accordingly; 
+If there is an error in a total corresponding to the addition or subtraction of sub-totals, the sub-totals shall prevail, and the total shall be corrected. 
+If there is a discrepancy between words and figures, the amount in words shall prevail. However, Where the excel format is provided in etenders and if discrepancy between words and figures is noticed, the figures shall prevail because excel sheet provides auto sum of the total of various line items. 
+Such a discrepancy in an offer should be conveyed to the bidder, asking him to respond by a target date. If the bidder does not agree to the observation, the bid is liable to be rejected. 
+
+55.0	ONGC’s Policy on Climate Change and Sustainability
+
+Bidders should simply confirm that they have read the ONGC’s following “Policy on Climate Change & Sustainability” and they are working upon to develop their policy as well.
+
+ONGC is committed to enhance contribution to sustainable development through a greater integration of economic, environmental and social dimensions.
+
+ONGC shall endeavour for GHG emission mitigation from our operations and participate in Kyoto and other protocol where India is a signatory. We shall strive to achieve quantifiable milestones in these aspects.
+
+ONGC shall partner with sustainability advocacy organizations where our strengths are complementary and also actively propagate the idea of GHG mitigation at national and international operations where we are business partner.
+
+ONGC shall develop and invest in advanced low carbon technologies to meet growing demand for affordable energy products while improving security of supply and reducing environmental impacts.
+
+ONGC’s aim shall be to achieve competitive business advantage from GHG abatement programmes, particularly through process efficiency, besides improving environmental performance.
+
+ONGC shall endeavour to develop new business opportunities through investment in climate change.
+
+ONGC shall try to adopt triple bottom line accounting and reporting to raise awareness of the true cost and benefits.
+
+Above all, ONGC shall make sustainability a foundation of our business strategy.
+56.0	GST LEGISLATIONS:
+
+‘GST legislations’ means ‘any or all of the following legislations as may be applicable to the Bidder and ONGC:
+i.	the Central Goods & Services Tax Act, 2017; 
+ii.	the Integrated Goods & Services Act, 2017; 
+iii.	the Union Territory Goods & Services Tax Act, 2017; 
+iv.	the respective State Goods & Service Tax Acts’
+v.	the Goods and Services (Compensation to States) Act, 2017
+vi.	the Customs Act and the Customs Tariff Act
+
+
+57.0	Financing of trade receivables of Micro and Small Enterprises (MSEs) through Trade Receivables Discounting System(TReDS) platform:
+
+Based on the initiatives of government of India to help MSME vendors get immediate access to liquid fund based on Buyers (i.e. ONGC’s) credit rating by discounting MSMEs trade receivables through an auction mechanism where multiple financers can participate and bid, ONGC has registered itself on TReDS platform with M/s RXIL, M/s MYND Solution (M1Xchange), M/s A TREDS Ltd. (Invoice Mart) and C2FO (C2treds). MSE vendors can avail this benefit by registering themselves with any of the exchanges providing e-discounting/ electronic factoring services on TReDS platform and following the procedures defined therein, provided ONGC is also participating in such TReDS Platform as a Buyer. Such exchanges with participation of ONGC will be notified from time to time. Currently the exchanges are M/s RXIL, M/s MYND Solution (M1Xchange), M/s A TREDS Ltd. (Invoice Mart) and C2FO (C2treds).
+
+MSE Vendor should be aware that all costs relating to availing the facility of discounting on TReDS platform including but not limited to Registration charges, Transaction charges for financing, Discounting Charges, Interest on financing, or any other charges known by any name shall be borne by MSE Vendor.
+
+MSE Vendor hereby agrees to indemnify, hold harmless and keep ONGC and its affiliates, Directors, officers, representatives, agents and employees indemnified, from any and all damages, losses, claims and liabilities (including legal costs) which may arise from Sellers submission, posting or display, participation, in any manner, on the TReDS Platform or from the use of Services or from the Buyer’s breach of any of the terms and conditions of the Usage Terms or of this Agreement and any Applicable Law on a full indemnity basis.
+
+ONGC shall not be liable for any special, indirect, punitive, incidental or consequential damages or any damages whatsoever (including  but not limited to damages for loss of profits or savings, business interruption, loss of information), whether in contract, tort, equity or otherwise or any other damages resulting from using TReDS platform for discounting their (MSE Vendor’s) invoices.
+
+Note: 
+Buyer means ONGC who has placed NOA/Purchase Order/ Contract on a MSE Vendor (Seller).
+Seller means a MSE vendor, who has been awarded NOA/Purchase Order/Contract by the ONGC (Buyer).
+
+58.0	Policy for providing preference to Domestically Manufactured Electronics products (DMEP):
+
+Contractor shall comply with Government Policy for providing preference to Domestically Manufactured Electronics products (DMEP), notified by Ministry of Electronics and Information technology (MeitY) vide notification no. W-43/4/2019-IPHW-MeitY dated 07.09.2020, as amended from time to time.
+The guidelines/notifications issued by Govt. of India which are also available at MEITY’s official website i.e. URL www.meity.gov.in/ www.makeinindia.com for providing preference to Domestically Manufactured Electronics products (DMEP) in Government procurement.
+Bidder shall submit Undertaking on the company’s letter Head for complying with Government Policy for providing preference to Domestically Manufactured Electronics products (DMEP) as per format at Appendix B-18 of part III.
+Further, the contractor shall provide complete details i.e. name of Domestic Manufacturer, value of DMEP utilized for execution of LSTK contract, to ONGC.
+--------------
+
+Sl | Appendix | Appendix | Description
+ | A - |  | Proforma for Tender Letter
+ | A - |  | Proforma for Proposal
+ | A - |  | Refer Part-V
+ | A - |  | Project Key Dates
+ | A - |  | Check List
+ | A - |  | BEC (Refer Part-IV)
+ | A - |  | Proforma for certificate on relatives of Directors of ONGC
+ | A - |  | Deleted
+ | A - |  | Information / confirmation / Clarifications along with supporting documents
+ | A - |  | Refer Part-V
+ | A - |  | Suggested vendor list
+ | A - |  | Methodology for evaluation of new barge(s)
+ | A - |  | Methodology for evaluation of new yards.
+ | A - |  | Refer Appendix-B 9
+ | A - |  | Deleted
+ | A - |  | List of Subcontracting Agencies (Activity wise)
+ | A - |  | Format for commitment letter to be submitted by subcontractor for listed subcontracting agency
+ | A - |  | Proforma for Certificate/ Undertaking for meeting the mandatory local content requirements - Class I Local bidders (single/JV)
+ | A - | 18 A | Proforma for Certificate/ Undertaking for meeting the mandatory local content requirements - Class I Local bidders (Consortium)
+ | A - | 18 B | Proforma for Certificate/ Undertaking for meeting the mandatory local content requirements - Class II Local bidders (single/JV)
+ | A - | 18 C | Proforma for Certificate/ Undertaking for meeting the mandatory local content requirements - Class II Local bidders (Consortium)
+ | A - |  | Proforma for Certificate from Statutory Auditor for mandatory local content requirements - Class I Local bidders (single/JV)
+ | A - | 19 A | Proforma for Certificate from Statutory Auditor for mandatory local content requirements - Class I Local bidders (Consortium)
+ | A - | 19 B | Proforma for Certificate from Statutory Auditor for mandatory local content requirements - Class II Local bidders (single/JV)
+ | A - | 19 C | Proforma for Certificate from Statutory Auditor for mandatory local content requirements - Class II Local bidders (Consortium)
+ | A - |  | Deleted
+ | A - |  | Deleted
+ | A - |  | Deleted
+Sl | Appendix | Appendix | Description
+ | B - |  | Proforma of Acknowledgement Letter for Receipt of Bidding Documents
+ | B - |  | Proforma for letter of authority
+ | B - |  | Proforma for Performance Bank Guarantee
+ | B - | 3 A | Proforma of Unconditional and Irrevocable Insurance Surety Bond towards Performance Security (For Indian Bidders)
+ | B - |  | Proforma for Form of Agreement
+ | B - |  | Proforma for work experience along with supporting documents
+ | B - |  | Division of scope of work and location of work centre along with supporting documents
+ | B - |  | Proforma for Bank Guarantee for Bid Security
+ | B - | 7 A | Proforma of Unconditional and Irrevocable Insurance Surety Bond towards Bid Security (For Indian Bidders)
+ | B - |  | Agreement
+ | B - |  | Miscellaneous Undertaking(s)/Certificate(s) to be submitted on company’s letterhead
+Certificate of Submission of Techno-Contractual Compliant Bid
+Undertaking in respect of other tender conditions:
+Undertaking that all the documents/certificates/information submitted against the tender are genuine.
+Undertaking for acceptance of & compliance with all the Addendums issued by ONGC prior to TBO (if applicable).
+Certificate of compliance of Fraud prevention policy of ONGC
+Undertaking for “Re-export of equipment, Unutilized spares & accessories” etc:
+Declaration against BEC clause A.1.5 (s):
+Undertaking For Company Legal Constitution
+PROFORMA OF UNDERTAKAING for “Conflict of Interest”
+ | B - |  | Format of agreement between bidder and their Supporting company (for technical support) – Not Applicable
+ | B - |  | Deed of Guarantee by the Supporting Company / Guarantor (for technical support) – Not Applicable
+ | B - |  | Integrity Pact (attached as Part-VI)
+ | B - |  | Certificate of Compliance of meeting Financial Capability
+ | B - |  | Declaration of bidder on serving banning orders issued by ONGC
+ | B - |  | Proforma for Bank Guarantee to be submitted towards liquidated damages
+ | B - |  | Deleted
+ | B - |  | Deleted
+ | B - |  | Undertaking on the company’s letter Head for complying with Government Policy for providing preference to Domestically Manufactured Electronic products (DMEP).
+ | B - |  | Proforma of Bank Guarantee towards Performance Security by the Supporting Company of the bidding company for financial support (PERFORMANCE GUARANTEE)
+ | B - |  | Deed of Guarantee by the supporting Company/Guarantor for financial support
+ | B - |  | Proforma of Bank Guarantee towards Performance Security by the Incorporated Joint Venture Partner of the bidding company for financial support.
+ | B - |  | Deed of Guarantee by the Joint Venture Partner /Guarantor for financial support.
+ | B - |  | Deleted
+ | B - |  | Undertaking of ONGC Vendor Code/ GSTIN / PAN
+ | B - |  | Deleted
+ | B - |  | List the GST number of ONGC’s work centres
+ | B - |  | Undertaking for anti-profiteering provision under the GST Laws
+ | B - |  | Refer Appendix-B 9
+ | B - |  | Line of Credit Format for cases where Bidder’s working capital is inadequate
+ | B - |  | Standardized format for Memorandum of Understanding(MOU) for Consortium
+ | B - |  | Refer Appendix-B 9
+ | B - |  | Format for undertaking to attend Pre-bid Conference
+ | B - | 32 A | Proforma for raising Prebid Queries
+ | B - |  | Refer Appendix-B 9
+ | B - |  | Refer Appendix-B 9
+ | B - |  | Refer Appendix-B 9
+ | B - |  | Undertaking on the company’s letter Head for Eligibility of Bidder, Sub-Contractors & Bidder having Transfer of Technology (ToT) arrangement from a Country sharing a land border with India
+ | B - |  | Refer Appendix-B 36
+ | B - |  | Refer Appendix-B 36
+ | B - |  | Undertaking on the company’s letter Head for complying with Government Policy for providing preference to Domestically Manufactured Iron & Steel products (DMI&SP).
+ | B - |  | Refer Appendix-B 9
+ | BP - |  | FORMAT FOR UNDERTAKING ON ACCEPTANCE OF ONGC's 'Policy for Banning/provisional Suspension of Business dealings with erring Firms'.
+ | BP - |  | FORMAT FOR UNDERTAKING ON CURRENTLY NOT SERVING ANY BANNING ORDERS ISSUED BY ONGC.
+ | BP - |  | FORMAT FOR UNDERTAKING ON CURRENTLY NOT SERVING ANY SUSPENSION ORDERS ISSUED BY ONGC.
+ | B - |  | Bid Securing Declaration
+Sl | Appendix | Appendix | Description
+ | C - |  | Information To Be Furnished in A Safety Report
+ | C - |  | Accident Report
+ | C - |  | Information Which May Be Required to Be Submitted By Contractor For/During Safety Audit
+ | C - |  | Proforma For Certificate of Approval
+ | C - |  | Information to be furnished for Pollution Control 
+ | C - |  | Commissioning Plan
+ | C - |  | Proforma for Contractor’s progress report
+ | C - |  | Standard DCI/MCI
+ | C - |  | HSE Audit Checklist 
+ | C - |  | Marine Audit Checklist 
+ | C - |  | FORM NO. 10F
+ | C - |  | Undertaking from bidder for complying with the requirement given from appendix C-1 to C-10
+Beneficiary Account Name | Oil and Natural Gas Corporation Limited
+Bank Name | State bank of India 
+Branch | BKC, Bandra (East), Mumbai, Maharashtra – 400 051
+Branch	Code	 | 004380
+Bank Account No | 30061117039
+IFSC Code | SBIN0017313
+SWIFT Code | SBIN0004380
+Account Type  | CC

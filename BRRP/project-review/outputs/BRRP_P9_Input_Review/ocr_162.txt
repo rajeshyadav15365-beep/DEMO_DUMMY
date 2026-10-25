@@ -1,0 +1,74 @@
+2009F
+
+eee Offshore Design Section SPECINIGATON FOR spe Annex.t
+ngineering rvices " . ev. No.
+
+Piateles | ISO — 9001:2008 Welding of Duplex Stainless | Discipline | GA & Welding
+
+Steel
+
+Page: 2 OF 7
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+4.1
+
+4.2
+
+44
+
+WELDING SPECIFICATION FOR DUPLEX STAINLESS STEELS
+
+WELDING PROCESS
+
+Shielded Metal Arc Welding (SHAW), Gas Tungsten Arc Welding (GTAW),
+Submerged Arc Welding (SAW) and Plasma Arc Welding (PAW) processes are
+suitable for Duplex stainless steel. These Welding methods along with the related
+operational precautions such as cleanliness and protective gas shielding should be
+used for making duplex stainless steel welds. Shielding / purging gases shall be
+selected ensuring freedom from hydrogen.
+
+MICROSTRUCTURE
+
+The ferrite content of the weld metal estimated through metallographic
+examination, should be between 30% to 55% to obtain weld joints with the best
+ductility and corrosion resistance. The filler metal composition and the welding
+heat input should be so selected as to give the ferrite content of the weld metal
+between 30% to 55%.
+
+FILLER METALS (Welding Consumables)
+
+Table 1 enclosed herewith tentatively lists the different filler metals used for
+duplex stainless steels conforming to UNS S 31803. Welding consumables shall
+be used only after conducting consumable qualification tests. Consumables shall
+be degreased or baked and stored in accordance with the manufacturer’s
+recommendations.
+
+MECHANICAL PROPERTY REQUIREMENTS
+
+The weld metal should have the following mechanical properties :
+Tensile Strength - 680 — 880 N/mm?
+
+Yield Strength - 450 N/mm? (Min.)
+(0.2% Offset)
+
+Elongation - 25% (Min.)
+Impact Energy (Charpy V-notch Valves)
+
+At + 20°C (68°F) - 100 Joules Average (72 ft. Ib)
+75 Joules Average (54 ft. Ib)
+
+FORMAT NG:
+
+Tat PROEDURE Na, BSUENS, TEVA, TEVA:
+
+DOSSORDOS
+
+GOS SOP OR. oF oo 21.07.2010
+

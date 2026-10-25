@@ -1,0 +1,206 @@
+ID,Parent,Phase,Bridge/package,Activity,Durationdays,FSpredecessors,Resource,Owner,Start,Lastworkday/milestone,ESday0,EFboundaryday0,Lateststartday0,Totalfloatcalendardays,Contractfloatcalendardays,Seasonalwaitdays,Criticaltointernalfinish,Status
+M000,M000,Milestone,COMMON,Assumed NOA / commencement,0,,Milestone,Contracts,2026-11-01,2026-11-01,0,0,0,0,3,0,YES,PROPOSED / UNVERIFIED
+G010.01,G010,Management,COMMON,Contract kick-off and obligations,2,M000,Project team,Project Director,2026-11-01,2026-11-02,0,2,0,0,3,0,YES,PROPOSED / UNVERIFIED
+G010.02,G010,Management,COMMON,Leadership and authority assignments,2,G010.01,Project team,Project Director,2026-11-03,2026-11-04,2,4,2,0,3,0,YES,PROPOSED / UNVERIFIED
+G010.03,G010,Management,COMMON,Guarantee insurance and funding arrangements,3,G010.02,Project team,Project Director,2026-11-05,2026-11-07,4,7,4,0,3,0,YES,PROPOSED / UNVERIFIED
+G010,G010,Management,COMMON,"Kick-off, obligations, guarantees and funding arrangements - phase complete",0,G010.03,Milestone,Project Director,2026-11-08,2026-11-08,7,7,7,0,3,0,YES,PROPOSED / UNVERIFIED
+E010.01,E010,Engineering,COMMON,Criteria hierarchy and code register,4,G010,Engineering,Engineering Manager,2026-11-08,2026-11-11,7,11,14,7,10,0,NO,PROPOSED / UNVERIFIED
+E010.02,E010,Engineering,COMMON,Loads and environmental basis,5,E010.01,Engineering,Engineering Manager,2026-11-12,2026-11-16,11,16,18,7,10,0,NO,PROPOSED / UNVERIFIED
+E010.03,E010,Engineering,COMMON,Design-basis/interface review,5,E010.02,Engineering,Engineering Manager,2026-11-17,2026-11-21,16,21,23,7,10,0,NO,PROPOSED / UNVERIFIED
+E010,E010,Engineering,COMMON,Design basis and interface approval - phase complete,0,E010.03,Milestone,Engineering Manager,2026-11-22,2026-11-22,21,21,28,7,10,0,NO,PROPOSED / UNVERIFIED
+G020.01,G020,Management,COMMON,Source/addendum register and scope boundaries,4,G010,Project team,Engineering,2026-11-08,2026-11-11,7,11,14,7,10,0,NO,PROPOSED / UNVERIFIED
+G020.02,G020,Management,COMMON,Bridge quantity and demolition reconciliation,5,G020.01,Project team,Engineering,2026-11-12,2026-11-16,11,16,18,7,10,0,NO,PROPOSED / UNVERIFIED
+G020.03,G020,Management,COMMON,Interface register and baseline assumptions,5,G020.02,Project team,Engineering,2026-11-17,2026-11-21,16,21,23,7,10,0,NO,PROPOSED / UNVERIFIED
+G020,G020,Management,COMMON,Controlled document / addendum and quantity reconciliation - phase complete,0,G020.03,Milestone,Engineering,2026-11-22,2026-11-22,21,21,28,7,10,0,NO,PROPOSED / UNVERIFIED
+MR10.01,MR10,Marine,COMMON,Marine campaign requirements,7,G010,Marine engineering,Marine Manager,2026-11-08,2026-11-14,7,14,30,23,26,0,NO,PROPOSED / UNVERIFIED
+MR10.02,MR10,Marine,COMMON,Vessel enquiries and technical audits,14,MR10.01,Marine engineering,Marine Manager,2026-11-15,2026-11-28,14,28,37,23,26,0,NO,PROPOSED / UNVERIFIED
+MR10.03,MR10,Marine,COMMON,Availability and charter evaluation,7,MR10.02,Marine engineering,Marine Manager,2026-11-29,2026-12-05,28,35,51,23,26,0,NO,PROPOSED / UNVERIFIED
+MR10.04,MR10,Marine,COMMON,Conditional reservations and assurance plan,7,MR10.03,Marine engineering,Marine Manager,2026-12-06,2026-12-12,35,42,58,23,26,0,NO,PROPOSED / UNVERIFIED
+MR10,MR10,Marine,COMMON,"Vessel market enquiry, technical audit and conditional reservation - phase complete",0,MR10.04,Milestone,Marine Manager,2026-12-13,2026-12-13,42,42,65,23,26,0,NO,PROPOSED / UNVERIFIED
+S010.01,S010,Survey,COMMON,Survey scope and inspection plan,2,G010,Survey team,Survey Manager,2026-11-08,2026-11-09,7,9,7,0,3,0,YES,PROPOSED / UNVERIFIED
+S010.02,S010,Survey,COMMON,Access permits and operational coordination,3,S010.01,Survey team,Survey Manager,2026-11-10,2026-11-12,9,12,9,0,3,0,YES,PROPOSED / UNVERIFIED
+S010.03,S010,Survey,COMMON,Survey spread readiness,2,S010.02,Survey team,Survey Manager,2026-11-13,2026-11-14,12,14,12,0,3,0,YES,PROPOSED / UNVERIFIED
+S010,S010,Survey,COMMON,"Survey permits, mobilisation and access planning - phase complete",0,S010.03,Milestone,Survey Manager,2026-11-15,2026-11-15,14,14,14,0,3,0,YES,PROPOSED / UNVERIFIED
+S020.01,S020,Survey,ALL,IC complex survey,3,S010,Survey spread,Survey Manager,2026-11-15,2026-11-17,14,17,14,0,3,0,YES,PROPOSED / UNVERIFIED
+S020.02,S020,Survey,ALL,BHS complex survey,3,S020.01,Survey spread,Survey Manager,2026-11-18,2026-11-20,17,20,17,0,3,0,YES,PROPOSED / UNVERIFIED
+S020.03,S020,Survey,ALL,Other bridge survey campaign,4,S020.02,Survey spread,Survey Manager,2026-11-21,2026-11-24,20,24,20,0,3,0,YES,PROPOSED / UNVERIFIED
+S020.04,S020,Survey,ALL,Survey data validation and accepted report,4,S020.03,Survey spread,Survey Manager,2026-11-25,2026-11-28,24,28,24,0,3,0,YES,PROPOSED / UNVERIFIED
+S020,S020,Survey,ALL,Bridge and platform verification survey campaign - phase complete,0,S020.04,Milestone,Survey Manager,2026-11-29,2026-11-29,28,28,28,0,3,0,YES,PROPOSED / UNVERIFIED
+E020.01,E020,Engineering,ALL,Preliminary checked quantities,3,S020;E010;G020,Engineering,Engineering Manager,2026-11-29,2026-12-01,28,31,28,0,3,0,YES,PROPOSED / UNVERIFIED
+E020.02,E020,Engineering,ALL,Material requisitions and specifications,3,E020.01,Engineering,Engineering Manager,2026-12-02,2026-12-04,31,34,31,0,3,0,YES,PROPOSED / UNVERIFIED
+E020.03,E020,Engineering,ALL,Technical procurement release,4,E020.02,Engineering,Engineering Manager,2026-12-05,2026-12-08,34,38,34,0,3,0,YES,PROPOSED / UNVERIFIED
+E020,E020,Engineering,ALL,Checked material requisitions / early material release - phase complete,0,E020.03,Milestone,Engineering Manager,2026-12-09,2026-12-09,38,38,38,0,3,0,YES,PROPOSED / UNVERIFIED
+E030.01,E030,Engineering,REPLACEMENTS,Replacement geometry and model preparation,5,S020;E010,Design team A,Engineering Manager,2026-11-29,2026-12-03,28,33,38,10,13,0,NO,PROPOSED / UNVERIFIED
+E030.02,E030,Engineering,REPLACEMENTS,Global strength and serviceability analysis,7,E030.01,Design team A,Engineering Manager,2026-12-04,2026-12-10,33,40,43,10,13,0,NO,PROPOSED / UNVERIFIED
+E030.03,E030,Engineering,REPLACEMENTS,Connections bearings and landing checks,5,E030.02,Design team A,Engineering Manager,2026-12-11,2026-12-15,40,45,50,10,13,0,NO,PROPOSED / UNVERIFIED
+E030.04,E030,Engineering,REPLACEMENTS,Marine constructability and services review,4,E030.03,Design team A,Engineering Manager,2026-12-16,2026-12-19,45,49,55,10,13,0,NO,PROPOSED / UNVERIFIED
+E030.05,E030,Engineering,REPLACEMENTS,Engineering review comments and release,4,E030.04,Design team A,Engineering Manager,2026-12-20,2026-12-23,49,53,59,10,13,0,NO,PROPOSED / UNVERIFIED
+E030,E030,Engineering,REPLACEMENTS,"Detailed design, AFC drawings and ITP approval - phase complete",0,E030.05,Milestone,Engineering Manager,2026-12-24,2026-12-24,53,53,63,10,13,0,NO,PROPOSED / UNVERIFIED
+E040.01,E040,Engineering,REFURBISHMENTS,Existing condition and strengthening models,5,S020;E010,Design team B,Engineering Manager,2026-11-29,2026-12-03,28,33,40,12,15,0,NO,PROPOSED / UNVERIFIED
+E040.02,E040,Engineering,REFURBISHMENTS,Member joint and platform interface checks,7,E040.01,Design team B,Engineering Manager,2026-12-04,2026-12-10,33,40,45,12,15,0,NO,PROPOSED / UNVERIFIED
+E040.03,E040,Engineering,REFURBISHMENTS,Jacket addendum and temporary conditions,5,E040.02,Design team B,Engineering Manager,2026-12-11,2026-12-15,40,45,52,12,15,0,NO,PROPOSED / UNVERIFIED
+E040.04,E040,Engineering,REFURBISHMENTS,Workpack drawings and MTO,4,E040.03,Design team B,Engineering Manager,2026-12-16,2026-12-19,45,49,57,12,15,0,NO,PROPOSED / UNVERIFIED
+E040.05,E040,Engineering,REFURBISHMENTS,Engineering review and release,4,E040.04,Design team B,Engineering Manager,2026-12-20,2026-12-23,49,53,61,12,15,0,NO,PROPOSED / UNVERIFIED
+E040,E040,Engineering,REFURBISHMENTS,Bridge and jacket strengthening design / AFC work packs - phase complete,0,E040.05,Milestone,Engineering Manager,2026-12-24,2026-12-24,53,53,65,12,15,0,NO,PROPOSED / UNVERIFIED
+E050.01,E050,Engineering,BHS-SLQ,BHS service register and operational interfaces,7,S020;E010,Design team A,Technical Authority,2026-11-29,2026-12-05,28,35,88,60,63,0,NO,PROPOSED / UNVERIFIED
+E050.02,E050,Engineering,BHS-SLQ,New service-support and transfer engineering,10,E050.01,Design team A,Technical Authority,2026-12-06,2026-12-15,35,45,95,60,63,0,NO,PROPOSED / UNVERIFIED
+E050.03,E050,Engineering,BHS-SLQ,Temporary stability and demolition design,10,E050.02,Design team A,Technical Authority,2026-12-16,2026-12-25,45,55,105,60,63,0,NO,PROPOSED / UNVERIFIED
+E050.04,E050,Engineering,BHS-SLQ,Multidiscipline review and ONGC comments,8,E050.03,Design team A,Technical Authority,2026-12-26,2027-01-02,55,63,115,60,63,0,NO,PROPOSED / UNVERIFIED
+E050,E050,Engineering,BHS-SLQ,"Utility transfer, temporary stability and demolition design - phase complete",0,E050.04,Milestone,Technical Authority,2027-01-03,2027-01-03,63,63,123,60,63,0,NO,PROPOSED / UNVERIFIED
+MR20.01,MR20,Marine,REPLACEMENTS,Module boundaries weight and COG basis,7,E030;MR10,Marine engineering,Marine Manager,2026-12-24,2026-12-30,53,60,65,12,15,0,NO,PROPOSED / UNVERIFIED
+MR20.02,MR20,Marine,REPLACEMENTS,Lift and landing structural engineering,10,MR20.01,Marine engineering,Marine Manager,2026-12-31,2027-01-09,60,70,72,12,15,0,NO,PROPOSED / UNVERIFIED
+MR20.03,MR20,Marine,REPLACEMENTS,Loadout transport and sea-fastening engineering,10,MR20.02,Marine engineering,Marine Manager,2027-01-10,2027-01-19,70,80,82,12,15,0,NO,PROPOSED / UNVERIFIED
+MR20.04,MR20,Marine,REPLACEMENTS,Marine assurance and review,8,MR20.03,Marine engineering,Marine Manager,2027-01-20,2027-01-27,80,88,92,12,15,0,NO,PROPOSED / UNVERIFIED
+MR20,MR20,Marine,REPLACEMENTS,"Lift, loadout, transport and sea-fastening engineering - phase complete",0,MR20.04,Milestone,Marine Manager,2027-01-28,2027-01-28,88,88,100,12,15,0,NO,PROPOSED / UNVERIFIED
+P010.01,P010,Procurement,ALL,Vendor approval and purchase authorisation,3,E020,Procurement,Procurement Manager,2026-12-09,2026-12-11,38,41,38,0,3,0,YES,PROPOSED / UNVERIFIED
+P010.02,P010,Procurement,ALL,Material manufacturing and expediting,15,P010.01,Procurement,Procurement Manager,2026-12-12,2026-12-26,41,56,41,0,3,0,YES,PROPOSED / UNVERIFIED
+P010.03,P010,Procurement,ALL,Inspection and release documentation,4,P010.02,Procurement,Procurement Manager,2026-12-27,2026-12-30,56,60,56,0,3,0,YES,PROPOSED / UNVERIFIED
+P010.04,P010,Procurement,ALL,Phased receipt and traceability,3,P010.03,Procurement,Procurement Manager,2026-12-31,2027-01-02,60,63,60,0,3,0,YES,PROPOSED / UNVERIFIED
+P010,P010,Procurement,ALL,"Vendor approval, steel purchase and phased yard delivery - phase complete",0,P010.04,Milestone,Procurement Manager,2027-01-03,2027-01-03,63,63,63,0,3,0,YES,PROPOSED / UNVERIFIED
+F010.01,F010,Fabrication,ICW-ICG LD,Traceable material preparation,3,P010;E030,Fabrication line 1,Fabrication Manager,2027-01-03,2027-01-05,63,66,67,4,7,0,NO,PROPOSED / UNVERIFIED
+F010.02,F010,Fabrication,ICW-ICG LD,Assembly and fit-up,5,F010.01,Fabrication line 1,Fabrication Manager,2027-01-06,2027-01-10,66,71,70,4,7,0,NO,PROPOSED / UNVERIFIED
+F010.03,F010,Fabrication,ICW-ICG LD,Welding and production,15,F010.02,Fabrication line 1,Fabrication Manager,2027-01-11,2027-01-25,71,86,75,4,7,0,NO,PROPOSED / UNVERIFIED
+F010.04,F010,Fabrication,ICW-ICG LD,NDT and repair closure,4,F010.03,Fabrication line 1,Fabrication Manager,2027-01-26,2027-01-29,86,90,90,4,7,0,NO,PROPOSED / UNVERIFIED
+F010.05,F010,Fabrication,ICW-ICG LD,Dimensional acceptance,3,F010.04,Fabrication line 1,Fabrication Manager,2027-01-30,2027-02-01,90,93,94,4,7,0,NO,PROPOSED / UNVERIFIED
+F010.06,F010,Fabrication,ICW-ICG LD,Coating preservation and yard release,5,F010.05,Fabrication line 1,Fabrication Manager,2027-02-02,2027-02-06,93,98,97,4,7,0,NO,PROPOSED / UNVERIFIED
+F010,F010,Fabrication,ICW-ICG LD,"Fabricate, NDT, dimensional inspection and coating - phase complete",0,F010.06,Milestone,Fabrication Manager,2027-02-07,2027-02-07,98,98,102,4,7,0,NO,PROPOSED / UNVERIFIED
+F020.01,F020,Fabrication,BHS-SLQ,Traceable material preparation,5,P010;E030,Fabrication line 2,Fabrication Manager,2027-01-03,2027-01-07,63,68,63,0,3,0,YES,PROPOSED / UNVERIFIED
+F020.02,F020,Fabrication,BHS-SLQ,Assembly and fit-up,8,F020.01,Fabrication line 2,Fabrication Manager,2027-01-08,2027-01-15,68,76,68,0,3,0,YES,PROPOSED / UNVERIFIED
+F020.03,F020,Fabrication,BHS-SLQ,Welding and production,25,F020.02,Fabrication line 2,Fabrication Manager,2027-01-16,2027-02-09,76,101,76,0,3,0,YES,PROPOSED / UNVERIFIED
+F020.04,F020,Fabrication,BHS-SLQ,NDT and repair closure,7,F020.03,Fabrication line 2,Fabrication Manager,2027-02-10,2027-02-16,101,108,101,0,3,0,YES,PROPOSED / UNVERIFIED
+F020.05,F020,Fabrication,BHS-SLQ,Dimensional acceptance,5,F020.04,Fabrication line 2,Fabrication Manager,2027-02-17,2027-02-21,108,113,108,0,3,0,YES,PROPOSED / UNVERIFIED
+F020.06,F020,Fabrication,BHS-SLQ,Coating preservation and yard release,5,F020.05,Fabrication line 2,Fabrication Manager,2027-02-22,2027-02-26,113,118,113,0,3,0,YES,PROPOSED / UNVERIFIED
+F020,F020,Fabrication,BHS-SLQ,"Fabricate, NDT, dimensional inspection and coating - phase complete",0,F020.06,Milestone,Fabrication Manager,2027-02-27,2027-02-27,118,118,118,0,3,0,YES,PROPOSED / UNVERIFIED
+F030.01,F030,Fabrication,ICG-ICP LD,Traceable material preparation,3,F010,Fabrication line 1,Fabrication Manager,2027-02-07,2027-02-09,98,101,105,7,10,0,NO,PROPOSED / UNVERIFIED
+F030.02,F030,Fabrication,ICG-ICP LD,Assembly and fit-up,7,F030.01,Fabrication line 1,Fabrication Manager,2027-02-10,2027-02-16,101,108,108,7,10,0,NO,PROPOSED / UNVERIFIED
+F030.03,F030,Fabrication,ICG-ICP LD,Welding and production,18,F030.02,Fabrication line 1,Fabrication Manager,2027-02-17,2027-03-06,108,126,115,7,10,0,NO,PROPOSED / UNVERIFIED
+F030.04,F030,Fabrication,ICG-ICP LD,NDT and repair closure,5,F030.03,Fabrication line 1,Fabrication Manager,2027-03-07,2027-03-11,126,131,133,7,10,0,NO,PROPOSED / UNVERIFIED
+F030.05,F030,Fabrication,ICG-ICP LD,Dimensional acceptance,3,F030.04,Fabrication line 1,Fabrication Manager,2027-03-12,2027-03-14,131,134,138,7,10,0,NO,PROPOSED / UNVERIFIED
+F030.06,F030,Fabrication,ICG-ICP LD,Coating preservation and yard release,4,F030.05,Fabrication line 1,Fabrication Manager,2027-03-15,2027-03-18,134,138,141,7,10,0,NO,PROPOSED / UNVERIFIED
+F030,F030,Fabrication,ICG-ICP LD,"Fabricate, NDT, dimensional inspection and coating - phase complete",0,F030.06,Milestone,Fabrication Manager,2027-03-19,2027-03-19,138,138,145,7,10,0,NO,PROPOSED / UNVERIFIED
+F040.01,F040,Fabrication,ALL STRENGTHENING,Strengthening kit material preparation,3,P010;E040,Dedicated strengthening cell,Fabrication Manager,2027-01-03,2027-01-05,63,66,65,2,5,0,NO,PROPOSED / UNVERIFIED
+F040.02,F040,Fabrication,ALL STRENGTHENING,First-batch assembly and fit-up,5,F040.01,Dedicated strengthening cell,Fabrication Manager,2027-01-06,2027-01-10,66,71,68,2,5,0,NO,PROPOSED / UNVERIFIED
+F040.03,F040,Fabrication,ALL STRENGTHENING,First-batch production,8,F040.02,Dedicated strengthening cell,Fabrication Manager,2027-01-11,2027-01-18,71,79,73,2,5,0,NO,PROPOSED / UNVERIFIED
+F040.04,F040,Fabrication,ALL STRENGTHENING,First-batch inspection coating and release,4,F040.03,Dedicated strengthening cell,Fabrication Manager,2027-01-19,2027-01-22,79,83,81,2,5,0,NO,PROPOSED / UNVERIFIED
+F040.05,F040,Fabrication,ALL STRENGTHENING,Remaining kit production,10,F040.04,Dedicated strengthening cell,Fabrication Manager,2027-01-23,2027-02-01,83,93,97,14,17,0,NO,PROPOSED / UNVERIFIED
+F040.06,F040,Fabrication,ALL STRENGTHENING,Remaining kit inspection coating and release,5,F040.05,Dedicated strengthening cell,Fabrication Manager,2027-02-02,2027-02-06,93,98,107,14,17,0,NO,PROPOSED / UNVERIFIED
+F040,F040,Fabrication,ALL STRENGTHENING,All strengthening kits available,0,F040.06,Milestone,Fabrication Manager,2027-02-07,2027-02-07,98,98,112,14,17,0,NO,PROPOSED / UNVERIFIED
+F041,F041,Fabrication,ALL STRENGTHENING,First approved strengthening kits available,0,F040.04,Milestone within strengthening-cell production,Fabrication Manager,2027-01-23,2027-01-23,83,83,85,2,5,0,NO,PROPOSED / UNVERIFIED
+L010.01,L010,Marine,ICW-ICG LD,Loadout and sea-fastening release,2,F010;MR20,Cargo spread,Marine Manager,2027-02-07,2027-02-08,98,100,102,4,7,0,NO,PROPOSED / UNVERIFIED
+L010.02,L010,Marine,ICW-ICG LD,Marine transport,2,L010.01,Cargo spread,Marine Manager,2027-02-09,2027-02-10,100,102,104,4,7,0,NO,PROPOSED / UNVERIFIED
+L010.03,L010,Marine,ICW-ICG LD,Site receipt and installation readiness,1,L010.02,Cargo spread,Marine Manager,2027-02-11,2027-02-11,102,103,106,4,7,0,NO,PROPOSED / UNVERIFIED
+L010,L010,Marine,ICW-ICG LD,"Loadout, sea-fastening and transport - phase complete",0,L010.03,Milestone,Marine Manager,2027-02-12,2027-02-12,103,103,107,4,7,0,NO,PROPOSED / UNVERIFIED
+L020.01,L020,Marine,BHS-SLQ,Loadout and sea-fastening release,2,F020;MR20;L010,Cargo spread,Marine Manager,2027-02-27,2027-02-28,118,120,118,0,3,0,YES,PROPOSED / UNVERIFIED
+L020.02,L020,Marine,BHS-SLQ,Marine transport,2,L020.01,Cargo spread,Marine Manager,2027-03-01,2027-03-02,120,122,120,0,3,0,YES,PROPOSED / UNVERIFIED
+L020.03,L020,Marine,BHS-SLQ,Site receipt and installation readiness,1,L020.02,Cargo spread,Marine Manager,2027-03-03,2027-03-03,122,123,122,0,3,0,YES,PROPOSED / UNVERIFIED
+L020,L020,Marine,BHS-SLQ,"Loadout, sea-fastening and transport - phase complete",0,L020.03,Milestone,Marine Manager,2027-03-04,2027-03-04,123,123,123,0,3,0,YES,PROPOSED / UNVERIFIED
+L030.01,L030,Marine,ICG-ICP LD,Loadout and sea-fastening release,2,F030;MR20;L020,Cargo spread,Marine Manager,2027-03-19,2027-03-20,138,140,145,7,10,0,NO,PROPOSED / UNVERIFIED
+L030.02,L030,Marine,ICG-ICP LD,Marine transport,2,L030.01,Cargo spread,Marine Manager,2027-03-21,2027-03-22,140,142,147,7,10,0,NO,PROPOSED / UNVERIFIED
+L030.03,L030,Marine,ICG-ICP LD,Site receipt and installation readiness,1,L030.02,Cargo spread,Marine Manager,2027-03-23,2027-03-23,142,143,149,7,10,0,NO,PROPOSED / UNVERIFIED
+L030,L030,Marine,ICG-ICP LD,"Loadout, sea-fastening and transport - phase complete",0,L030.03,Milestone,Marine Manager,2027-03-24,2027-03-24,143,143,150,7,10,0,NO,PROPOSED / UNVERIFIED
+O010.01,O010,Offshore readiness,ALL,Accommodation/support spread mobilisation,3,F041;MR10,Support spread,Offshore Manager,2027-01-23,2027-01-25,83,86,85,2,5,0,NO,PROPOSED / UNVERIFIED
+O010.02,O010,Offshore readiness,ALL,Offshore crew competence and emergency readiness,3,O010.01,Support spread,Offshore Manager,2027-01-26,2027-01-28,86,89,88,2,5,0,NO,PROPOSED / UNVERIFIED
+O010.03,O010,Offshore readiness,ALL,Permits SIMOPS and workfront release,4,O010.02,Support spread,Offshore Manager,2027-01-29,2027-02-01,89,93,91,2,5,0,NO,PROPOSED / UNVERIFIED
+O010,O010,Offshore readiness,ALL,"Accommodation/support mobilisation, permits, SIMOPS and readiness - phase complete",0,O010.03,Milestone,Offshore Manager,2027-02-02,2027-02-02,93,93,95,2,5,0,NO,PROPOSED / UNVERIFIED
+H010.01,H010,Marine,COMMON,Heavy-lift spread mobilisation,3,MR20;O010,Heavy-lift spread,Marine Manager,2027-02-02,2027-02-04,93,96,100,7,10,0,NO,PROPOSED / UNVERIFIED
+H010.02,H010,Marine,COMMON,Equipment/certification verification,2,H010.01,Heavy-lift spread,Marine Manager,2027-02-05,2027-02-06,96,98,103,7,10,0,NO,PROPOSED / UNVERIFIED
+H010.03,H010,Marine,COMMON,Operational readiness and lift release,2,H010.02,Heavy-lift spread,Marine Manager,2027-02-07,2027-02-08,98,100,105,7,10,0,NO,PROPOSED / UNVERIFIED
+H010,H010,Marine,COMMON,Heavy-lift spread mobilisation and operational readiness - phase complete,0,H010.03,Milestone,Marine Manager,2027-02-09,2027-02-09,100,100,107,7,10,0,NO,PROPOSED / UNVERIFIED
+J010.01,J010,Offshore,ICG / BHS,ICG/BHS access and approved temporary conditions,2,O010,Strengthening crew A,Offshore Manager,2027-02-02,2027-02-03,93,95,95,2,5,0,NO,PROPOSED / UNVERIFIED
+J010.02,J010,Offshore,ICG / BHS,Addendum jacket strengthening,7,J010.01,Strengthening crew A,Offshore Manager,2027-02-04,2027-02-10,95,102,97,2,5,0,NO,PROPOSED / UNVERIFIED
+J010.03,J010,Offshore,ICG / BHS,NDT acceptance and installation-interface release,3,J010.02,Strengthening crew A,Offshore Manager,2027-02-11,2027-02-13,102,105,104,2,5,0,NO,PROPOSED / UNVERIFIED
+J010,J010,Offshore,ICG / BHS,Addendum jacket strengthening and acceptance - phase complete,0,J010.03,Milestone,Offshore Manager,2027-02-14,2027-02-14,105,105,107,2,5,0,NO,PROPOSED / UNVERIFIED
+I010.01,I010,Offshore,ICW-ICG LD,Landing and interface readiness,2,L010;H010;J010,Heavy-lift spread,Offshore Manager,2027-02-14,2027-02-15,105,107,107,2,5,0,NO,PROPOSED / UNVERIFIED
+I010.02,I010,Offshore,ICW-ICG LD,Approved lift and bridge landing,4,I010.01,Heavy-lift spread,Offshore Manager,2027-02-16,2027-02-19,107,111,109,2,5,0,NO,PROPOSED / UNVERIFIED
+I010.03,I010,Offshore,ICW-ICG LD,Structural connections and access fittings,5,I010.02,Heavy-lift spread,Offshore Manager,2027-02-20,2027-02-24,111,116,113,2,5,0,NO,PROPOSED / UNVERIFIED
+I010.04,I010,Offshore,ICW-ICG LD,Inspection coating restoration and services checks,3,I010.03,Heavy-lift spread,Offshore Manager,2027-02-25,2027-02-27,116,119,118,2,5,0,NO,PROPOSED / UNVERIFIED
+I010.05,I010,Offshore,ICW-ICG LD,Package acceptance,2,I010.04,Heavy-lift spread,Offshore Manager,2027-02-28,2027-03-01,119,121,121,2,5,0,NO,PROPOSED / UNVERIFIED
+I010,I010,Offshore,ICW-ICG LD,"Install, connect, inspect and accept replacement bridge - phase complete",0,I010.05,Milestone,Offshore Manager,2027-03-02,2027-03-02,121,121,123,2,5,0,NO,PROPOSED / UNVERIFIED
+I020.01,I020,Offshore,BHS-SLQ,BHS landing and operational readiness,2,L020;I010;J010;E050,Heavy-lift spread,Offshore Manager,2027-03-04,2027-03-05,123,125,123,0,3,0,YES,PROPOSED / UNVERIFIED
+I020.02,I020,Offshore,BHS-SLQ,Approved lift and new-bridge landing,4,I020.01,Heavy-lift spread,Offshore Manager,2027-03-06,2027-03-09,125,129,125,0,3,0,YES,PROPOSED / UNVERIFIED
+I020.03,I020,Offshore,BHS-SLQ,Structural connections and inspection,4,I020.02,Heavy-lift spread,Offshore Manager,2027-03-10,2027-03-13,129,133,129,0,3,0,YES,PROPOSED / UNVERIFIED
+I020.04,I020,Offshore,BHS-SLQ,Service transfer and commissioning,6,I020.03,Heavy-lift spread,Offshore Manager,2027-03-14,2027-03-19,133,139,133,0,3,0,YES,PROPOSED / UNVERIFIED
+I020.05,I020,Offshore,BHS-SLQ,Operational acceptance before demolition,2,I020.04,Heavy-lift spread,Offshore Manager,2027-03-20,2027-03-21,139,141,139,0,3,0,YES,PROPOSED / UNVERIFIED
+I020.06,I020,Offshore,BHS-SLQ,Package release,2,I020.05,Heavy-lift spread,Offshore Manager,2027-03-22,2027-03-23,141,143,141,0,3,0,YES,PROPOSED / UNVERIFIED
+I020,I020,Offshore,BHS-SLQ,"Install new bridge, transfer services and commission - phase complete",0,I020.06,Milestone,Offshore Manager,2027-03-24,2027-03-24,143,143,143,0,3,0,YES,PROPOSED / UNVERIFIED
+D020.01,D020,Demolition,BHS-SLQ,Demolition release and isolation confirmation,1,I020,Heavy-lift spread,Offshore Manager,2027-03-24,2027-03-24,143,144,143,0,3,0,YES,PROPOSED / UNVERIFIED
+D020.02,D020,Demolition,BHS-SLQ,Approved dismantling and controlled removal,4,D020.01,Heavy-lift spread,Offshore Manager,2027-03-25,2027-03-28,144,148,144,0,3,0,YES,PROPOSED / UNVERIFIED
+D020.03,D020,Demolition,BHS-SLQ,Backload and clearance,2,D020.02,Heavy-lift spread,Offshore Manager,2027-03-29,2027-03-30,148,150,148,0,3,0,YES,PROPOSED / UNVERIFIED
+D020,D020,Demolition,BHS-SLQ,"Isolate, dismantle old bridge and remove to shore - phase complete",0,D020.03,Milestone,Offshore Manager,2027-03-31,2027-03-31,150,150,150,0,3,0,YES,PROPOSED / UNVERIFIED
+J020.01,J020,Offshore,ICP,ICP access and approved temporary conditions,2,O010,Strengthening crew B,Offshore Manager,2027-02-02,2027-02-03,93,95,106,13,16,0,NO,PROPOSED / UNVERIFIED
+J020.02,J020,Offshore,ICP,Addendum jacket strengthening,6,J020.01,Strengthening crew B,Offshore Manager,2027-02-04,2027-02-09,95,101,108,13,16,0,NO,PROPOSED / UNVERIFIED
+J020.03,J020,Offshore,ICP,NDT acceptance and installation-interface release,2,J020.02,Strengthening crew B,Offshore Manager,2027-02-10,2027-02-11,101,103,114,13,16,0,NO,PROPOSED / UNVERIFIED
+J020,J020,Offshore,ICP,Addendum jacket strengthening and acceptance - phase complete,0,J020.03,Milestone,Offshore Manager,2027-02-12,2027-02-12,103,103,116,13,16,0,NO,PROPOSED / UNVERIFIED
+I030.01,I030,Offshore,ICG-ICP LD,Landing and interface readiness,2,L030;D020;J020,Heavy-lift spread,Offshore Manager,2027-03-31,2027-04-01,150,152,150,0,3,0,YES,PROPOSED / UNVERIFIED
+I030.02,I030,Offshore,ICG-ICP LD,Approved lift and bridge landing,5,I030.01,Heavy-lift spread,Offshore Manager,2027-04-02,2027-04-06,152,157,152,0,3,0,YES,PROPOSED / UNVERIFIED
+I030.03,I030,Offshore,ICG-ICP LD,Structural connections and access fittings,6,I030.02,Heavy-lift spread,Offshore Manager,2027-04-07,2027-04-12,157,163,157,0,3,0,YES,PROPOSED / UNVERIFIED
+I030.04,I030,Offshore,ICG-ICP LD,Inspection and service checks,3,I030.03,Heavy-lift spread,Offshore Manager,2027-04-13,2027-04-15,163,166,163,0,3,0,YES,PROPOSED / UNVERIFIED
+I030.05,I030,Offshore,ICG-ICP LD,Package acceptance,2,I030.04,Heavy-lift spread,Offshore Manager,2027-04-16,2027-04-17,166,168,166,0,3,0,YES,PROPOSED / UNVERIFIED
+I030,I030,Offshore,ICG-ICP LD,"Install, connect, inspect and accept replacement bridge - phase complete",0,I030.05,Milestone,Offshore Manager,2027-04-18,2027-04-18,168,168,168,0,3,0,YES,PROPOSED / UNVERIFIED
+RA01.01,RA01,Offshore,ICW-ICG UD,Permit access and material readiness,2,J010;F040,Strengthening crew A,Offshore Manager,2027-02-14,2027-02-15,105,107,112,7,10,0,NO,PROPOSED / UNVERIFIED
+RA01.02,RA01,Offshore,ICW-ICG UD,Approved temporary works and preparation,2,RA01.01,Strengthening crew A,Offshore Manager,2027-02-16,2027-02-17,107,109,114,7,10,0,NO,PROPOSED / UNVERIFIED
+RA01.03,RA01,Offshore,ICW-ICG UD,Strengthening installation and connections,8,RA01.02,Strengthening crew A,Offshore Manager,2027-02-18,2027-02-25,109,117,116,7,10,0,NO,PROPOSED / UNVERIFIED
+RA01.04,RA01,Offshore,ICW-ICG UD,NDT dimensional and coating acceptance,2,RA01.03,Strengthening crew A,Offshore Manager,2027-02-26,2027-02-27,117,119,124,7,10,0,NO,PROPOSED / UNVERIFIED
+RA01.05,RA01,Offshore,ICW-ICG UD,Punch closure and package acceptance,2,RA01.04,Strengthening crew A,Offshore Manager,2027-02-28,2027-03-01,119,121,126,7,10,0,NO,PROPOSED / UNVERIFIED
+RA01,RA01,Offshore,ICW-ICG UD,"Strengthening, inspection and bridge acceptance - phase complete",0,RA01.05,Milestone,Offshore Manager,2027-03-02,2027-03-02,121,121,128,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02.01,RA02,Offshore,ICG-ICP UD,Permit access and material readiness,2,RA01;F040,Strengthening crew A,Offshore Manager,2027-03-02,2027-03-03,121,123,128,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02.02,RA02,Offshore,ICG-ICP UD,Approved temporary works and preparation,2,RA02.01,Strengthening crew A,Offshore Manager,2027-03-04,2027-03-05,123,125,130,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02.03,RA02,Offshore,ICG-ICP UD,Strengthening installation and connections,14,RA02.02,Strengthening crew A,Offshore Manager,2027-03-06,2027-03-19,125,139,132,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02.04,RA02,Offshore,ICG-ICP UD,NDT dimensional and coating acceptance,2,RA02.03,Strengthening crew A,Offshore Manager,2027-03-20,2027-03-21,139,141,146,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02.05,RA02,Offshore,ICG-ICP UD,Punch closure and package acceptance,2,RA02.04,Strengthening crew A,Offshore Manager,2027-03-22,2027-03-23,141,143,148,7,10,0,NO,PROPOSED / UNVERIFIED
+RA02,RA02,Offshore,ICG-ICP UD,"Strengthening, inspection and bridge acceptance - phase complete",0,RA02.05,Milestone,Offshore Manager,2027-03-24,2027-03-24,143,143,150,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03.01,RA03,Offshore,SLQ-WIS,Permit access and material readiness,2,RA02;F040,Strengthening crew A,Offshore Manager,2027-03-24,2027-03-25,143,145,150,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03.02,RA03,Offshore,SLQ-WIS,Approved temporary works and preparation,2,RA03.01,Strengthening crew A,Offshore Manager,2027-03-26,2027-03-27,145,147,152,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03.03,RA03,Offshore,SLQ-WIS,Strengthening installation and connections,10,RA03.02,Strengthening crew A,Offshore Manager,2027-03-28,2027-04-06,147,157,154,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03.04,RA03,Offshore,SLQ-WIS,NDT dimensional and coating acceptance,2,RA03.03,Strengthening crew A,Offshore Manager,2027-04-07,2027-04-08,157,159,164,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03.05,RA03,Offshore,SLQ-WIS,Punch closure and package acceptance,2,RA03.04,Strengthening crew A,Offshore Manager,2027-04-09,2027-04-10,159,161,166,7,10,0,NO,PROPOSED / UNVERIFIED
+RA03,RA03,Offshore,SLQ-WIS,"Strengthening, inspection and bridge acceptance - phase complete",0,RA03.05,Milestone,Offshore Manager,2027-04-11,2027-04-11,161,161,168,7,10,0,NO,PROPOSED / UNVERIFIED
+RA04.01,RA04,Offshore,NQO-NQD,Permit access and material readiness,2,O010;F040,Strengthening crew C (additional),Offshore Manager,2027-02-07,2027-02-08,98,100,150,52,55,0,NO,PROPOSED / UNVERIFIED
+RA04.02,RA04,Offshore,NQO-NQD,Approved temporary works and preparation,2,RA04.01,Strengthening crew C (additional),Offshore Manager,2027-02-09,2027-02-10,100,102,152,52,55,0,NO,PROPOSED / UNVERIFIED
+RA04.03,RA04,Offshore,NQO-NQD,Strengthening installation and connections,10,RA04.02,Strengthening crew C (additional),Offshore Manager,2027-02-11,2027-02-20,102,112,154,52,55,0,NO,PROPOSED / UNVERIFIED
+RA04.04,RA04,Offshore,NQO-NQD,NDT dimensional and coating acceptance,2,RA04.03,Strengthening crew C (additional),Offshore Manager,2027-02-21,2027-02-22,112,114,164,52,55,0,NO,PROPOSED / UNVERIFIED
+RA04.05,RA04,Offshore,NQO-NQD,Punch closure and package acceptance,2,RA04.04,Strengthening crew C (additional),Offshore Manager,2027-02-23,2027-02-24,114,116,166,52,55,0,NO,PROPOSED / UNVERIFIED
+RA04,RA04,Offshore,NQO-NQD,"Strengthening, inspection and bridge acceptance - phase complete",0,RA04.05,Milestone,Offshore Manager,2027-02-25,2027-02-25,116,116,168,52,55,0,NO,PROPOSED / UNVERIFIED
+RB01.01,RB01,Offshore,WIN-NC,Permit access and material readiness,2,J020;F040,Strengthening crew B,Offshore Manager,2027-02-12,2027-02-13,103,105,116,13,16,0,NO,PROPOSED / UNVERIFIED
+RB01.02,RB01,Offshore,WIN-NC,Approved temporary works and preparation,2,RB01.01,Strengthening crew B,Offshore Manager,2027-02-14,2027-02-15,105,107,118,13,16,0,NO,PROPOSED / UNVERIFIED
+RB01.03,RB01,Offshore,WIN-NC,Strengthening installation and connections,4,RB01.02,Strengthening crew B,Offshore Manager,2027-02-16,2027-02-19,107,111,120,13,16,0,NO,PROPOSED / UNVERIFIED
+RB01.04,RB01,Offshore,WIN-NC,NDT dimensional and coating acceptance,2,RB01.03,Strengthening crew B,Offshore Manager,2027-02-20,2027-02-21,111,113,124,13,16,0,NO,PROPOSED / UNVERIFIED
+RB01.05,RB01,Offshore,WIN-NC,Punch closure and package acceptance,2,RB01.04,Strengthening crew B,Offshore Manager,2027-02-22,2027-02-23,113,115,126,13,16,0,NO,PROPOSED / UNVERIFIED
+RB01,RB01,Offshore,WIN-NC,"Strengthening, inspection and bridge acceptance - phase complete",0,RB01.05,Milestone,Offshore Manager,2027-02-24,2027-02-24,115,115,128,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02.01,RB02,Offshore,SCA-SC1,Permit access and material readiness,2,RB01;F040,Strengthening crew B,Offshore Manager,2027-02-24,2027-02-25,115,117,128,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02.02,RB02,Offshore,SCA-SC1,Approved temporary works and preparation,2,RB02.01,Strengthening crew B,Offshore Manager,2027-02-26,2027-02-27,117,119,130,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02.03,RB02,Offshore,SCA-SC1,Strengthening installation and connections,8,RB02.02,Strengthening crew B,Offshore Manager,2027-02-28,2027-03-07,119,127,132,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02.04,RB02,Offshore,SCA-SC1,NDT dimensional and coating acceptance,2,RB02.03,Strengthening crew B,Offshore Manager,2027-03-08,2027-03-09,127,129,140,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02.05,RB02,Offshore,SCA-SC1,Punch closure and package acceptance,2,RB02.04,Strengthening crew B,Offshore Manager,2027-03-10,2027-03-11,129,131,142,13,16,0,NO,PROPOSED / UNVERIFIED
+RB02,RB02,Offshore,SCA-SC1,"Strengthening, inspection and bridge acceptance - phase complete",0,RB02.05,Milestone,Offshore Manager,2027-03-12,2027-03-12,131,131,144,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03.01,RB03,Offshore,SCA-SCF,Permit access and material readiness,2,RB02;F040,Strengthening crew B,Offshore Manager,2027-03-12,2027-03-13,131,133,144,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03.02,RB03,Offshore,SCA-SCF,Approved temporary works and preparation,2,RB03.01,Strengthening crew B,Offshore Manager,2027-03-14,2027-03-15,133,135,146,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03.03,RB03,Offshore,SCA-SCF,Strengthening installation and connections,16,RB03.02,Strengthening crew B,Offshore Manager,2027-03-16,2027-03-31,135,151,148,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03.04,RB03,Offshore,SCA-SCF,NDT dimensional and coating acceptance,2,RB03.03,Strengthening crew B,Offshore Manager,2027-04-01,2027-04-02,151,153,164,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03.05,RB03,Offshore,SCA-SCF,Punch closure and package acceptance,2,RB03.04,Strengthening crew B,Offshore Manager,2027-04-03,2027-04-04,153,155,166,13,16,0,NO,PROPOSED / UNVERIFIED
+RB03,RB03,Offshore,SCA-SCF,"Strengthening, inspection and bridge acceptance - phase complete",0,RB03.05,Milestone,Offshore Manager,2027-04-05,2027-04-05,155,155,168,13,16,0,NO,PROPOSED / UNVERIFIED
+D030.01,D030,Demolition,OTHER BRIDGES,Other-bridge demolition quantity and release check,2,I030;RA04;RB03;RA03,Heavy-lift spread,Offshore Manager,2027-04-18,2027-04-19,168,170,168,0,3,0,YES,PROPOSED / UNVERIFIED
+D030.02,D030,Demolition,OTHER BRIDGES,Approved residual removal,3,D030.01,Heavy-lift spread,Offshore Manager,2027-04-20,2027-04-22,170,173,170,0,3,0,YES,PROPOSED / UNVERIFIED
+D030.03,D030,Demolition,OTHER BRIDGES,Waste/backload and records,2,D030.02,Heavy-lift spread,Offshore Manager,2027-04-23,2027-04-24,173,175,173,0,3,0,YES,PROPOSED / UNVERIFIED
+D030,D030,Demolition,OTHER BRIDGES,"Other removal, waste backload and allocated demolition closure - phase complete",0,D030.03,Milestone,Offshore Manager,2027-04-25,2027-04-25,175,175,175,0,3,0,YES,PROPOSED / UNVERIFIED
+O090.01,O090,Offshore,ALL,Final offshore walkdowns,3,D030,Support spread,Completions Manager,2027-04-25,2027-04-27,175,178,175,0,3,0,YES,PROPOSED / UNVERIFIED
+O090.02,O090,Offshore,ALL,Acceptance-critical punch closure,3,O090.01,Support spread,Completions Manager,2027-04-28,2027-04-30,178,181,178,0,3,0,YES,PROPOSED / UNVERIFIED
+O090.03,O090,Offshore,ALL,Operational acceptance records,1,O090.02,Support spread,Completions Manager,2027-05-01,2027-05-01,181,182,181,0,3,0,YES,PROPOSED / UNVERIFIED
+O090,O090,Offshore,ALL,"Final offshore inspections, punch closure and operational acceptance - phase complete",0,O090.03,Milestone,Completions Manager,2027-05-02,2027-05-02,182,182,182,0,3,0,YES,PROPOSED / UNVERIFIED
+M100,M100,Milestone,ALL,Planned offshore works complete,0,O090,Milestone,Project Director,2027-05-02,2027-05-02,182,182,182,0,3,0,YES,PROPOSED / UNVERIFIED
+C010.01,C010,Closeout,ALL,As-built and red-line consolidation,10,M100,Completions team,QA / Completions,2027-05-02,2027-05-11,182,192,182,0,139,0,YES,PROPOSED / UNVERIFIED
+C010.02,C010,Closeout,ALL,Quality and commissioning dossiers,10,C010.01,Completions team,QA / Completions,2027-05-12,2027-05-21,192,202,192,0,139,0,YES,PROPOSED / UNVERIFIED
+C010.03,C010,Closeout,ALL,Accepted measurement and e-MB records,5,C010.02,Completions team,QA / Completions,2027-05-22,2027-05-26,202,207,202,0,139,0,YES,PROPOSED / UNVERIFIED
+C010.04,C010,Closeout,ALL,Handover submission,5,C010.03,Completions team,QA / Completions,2027-05-27,2027-05-31,207,212,207,0,139,0,YES,PROPOSED / UNVERIFIED
+C010,C010,Closeout,ALL,"As-built dossiers, e-MB records, QA records and handover compilation - phase complete",0,C010.04,Milestone,QA / Completions,2027-06-01,2027-06-01,212,212,212,0,139,0,YES,PROPOSED / UNVERIFIED
+W010.01,W010,Allowance,ALL,Offshore weather / access allowance (not productive work),10,M100,Reserved marine capacity,Marine Manager,2027-05-02,2027-05-11,182,192,183,1,3,0,NO,PROPOSED / UNVERIFIED
+W010,W010,Allowance,ALL,Offshore weather / access allowance (not productive work) - phase complete,0,W010.01,Milestone,Marine Manager,2027-05-12,2027-05-12,192,192,193,1,3,0,NO,PROPOSED / UNVERIFIED
+O100.01,O100,Marine,ALL,Demobilisation clearance,1,W010,Support spread,Marine Manager,2027-05-12,2027-05-12,192,193,193,1,3,0,NO,PROPOSED / UNVERIFIED
+O100.02,O100,Marine,ALL,Personnel and equipment backload,1,O100.01,Support spread,Marine Manager,2027-05-13,2027-05-13,193,194,194,1,156,0,NO,PROPOSED / UNVERIFIED
+O100.03,O100,Marine,ALL,Spread departure and closeout records,1,O100.02,Support spread,Marine Manager,2027-05-14,2027-05-14,194,195,195,1,156,0,NO,PROPOSED / UNVERIFIED
+O100,O100,Marine,ALL,Offshore demobilisation - phase complete,0,O100.03,Milestone,Marine Manager,2027-05-15,2027-05-15,195,195,212,17,156,0,NO,PROPOSED / UNVERIFIED
+C020.01,C020,Closeout,ALL,Client review and comments,7,C010;O100,Project team,Project Director,2027-06-01,2027-06-07,212,219,212,0,139,0,YES,PROPOSED / UNVERIFIED
+C020.02,C020,Closeout,ALL,Document and residual acceptance closure,5,C020.01,Project team,Project Director,2027-06-08,2027-06-12,219,224,219,0,139,0,YES,PROPOSED / UNVERIFIED
+C020.03,C020,Closeout,ALL,Completion certificate processing,2,C020.02,Project team,Project Director,2027-06-13,2027-06-14,224,226,224,0,139,0,YES,PROPOSED / UNVERIFIED
+C020,C020,Closeout,ALL,Final document review and completion certificate processing - phase complete,0,C020.03,Milestone,Project Director,2027-06-15,2027-06-15,226,226,226,0,139,0,YES,PROPOSED / UNVERIFIED
+M200,M200,Milestone,ALL,Internal target: all works complete and handover accepted,0,C020,Milestone,Project Director,2027-06-15,2027-06-15,226,226,226,0,139,0,YES,PROPOSED / UNVERIFIED

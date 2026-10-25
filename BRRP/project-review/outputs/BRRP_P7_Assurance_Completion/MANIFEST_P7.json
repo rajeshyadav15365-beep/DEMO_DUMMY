@@ -1,0 +1,32 @@
+[
+  {
+    "file": "BRRP_P7_96_Closure_Actions.csv",
+    "bytes": 34884,
+    "sha256": "49ef7030f209a08108c051a96d87112b0a533b8a9a1ab2c50d292e27299777f5"
+  },
+  {
+    "file": "BRRP_P7_Management_Package_Review_and_Remaining_Details.docx",
+    "bytes": 50280,
+    "sha256": "ffb87e05d90c15be95a1725eb3924dbd26923d83c2675c87d238e8aad8fc6ae2"
+  },
+  {
+    "file": "BRRP_P7_Package_Assurance_and_Closure.xlsx",
+    "bytes": 35371,
+    "sha256": "cb37b2520fc6ff92be286a1d1fad11586222a2ef0700707ac38bb608156ab7d3"
+  },
+  {
+    "file": "BRRP_P7_Package_Review_Supplement.pdf",
+    "bytes": 16830,
+    "sha256": "9a3af7dd8a1e7aa20cbcb13905f0d29b0e98acb75c57760183e40adf0bf376f2"
+  },
+  {
+    "file": "P7_review_data.json",
+    "bytes": 100788,
+    "sha256": "7fce2e9e762f9affab298a0dce98b60fef7ffca4731ae3e1250032c20bcbeda1"
+  },
+  {
+    "file": "README_P7.txt",
+    "bytes": 371,
+    "sha256": "35fdccefd9d6f768835099a53dace527534189f9e800ffb068ebb3ca25cfa74e"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "id": "file_0000000098e881f4b15040eff1796578",
+    "name": "Appendix B-6.pdf",
+    "result": {
+      "path": "/workspace/attachments/bca55dcd-b18e-471b-9279-825d78f7fe51/Appendix B-6.pdf",
+      "size_bytes": 181710
+    },
+    "sha256": "dd4ce8688af1b3976c4fc752c9a19e4e14d43984c0e25733d11c6703d9919858",
+    "pages": 1,
+    "prior_matches": [
+      "/workspace/attachments/6d77ccb0-056d-4133-81a3-b18a0b12f2dc/Appendix B-6.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000063bc81f494d03baeeabd86d1",
+    "name": "Appendix B-5.pdf",
+    "result": {
+      "path": "/workspace/attachments/916f21ad-c459-47c8-8868-3e78975c473e/Appendix B-5.pdf",
+      "size_bytes": 240085
+    },
+    "sha256": "82222c4cdca2f142d619e139280c264c68085cca7444ad0f1152204a91f1bf3e",
+    "pages": 1,
+    "prior_matches": [
+      "/workspace/attachments/06873690-72af-4687-a9a0-3762043deb7d/Appendix B-5.pdf",
+      "/workspace/attachments/647cd2da-24fe-454a-8763-1ffb6428187e/Appendix B-5.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_000000008eb881f4a7b13b33fe3d1c5a",
+    "name": "Appendix C-8 DCI MCI.pdf",
+    "result": {
+      "path": "/workspace/attachments/e57981f6-f4d1-4e45-a610-13896ccb632d/Appendix C-8 DCI MCI.pdf",
+      "size_bytes": 1233765
+    },
+    "sha256": "086b2f7837d09bc6320e2e0794f5b73fc7788b2cb9ecb5a08fa76836e2c97944",
+    "pages": 67,
+    "prior_matches": [
+      "/workspace/attachments/b069fbb3-dee2-4129-bde7-83bcfafd779f/Appendix C-8 DCI MCI.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000501c8243bc1768d5ab4c68b2",
+    "name": "Appendix C-9.pdf",
+    "result": {
+      "path": "/workspace/attachments/5e49cb26-313e-48e9-9660-187d29bee2c6/Appendix C-9.pdf",
+      "size_bytes": 668840
+    },
+    "sha256": "f20a85ca3a13c08e62bb18a41838d9e32910cd4f0d7c6b0ab0623df4ca9aeec5",
+    "pages": 21,
+    "prior_matches": [
+      "/workspace/attachments/3c8a90cc-9134-4f81-beaa-bc797f9f8c71/Appendix C-9.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000195c8210bdaa7943f4dca256",
+    "name": "Appendix C-10.pdf",
+    "result": {
+      "path": "/workspace/attachments/d9f51454-17f8-481e-8211-eb6719acb1b7/Appendix C-10.pdf",
+      "size_bytes": 1393791
+    },
+    "sha256": "8f0b1be35e96cc0e953e8614b751f08a987dca4a9060c54319b231f113d7d2d7",
+    "pages": 19,
+    "prior_matches": [
+      "/workspace/attachments/72934c63-0615-4c73-b50f-f4d589cda8c1/Appendix C-10.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_000000002d2881f4adae888a359fb1c7",
+    "name": "Combined_Addendum_2.pdf",
+    "result": {
+      "path": "/workspace/attachments/8de59956-54d6-4669-bc36-000ccc82a6b9/Combined_Addendum_2.pdf",
+      "size_bytes": 24795699
+    },
+    "sha256": "f251ecb31a55528c700e82a095c36459b3b84610385d490fd492cc1ce1b9a6b4",
+    "pages": 250,
+    "prior_matches": [
+      "/workspace/attachments/6996087c-980d-43f7-aaeb-219d504f5f32/Combined_Addendum_2.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000ae80824395c766935719da3d",
+    "name": "Combined_Addendum_1.pdf",
+    "result": {
+      "path": "/workspace/attachments/5eb9f6dc-7206-4584-bc8c-b40003aad345/Combined_Addendum_1.pdf",
+      "size_bytes": 27334275
+    },
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "pages": 285,
+    "prior_matches": [
+      "/workspace/attachments/5230b481-4f31-4d3c-9e12-8a81acf3701c/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/65383d6b-5619-4b62-bdbd-95005a032495/Combined_Addendum_1.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000e2b88210bbb9c3e7af813eea",
+    "name": "Combined_Addendum_1 (1).pdf",
+    "result": {
+      "path": "/workspace/attachments/85a8f434-da1a-4c34-887c-6798ac0df182/Combined_Addendum_1 (1).pdf",
+      "size_bytes": 27334275
+    },
+    "sha256": "dfda0877c74c0745763a6d8eb0e8894014d27b22ec72c8f44955c933cadf1d65",
+    "pages": 285,
+    "prior_matches": [
+      "/workspace/attachments/5230b481-4f31-4d3c-9e12-8a81acf3701c/Combined_Addendum_1 (1).pdf",
+      "/workspace/attachments/65383d6b-5619-4b62-bdbd-95005a032495/Combined_Addendum_1.pdf"
+    ],
+    "batch_duplicate_of": "Combined_Addendum_1.pdf"
+  },
+  {
+    "id": "file_00000000e29081f4b7a9fdc0cc481c09",
+    "name": "Corrigendum.pdf",
+    "result": {
+      "path": "/workspace/attachments/da11bafd-662a-4a74-8847-e64ff795185a/Corrigendum.pdf",
+      "size_bytes": 44683
+    },
+    "sha256": "02142550f5d609a6a2ffe4ed64d441eaa00540663cee661ed318446e6e19dea6",
+    "pages": 1,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000523c821085e1e347b183029d",
+    "name": "Corrigendum_1_BRRP.pdf",
+    "result": {
+      "path": "/workspace/attachments/9358f991-8462-41ff-8319-e51122d3cd94/Corrigendum_1_BRRP.pdf",
+      "size_bytes": 27021
+    },
+    "sha256": "54977537e10a8249587ad2965eca04a057eaa45f932e6a229959bc3fa30ab7c4",
+    "pages": 1,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000f0e881f4b7fd444c032fa40c",
+    "name": "Corrigendum_2.pdf",
+    "result": {
+      "path": "/workspace/attachments/5a0c29c4-054f-457b-8054-b58f9d62b702/Corrigendum_2.pdf",
+      "size_bytes": 128319
+    },
+    "sha256": "cb996ec5837ec4dcfab1a55e4ffcb56248919a73d70cd53492d64d39a2a7b435",
+    "pages": 5,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000685c8243bc1dc29c4c4394ed",
+    "name": "Corrigendum_3.pdf",
+    "result": {
+      "path": "/workspace/attachments/91ee811c-0512-4a1e-af23-5cb249cdfd53/Corrigendum_3.pdf",
+      "size_bytes": 154763
+    },
+    "sha256": "e8a07f4059dcb9b81c1cc45b2ae60154c0c142999955b347d2c60133619656d7",
+    "pages": 8,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000004cc81f4bb0b274364eb1175",
+    "name": "Corrigendum_4.pdf",
+    "result": {
+      "path": "/workspace/attachments/520cb649-f91a-4a48-984a-acd0f69f8026/Corrigendum_4.pdf",
+      "size_bytes": 65993
+    },
+    "sha256": "623614acba28baadc68c22229c039399e9b4385c0945b787197b2dedaaa4acf4",
+    "pages": 1,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000089988210997cda3d6dcf87f9",
+    "name": "CQ_replies_BRRP.pdf",
+    "result": {
+      "path": "/workspace/attachments/54f82dbe-74a1-4e2a-be50-39de725d5ac7/CQ_replies_BRRP.pdf",
+      "size_bytes": 180984
+    },
+    "sha256": "b006f3d20e7ae10d9800b1b9fabfb3104091b09878fcd6bb83b2f328e926df4a",
+    "pages": 9,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000facc81f48c25273b186794cb",
+    "name": "IP (1).pdf",
+    "result": {
+      "path": "/workspace/attachments/b6d3ed71-2d35-40b4-9288-0ff898ca6b55/IP (1).pdf",
+      "size_bytes": 244844
+    },
+    "sha256": "8692fb4bca724408df3fe1ec8377faa678e6238f3fe14bb55fbc6ca4b8cdcf50",
+    "pages": 6,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_0000000070f881f4a9f35489e0b748e6",
+    "name": "IP.pdf",
+    "result": {
+      "path": "/workspace/attachments/383c6caf-401a-4da0-b4da-55b890bc5ebc/IP.pdf",
+      "size_bytes": 244844
+    },
+    "sha256": "8692fb4bca724408df3fe1ec8377faa678e6238f3fe14bb55fbc6ca4b8cdcf50",
+    "pages": 6,
+    "prior_matches": [],
+    "batch_duplicate_of": "IP (1).pdf"
+  },
+  {
+    "id": "file_0000000040c881f484ea2c58c2dd813c",
+    "name": "Design Criteria & Execution Methodology.pdf",
+    "result": {
+      "path": "/workspace/attachments/c1b8bee7-6e2e-45ab-a245-f17c5183645c/Design Criteria & Execution Methodology.pdf",
+      "size_bytes": 2549863
+    },
+    "sha256": "179b05dabdb90971b5132d38f2a1aa755ce091b640b4e844fa7b0c9cc4a7e706",
+    "pages": 154,
+    "prior_matches": [
+      "/workspace/attachments/35713333-2919-46b6-acd8-5a7144a4a193/Design Criteria & Execution Methodology.pdf"
+    ],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000b9cc81f496ccf940981bb464",
+    "name": "Kits PPE List-BRRP.pdf",
+    "result": {
+      "path": "/workspace/attachments/b91a8826-af38-4973-9961-d3ef91fd1a68/Kits PPE List-BRRP.pdf",
+      "size_bytes": 81541
+    },
+    "sha256": "44e2e5f2214d741c15380702504a73ae00076ab5954bb6ce96011a1e06aed841",
+    "pages": 1,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  },
+  {
+    "id": "file_00000000e65c81f49409dbb64db4597d",
+    "name": "Combined_Addendum_3.pdf",
+    "result": {
+      "path": "/workspace/attachments/a4d19aca-72c3-4d27-b5be-a84f2a5be0dc/Combined_Addendum_3.pdf",
+      "size_bytes": 28388525
+    },
+    "sha256": "6d6369b880718f0b84da0776adc723d99eae59b591c8b5d45f1f0b2596b9d5b6",
+    "pages": 341,
+    "prior_matches": [],
+    "batch_duplicate_of": null
+  }
+]

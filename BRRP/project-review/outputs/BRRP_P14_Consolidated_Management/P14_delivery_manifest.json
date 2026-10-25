@@ -1,0 +1,39 @@
+{
+  "issue": "P14Rev0",
+  "workbook_sheets": 34,
+  "activities": 285,
+  "workpacks": 120,
+  "engineering_entries": 183,
+  "procurement_packages": 25,
+  "requirements": 102,
+  "pdf_pages": {
+    "BRRP_P14_Project_Execution_Management_Manual.pdf": 12,
+    "BRRP_P14_Overall_Schedule_and_Driving_Path.pdf": 4
+  },
+  "deliverables": [
+    {
+      "name": "BRRP_P14_Project_Execution_Management_Manual.docx",
+      "bytes": 53236
+    },
+    {
+      "name": "BRRP_P14_Project_Execution_Management_Manual.pdf",
+      "bytes": 36005
+    },
+    {
+      "name": "BRRP_P14_Integrated_Management_Control.xlsx",
+      "bytes": 145207
+    },
+    {
+      "name": "BRRP_P14_Overall_Schedule_and_Driving_Path.pdf",
+      "bytes": 8824
+    },
+    {
+      "name": "BRRP_P14_Integrated_Schedule.csv",
+      "bytes": 60519
+    },
+    {
+      "name": "BRRP_P14_README.txt",
+      "bytes": 808
+    }
+  ]
+}

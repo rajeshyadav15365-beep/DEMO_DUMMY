@@ -1,0 +1,276 @@
+[
+  {
+    "path": "/workspace/attachments/a8e9378c-3679-4fac-9912-6e181d2e7c07/Specification Combined.pdf",
+    "size_bytes": 7076751,
+    "name": "Specification Combined.pdf",
+    "sha256": "fcb66cef439b04510b11d0225c2c7327e70a7aeaa8476651e9adc4329a5095eb",
+    "prior": [
+      "/workspace/attachments/7e960e1b-3995-4fd4-a0a0-bc096f555de3/Specification Combined.pdf",
+      "/workspace/attachments/35da2a9b-b015-4db2-86ce-aa3932dec44f/Specification Combined.pdf",
+      "/workspace/attachments/ca527a77-a834-468f-b52f-02e7b544ecee/Specification Combined.pdf"
+    ],
+    "duplicate": null,
+    "pages": 257
+  },
+  {
+    "path": "/workspace/attachments/749e6374-f242-4fe5-a89a-7446390666b1/TBOextension050526.pdf",
+    "size_bytes": 87134,
+    "name": "TBOextension050526.pdf",
+    "sha256": "9b7cf7505a87a3743ad2da609f7cd2357ad0717a20aefae32c1baf4196876011",
+    "prior": [],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "path": "/workspace/attachments/ed1b7f28-5e6b-4031-93ba-d813e6b68e89/SOW & Bridge Report Combined (3).pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined (3).pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "duplicate": null,
+    "pages": 506
+  },
+  {
+    "path": "/workspace/attachments/939d668a-edb3-4a35-83ea-852ec0e37133/TBOextension090626.pdf",
+    "size_bytes": 87471,
+    "name": "TBOextension090626.pdf",
+    "sha256": "916fdbeecc51c1c44bb20aa3cbc1a8ef3a246fbb0e7c38d605007f72d24021a1",
+    "prior": [
+      "/workspace/attachments/d627cc2c-9d28-483b-a384-012259c1c8bc/TBOextension090626.pdf"
+    ],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "path": "/workspace/attachments/8ff6009a-0815-4679-b72d-6e26fb71d808/TBOextension250526.pdf",
+    "size_bytes": 285407,
+    "name": "TBOextension250526.pdf",
+    "sha256": "c74098b236b0b059fe9cd539b814bf6838c586cd3a2701d63f41a0d579b7494b",
+    "prior": [],
+    "duplicate": null,
+    "pages": 1
+  },
+  {
+    "path": "/workspace/attachments/cf7b71dd-80af-4079-a0ce-a9d758df4a5f/SOW & Bridge Report Combined.pdf",
+    "size_bytes": 14836868,
+    "name": "SOW & Bridge Report Combined.pdf",
+    "sha256": "1dd8c329d410a7ea7f6b497d8c0fb230e23feaeabcd80964503bdb530236770a",
+    "prior": [
+      "/workspace/attachments/cf73098f-a2b2-4ae4-b829-1dc73062892e/SOW & Bridge Report Combined (3).pdf",
+      "/workspace/attachments/28ec6821-7de0-44d1-a865-a67eff159658/SOW & Bridge Report Combined.pdf"
+    ],
+    "duplicate": "SOW & Bridge Report Combined (3).pdf"
+  },
+  {
+    "path": "/workspace/attachments/ee453d17-fc3c-4e02-a48b-2509b7d8cac0/Technical_SCC (1).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (1).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior": [
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf"
+    ],
+    "duplicate": null,
+    "pages": 15
+  },
+  {
+    "path": "/workspace/attachments/ea7da209-89ce-4efe-9635-67ca93fc7c9d/Technical_SCC (2).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (2).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior": [
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf"
+    ],
+    "duplicate": "Technical_SCC (1).pdf"
+  },
+  {
+    "path": "/workspace/attachments/9c70a65e-3144-4e19-ac28-9f0cced48bb8/Technical_SCC (3).pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC (3).pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior": [
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf"
+    ],
+    "duplicate": "Technical_SCC (1).pdf"
+  },
+  {
+    "path": "/workspace/attachments/5e688848-ca32-4cf6-aff2-9d6831f8e8a8/Technical_SCC.pdf",
+    "size_bytes": 276586,
+    "name": "Technical_SCC.pdf",
+    "sha256": "c954759fb14588581784c894f9ffe949760a608217a75f73809b4eefa937ee17",
+    "prior": [
+      "/workspace/attachments/f4cf273b-7735-4b9d-98ba-062fe48a44ee/Technical_SCC.pdf",
+      "/workspace/attachments/3a2ba8d3-75f9-4fce-91ac-772c3b5bd4c3/Technical_SCC (3).pdf",
+      "/workspace/attachments/0327d961-fc1f-495c-8284-4581d784490d/Technical_SCC (1).pdf",
+      "/workspace/attachments/d236a81b-68ba-4443-a816-3b10916c22af/Technical_SCC (2).pdf"
+    ],
+    "duplicate": "Technical_SCC (1).pdf"
+  },
+  {
+    "path": "/workspace/attachments/6d3948dd-27e8-4502-81e7-f16af76b5d8b/Tendernotice_1 (1).pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1 (1).pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior": [
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf"
+    ],
+    "duplicate": null,
+    "pages": 8
+  },
+  {
+    "path": "/workspace/attachments/0824d11c-4852-49d8-be3d-2f24efdd0db7/Tendernotice_1.pdf",
+    "size_bytes": 197607,
+    "name": "Tendernotice_1.pdf",
+    "sha256": "97463997491227dbddeffd8bdd92d82f3d497b88b99227b05a55b03111dda78d",
+    "prior": [
+      "/workspace/attachments/6af77421-4d8b-49c4-a1fb-ca8c02ceefbe/Tendernotice_1.pdf"
+    ],
+    "duplicate": "Tendernotice_1 (1).pdf"
+  },
+  {
+    "path": "/workspace/attachments/778c87e3-aece-4644-b243-c5bbf567e895/Vol I _PartV_Appendix A-3 Price Schedule.xlsx",
+    "size_bytes": 480905,
+    "name": "Vol I _PartV_Appendix A-3 Price Schedule.xlsx",
+    "sha256": "7b4e2c5849fc2b293e4de333dd3bb7b9893702fce99f93d01d637308b1d397a6",
+    "prior": [
+      "/workspace/attachments/f999223f-37c0-4dde-9bd0-12348d6ffc4f/Vol I _PartV_Appendix A-3 Price Schedule.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/d56569c4-5dc3-4180-a084-a19c983f8a39/Vol I _PartVA_BRS.xlsx",
+    "size_bytes": 480805,
+    "name": "Vol I _PartVA_BRS.xlsx",
+    "sha256": "872ba27d634dc202597837a32971bafa19c0eb54ac151f7c86f64bccd1d5d897",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/a5cb1f85-11a8-4199-9c6d-df659ccb6a7b/Vol I_ Part III Appendices.docx",
+    "size_bytes": 315676,
+    "name": "Vol I_ Part III Appendices.docx",
+    "sha256": "c1ef1672214f304f856d1a3bdb5f1a3c4d685f00e484907e5bc826d46155ca7f",
+    "prior": [
+      "/workspace/attachments/2beddab1-cfb9-462b-9a47-fac292373e59/Vol I_ Part III Appendices.docx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/a1c6fe5e-a1f8-4173-ada8-eb65a6aa2868/Vol I_PartIV_BEC.docx",
+    "size_bytes": 78107,
+    "name": "Vol I_PartIV_BEC.docx",
+    "sha256": "df1674f7946d9f62bfc169251d43ad05ee75549001c0d460408055e43b9818b2",
+    "prior": [
+      "/workspace/attachments/ca40cfa5-9898-4633-8c6c-f5ae11326b7a/Vol I_PartIV_BEC.docx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/117fb70c-5e68-4035-9b25-e695a24366dc/Vol I _PartV_Appendix A-10 MPF.xlsx",
+    "size_bytes": 463605,
+    "name": "Vol I _PartV_Appendix A-10 MPF.xlsx",
+    "sha256": "3e1398fa91d52a60c14f78ba4aaccd1e2a3b90b8cc5046dc980561a45e712aa9",
+    "prior": [
+      "/workspace/attachments/f5082d3b-5573-484f-941c-6fff7b4dfd2b/Vol I _PartV_Appendix A-10 MPF.xlsx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/fd851a81-df3d-487d-a2c7-0aca9a481679/Vol I_PartIVA_BidderGTE.xlsx",
+    "size_bytes": 20715,
+    "name": "Vol I_PartIVA_BidderGTE.xlsx",
+    "sha256": "73b9c45b583b3612ee2b8bcb5a0f95cfad5392979d3d697c8f9ff3c1664d5e02",
+    "prior": [],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/9250213f-c034-4293-bab5-4166fa019812/Vol-I I ITB.docx",
+    "size_bytes": 208982,
+    "name": "Vol-I I ITB.docx",
+    "sha256": "61033c9e7a297215977bdbf88dd81b3bca8073d17e7ae88f2ae7b57ce1fd58ae",
+    "prior": [
+      "/workspace/attachments/292c0ab1-ea8f-428e-9444-aa266be57587/Vol-I I ITB.docx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/08cf287e-afb1-4ee1-9761-ee9d9f711852/Vol_I_PartIV_ Technical BEC.pdf",
+    "size_bytes": 1654179,
+    "name": "Vol_I_PartIV_ Technical BEC.pdf",
+    "sha256": "d5548eb59f55cf6504d770c44e2dcd42b42392eb71541f36a742df9b089e3a7c",
+    "prior": [
+      "/workspace/attachments/83b58a2a-16a7-459c-a93f-1375e22b3bcb/Vol_I_PartIV_ Technical BEC.pdf"
+    ],
+    "duplicate": null,
+    "pages": 11
+  },
+  {
+    "path": "/workspace/attachments/b7fa1436-2c88-40cc-baf2-3ffef1e9b1f9/Vol-I-II GCC.docx",
+    "size_bytes": 341696,
+    "name": "Vol-I-II GCC.docx",
+    "sha256": "78d8130c8aab9b96e9dad2584cb6c30be370c72dd71f154df103eb238b08f4a1",
+    "prior": [
+      "/workspace/attachments/7ece9ff1-7bca-4ae8-a43f-c3173cfcff51/Vol-I-II GCC.docx"
+    ],
+    "duplicate": null
+  },
+  {
+    "path": "/workspace/attachments/a954952e-76b6-445f-b26a-fd4959d1b841/Vol I_PartIV_BEC - Copy.docx",
+    "size_bytes": 78107,
+    "name": "Vol I_PartIV_BEC - Copy.docx",
+    "sha256": "df1674f7946d9f62bfc169251d43ad05ee75549001c0d460408055e43b9818b2",
+    "prior": [
+      "/workspace/attachments/ca40cfa5-9898-4633-8c6c-f5ae11326b7a/Vol I_PartIV_BEC.docx"
+    ],
+    "duplicate": "Vol I_PartIV_BEC.docx"
+  },
+  {
+    "path": "/workspace/attachments/04e2fc12-4aad-47b0-8108-e192c61afc52/Vol I_PartIVA_BidderGTE - Copy.xlsx",
+    "size_bytes": 20715,
+    "name": "Vol I_PartIVA_BidderGTE - Copy.xlsx",
+    "sha256": "73b9c45b583b3612ee2b8bcb5a0f95cfad5392979d3d697c8f9ff3c1664d5e02",
+    "prior": [],
+    "duplicate": "Vol I_PartIVA_BidderGTE.xlsx"
+  },
+  {
+    "path": "/workspace/attachments/9127198b-d5b8-427b-b5f7-cc82e648ada2/Vol-I I ITB - Copy.docx",
+    "size_bytes": 208982,
+    "name": "Vol-I I ITB - Copy.docx",
+    "sha256": "61033c9e7a297215977bdbf88dd81b3bca8073d17e7ae88f2ae7b57ce1fd58ae",
+    "prior": [
+      "/workspace/attachments/292c0ab1-ea8f-428e-9444-aa266be57587/Vol-I I ITB.docx"
+    ],
+    "duplicate": "Vol-I I ITB.docx"
+  },
+  {
+    "path": "/workspace/attachments/d0938617-7dc4-4a22-b515-a1c4f3ee21d9/Vol-I-II GCC - Copy.docx",
+    "size_bytes": 341696,
+    "name": "Vol-I-II GCC - Copy.docx",
+    "sha256": "78d8130c8aab9b96e9dad2584cb6c30be370c72dd71f154df103eb238b08f4a1",
+    "prior": [
+      "/workspace/attachments/7ece9ff1-7bca-4ae8-a43f-c3173cfcff51/Vol-I-II GCC.docx"
+    ],
+    "duplicate": "Vol-I-II GCC.docx"
+  },
+  {
+    "path": "/workspace/attachments/9fd364a5-95da-4665-b48a-90be485cae7b/Vol_I_PartIV_ Technical BEC - Copy.pdf",
+    "size_bytes": 1654179,
+    "name": "Vol_I_PartIV_ Technical BEC - Copy.pdf",
+    "sha256": "d5548eb59f55cf6504d770c44e2dcd42b42392eb71541f36a742df9b089e3a7c",
+    "prior": [
+      "/workspace/attachments/83b58a2a-16a7-459c-a93f-1375e22b3bcb/Vol_I_PartIV_ Technical BEC.pdf"
+    ],
+    "duplicate": "Vol_I_PartIV_ Technical BEC.pdf"
+  }
+]

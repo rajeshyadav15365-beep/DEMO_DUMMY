@@ -1,0 +1,1369 @@
+
+=== PDF PAGE 1 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                     REV DATE: 19/09/2023
+
+SECTION - A           VESSEL PARTICULARS (copies of same to be provided)
+   SN             ITEM              DESCRIPTION        REMARK
+
+     1       Type of Vessel =
+
+     2         Port of Registry =
+
+     3        Ship Builder’s Name =                                                 Year Built =
+
+     4         Class Notation =
+
+     5          Classification Society =                                                      Class ID Number =
+
+     6         Principal Dimension =                    Length Overall (LOA) =         Depth =
+
+     7      Beam / Breadth =                           Light Draft =               Maximum Draft =
+
+     8        Gross Registered Tonnage (GRT) =
+
+     9        Net Registered Tonnage (NRT) =
+
+     10       Engine Make / Type =
+
+     11       Main Engine Capacity (NOS. x BHP) =
+
+     12      Bow Thruster (NOS. x BHP) =
+
+     13        Stern Thruster (NOS. x BHP) =
+
+     14        Generator Make / Type =
+
+     15        Generator power (NOS. x KW) =
+
+     16        Vsl Economical/Cruising Speed (KTS) =
+
+     17        Fuel consumption (TONS / HR.) =
+
+     18        Fuel Tank Capacity (TONS) =                                        Type Of Fuel =
+
+     19         Ballast Capacity (TONS) =
+
+     20        Fresh Water Generator Capacity (TONS) =
+
+     21        Fresh Water Tank Capacity (TONS) =
+
+     22       Deck Space (M²) =                     Deck Strength (TONS/ M²) =
+
+     23        Bollard Pull =
+
+     24        4/8 Point Mooring / Anchor Type & Cap.=                               Wire length & Dia.=
+
+     25       Towing Winch Capacity (TONS) If Any =
+
+     26       Tugger Winch Capacity (TONS) If Any =
+
+     27        Capstan Capacity (TONS) if applicable =
+
+     28       Deck Crane (SWL) if applicable =
+
+     29        Passenger Capacity =
+
+     30      Number of Crew =
+
+     32       Endurance (DAYS) =
+
+     33        Vessel Communication Details (Sat Tel & Email) =
+
+                                               1
+
+=== PDF PAGE 2 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                    REV DATE: 19/09/2023
+
+SECTION - B     STATUTORY/TRADING CERTIFICATES copies of same to be provided
+SN             ITEM               ISSUED BY    DOI     DOE         REMARK
+
+ 1    Ship Registry Certificate.
+
+ 2    International Tonnage Certificate (1969).
+
+    Minimum Safe Manning Document. For
+ 3
+      Indian offshore oilfields
+
+
+       Class Certificate.
+
+
+ 4    Last annual survey report to be provided                                             Last Annual:
+
+
+      Latest Class survey status to be provided
+
+ 5    International Load Line Certificate.                                                  Last Annual:
+
+      International Load Line Exemption
+ 6
+       Certificate (If Any).
+
+     Cargo Ship Safety Construction
+ 7                                                                                           Last Annual:
+       Certificate.
+
+     Cargo Ship Safety Equipment Certificate.
+ 8
+    LAST SEQ survey Report
+
+     Cargo Ship Safety Equipment Certificate
+ 9
+     + FORM (E).
+
+     Cargo Ship Safety Radio Certificate.
+ 10                                                                                          Last Annual:
+    LAST SRT survey report to be provided
+
+     Cargo Ship Safety Radio Certificate +
+ 11
+    FORM (R).
+
+ 12   Ship Station Licence.
+
+ 13   Shore Based Maintenance.
+
+      International Oil Pollution Prevention
+ 14                                                                                          Last Annual:
+       Certificate.(All Vessels)
+
+      International Oil Pollution Prevention
+ 15                                                                                          Last Annual:
+       Certificate (FORM-A/B).
+
+
+
+                                              2
+
+=== PDF PAGE 3 ===
+                                                                                   ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                       MARINE SAFETY CELL       REV NO. 0
+                                                                    REV DATE: 19/09/2023
+
+
+
+
+SN             ITEM               ISSUED BY    DOI     DOE         REMARK
+
+      International Sewage Pollution
+
+16   Prevention Certificate.(>400 GT or + 15
+
+     persons)
+
+      International Air Pollution Prevention
+17
+      Certificate.
+
+     Engine international air pollution
+18
+       certificate.
+
+      International Energy Efficiency
+19
+      Certificate. ( +400GT)
+
+    EEDI/SEEMP/ NOX Tech File & ODS
+20
+     Records.
+
+      International Anti-fouling System
+21
+      Certificate. ( +400GT)
+
+22   Special Purpose Ship Safety Certificate
+
+23   SPS Form
+
+24   Declaration on Anti-fouling System. (all)
+
+      International Ship Security Certificate
+25                                                                                              Intermediate:
+      (ISSC).
+
+     Ship Security Plan And Associated
+26
+     Records.
+
+27   Continuous Synopsis Record (CSR).
+
+28   Document of Compliance.                                                        Annual:
+
+      Safety Management Certificate.> 500 GT
+29                                                                                              Intermediate:
+     or SPS vessels
+
+30   Maritime Labour Certificate (MLC).                                                    Intermediate:
+
+
+
+
+
+                                              3
+
+=== PDF PAGE 4 ===
+                                                                                   ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                       MARINE SAFETY CELL       REV NO. 0
+                                                                    REV DATE: 19/09/2023
+
+     Declaration of Maritime Labour
+
+31   Compliance Part I (DMLC I) set up by
+
+     Flag State Authority.
+
+     Declaration of Maritime Labour
+32
+     Compliance Part II (DMLC II).
+
+SN             ITEM               ISSUED BY    DOI     DOE         REMARK
+
+33   Crew Accommodation Certificate ( +all)
+
+34  GTL / SPL
+
+     Mobile Offshore Drilling Unit Safety
+35
+      Certificate
+
+36  H&M.
+
+37  P&I = (MLC – 2.5.2 & 4.2.1)
+
+      Certificate Of Insurance Or Other
+
+      Financial Security In
+38
+     Respect Of Civil Liability For Bunker Oil
+
+      Pollution Damage.
+
+      Civil Liability For Bunker Oil Pollution
+39
+    Damage by MMD. (+400)
+
+40  P&I Wreck Removal
+
+    Wreck Removal Certificate By MMD
+41
+     (+400)
+
+    Document Of Compliance With The
+
+42   Special Requirements For Ships Carrying
+
+     Dangerous Goods (IMDG).
+
+43    Certificate of Fitness for NLS
+
+44   Medical Chest.
+
+     Ship Sanitation Control (Derating
+45
+      Certificate)
+
+46   Flow meter calibration
+
+
+                                              4
+
+=== PDF PAGE 5 ===
+                                                                                   ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                       MARINE SAFETY CELL       REV NO. 0
+                                                                    REV DATE: 19/09/2023
+
+47   Fumigation Certificate.
+
+48   Potable Fresh Water Analysis Certificate
+
+49  LRIT Test Confirmation Report.
+
+50   AIS Test Report.
+
+51  VDR - Certificate Of Compliance
+
+SN             ITEM               ISSUED BY    DOI     DOE         REMARK
+
+52  EPIRB Test Certificate
+
+53  SART Test Certificate
+
+54   SSAS Test Certificate
+
+55   Compass Deviation Card
+
+56   Barometer Certificate
+
+57   Last FSI/PSC Inspection.
+
+58   Latest Class Survey Status.
+
+59   Naval Security Clearance.
+
+     Last Thickness gauging report
+60
+    recommendations ( +15 years)
+
+61  MWS report
+
+    Immersion suits as per SOLAs Ch
+62
+      III/7.3
+
+62   Drydocking (Last done/Next due)
+
+
+     Remarks if any
+
+
+
+
+
+                                              5
+
+=== PDF PAGE 6 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                     REV DATE: 19/09/2023
+
+SECTION - C  Additional Requirements as per DG circ 20 of 2022 For SPS vessels/Barges, Copies of same to
+               be provided.
+
+                                                                    Remarks: Yes/NO
+1    Detailed risk analysis reviewed by RO authorised by
+    Government
+2    Availability of Minimum Safe Manning by the STCW certified
+     officers and ratings as per SMD Certificate
+3  A mooring analysis assessment report approved by a
+    Recognized Organization
+4   Approved towing plan in fair and foul weather (manned or
+    unmanned) as per MS Notice 08 of 2013 shall be placed on
+     board. The approved towing plan must indicate the limiting
+    weather parameters for fair and foul weather.
+5    All crew accommodation area shall be in compliance with the
+     requirements specified in MLC 2006, MS (Crew
+    accommodation) Rules 1960 as amended or crew
+    accommodation certificate for compliance with ILO 92 or ILO
+     133, depending on the year of built".
+6   Requirement of lifeboats 100% on each side
+7   Immersion suits for all personnel on board and additional
+    immersion suits as appropriate for the number of personnel at
+     bridge, machinery control room. (On non self propelled
+     Barges)
+8   Maximum age of Life rafts used on board the accommodation
+     barges shall be not more than 10 years. (Accommodation
+    Barges all)
+9    Insurance certificates required for non-marine personnel not to
+    be less than INR 22 Lakhs or as provided in contract,
+    whichever is higher'
+    With respect to insurance of non-marine personnel referred in
+      this order (at least 22 Lakhs INR or as per the contract,
+    whichever is higher), the insurance shall be provided by the
+    P&l Club mentioned in previous paragraph. However,
+     insurance from Indian insurance companies may also be
+     considered provided that Indian insurance company is
+     able to cover such liability i.e. for person(s) while working at
+     sea on barges and/or platforms.
+10   Vessels while transferring the persons from their vessel to
+     offshore platforms or accommodation barges or offshore ships
+     shall be guided by lMO guidelines issued vide IMO circular,
+   MSC-MEPC. Circ. 10 dated 14.07.2014 and International
+
+                                               6
+
+=== PDF PAGE 7 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                     REV DATE: 19/09/2023
+
+    Marine Contractors Association IMCA] guidance on the
+     transfer of personnel to and from offshore vessels.
+11  An approved SAR plan by RO.
+12  An emergency evacuation plan and plan for emergency
+     demobilization and proceeding to an assigned safe location
+     shall be available.
+13  Aero VHF for two-way on scene radio communications for
+     search and rescue purposes using the aeronautical frequencies
+    12L,5 MHz and 123.L MHz shall be available along with
+     suitable periodic maintenance records from the vessel ROs
+14   All Indian accommodation barges shall be made available for
+     the flag state inspection FSl annually.
+15   All Indian Flag Accommodation barges shall obtain trading
+     licence to operate in Indian waters.
+16  With respect to insurance of non-marine personnel referred in
+      this order (at least 22 Lakhs INR or as per the contract,
+    whichever is higher), the insurance shall be provided by the
+    P&l Club mentioned in previous paragraph. However,
+     insurance from Indian insurance companies may also be
+     considered provided that Indian insurance company is
+     able to cover such liability i.e. for person(s) while working at
+     sea on barges and/or platforms.
+
+    Remarks if any
+
+
+
+
+
+                                               7
+
+=== PDF PAGE 8 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                     REV DATE: 19/09/2023
+
+SECTION - D                  VESSEL PLANS & DOCUMENTS
+
+SN          ITEM                YES/NO/NA                   REMARK
+
+ 1  GA Plan
+
+
+ 2    Capacity & Accommodation plan
+
+
+ 3   Manoeuvring Booklet
+
+
+ 4    Life Saving Plan
+
+
+ 5    Fire Control Plan
+
+
+ 6    Official Log Book
+
+
+ 7    Oil Record Book (I & II)
+
+     Bunker Delivery Note and
+ 8
+      Representative Sample
+
+ 9   SOPEP/SMPEP Plans
+
+
+10   Garbage Management Plan
+
+
+11   Garbage Record Book
+
+
+12   Cargo Securing Manual
+
+      Ship-specific Plans and
+13   Procedures for Recovery of
+      Persons from the Water
+     Emergency Towing Procedure
+14
+     Manual & Plan
+
+     Trim & Intact Stability
+15
+      Information.
+
+     Damage Control Plans And
+16
+      Booklets
+
+    SOLAS Training Manual (Ship
+17
+      Specific)
+
+18   Permit To Work Records
+
+      International Code Of Signals
+19  And A Copy Of Volume III Of
+    IAMSAR Manual
+      Material Safety Data Sheets
+20  (MSDS) – Paints/ Chemicals &
+    LO
+
+21   Records Of Work & Rest Hours
+
+22   Noise Survey Report
+
+    MULTI GAS Detector Calibration
+23
+      Certificate
+
+     Breath Analyser Calibration
+24
+      Certificate
+
+                                               8
+
+=== PDF PAGE 9 ===
+                                                                                    ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+            MARINE SAFETY CELL                                        MARINE SAFETY CELL       REV NO. 0
+                                                                     REV DATE: 19/09/2023
+
+                GENERAL POINTS TO CHECK
+
+SECTION - E                           BRIDGE
+SN              ITEM                   YES/NO/NA               REMARK
+
+     Officer And Crew Certification And
+
+ 1
+     Documents.
+
+    Deck Log Book
+ 2
+
+      Official Record And Log Keeping On Board.
+ 3
+
+     Officer And Crew – Drill / Training And
+
+ 4
+     Familiarisation Record.
+
+     Bridge/ Navigation Equipment’s &
+
+ 5
+     Instruments And Their Associated Records
+
+   GMDSS / Communication Equipment’s And
+
+ 6
+     Their Associated Records.
+
+    DP Running Trials, Alarm Testing And
+
+ 7
+     Associated Records.
+
+     Plans And Procedures On Board And
+
+ 8
+     Associated Records
+
+     Navigation Charts/ Publications / Plans And
+
+ 9
+     Associated Records.
+
+      Stability & Cargo/ Ballast Related
+
+10
+     Documents.
+
+
+SECTION - F                 ACCOMMODATION/ GALLEY
+SN              ITEM                   YES/NO/NA               REMARK
+
+     Accommodation/Galley Health And Hygiene
+11
+
+   MLC Requirements
+12
+
+     Compliance With MARPOL Annex – I / II /
+
+13
+      III / IV / V And Associated Records.
+
+     Medical Requirements And Records.
+14
+
+     Provision Stores/Cold Rooms
+15
+
+
+                                               9
+
+=== PDF PAGE 10 ===
+                                                                                   ISSUE NO. 1
+                                      SAFETY AUDIT CHECKLIST FOR   DATE:
+           MARINE SAFETY CELL                                       MARINE SAFETY CELL       REV NO. 0
+                                                                    REV DATE: 19/09/2023
+
+SECTION - G                         DECK
+   SN                ITEM                  YES/NO/NA             REMARK
+
+             General Appearance Of The Vessel
+    16       Including (Plimsol, Draft Marks &
+              Shipside)
+            ISPS Requirements / Equipment’s a
+    17
+          And Associated Records.
+
+    18      Water Tight Integrity Of Ship.
+          LSA / FFA Equipment’s And Associated      Certificates
+    19                                                                       to be
+             Records.                                         provided
+           Deck Machinery, Its Operations And
+    20
+              Associated Records
+               Lifting And Loose Gear Testing And          Certificates
+    21                                                                       to be
+              Associated Records.                             provided
+
+   SN     ITEM                                  YES/NO/NA             REMARK
+           Load Cell Calibration Certificate               Certificates
+    22                                                                       to be
+              (Applicable to Barges)                          provided
+            Crane LOAD TEST Certificates
+
+           Load cell calibration certificate
+
+            Crane annual Inspection report by Class
+                                                                             Certificates
+    23                                                                       to be
+            Crane MDT/MPI report                        provided
+
+            Operator certificate
+
+         Man riding certificate
+
+              Helicopter Operation/ Equipment’s And
+
+              Associated Records.
+
+             Helideck Landing certificate                     Certificates
+    24                                                                       to be
+                                                                   provided
+         CAP 437 report
+
+        HLO certificates
+
+    25       Paint Stores Arrangements
+
+    26      Gas Bottles Arrangements
+
+
+SECTION - H                        ENGINE ROOM
+   SN                ITEM                  YES/NO/NA             REMARK
+           Engine Log Book
+    27
+
+          Main Engines Running Trials, Alarm
+
+    28
+            Testing And Associated Records.
+
+
+                                             10
+
+=== PDF PAGE 11 ===
+                                                                               ISSUE NO. 1
+                                   SAFETY AUDIT CHECKLIST FOR   DATE:
+         MARINE SAFETY CELL                                    MARINE SAFETY CELL       REV NO. 0
+                                                                 REV DATE: 19/09/2023
+
+
+
+        Health check inspection/Performance
+
+         report from OEM to be provided
+
+       Aux Engines Running Trials, Alarm
+
+         Testing And Associated Records.
+29
+         Health check inspection/Performance
+
+          report from OEM to be provided
+
+          Shaft Generators Running Trials, Alarm
+
+30
+          Testing And Associated Records.
+
+       Bow Thrusters Running Trials, Alarm
+
+31
+          Testing And Associated Records.
+
+         Stern Thrusters Running Trials, Alarm    FMEA
+                                                           report to
+32
+          Testing And Associated Records.               be
+                                                       provided
+        Azimuth Thrusters Running Trials,
+
+33
+        Alarm Testing And Associated Records.
+
+         Bulk Cargo Handling or Any other
+
+        Cargo Handling System Testing And
+34
+
+          Associated Records
+
+        Emergency Generator/Batteries Testing
+
+35
+       And Associated Records
+
+         Blackout Test And Recovery Procedures.
+36
+
+        Emergency Equipment’s (Generator/
+
+          Fire pump/Steering/ Compressor/Bilge
+
+37
+        pumps/Quick Closing Valves) + Batteries
+
+          -Testing And Associated Records.
+
+      OWS Operation And Associated
+
+38
+         Records.
+
+       STP Operation And Associated Records.
+39
+
+
+
+                                          11
+
+=== PDF PAGE 12 ===
+                                                                                     ISSUE NO. 1
+                                       SAFETY AUDIT CHECKLIST FOR   DATE:
+             MARINE SAFETY CELL                                         MARINE SAFETY CELL       REV NO. 0
+                                                                      REV DATE: 19/09/2023
+
+           INCINERATOR Operation And
+
+      40
+                Associated Records.
+
+           W/T Doors & Self Closing Mechanism Of
+
+      41
+              Sounding Pipes Testing.
+
+               General Cleanliness In Engine Room
+
+      42
+            And Bilges.
+
+                Fire Alarm/ And Firefighting
+
+      43
+               Equipment’s Testing And Records.
+
+               Engine Room Documentation And
+
+      44
+                Associated Records
+
+              Other Engine Room Associated
+
+               Machineries And Equipment’s Testing &
+      45
+
+                Operation.
+
+OBSERVATIONS
+
+  SN                                    DESCRIPTION
+
+
+
+
+
+                                               12
+
+=== PDF PAGE 13 ===
+                  Requirement of Crew Documents and Experience
+
+
+
+                                                        Chief    2nd                                    Chief    2nd                 Oiler/
+                                          Master   Officer   Officer  AB      OS      Cook     Engineer Engineer ETO     Motorman  Wiper
+    1   COC/Watch keeping
+                                          X       X       X       X               X       X       X                X
+    2   CDC
+                                          X       X       X       X       X       X       X       X       X        X        X
+    3    Experience
+                                          X       X       X       X       X       X       X       X       X        X        X
+    4    Passport
+                                          X       X       X       X       X       X       X       X       X        X        X
+    5    Aadhar
+                                          X       X       X       X       X       X       X       X       X        X        X
+    6    INDOS
+                                          X       X       X       X       X       X       X       X       X        X        X
+    7    PCC
+                                          X       X       X       X       X       X       X       X       X        X        X
+    8    Medical
+                                          X       X       X       X       X       X       X       X       X        X        X
+    9   GMDSS
+                                          X       X       X
+   10    Re-validation
+                                          X       X                                        X       X
+   11   DP Course / Maintenance
+                                          X       X       X                                X       X       X
+   12   DPO
+                                          X       X       X
+   13   EFA/MFA/Medicare
+                                          X       X       X       X       X       X       X       X       X        X        X
+   14   PSCRB
+                                          X       X       X       X       X       X       X       X       X        X        X
+   15   PST
+                                          X       X       X       X       X       X       X       X       X        X        X
+   16   PSSR
+                                          X       X       X       X       X       X       X       X       X        X        X
+   17    AFF/FPFF
+                                          X       X       X       X       X       X       X       X       X        X        X
+   18   SSO/STSDSD
+                                          X       X       X       X       X       X       X       X       X        X        X
+   19   H2S ( AREA SPECIFIC )
+
+   20    Proficiency in FRC ( Ship Specific,
+        minimum 3 persons)
+   21   HUET
+
+   22   Old NED Pass details, if any/
+          Cancellation of Old NED             X       X       X       X       X       X       X       X       X        X        X
+   23    Vaccination
+
+                                          X       X       X       X       X       X       X       X       X        X        X
+   24   Compliance with SMD
+                                          X       X       X       X       X       X       X       X       X        X        X
+   25   Remarks
+
+
+
+
+
+Remarks:
+
+    1.  Minimum 6 months rank experience for senior officers on similar vessels carrying out similar
+         activities.
+    2.  Mandatory courses must be from DG Shipping approved Institutes.
+    3.  H2S and HUET certificate as per requirement of user section.
+
+=== PDF PAGE 14 ===
+                                                                                                    ISSUE NO: 01
+                                                                                               DATE: 10.12.2021
+                   MARINE CELL              SAFETY AUDIT FOR MARINE VESSEL    REV NO: 00
+                                                                                   REV DATE: 10.12.2021
+                                                                                     PAGE NO: 1 OF 5
+
+           STATUS OF LSA/FFA/ EQUIPMENT'S AND CERTIFICATES FOR VSL ______________________ DATE : 21.12.2021
+
+SR                                                                                      VALID     LAST      CERTIFICATE DETAILS
+                          CEDRTIFICATE TYPE                        CERTIFICATE / SEREAL NO.                                            REMARKS
+NO                                                                           FOR    SURVEY     ISSUED      EXPIRES
+
+                              LIFE BOAT - NO. 1
+
+     LIFE BOAT DAVIT ANNUAL INSPECTION                                                       1YR
+
+     LIFE BOAT & LAUNCHING APPLIANCES ANNUAL INSPECTION                                       1YR
+
+    YARD LOAD TEST CERTIFICATE                                                               5YRS
+
+ 1   LIFE BOAT FIRE EXTINGUISHER TYPE = _____ & ANNUAL INSP.                                     1YR
+
+                                                                      APM
+     LIFE BOAT PYROTECHENICS =
+                                                                      APM
+
+   DG APPROVED CERTIFICATE INSPECTING FIRM                                          NA
+
+                              LIFE BOAT - NO. 2
+
+     LIFE BOAT DAVIT ANNUAL INSPECTION                                                       1YR
+
+     LIFE BOAT & LAUNCHING APPLIANCES ANNUAL INSPECTION                                       1YR
+
+    YARD LOAD TEST CERTIFICATE                                                               5YRS
+
+ 2   LIFE BOAT FIRE EXTINGUISHER TYPE = _____ & ANNUAL INSP.                                     1YR
+
+                                                                      APM
+     LIFE BOAT PYROTECHENICS =
+                                                                      APM
+
+   DG APPROVED CERTIFICATE INSPECTING FIRM                                          NA
+
+                         RESCUE BOAT
+
+    RESCUE BOAT DAVIT ANNUAL INSPECTION                                                    1YR
+
+    RESCUE BOAT & LAUNCHING APPLIANCES ANNUAL INSPECTION                                    1YR
+
+    YARD LOAD TEST CERTIFICATE                                                               5YRS
+
+ 3  RESCUE BOAT FIRE EXTINGUISHER TYPE = _____ & ANNUAL INSP.                                  1YR
+
+                                                                      APM
+    RESCUE BOAT PYROTECHENICS =
+                                                                      APM
+
+   DG APPROVED CERTIFICATE INSPECTING FIRM                                          NA
+
+                                  LIFE RAFT
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+ 4
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+   4 LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+     LIFE RAFT(____ )PERSON, (MAKE____________), SOLAS PACK = ___                                1YR
+
+     LIFE RAFT HRU SN = __________________________ & EXPIRY =                           APM
+
+=== PDF PAGE 15 ===
+                           EEBD
+
+   EEBD CYLINDER TOTAL NO. = ___________                                            NA
+
+5  EEBD CYLINDER ANNUAL TESTING & INSPECTION                                               1YR
+
+   EEBD PRESSURE TEST CERTIFICATE TYPE = _______________                                     5 YRS
+
+                              EPIRB
+
+    EPIRB - MAKE ___________, LOCATION = ( ____________________ )                          NA
+
+    EPIRB BATTERY EXP=                                                      APM
+
+    EPIRB (INSPECTION & TEST CERTIFICATE )                                                     1YR
+6
+    EPIRB - MAKE ___________, LOCATION = ( ____________________ )                          NA
+
+    EPIRB BATTERY EXP=                                                      APM
+
+    EPIRB (INSPECTION & TEST CERTIFICATE )                                                     1YR
+
+                        SVDR/VDR
+
+   SVDR EPIRB - MAKE __________, LOCATION = ( __________________ )                              1YR
+
+    SVDR-EPIRB BATTERY EXP=                                                  APM
+
+   SVDR EPIRB  ( INSPECTION & TEST CERTIFICATE )                                                1YR
+7
+   SVDR CERTIFICATE OF COMPLIANCE                                                NA
+
+   SVDR ANNUAL PERFORMANCE TEST                                                          1YR
+
+   ANNUAL SERVICING DONE ON                                                              1YR
+
+                           SART
+
+   SART = MAKE __________, LOCATION = ( __________________ )                             NA
+
+   SART BATTERY EXP=                                                      APM
+
+   SART ( INSPECTION & TEST CERTIFICATE )                                                     1YR
+8
+   SART MAKE __________, LOCATION = ( __________________ )                              NA
+
+   SART BATTERY EXP=                                                      APM
+
+   SART ( INSPECTION & TEST CERTIFICATE )                                                     1YR
+
+                                LIFE JACKET
+
+    LIFE JACKET ADULT (TYPE APPROVAL)                                                NA
+
+    LIFE JACKET ADULT TOTAL = ________ NOS                                            NA
+
+    LIFE JACKET LIGHT BATTERY EXPIRY ADULT                                         APM
+9
+    LIFE JACKET CHILD (TYPE APPROVAL)                                                NA
+
+    LIFE JACKET CHILD TOTAL = ________ NOS                                            NA
+
+    LIFE JACKET LIGHT BATTERY EXPIRY CHILD                                         APM
+
+=== PDF PAGE 16 ===
+                      IMMERSION SUIT
+
+    IMMERSION SUIT TOTAL = ________ NOS                                             NA
+
+    IMMERSION SUIT TYPE APPROVAL                                                  NA
+ 10
+    IMMERSION SUIT ANNUAL INSPECTION CERTIFICATE                                             1YR
+
+    IMMERSION SUIT LIGHTS EXP=                                                APM
+
+                            LIFEBUOY
+
+     LIFEBUOY TOTAL =                                                            NA
+
+     LIFEBUOY WITHOUT LINE TOTAL =                                                  NA
+
+     LIFEBUOY WITH LINE TOTAL =                                                     NA
+
+ 11  LIFEBUOY WITH SI LIGHT TOTAL =                                                  NA
+
+     LIFEBUOY WITH SI LIGHT EXP =                                                APM
+
+     LIFEBUOY WITH MOB TOTAL =                                                    NA
+
+     LIFEBUOY WITH MOB EXP =                                                  APM
+
+                ACCOMODATION LADDER / MOT
+
+    ACCOMODATION LADDER LOAD TEST CERTIFICATE                                              5YRS
+ 12
+    ACCOMODATION LADDER LOAD TEST CERTIFICATE                                              5YRS
+
+                        SCBA BOTTLES
+
+    TOTAL SCBA BOTTLES ON BOARD =                                                 NA
+
+    SCBA ANNUAL INSPECTION CERTIFICATE                                                      1YR
+ 13
+    SCBA PRESSURE TEST CERTIFICATE                                                            5YRS
+
+    SCBA COMPRESSOR AIR QUALITY TEST                                                        1YR
+
+                          FIRE FIGHTERS OUTFIT
+
+     FIRE FIGHTERS OUTFIT TOTAL SETS = _________                                        NA
+
+
+     FIRE FIGHTERS OUTFIT LOCATIONS =                                                NA
+
+ 14
+     FIRE FIGHTERS OUTFIT ANNUAL SERVICING                                                    1YR
+
+     FIRE FIGHTERS OUTFIT TYPE APPROVAL                                              NA
+
+     WALKI-TALKI SET FOR ABOVE - MIN 02 NOS.                                           NA
+
+FIXED FIRE PROTECTION SYSTEM ( CO2 FOR EROOM & GALLEY ) + DCP + FOAM
+                           + SPRINKLER
+
+    TOTAL CO2 BOTTLES = E/R _________ & GALLEY ___________                               NA
+
+    CO2 CYLINDER PRESSURE TESTING =                                                         5 YRS
+
+    CO2 CYLINDER ANNUAL TESTING =                                                           1YR
+
+ 15  FIXED DCP SYSTEM DETAILS = _________________________________                         NA
+
+     FIXED DCP SYSTEM PRESSURE TESTING =                                                     5 YRS
+
+     FIXED DCP SYSTEM ANNUAL TESTING =                                                       1YR
+
+     FIXED FOAM SYSTEM DETAILS = ________________________________                         NA
+
+     FIXED FOAM SYSTEM PRESSURE TESTING =                                                    5 YRS
+
+     FIXED FOAM SYSTEM ANNUAL TESTING =                                                     1YR
+
+     FIXED FOAM SAMPLE 3 YEARLY TESTING =                                                     3YR
+
+     FIXED FOAM SAMPLE ANNUAL TESTING =                                                     1YR
+ 15
+     FIXED HYPER-MIST SYSTEM DETAILS = ___________________________                         NA
+
+     FIXED HYPER-MIST SYSTEM TESTING DETAILS =                                                 1YR
+
+     FIXED SPRINKLER SYSTEM DETAILS = ____________________________                         NA
+
+     FIXED SPRINKLER TESTING DETAILS =                                                         1YR
+
+=== PDF PAGE 17 ===
+                       FIRE ALARM AND PANNEL
+
+   ALARM PANNEL & DEVICES EC TYPE EXAMINATION                                      NA
+
+   ALARM DEVICES EC TYPE EXAMINATION                                              NA
+
+   SMOKE DETECTORS TOTAL NO. =                                                   NA
+16
+    HEAT DETECTORS TOTAL NO. =                                                    NA
+
+   FLAME DETECTORS TOTAL NO. =                                                   NA
+
+    TEST KIT FOR ALL TYPES OF DETECTORS =                                             NA
+
+                 PORTABLE FIRE EXTINGUISHERS
+
+   CO2 TYPE TOTAL NOS. = _________ & LTRS. =_____________                                NA
+
+    FIRE EXTINGUISHERS ANNUAL SERVICING                                                     1YR
+
+    FIRE EXTINGUISHERS PRESSURE TESTING                                                       5YRS
+
+    DCP TYPE TOTAL NOS. = _________ & LTRS. =_____________                                NA
+
+    FIRE EXTINGUISHERS ANNUAL SERVICING                                                     1YR
+
+    FIRE EXTINGUISHERS PRESSURE TESTING                                                       5YRS
+
+   WATER - CO 2 TYPE TOTAL NOS. = _________ & LTRS. _____________                          NA
+
+    FIRE EXTINGUISHERS ANNUAL SERVICING                                                     1YR
+
+17  FIRE EXTINGUISHERS PRESSURE TESTING                                                       5YRS
+
+    AFFF MECHANICAL FOAM TYPE TOTAL NOS. = _______ & LTRS. _____                          NA
+
+    FIRE EXTINGUISHERS ANNUAL SERVICING                                                     1YR
+
+    FIRE EXTINGUISHERS PRESSURE TESTING                                                       5YRS
+
+    AFFF MECHANICAL FOAM TYPR TOTAL NOS. = _______ & 50 LTRS                             NA
+
+    FIRE EXTINGUISHERS ANNUAL SERVICING                                                     1YR
+
+    FIRE EXTINGUISHERS PRESSURE TESTING                                                       5YRS
+
+    SPARE CO2 CARTRDGES WEIGHMENT CERTIFICATE                                              1YR
+
+    SPARE CHARGES FOR FIRE EXTINGUISHERS                                         APM
+
+=== PDF PAGE 18 ===
+                       FIRE HOSES/NOZZELES/BOXES
+
+     HOSES BOXES TOTAL NO. = DK _______ E/R _______ ACCOM _______                          NA
+
+      FIRE HOSES TOTAL NO. = DK _______ E/R _______ ACCOM ________                          NA
+
+ 18  NOZZELS TOTAL NO. = DK _______ E/R _______ ACCOM ________                            NA
+
+      FIRE BLANKETS TOTAL NOS. _______ & LOCATIONS                                      NA
+
+      INT. SHORE CONNECTION                                                       NA
+
+            BRIDGE PYROTECHENICS & OTHER EQUIPMENTS
+
+     LTA TOTAL NOS. _______ & EXP                                               APM
+
+ 19  ROCKET PARACHUTE TOTAL NOS. ________ & EXP.                                   APM
+
+     DAY LIGHT SIGNALLING EQPT & SPARE BULBS
+
+                       GMDSS VHF
+
+ 20  GMDSS VHF TOTAL NOS. _______ & EXP.                                          APM
+
+                         LIFTING & LOOSE GEAR
+
+     CRANE ANNUL LOAD TEST                                                                  1YR
+
+ 21
+
+     LOOSE GEAR ANNUAL INSPECTION                                                           1YR
+
+                     OTHER EQUIPMENTS
+
+     ALCOHOL METER ANNUAL INSPECTION                                                       1YR
+
+     GAS MEASURING EQUIPMENT ANNUAL CALIBRATION O2                                         1YR
+
+     GAS MEASURING EQUIPMENT ANNUAL CALIBRATION PORTABLE                                   1YR
+
+     LAST FRESH WATER TESTING REPORT                                                           LAST
+
+ 21  OIL FLOW METER CALIBRATION CERTIFICATE                                                   1YR
+
+    FOAM ANALYSIS CERTIFICATE                                                                3YRS
+
+     PILOT LADDER CERTIFICATE                                                      NA
+
+     EMBARKATION LADDER STBD CERTIFICATE                                            NA
+
+     EMBARKATION LADDER PORT CERTIFICATE                                            NA
+
+
+
+
+
+APM = AS PER MFG. / ALSO GIVE SEREAL NUMBERS OF ALL EQUIPMENTS. AND ALL DETAILS AS PER APPROVED LSA/FFA PLAN
+
+=== PDF PAGE 19 ===
+                        DOI
+                     Card
+                                Aadhar
+                                                 Number
+
+
+                        DOE
+                     HUET
+                        DOI
+
+
+                        DOE
+
+                H2S
+
+                        DOI
+
+
+                        DOE
+                                                     SSO/STSDSD
+                        DOI
+
+
+
+                     PSSR
+
+
+
+                     care     DOE
+                                                                                EFA/MFA/Medical     DOI
+
+
+                        DOE
+                                           FPFF/AFF
+                        DOI
+
+
+                        DOE
+
+                PST
+
+                        DOI
+
+
+                FRC     DOE
+
+           in
+                                                           Proficiency     DOI
+
+
+
+                        DOE
+                           PSCRB
+
+                        DOI
+
+
+
+                        DOE
+                           GMDSS
+
+                        DOI
+
+
+
+                        DOE
+                                                                RevalidationDetails                DOI
+
+
+
+
+
+                                till
+                                        Valid
+                                     Medical
+
+                        DOICertification
+
+
+                        DOECrew
+
+
+                        DOI
+                DPO
+                                                                                                                                         Limited/Unlimited
+
+                                Date
+                                                                                                 Cancellation
+
+                                     details                        DOE
+                     pass
+                NED
+                Old
+                        DOI
+
+                                                 Number
+
+
+                        DOE
+
+                CDC
+
+                        DOI
+
+
+
+                        DOE
+
+                COC     DOI
+
+
+                                Flag
+
+
+                        DOE
+                                           Passport
+                        DOI
+
+
+                       with
+                                        Service            of Company
+                                              Duration
+
+                  Rank on type
+                                     Offshore  experience similar vessels
+
+
+                        DOE
+
+                PCC
+
+                        DOI
+
+
+                   No.
+                                INDoS
+
+
+                   DOB
+
+
+                          Rank
+
+
+
+                          Name
+
+
+
+
+
+             No
+             Sl   1  2  3  4  5  6  7  8  9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24

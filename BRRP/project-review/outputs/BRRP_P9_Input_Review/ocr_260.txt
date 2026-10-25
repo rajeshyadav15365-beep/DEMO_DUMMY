@@ -1,0 +1,44 @@
+Offshore Design Section
+Engineering Services
+felakeies | ISO — 9001:2008
+
+PIPING DESIGN CRITERIA
+
+Vol-ll Section-3.3
+Rev. No. | 4
+Discipline | Piping
+
+Page: 15 OF 15
+
+p) All lines shall be analyzed at design / operating temperature range.
+
+5.3
+
+All the piping on the bridge between two platforms shall be designed taking into account the
+
+differential movements of the two structures under extreme storm conditions (Refer table — 5
+of section 3.4 structural design criteria, Volume -II). Flexibility analysis of the piping system
+shall be carried out wherever required by the design conditions / platform movements and
+
+provide necessary loops / supporting arrangement.
+
+FIRE SUPPRESSION SYSTEM
+
+Fire Suppression system shall consists of a deluge type fire water spray network, fire
+water and foam hose reel, portable dry chemical/CO) fire extinguishers and dry chemical
+
+skid with hose reels.
+
+A deluge type water spray network shall be designed in accordance with NFPA-15.
+
+For quantity of fire water and foam hose reel refer Mechanical design criteria. The
+location and length of the hose reel shall be suitable to cover all points on the deck.
+
+FORMAT No. Ref. PROCEDURE No.
+
+REV. DATE:
+
+‘ODS/SOF/004 ‘ODS/SOP/023,
+
+21.07.2010
+

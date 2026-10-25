@@ -1,0 +1,146 @@
+[
+  [
+    "F01",
+    "SOURCE GAP CLOSED",
+    "Combined_Addendum_1 (1).pdf",
+    "27",
+    "B774-101-83-43-0001 ICW-ICG lower-deck dimensioned GA/details is supplied.",
+    "Replace prior missing-GA status with SOURCE RECEIVED / TENDER / VERIFY; update design-input register.",
+    "Engineering / Document Control"
+  ],
+  [
+    "F02",
+    "SOURCE GAP CLOSED",
+    "Combined_Addendum_1 (1).pdf",
+    "31-32",
+    "B774-102-83-43-0001 ICP-ICG lower-deck two-sheet GA/details is supplied.",
+    "Register both sheets; develop model/member/connection input from source subject to survey and checking.",
+    "Engineering"
+  ],
+  [
+    "F03",
+    "SOURCE GAP CLOSED",
+    "Combined_Addendum_1 (1).pdf",
+    "36-41",
+    "BHS-SLQ new GA, landing modifications/extensions and demolition drawing are supplied.",
+    "Map actual103series to BHS installation/service-transfer/demolition engineering; source is not AFC approval.",
+    "Engineering / Offshore"
+  ],
+  [
+    "F04",
+    "ENGINEERING SCOPE EXPANDED/CLARIFIED",
+    "Combined_Addendum_1 (1).pdf",
+    "2",
+    "Annexure specifies10bridge analysis scopes;globaldeckinplace forICP/ICG/ICW/BHS/SLQ;localdeckinplace forWIS/NOQ/NQD/WIN/NC/SC1/SCA/SCF.",
+    "Create explicit calculation/deliverable/predecessor rows; verifyNOQ naming againstNQO; do not treat allplatformchecks as one generic activity.",
+    "Engineering / Planning"
+  ],
+  [
+    "F05",
+    "APPROVAL/RECORD CLASSIFICATION",
+    "Combined_Addendum_1 (1).pdf",
+    "2",
+    "Design basis/methods, reports and AFC drawings show approval;fabrication/as-built columns show records; matrix saysnotexhaustive.",
+    "Revise101itemdraftregister and authority/evidence fields; separate perbridge/landingmethodology submissions.",
+    "Engineering / QA / Document Control"
+  ],
+  [
+    "F06",
+    "REVIEW CALENDAR CORRECTION",
+    "Appendix C-8 DCI MCI.pdf",
+    "2-4;14-18",
+    "ProjectDCI/MCI must befinalised/approved;generally10workingdays review,listedcomplexfirstreviews longer,and subsequentreviews10workingdays.",
+    "Replace4calendardayplaceholder engineering review; build working-day calendars, reviewer capacity, staggered submissions and rework loops; recompute forecasts.",
+    "Planning / Engineering"
+  ],
+  [
+    "F07",
+    "PREDECESSOR STATE CONTROL",
+    "Appendix C-8 DCI MCI.pdf",
+    "3;17-18",
+    "DocumentcategoryA/I/R differs from predecessor stateS/R/A; out-of-sequence documents can be returned withoutreview.",
+    "Map mother documents and required predecessor status; enforce release conditions and preserve baseline revision history.",
+    "Document Control / Engineering"
+  ],
+  [
+    "F08",
+    "PROGRESS RULE CORRECTION",
+    "Appendix C-8 DCI MCI.pdf",
+    "4",
+    "ReviewCatC:noengineeringprogress;CatB:60%engineeringprogress onsubmission perwording;CatA:100%. MCI first/secondstage PS approval earns5%+5%of itemprocurementweight.",
+    "Reconcile/supersede earlierproposedinternal engineering/procurementcredit rules for contractual reporting; do not interpret as wholeprojectprogress or duplicate A-10billing.",
+    "Project Controls / Contracts"
+  ],
+  [
+    "F09",
+    "PRE-ACTIVITY SUBMISSION/MWS",
+    "Appendix C-8 DCI MCI.pdf",
+    "17-18;otherapplicablerows",
+    "Starred notes call for30dayadvance submission;double-starred items requireMWS approval whereapplicable.",
+    "Add submission/assurance milestones and review buffers to relevant operation logic; check row applicability,notblanketassumeallitems.",
+    "Marine / Planning"
+  ],
+  [
+    "F10",
+    "MARINE AUDIT GATES",
+    "Appendix C-9.pdf;Appendix C-10.pdf",
+    "C9pp1-21 especially20;C10pp1-19",
+    "Vessel particulars, POB, class/statutory/crew/equipment evidence and criticalpre-sail documents are prescribed.",
+    "Create candidate-vessel audit dossiers; schedule inspections/observationclosure/clearances before mobilisation or sail-away as applicable.",
+    "Marine / HSE / Assurance"
+  ],
+  [
+    "F11",
+    "SUBCONTRACTING CONSTRAINT",
+    "Appendix B-6.pdf;Appendix A-9.pdf",
+    "B6p1;A9pp4-7",
+    "Work division/locations/commitments and retainedbidderPM/qualifyingmainactivity requirements apply; wholeworksback-to-backsubcontract notallowed.",
+    "Map retained and subcontracted scope against actualBEC route; validate bidder/consortium/subcontractor evidence before commitments.",
+    "Contracts / Project Director"
+  ],
+  [
+    "F12",
+    "VENDOR REVISION CHECK OPEN",
+    "Combined_Addendum_1 (1).pdf;Appendix A-11 Offshore SVL Revision 12.1.pdf",
+    "Coverp1;A11pp1-3",
+    "CoverreferencesSVL12.3;separately uploadedlist is12.1. Generaladdendum makeslists reference-only subjecttechnical/tenderrequirements.",
+    "Do notlabel12.1latest; confirm12.3/currentapplicability while retainingqualification/exclusion and technical controls.",
+    "Procurement / Contracts"
+  ],
+  [
+    "F13",
+    "REVISED SCC/A3 ATTACHMENT MATCH OPEN",
+    "Combined_Addendum_1 (1).pdf",
+    "Coverp1",
+    "Coverannounces revisedSCC/A3; corresponding full revised attachments are not positivelyidentified inside thetwo combined PDFs.",
+    "Match against earlier/later separatelysuppliedfiles and officialrevision evidence; filename/metadataalone is not precedence proof. Do not freeze commercial/date basis from cover alone.",
+    "Contracts / Document Control"
+  ],
+  [
+    "F14",
+    "DRAWING REGISTER RECONCILIATION",
+    "Combined_Addendum_1 (1).pdf",
+    "3-5;27",
+    "Revisedregister omits some olderstandalone0005references;101GA registershowsRev0 while sheettitleblockshowsA and revisionhistory0.",
+    "Resolve sheet/revision identity; mapold/newreferences; do not keep requesting omittedold0005sheets as definite gaps or assume workdeleted.",
+    "Document Control / Engineering"
+  ],
+  [
+    "F15",
+    "DISCIPLINE COMPLETENESS",
+    "Combined_Addendum_1 (1).pdf;Combined_Addendum_2.pdf",
+    "C1pp42-285;C2pp1-250",
+    "Substantial electrical, instrumentation and piping specifications/ITPs/standards are now available.",
+    "Build scope-specific specification/MTO/vendor/test matrix; piping stress reactions must feed structure; attached genericstandards do not automatically create additional facilities.",
+    "Discipline Leads / Procurement / QA"
+  ],
+  [
+    "F16",
+    "FORM/VERSION COMPLIANCE",
+    "Appendix A-9.pdf;Addendum (1).pdf;Appendix B-5.pdf",
+    "A9pp4-5;Addendump1;B5p1",
+    "OriginalA9item13 yard-information provision is deleted byaddendum;experienceforms and qualifyingthresholdreferences requireBEC cross-check.",
+    "Maintain amendedcompliance matrix; do notapplydeletedclause ordeclareeligibilityfromaformalone.",
+    "Contracts / Bid Compliance"
+  ]
+]

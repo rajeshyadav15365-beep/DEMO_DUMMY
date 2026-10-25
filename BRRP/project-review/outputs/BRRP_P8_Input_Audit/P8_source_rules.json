@@ -1,0 +1,137 @@
+{
+  "general_review_working_days": 10,
+  "review_status_engineering_credit": {
+    "Cat C": 0,
+    "Cat B": 60,
+    "Cat A": 100
+  },
+  "PS_stage_item_weight_credit_percent": [
+    5,
+    5
+  ],
+  "scope": "SourceC8rules subjectprojectDCI/MCIapplicability;notglobalprojectprogress",
+  "global_deck_platforms": [
+    "ICP",
+    "ICG",
+    "ICW",
+    "BHS",
+    "SLQ"
+  ],
+  "local_deck_platform_labels_as_printed": [
+    "WIS",
+    "NOQ",
+    "NQD",
+    "WIN",
+    "NC",
+    "SC1",
+    "SCA",
+    "SCF"
+  ],
+  "drawing_source_locations": [
+    [
+      "B774-000-83-43-0001",
+      "Generalnotes",
+      6,
+      7,
+      "Reference source;register2sheets"
+    ],
+    [
+      "B774-101-83-43-0001",
+      "ICW-ICG LD GA/details",
+      27,
+      27,
+      "Tender;revisionconflict register0/titleA"
+    ],
+    [
+      "B774-101-83-43-0002",
+      "ICWlandingmodification",
+      28,
+      28,
+      "Tender;verifycurrentrevision"
+    ],
+    [
+      "B774-101-83-43-0003",
+      "ICWlandingextension",
+      29,
+      29,
+      "Tender;verifycurrentrevision"
+    ],
+    [
+      "B774-101-83-43-0004",
+      "ICGlandingmodification",
+      30,
+      30,
+      "Tender;mapassociatedextensiondetails"
+    ],
+    [
+      "B774-102-83-43-0001",
+      "ICP-ICG LD GA/details sheets1and2",
+      31,
+      32,
+      "Tender;RevA inrevisedregister"
+    ],
+    [
+      "B774-102-83-43-0002",
+      "ICPlandingmodification",
+      33,
+      33,
+      "Tender"
+    ],
+    [
+      "B774-102-83-43-0003",
+      "ICPlandingextension",
+      34,
+      34,
+      "Tender"
+    ],
+    [
+      "B774-102-83-43-0004",
+      "ICGlandingmodification",
+      35,
+      35,
+      "Tender"
+    ],
+    [
+      "B774-103-83-43-0001",
+      "BHS-SLQ new GA/details",
+      36,
+      36,
+      "Tender;notAFC"
+    ],
+    [
+      "B774-103-83-43-0002",
+      "BHSlandingmodification",
+      37,
+      37,
+      "Tender"
+    ],
+    [
+      "B774-103-83-43-0003",
+      "BHSlandingextension",
+      38,
+      38,
+      "Tender"
+    ],
+    [
+      "B774-103-83-43-0004",
+      "SLQlandingmodification",
+      39,
+      39,
+      "Tender"
+    ],
+    [
+      "B774-103-83-43-0005",
+      "SLQlandingextension",
+      40,
+      40,
+      "Tender"
+    ],
+    [
+      "B774-103-83-43-0006",
+      "BHS-SLQ existingbridge demolition",
+      41,
+      41,
+      "Tender;engineering/operationalrelease stillrequired"
+    ]
+  ]
+}

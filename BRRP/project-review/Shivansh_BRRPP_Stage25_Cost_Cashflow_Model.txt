@@ -1,0 +1,95 @@
+
+SHEET READ ME
+SHIVANSH BRRP — STAGE 25 | PRE-AWARD COST & CASH FLOW MODEL
+Status | Illustrative, not bid price or verified resource estimate
+Commencement assumption | 2026-11-01 (conditional)
+Contract duration | 360 calendar days; SCC verification pending
+Printed structural MTO (MT) | 1142
+Bridge row total (MT) | 1141
+Difference (MT) | 1
+Demolition quantity (MT) | 357
+Cost entries | Input quotations/rates only; blank means not priced
+Important | All marine, lifting, structural and demolition methods require qualified engineering approval
+
+SHEET Bridge Cost Model
+Bridge | Steel MT | Demolition MT | Workstream | Material ₹/MT | Shop fabrication ₹/MT | Offshore work ₹/MT | Demolition ₹/MT | Other direct ₹ | Marine allocation ₹ | Engineering QA ₹ | Contingency ₹ | Forecast cost ₹ | Quoted value ₹ | Margin ₹ | Pricing status
+ICW–ICG UD | 49 | 25 | Strengthening A |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+ICW–ICG LD | 122 | 1 | New bridge |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+ICG–ICP UD | 116 | 25 | Strengthening A |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+ICG–ICP LD | 160 | 1 | New bridge |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+BHS–SLQ | 282 | 210 | Replacement |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+SLQ–WIS | 91 | 15 | Strengthening A |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+NQO–NQD | 93 | 25 | Strengthening B |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+WIN–NC | 46 | 10 | Strengthening B |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+SCA–SC1 | 63 | 15 | Strengthening B |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+SCA–SCF | 119 | 30 | Strengthening B |  |  |  |  |  |  |  |  |  |  |  | UNPRICED
+BRIDGE ROW TOTAL | 1141 | 357 |  |  |  |  |  |  |  |  |  | 0 | 0 | 0 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Printed MTO steel MT | 1142 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Difference against rows | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Status | Printed summary differs by 1 MT; investigate source MTO |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+SHEET Shared Resources
+Resource | Units / days | Unit rate ₹ | Mobilisation ₹ | Forecast cost ₹ | Evidence / supplier
+Engineering support (hours) |  |  |  |  | 
+Fabrication lines (line-days) |  |  |  |  | 
+Strengthening crews (crew-days) |  |  |  |  | 
+Bridge installation crew (crew-days) |  |  |  |  | 
+Heavy-lift spread (charter days) |  |  |  |  | 
+Accommodation barge (days) |  |  |  |  | 
+Cargo barge (days) |  |  |  |  | 
+Tugs / AHTS (days) |  |  |  |  | 
+QA NDT inspection (days) |  |  |  |  | 
+Project management (staff-months) |  |  |  |  | 
+Insurance bonds permits (lump sum) |  |  |  |  | 
+Risk allowance (lump sum) |  |  |  |  | 
+ |  |  |  |  | 
+SHARED RESOURCES TOTAL |  |  |  | 0 | 
+ |  |  |  |  | 
+Allocation rule: assign shared costs to bridges only once. Do not double-count Bridge Cost Model column J/K and this sheet. |  |  |  |  | 
+
+SHEET 29 Week Cash Flow
+Week | Stage | Engineering % | Materials % | Fabrication % | Marine % | Offshore % | Other % | Weekly planned ₹ | Cost category | Approved budget ₹ | Allocated % | Allocation check |  | Cumulative spend ₹ |  | 
+1 | Mobilise |  |  |  |  |  |  | #VALUE! | Engineering |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+2 | Mobilise |  |  |  |  |  |  | #VALUE! | Materials |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+3 | Mobilise |  |  |  |  |  |  | #VALUE! | Fabrication |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+4 | Mobilise |  |  |  |  |  |  | #VALUE! | Marine |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+5 | Engineer/procure |  |  |  |  |  |  | #VALUE! | Offshore |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+6 | Engineer/procure |  |  |  |  |  |  | #VALUE! | Other |  | 0 | AWAITING BUDGET | #VALUE! |  |  | 
+7 | Engineer/procure |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+8 | Engineer/procure |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+9 | Fabrication ramp |  |  |  |  |  |  | #VALUE! | TOTAL CATEGORY BUDGET | 0 |  |  | #VALUE! |  |  | 
+10 | Fabrication ramp |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+11 | Fabrication ramp |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+12 | Fabrication ramp |  |  |  |  |  |  | #VALUE! | Total planned ₹ | #VALUE! |  |  | #VALUE! |  |  | 
+13 | Peak fabrication |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+14 | Peak fabrication |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+15 | Peak fabrication |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+16 | Peak fabrication |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+17 | Offshore installations |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+18 | Offshore installations |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+19 | Offshore installations |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+20 | Offshore installations |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+21 | Install/strengthen |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+22 | Install/strengthen |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+23 | Install/strengthen |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+24 | Install/strengthen |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+25 | Replace/demolish |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+26 | Replace/demolish |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+27 | Replace/demolish |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+28 | Replace/demolish |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+29 | Closeout |  |  |  |  |  |  | #VALUE! |  |  |  |  | #VALUE! |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Note: Enter percentages as decimal fractions (e.g., 0.10 for 10%). Cost category budgets and distribution must be validated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+SHEET CEO Gates
+Gate | Owner | Required evidence | Current status
+Quantity freeze | Engineering | Reconcile 1 MT; bridge-specific MTO and demolition | OPEN
+Contractual dates | Contracts | NOA / commencement; SCC monsoon and milestones | OPEN
+Yard readiness | Fabrication | Production slots, audited accepted throughput | OPEN
+Marine readiness | Marine | Certified vessel data, lift studies, availability | OPEN
+Offshore productivity | Construction | Weld/joint workpacks, crew-hours and access | OPEN
+Commercial pricing | Commercial | Signed quotations and charter terms | OPEN
+Resource CPM | Planning | P6 logic, calendars, levelling, critical path | OPEN
+Cash funding | Finance | Mobilisation, cash deficit, invoice and receipt terms | OPEN
+Quality / HSE | QA/HSE | ITPs, lifting assurance, SIMOPS, permits | OPEN

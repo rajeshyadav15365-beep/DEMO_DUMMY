@@ -1,0 +1,294 @@
+
+SHEET MTO Baseline
+Bridge | Deck | Type | New bridge MT | Strengthen bridge MT | New landing MT | Strengthen landing MT | Demolition MT | Handrail m | Grating m2 | GI sheet m2 | Construction MT
+ICW-ICG UD | Upper | Strengthening | 0 | 19 | 0 | 30 | 25 | 110 | 58 | 273 | 49
+ICW-ICG LD | Lower | New | 57 | 0 | 65 | 0 | 1 | 118 | 88 | 0 | 122
+ICG-ICP UD | Upper | Strengthening | 0 | 86 | 0 | 30 | 25 | 93 | 49 | 419 | 116
+ICG-ICP LD | Lower | New | 115 | 0 | 45 | 0 | 1 | 176 | 132 | 0 | 160
+BHS-SLQ | Lower | Replacement | 195 | 0 | 87 | 0 | 210 | 88 | 82 | 332 | 282
+SLQ-WIS | Lower | Strengthening | 0 | 61 | 0 | 30 | 15 | 98 | 51 | 0 | 91
+NQO-NQD | — | Strengthening | 0 | 63 | 0 | 30 | 25 | 93 | 58 | 250 | 93
+WIN-NC | — | Strengthening | 0 | 6 | 0 | 40 | 10 | 45 | 29 | 0 | 46
+SCA-SC1 | — | Strengthening | 0 | 35 | 0 | 28 | 15 | 88 | 55 | 0 | 63
+SCA-SCF | — | Strengthening | 0 | 91 | 0 | 28 | 30 | 257 | 116 | 0 | 119
+TOTAL |  |  | 367 | 361 | 197 | 216 | 357 | 1166 | 718 | 1274 | 1141
+
+SHEET Bridge Execution
+Bridge | Work type | Proposed sequence | Owner | Status | Planned start | Planned finish | Actual finish | Mandatory gates
+ICW-ICG UD | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+ICW-ICG LD | New | Survey > landing engineering > fabricate bridge > trial assembly > marine lift > connections > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+ICG-ICP UD | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+ICG-ICP LD | New | Survey > landing engineering > fabricate bridge > trial assembly > marine lift > connections > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+BHS-SLQ | Replacement | Survey > new bridge/landings > install new > transfer/test services > demolition permit > remove old > closeout | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+SLQ-WIS | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+NQO-NQD | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+WIN-NC | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+SCA-SC1 | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+SCA-SCF | Strengthening | Survey > structural assessment > engineered temporary support > phased strengthening > NDT/coating > acceptance | Engineering lead | Not started |  |  |  | Engineering approval; marine readiness; ONGC permit
+
+SHEET 360 Day Plan
+Activity | Start day | Finish day | Accountable | Gate / predecessor | Actual start | Actual finish | Progress % | Remarks
+Contract and scope reconciliation | 1 | 15 | PMO | Contract scope frozen |  |  |  | Proposed only; rebaseline to award and monsoon
+Mobilise PMO and design partner | 1 | 30 | Project Director | Competence/contract review |  |  |  | Proposed only; rebaseline to award and monsoon
+Offshore surveys / as-built verification | 10 | 75 | Engineering | Survey acceptance |  |  |  | Proposed only; rebaseline to award and monsoon
+Structural analysis / constructability | 25 | 120 | Engineering | Independent design check |  |  |  | Proposed only; rebaseline to award and monsoon
+AFC releases bridge-wise | 60 | 150 | Engineering | ONGC review/approval |  |  |  | Proposed only; rebaseline to award and monsoon
+Long lead procurement | 55 | 190 | Procurement | Vendor / material release |  |  |  | Proposed only; rebaseline to award and monsoon
+Fabrication and trial assembly | 95 | 245 | Fabrication | NDT/dimensional acceptance |  |  |  | Proposed only; rebaseline to award and monsoon
+Weight, COG and lift engineering | 110 | 245 | Marine Engineering | Certified lift readiness |  |  |  | Proposed only; rebaseline to award and monsoon
+Marine assurance / vessel mobilisation | 170 | 250 | Marine | Vessel audit/permit |  |  |  | Proposed only; rebaseline to award and monsoon
+Strengthening offshore campaign | 165 | 310 | Offshore Construction | Approved method statements |  |  |  | Proposed only; rebaseline to award and monsoon
+New bridge offshore installation | 220 | 315 | Offshore Construction | Lift authorization |  |  |  | Proposed only; rebaseline to award and monsoon
+BHS-SLQ utility transfer and removal | 245 | 335 | Construction / ONGC Ops | Utility transfer acceptance before demolition |  |  |  | Proposed only; rebaseline to award and monsoon
+Final inspections and handover | 315 | 360 | QA/QC | As-built/closeout |  |  |  | Proposed only; rebaseline to award and monsoon
+
+SHEET Engineering Register
+Bridge | Deliverable | Document no | Rev | Owner | Planned submission | Actual submission | ONGC status | Approval date | Remarks
+ICW-ICG UD | Survey report |  |  |  |  |  | Not submitted |  | 
+ICW-ICG UD | Structural analysis |  |  |  |  |  | Not submitted |  | 
+ICW-ICG UD | AFC drawing |  |  |  |  |  | Not submitted |  | 
+ICW-ICG UD | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+ICW-ICG UD | Installation methodology |  |  |  |  |  | Not submitted |  | 
+ICW-ICG LD | Survey report |  |  |  |  |  | Not submitted |  | 
+ICW-ICG LD | Structural analysis |  |  |  |  |  | Not submitted |  | 
+ICW-ICG LD | AFC drawing |  |  |  |  |  | Not submitted |  | 
+ICW-ICG LD | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+ICW-ICG LD | Installation methodology |  |  |  |  |  | Not submitted |  | 
+ICG-ICP UD | Survey report |  |  |  |  |  | Not submitted |  | 
+ICG-ICP UD | Structural analysis |  |  |  |  |  | Not submitted |  | 
+ICG-ICP UD | AFC drawing |  |  |  |  |  | Not submitted |  | 
+ICG-ICP UD | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+ICG-ICP UD | Installation methodology |  |  |  |  |  | Not submitted |  | 
+ICG-ICP LD | Survey report |  |  |  |  |  | Not submitted |  | 
+ICG-ICP LD | Structural analysis |  |  |  |  |  | Not submitted |  | 
+ICG-ICP LD | AFC drawing |  |  |  |  |  | Not submitted |  | 
+ICG-ICP LD | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+ICG-ICP LD | Installation methodology |  |  |  |  |  | Not submitted |  | 
+BHS-SLQ | Survey report |  |  |  |  |  | Not submitted |  | 
+BHS-SLQ | Structural analysis |  |  |  |  |  | Not submitted |  | 
+BHS-SLQ | AFC drawing |  |  |  |  |  | Not submitted |  | 
+BHS-SLQ | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+BHS-SLQ | Installation methodology |  |  |  |  |  | Not submitted |  | 
+SLQ-WIS | Survey report |  |  |  |  |  | Not submitted |  | 
+SLQ-WIS | Structural analysis |  |  |  |  |  | Not submitted |  | 
+SLQ-WIS | AFC drawing |  |  |  |  |  | Not submitted |  | 
+SLQ-WIS | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+SLQ-WIS | Installation methodology |  |  |  |  |  | Not submitted |  | 
+NQO-NQD | Survey report |  |  |  |  |  | Not submitted |  | 
+NQO-NQD | Structural analysis |  |  |  |  |  | Not submitted |  | 
+NQO-NQD | AFC drawing |  |  |  |  |  | Not submitted |  | 
+NQO-NQD | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+NQO-NQD | Installation methodology |  |  |  |  |  | Not submitted |  | 
+WIN-NC | Survey report |  |  |  |  |  | Not submitted |  | 
+WIN-NC | Structural analysis |  |  |  |  |  | Not submitted |  | 
+WIN-NC | AFC drawing |  |  |  |  |  | Not submitted |  | 
+WIN-NC | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+WIN-NC | Installation methodology |  |  |  |  |  | Not submitted |  | 
+SCA-SC1 | Survey report |  |  |  |  |  | Not submitted |  | 
+SCA-SC1 | Structural analysis |  |  |  |  |  | Not submitted |  | 
+SCA-SC1 | AFC drawing |  |  |  |  |  | Not submitted |  | 
+SCA-SC1 | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+SCA-SC1 | Installation methodology |  |  |  |  |  | Not submitted |  | 
+SCA-SCF | Survey report |  |  |  |  |  | Not submitted |  | 
+SCA-SCF | Structural analysis |  |  |  |  |  | Not submitted |  | 
+SCA-SCF | AFC drawing |  |  |  |  |  | Not submitted |  | 
+SCA-SCF | Fabrication drawing |  |  |  |  |  | Not submitted |  | 
+SCA-SCF | Installation methodology |  |  |  |  |  | Not submitted |  | 
+
+SHEET Procurement
+Bridge | Material/package | Baseline quantity | Unit | Supplier | RFQ date | PO date | Promised date | Received quantity | QA release | Status
+ICW-ICG UD | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+ICW-ICG UD | Bridge strengthening steel | 19 | MT |  |  |  |  |  |  | Not started
+ICW-ICG UD | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+ICW-ICG UD | Landing strengthening steel | 30 | MT |  |  |  |  |  |  | Not started
+ICW-ICG UD | Handrails | 110 | m |  |  |  |  |  |  | Not started
+ICW-ICG UD | Grating | 58 | m2 |  |  |  |  |  |  | Not started
+ICW-ICG UD | GI sheeting | 273 | m2 |  |  |  |  |  |  | Not started
+ICW-ICG LD | Construction steel | 57 | MT |  |  |  |  |  |  | Not started
+ICW-ICG LD | Bridge strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+ICW-ICG LD | New landing steel | 65 | MT |  |  |  |  |  |  | Not started
+ICW-ICG LD | Landing strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+ICW-ICG LD | Handrails | 118 | m |  |  |  |  |  |  | Not started
+ICW-ICG LD | Grating | 88 | m2 |  |  |  |  |  |  | Not started
+ICW-ICG LD | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+ICG-ICP UD | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+ICG-ICP UD | Bridge strengthening steel | 86 | MT |  |  |  |  |  |  | Not started
+ICG-ICP UD | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+ICG-ICP UD | Landing strengthening steel | 30 | MT |  |  |  |  |  |  | Not started
+ICG-ICP UD | Handrails | 93 | m |  |  |  |  |  |  | Not started
+ICG-ICP UD | Grating | 49 | m2 |  |  |  |  |  |  | Not started
+ICG-ICP UD | GI sheeting | 419 | m2 |  |  |  |  |  |  | Not started
+ICG-ICP LD | Construction steel | 115 | MT |  |  |  |  |  |  | Not started
+ICG-ICP LD | Bridge strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+ICG-ICP LD | New landing steel | 45 | MT |  |  |  |  |  |  | Not started
+ICG-ICP LD | Landing strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+ICG-ICP LD | Handrails | 176 | m |  |  |  |  |  |  | Not started
+ICG-ICP LD | Grating | 132 | m2 |  |  |  |  |  |  | Not started
+ICG-ICP LD | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+BHS-SLQ | Construction steel | 195 | MT |  |  |  |  |  |  | Not started
+BHS-SLQ | Bridge strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+BHS-SLQ | New landing steel | 87 | MT |  |  |  |  |  |  | Not started
+BHS-SLQ | Landing strengthening steel | 0 | MT |  |  |  |  |  |  | Not started
+BHS-SLQ | Handrails | 88 | m |  |  |  |  |  |  | Not started
+BHS-SLQ | Grating | 82 | m2 |  |  |  |  |  |  | Not started
+BHS-SLQ | GI sheeting | 332 | m2 |  |  |  |  |  |  | Not started
+SLQ-WIS | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+SLQ-WIS | Bridge strengthening steel | 61 | MT |  |  |  |  |  |  | Not started
+SLQ-WIS | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+SLQ-WIS | Landing strengthening steel | 30 | MT |  |  |  |  |  |  | Not started
+SLQ-WIS | Handrails | 98 | m |  |  |  |  |  |  | Not started
+SLQ-WIS | Grating | 51 | m2 |  |  |  |  |  |  | Not started
+SLQ-WIS | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+NQO-NQD | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+NQO-NQD | Bridge strengthening steel | 63 | MT |  |  |  |  |  |  | Not started
+NQO-NQD | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+NQO-NQD | Landing strengthening steel | 30 | MT |  |  |  |  |  |  | Not started
+NQO-NQD | Handrails | 93 | m |  |  |  |  |  |  | Not started
+NQO-NQD | Grating | 58 | m2 |  |  |  |  |  |  | Not started
+NQO-NQD | GI sheeting | 250 | m2 |  |  |  |  |  |  | Not started
+WIN-NC | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+WIN-NC | Bridge strengthening steel | 6 | MT |  |  |  |  |  |  | Not started
+WIN-NC | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+WIN-NC | Landing strengthening steel | 40 | MT |  |  |  |  |  |  | Not started
+WIN-NC | Handrails | 45 | m |  |  |  |  |  |  | Not started
+WIN-NC | Grating | 29 | m2 |  |  |  |  |  |  | Not started
+WIN-NC | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+SCA-SC1 | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+SCA-SC1 | Bridge strengthening steel | 35 | MT |  |  |  |  |  |  | Not started
+SCA-SC1 | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+SCA-SC1 | Landing strengthening steel | 28 | MT |  |  |  |  |  |  | Not started
+SCA-SC1 | Handrails | 88 | m |  |  |  |  |  |  | Not started
+SCA-SC1 | Grating | 55 | m2 |  |  |  |  |  |  | Not started
+SCA-SC1 | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+SCA-SCF | Construction steel | 0 | MT |  |  |  |  |  |  | Not started
+SCA-SCF | Bridge strengthening steel | 91 | MT |  |  |  |  |  |  | Not started
+SCA-SCF | New landing steel | 0 | MT |  |  |  |  |  |  | Not started
+SCA-SCF | Landing strengthening steel | 28 | MT |  |  |  |  |  |  | Not started
+SCA-SCF | Handrails | 257 | m |  |  |  |  |  |  | Not started
+SCA-SCF | Grating | 116 | m2 |  |  |  |  |  |  | Not started
+SCA-SCF | GI sheeting | 0 | m2 |  |  |  |  |  |  | Not started
+
+SHEET Fabrication
+Bridge | Module ID | Drawing rev | Steel MT | Planned start | Actual start | Weld completion % | NDT release | Dimensional release | Coating release | Trial fit | Status
+ICW-ICG UD | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+ICW-ICG LD | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+ICG-ICP UD | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+ICG-ICP LD | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+BHS-SLQ | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+SLQ-WIS | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+NQO-NQD | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+WIN-NC | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+SCA-SC1 | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+SCA-SCF | TO DEFINE |  |  |  |  |  | Pending | Pending | Pending | Pending | Not started
+
+SHEET Lift COG Register
+Bridge | Module ID | Calculated dry MT | Rigging MT | Other lifted MT | Gross lifted MT | COG X | COG Y | COG Z | Crane/vessel | Radius m | Lift study approval | Status
+ICW-ICG UD | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+ICW-ICG LD | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+ICG-ICP UD | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+ICG-ICP LD | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+BHS-SLQ | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+SLQ-WIS | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+NQO-NQD | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+WIN-NC | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+SCA-SC1 | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+SCA-SCF | TO DEFINE |  |  |  |  |  |  |  |  |  | Pending | Not approved
+
+SHEET Marine Readiness
+Vessel / spread | Function | Class / statutory | Crane chart | Deck capacity | Berths | DP/mooring | Weather limits | ONGC audit | Availability | Decision
+Shivansh Shambhavi | Accommodation / work support |  |  |  |  |  |  |  |  | Verify
+Shivansh Priya | Diving support if required |  |  |  |  |  |  |  |  | Verify
+AHTS Garnet | Towing / anchor handling |  |  |  |  |  |  |  |  | Verify
+Heavy lift vessel (TBD) | Module installation |  |  |  |  |  |  |  |  | Not selected
+Cargo barge (TBD) | Transport / sea fastening |  |  |  |  |  |  |  |  | Not selected
+
+SHEET Hold Points
+Bridge | Stage | Required evidence | Reviewer | Planned date | Actual date | Release status
+ICW-ICG UD | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG UD | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG UD | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG UD | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG UD | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG UD | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+ICW-ICG LD | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP UD | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+ICG-ICP LD | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+BHS-SLQ | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+SLQ-WIS | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+NQO-NQD | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+WIN-NC | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+SCA-SC1 | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | Survey | Accepted dimensions and interfaces | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | AFC | Checked design and approved drawings | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | Fabrication | Traceability, WPS, NDT, dimensions | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | Lift | Weight/COG, lift plan, vessel assurance | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | Offshore | Permit, SIMOPS, approved work pack | Qualified engineer / ONGC |  |  | HOLD
+SCA-SCF | Handover | Final inspection and as-builts | Qualified engineer / ONGC |  |  | HOLD
+
+SHEET Risks
+ID | Bridge | Risk | Consequence | Owner | Probability | Impact | Mitigation | Due date | Status
+R01 | BHS-SLQ | Live utility transfer | Unsafe demolition / outage | Construction | TBD | TBD | Transfer and test services before demolition |  | Open
+R02 | ICG-ICP LD | Heavy lift capacity unknown | Lift infeasibility | Marine | TBD | TBD | Verify gross lift weight, radius, weather |  | Open
+R03 | ICW-ICG UD | As-built mismatch | Rework | Engineering | TBD | TBD | Early survey and design freeze |  | Open
+R04 | SCA-SCF | Offshore access / weather | Schedule delay | Planning | TBD | TBD | Seasonal and contingency planning |  | Open
+
+SHEET CEO Dashboard
+Metric | Baseline | Actual | Unit | Status / note
+Construction and strengthening steel | 945 |  | MT | MTO baseline
+Demolition | 357 |  | MT | MTO baseline
+Handrails | 1168 |  | m | MTO baseline
+Grating | 719 |  | m2 | MTO baseline
+GI sheeting | 1274 |  | m2 | MTO baseline
+Engineering progress |  |  | % | Populate after DCI approved
+Procurement progress |  |  | % | Populate after PO register
+Fabrication progress |  |  | % | Populate after module breakdown
+Offshore progress |  |  | % | Populate after workpack acceptance
+Forecast cost at completion |  |  | INR | Commercial team input
+
+SHEET Assumptions
+ID | Assumption / limitation | Verification required | Owner
+A01 | MTO is tender-stage, not AFC | Survey and AFC reconciliation | Engineering
+A02 | No module weights or COG inferred from MTO | Module design and certified weighing | Marine Engineering
+A03 | Day 1-360 programme is illustrative | Award date, contractual monsoon treatment, CPM | Planning
+A04 | Fleet presence does not establish vessel suitability | Class, crane charts, marine audit and availability | Marine
+A05 | Separate S&SRP tender is not BRRP governing specification | Check incorporated contract documents | Contracts

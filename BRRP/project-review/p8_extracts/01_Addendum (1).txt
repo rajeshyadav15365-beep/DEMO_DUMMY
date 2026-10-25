@@ -1,0 +1,221 @@
+
+=== PDF PAGE 1 ===
+                      Addendum
+
+ Clause
+ ▪  The suggested vendor list (SVL), included anywhere in tender documents, shall be only for purpose of reference to bidders and bidder shall be free to
+    quote any other make/model which meets the technical specifications and other requirements of the tender documents.
+
+ ▪  The list of agencies/yards provided in Appendix A-16 of the tender documents is only for purpose of reference to bidders and bidder shall be free to
+    propose any agencies/yards for sub-contracting in appendix B-6. However, Commitment letter from the proposed sub-contractors on their letterhead
+    addressed to bidder shall be submitted along with the bid.
+
+ Note: In case of any contradiction between the above clauses and any provisions contained in TBP, SCC or elsewhere in any other tender document, the
+ above clause shall prevail.
+
+
+Technical BEC:
+
+
+ Clause no    Existing Clause                                                             Revised clause
+
+ 5.5           For the purpose of assessment of the capability of the bidder, the adequacy of           Deleted
+                Fabrication Yard(s) proposed by the bidder to execute the Works, existing at the time of
+               bidding and availability of these yards during the Construction Schedule of the project
+                 shall be evaluated.
+
+
+Appendix A-9 :
+
+ Clause no    Existing Clause                                                                     Revised Clause
+
+ 13                Sl.     Company’s Query                                  Bidder’s   Remarks             Deleted
+               No.                                               Response
+              13      For the purpose of assessment of the adequacy of              Bidders are
+                        the sub-contractors facilities at fabrication yard(s)              requested to
+                          (Refer clause no. 5.5 of BEC A-2 technical):                    submit all relevant
+                                                                                                   details.
+
+=== PDF PAGE 2 ===
+                      Addendum
+
+                          Fabrication Yard (s)
+                          Details of facilities available at each fabrication
+                          yard. Manpower available at each fabrication yard.
+                         Contractor’s organogram at fabrication unit, past
+                          track record, in last 15 years. However, in case the
+                           fabrication yard(s) is/ are already listed in Appendix
+                        A-16 at sl no 3.A.3 [Deck and Topsides of Process
+                     and Well Platform] or 3.A.4 [Deck and Topsides of
+                        Well Platform] or 3.A.5 [PGC MODULE] or 3.A.6
+                             [Living Quarters and Building Modules] or 3.A.8
+                         [Top side Modification Works], above details are
+                        not required to be submitted. Commitment letters
+                      from Fabrication agencies are required to be
+                       submitted in line with Note 4 of appendix B-6.
+
+
+
+Appendix A-13: Evaluation Criteria for new yard(s) without adequate track record is treated as deleted.
+
+Technical SCC :
+
+ Clause no    Existing Clause          Revised Clause
+
+ 15         No clause                Charges incurred towards catering facilities for any contractual personnel deployed by the Contractor
+                                              at ONGC offshore worksites under the contract shall be recoverable/chargeable as per the applicable
+                                             rates prevailing under the respective ONGC worksite contract. (Catering charges per person per day
+                                      as per present contract is INR 1187.8).
+
+                                        Note: In case of any contradiction between the above clause and any provisions contained in TBP,
+                              SCC or elsewhere in any other tender document, the above clause shall prevail.
+
+=== PDF PAGE 3 ===
+                      Addendum
+
+
+
+Appendix A-3 & BRS:
+
+ Clause no   Existing Clause                                    Revised Clause
+
+ Para No       I.A. LUMP SUM PRICE                                             I.A. LUMP SUM PRICE
+ I.A.
+              …..                              …
+
+                                                                                     Currency (Bidder to enter  Quote       Quote
+                                                                    name of currency eg.      Currency*   Amount
+                                                                            INR/USD etc.
+
+                                                                   Subtotal         X                   X
+                                                                                     I.A. [I.A()(a)+ I.A (i)
+                                                                                      (b)]
+
+
+                                                                     …..
+
+=== PDF PAGE 4 ===
+                          Addendum
+
+     Appendix A-10:
+
+Claus  Existing Clause                                             Revised Clause
+  e no
+
+  Para
+  No
+                                                                     Ref   Activit   Weightage    Milestone    Milestone   4.2      Ref         Activity    Weightag   Milestone   Milestone
+                                                                            y          (B)       %(D)  for Payment                                   e (B)     %(D)        for
+                      (A)                                                    Payment                                                                                 (A)                                      (E)
+                                                             (E)                                                                                4.2   Repair/       6.04 %           5      a) Upon
+                                                                                  Refurbi                               progressive            4.2         Repair/Re   6.04 %     5            a)  Upon                                                                                                  of I.A of                                                                          shment                              placement                       furbishme                           progressiv                                                                                                       Price                                     of  I.A  of                                      of ICG-                               of LOI and                           nt of ICG-                         e                                                                                         Schedule                                      Price                              ICW                              acceptance                ICW                              placement                                                                                               (A-3)                                  Schedule                               UD,IC                           by vendor.                    UD,ICP-                             of   LOI
+                                   (A-3)                                   P-ICG                  ICG                             and                                                                                                    5           b1).                                                               UD,SL                  UD,SLQ-                          acceptanc                                                                              5% Upon                                                                       Q-                 WIS,NQO                         e      by                                                                                                                           progressive                                                                WIS,N                               -                                   vendor.                                                                                                                      approval of                                                              QO-                 NQD,WI                                                                                                                           prelim                                         5            b1).               NQD,                    N-                                                                                                                     Purchase                                       5% Upon           WIN-                 NC,SCA                                                                                                                                 Specificatio                                                              progressiv          NC,SC                     –                                                                                                                       ns at 1st                                                          e approval          A –                  SC1,SCA                                                                                                                               Stage, for                                                              of  prelim          SC1,SC                         Flare                                                                                            PS items, as                                                         Purchase         A Flare
+                                                                                                                                   applicable.                                                                 Specificat
+                                                                                                               #                                                              ions at 1st
+                                                               Stage,  for                                                                                                    5       b2). 5%
+                                              PS  items,                                                                                                 Upon
+                                                              as                                                                                                                           progressive
+
+=== PDF PAGE 5 ===
+Addendum
+
+
+                 applicable                                                  approval of
+                            . #                                                                           final
+                                                                           Purchase
+    5            b2).  5%                                                                                  Specificatio
+             Upon                                                                    n at 2nd
+                 progressiv                                                                                 Stage, for
+                e approval                                                          PS items, as
+                 of    final                                                                                   applicable.
+               Purchase                                                                          #
+                 Specificat
+                ion at 2nd                                       60      c) Upon
+                 Stage,  for                                                   progressive
+            PS  items,                                                       dispatch
+                 as                                                         from
+                 applicable                                                   vendor
+                            . #                                                    works and
+                                                                         submission
+    60           c)  Upon                                                                                        of
+                 progressiv                                                                                 inspection
+                e dispatch                                          & dispatch
+              from                                                                       documents.
+               vendor
+              works and                                       25      d) Upon
+                submissio                                                    progressive
+              n       of                                                             arrival at
+                 inspection                                                        fabrication
+         &                                                                    yard/site
+                 dispatch                                                  submission
+              document                                                     of material
+                      s.                                                                                  test
+                                                                                          certificates
+    20          d)  Upon                                                                       and test
+                 progressiv                                                                                           reports,
+
+=== PDF PAGE 6 ===
+                         Addendum
+
+
+                                                         e arrival at                                                        verification
+                                                                  fabricatio                                            by TPI/CA
+                                                   n yard/site                                                   and
+                                                         submissio                                                  acceptance
+                                                   n       of                                                  by
+                                                              material                                            Company.
+                                                                         test
+                                                                      certificate
+                                                                 s and test   Note: # For non-PS-items, 10% above (b1 & b2) shall be clubbed
+                                                                   reports,      with dispatch of material milestone (c)
+                                                                    verificatio
+                                                   n      by
+                                                TPI/CA
+                                                     and
+                                                          acceptanc
+                                                         e      by
+                                                 Company.
+
+
+       Note: # For non-PS-items, 10% above (b1 & b2) shall be clubbed
+       with dispatch of material milestone (c)
+
+ Para
+12 &
+       Re  Activity   Weightage   Milestone     Milestone for                                         No clause  13
+             f                   (B)      %(D)        Payment
+                (A)
+                                                              (E)
+
+                                              For first
+                          3.00 %
+        12   Mob                              mobilization,                          of I.A. of
+                                                   after getting all
+                            Price
+                                                       statutory
+
+=== PDF PAGE 7 ===
+                    Addendum
+
+
+               Schedule                   clearances
+                   (A-3)                   when
+                                  Accomodation
+                                  Work
+                                        Barge/Vessel
+                                   move for
+                                              offshore
+                                         operation to
+                                            start the work.
+
+                               When the
+                                  Accomodation
+                                  Work
+                  3.00 %                Barge/Vessel
+                 of I.A. of                   has been
+13  Demob        Price                demobilized
+               Schedule             from offshore
+                   (A-3)                  at the end of
+                                       the completion
+                                          of the contract
+                                                 scope.

@@ -1,0 +1,8 @@
+ID,Bridge,Issue,Evidence,Required resolution
+TQ-01,All,Drawing number conflict,SOW narrative uses 83-41; annexure uses 83-43,Provide correct controlling drawing IDs and revisions
+TQ-02,BHS-SLQ,SLQ bearing conflict,6.3.1(c): fixed; 6.3.3(f): sliding,Confirm intended support DOFs and movement requirements
+TQ-03,BHS-SLQ,Landing strengthening cross references,6.3.2(g) and 6.3.3(e) cite B774-102-83-43-0002,Confirm BHS/SLQ drawings; do not apply ICP drawing by inference
+TQ-04,BHS-SLQ,Demolition reference conflict,6.3.4 cites B774-005 series; annexure identifies B774-103-83-43-0006,Provide correct demolition drawing and verify existing supports
+TQ-05,ICW-ICG,Landing location wording conflict,6.1.3(e) describes ICW strengthening within ICG-side section,Confirm platform location and scope
+TQ-06,All,Missing dimensional basis,No replacement GAs located in inspected uploaded PDFs,Provide controlling tender drawing pack and survey
+TQ-07,All,Design and load basis incomplete,Referenced design criteria and final service loads need verification,"Provide approved criteria, existing models and load registers"

@@ -1,0 +1,2620 @@
+
+=== PDF PAGE 1 ===
+OFFSHORE                                               Section No.     2.0
+                           BASIC BID WORK
+ENGINEERING                                               Vol. No.             II
+                  S&SRP (Sump Caisson and SWLP
+SERVICES                                                Revision No.   1
+                        Casing Replacement Project)
+ISO 9001: 2015                                          Page: 1 OF 43
+
+
+
+
+
+                    VOLUME – II
+
+                       SECTION – 2.0
+
+                       BASIC BID WORK
+
+                         FOR
+
+                         S&SRP
+       (Sump Caisson and SWLP Casing Replacement Project)
+
+
+
+
+
+           OIL AND NATURAL GAS CORPORATION LIMITED
+                            INDIA
+
+=== PDF PAGE 2 ===
+OFFSHORE                                               Section No.     2.0
+                           BASIC BID WORK
+ENGINEERING                                               Vol. No.             II
+                  S&SRP (Sump Caisson and SWLP
+SERVICES                                                Revision No.   1
+                        Casing Replacement Project)
+ISO 9001: 2015                                          Page: 2 OF 43
+
+
+
+                TABLE OF CONTENT
+
+             SUB-
+                          TITLE                      Page No
+             SECTION
+               2.0       DESCRIPTION OF WORK          3
+               2.1       SURVEY REQUIREMENT           3
+               2.2       FUNCTIONAL DESCRIPTION        4
+               2.3       DESCRIPTION OF FACILITIES       5
+                2.3.1      PROCESS                      5
+                2.3.2      PIPING                       10
+                2.3.3     STRUCTURE                   23
+                2.3.4     MECHANICAL                  29
+                2.3.5     INSTRUMENTATION             34
+                2.3.6      ELECTRICAL                   42
+
+=== PDF PAGE 3 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 3 OF 43
+
+
+
+2.0 DESCRIPTION OF WORK
+
+This section defines in general terms, the major components of the facilities, which will
+form, among other things, the Contractor’s Scope of Work. The following sub-sections give
+a general description of the major components of the facilities envisaged under this
+project.
+
+Section 2.1 of this document covers the survey requirements for platform structure
+locations and topside modifications.
+
+Section 2.2 of this document covers the overall description of facilities envisaged under
+this project spanning across offshore installations of ONGC (wherever applicable and
+miscellaneous facilities as envisaged under scope of work).
+
+Section 2.3 of this document covers the detailed functional description of the facilities
+envisaged in this project.
+
+
+2.1 SURVEY REQUIREMENT
+
+In addition to the Survey Requirements indicated in General Conditions of Contract (GCC),
+Vol.-I of bid documents, Contractor shall be fully responsible for carrying out all the pre-
+engineering (except soil investigation), pre-construction and post-construction surveys for
+platform locations and also the topside modifications on the existing platforms. However,
+the Contractor shall confirm all environmental & geotechnical data before the detailed
+design and shall be responsible for the interpretation of the data and finalization of the
+accurate water depth and sea bed features etc. and following jobs:-
+   Determination of the accurate positioning of all process complexes and wellhead
+    platforms relevant to this project.
+    Identification of conditions on the seabed, if required and relevant to the facilities
+    envisaged in this project, with relation to pipelines and composite cables that exist
+   now or which may exist at the time of Installation.
+   Determination of seabed conditions and slope of seabed in the way of the
+     Structure.
+   Determination and confirmation of the accuracy of as-built data including different
+    elevation supplied by the Company. Modify those data as appropriate.
+   CONTRACTOR shall visit the process complexes and wellhead platforms, carryout
+    pre engineering survey of the existing facilities to verify the hook up points /
+    routing of the lines through the bridge, wherever as-build drawings of existing
+      facilities are not available.
+   CONTRACTOR shall develop the existing drawings relevant for the intended
+    modifications to as built status for the detailed engineering. Special attention shall
+    be given to minimize the shut down time required at each platform and safety for
+    executing the modifications.
+   Contractor shall provide copies of all survey reports to the Company.
+
+=== PDF PAGE 4 ===
+       OFFSHORE                                               Section No.     2.0
+                                  BASIC BID WORK
+       ENGINEERING                                               Vol. No.             II
+                         S&SRP (Sump Caisson and SWLP
+        SERVICES                                                Revision No.   1
+                                Casing Replacement Project)
+        ISO 9001: 2015                                          Page: 4 OF 43
+
+
+
+
+   2.2 FUNCTIONAL DESCRIPTION
+
+  The works shall include but not be limited to the following:
+
+                                                Tag     Nature of
+S/N   Asset  Complex  Platform    Equipment                          P&ID No.
+                                                No.      Work
+                                           SWLP-
+ 1   MH       IC      ICW    SWLP Casing           Replacement              -
+                                             1010
+                                           SWLP-
+ 2   MH       IC      ICW    SWLP Casing           Replacement              -
+                                             1020
+                                           SWLP-
+ 3   MH       IC      ICW    SWLP Casing           Replacement              -
+                                             1030
+ 4   MH     SH     SHW    SWLP Casing   P-6210  Replacement              -
+ 5   MH     SH     SHW    SWLP Casing   P-6220  Replacement              -
+ 6   MH     SH     SHW    SWLP Casing   P-6310  Replacement              -
+                                                                          7134-PR-ICP-PID-
+ 7   MH       IC        ICP      Vent Boom      ICP    Replacement
+                                                                      2001
+                                                                       7134-PR-SHP-
+ 8   MH     SH      SHP      Vent Boom    SHP   Replacement
+                                                                         PID-4001
+                                                                      7134-PR-SHD-
+ 9   MH     SH      SHD      Vent Boom    SHD   Replacement
+                                                                         PID-4002
+                                                                       7134-PR-BHS-
+ 10  MH    BHS     BHS      Vent Boom    BHS   Replacement
+                                                                         PID-3001
+                                                                       7134-PR-NC-PID-
+ 11  MH    WIN     NC      Vent Boom    NC     Demolition
+                                                                  8001 to 8007
+                                                E-1150
+                                   Well Fluid                           7134-PR-SHG-
+ 12  MH     SH      SHG                       (Train  Replacement
+                                    Heater                               PID-4003
+                                                   A)
+                                                E-1160
+                                   Well Fluid                           7134-PR-SHG-
+ 13  MH     SH      SHG                       (Train  Replacement
+                                    Heater                               PID-4004
+                                                      B)
+                                                                IC-
+              IC-Heera             30" PBIV(Pig
+                                              Heera                 7134-PR-ICP-PID-
+ 14  MH    Trunk        IC      Barrel Isolation          Replacement
+                                                Trunk                    2002
+                Line               Valve)(12MT)
+                                                      Line
+                                                             Repair of
+                                                  damage
+                                    Topside                 structure,
+                RS-      RS-21
+ 15  MH                          Structure of               handrail,                 -
+             21(BHS)  wellhead
+                                     platform              cable tray etc
+                                                damaged due
+                                                            to hit by OSV
+                                                                          7134-PR-ICP-PID-
+16(i)  MH       IC        ICP    Sump Caisson   S-1800  Replacement
+                                                                      2003
+
+=== PDF PAGE 5 ===
+       OFFSHORE                                               Section No.     2.0
+                                   BASIC BID WORK
+       ENGINEERING                                               Vol. No.             II
+                         S&SRP (Sump Caisson and SWLP
+        SERVICES                                                Revision No.   1
+                                Casing Replacement Project)
+        ISO 9001: 2015                                          Page: 5 OF 43
+
+
+
+                                                                          7134-PR-ICP-PID-
+16(ii)  MH       IC        ICP      Blow case    V-1820  Replacement
+                                                                      2003
+                                                                       7134-PR-SHP-
+17(i)  MH     SH      SHP    Sump Caisson   S-1060  Replacement        PID-
+                                                                   4005/4006/4007
+                                                                       7134-PR-SHP-
+17(ii)  MH     SH      SHP      Blow case    V-1060  Replacement        PID-
+                                                                   4005/4006/4007
+                                                                       7134-PR-SHP-
+18(i)  MH     SH      SHP    Sump Caisson   S-1070  Replacement        PID-
+                                                                   4005/4006/4007
+                                                                       7134-PR-SHP-
+18(ii)  MH     SH      SHP      Blow case    V-1070  Replacement        PID-
+                                                                   4005/4006/4007
+                                                                        7134-PR-NLP-
+19(i)  N&H    NL      NLP    Sump Caisson   S-5201  Replacement        PID-
+                                                                   5001/5002/5003
+                                                                        7134-PR-NLP-
+19(ii)  N&H    NL      NLP      Blow case    V-5211  Replacement        PID-
+                                                                   5001/5002/5003
+                                                              Piping
+ 20  N&H    NL      NLP    Sump Caisson   S-5200  Replacement    NPC-P-20-276
+                                                       Only
+                                                                     7134-PR-HRA-
+21(i)  N&H    HR     HRA    Sump Caisson   S-810   Replacement
+                                                                          PID-6001
+                                                                     7134-PR-HRA-
+21(ii)  N&H    HR     HRA      Blow case     V-820  Replacement
+                                                                          PID-6001
+
+
+   For SWLP Casing, repair work at RS-21 platform, and 30” Pig Barrel isolation valve refer
+   elsewhere in the bid document. Only installation of 30” Pig barrel isolation valve is to be
+  done under this project. Shifting of 30” valve from ICP-R to ICP and its installation is to be
+   under Contractor’s scope of work.
+
+   2.3 DESCRIPTION OF FACILITIES
+
+   2.3.1. PROCESS
+
+   2.3.1.1. Vent Boom – ICP
+
+        i. Vent Boom at ICP is to be replaced along with flame arrestors, isolation valves, CO2
+       snuffing system and associated instrumentation.
+
+       ii. Vent Boom at ICP is to be replaced along with flame arrestors, isolation valves, CO2
+       snuffing system and associated instrumentation.
+
+=== PDF PAGE 6 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 6 OF 43
+
+
+
+ iii. New Vent Boom is to be installed at a minimum distance from platform as the
+    existing Vent Boom. Replacement  is to be taken on one-to-one basis from
+   downstream of Glycol Seal Pot (V-2150) as per marked-up P&ID.
+
+ iv. Piping from downstream flange of Vent Scrubber (V-2100) till upstream flange of
+    Glycol Seal Pot (V-2150) is also to be replaced.
+
+ v. For details, refer to P&ID No. 7134-PR-ICP-PID-2001.
+
+
+2.3.1.2. Vent Boom – SHP
+
+   i. Vent boom on SHP is to be replaced from downstream flange of Vent Scrubber (V-
+   1090) along with flame arrestors, isolation valves, CO2 snuffing system and
+    associated instrumentation.
+
+  ii. New Vent Boom is to be installed at a minimum distance from platform as the
+    existing Vent Boom. Replacement is to be taken on one-to-one basis.
+
+ iii. For details refer to P&ID no. 7134-PR-PID-SHP-4001.
+
+2.3.1.3. Vent Boom – SHD
+
+   i. Vent boom on SHD  is to be replaced from top of KOD (V-790) along with
+   downstream  PCV,  flame  arrestors, CO2  snuffing  system  and  associated
+    instrumentation. New Vent Boom is to be installed at a minimum distance from
+    platform as the existing Vent Boom. Replacement is to be taken on one-to-one
+    basis.
+
+  ii. Replacement of 12” Vent Gas sub-header (12”-VG-A1-2221) is to be taken and all
+    existing lines to be hooked up with new header.
+
+ iii. For details refer to P&ID no. 7134-PR-SHD-PID-4002.
+
+
+2.3.1.4. Vent Boom – BHS
+
+   i. Replacement of Vent boom along with flange to flange replacement of Vent
+   Scrubber (V-1090) is to be done at BHS Platform.
+
+  ii. 10” Piping from upstream of Vent Scrubber shall also be replaced.
+
+ iii. The replacement shall be one on one and to include the flame arrestors, isolation
+    valves on both bypass and main  line, CO2 snuffing system, and associated
+    instrumentation.
+
+ iv. For more details, refer to P&ID No. 7134-PR-BHS-PID-3001.
+
+
+2.3.1.5. Vent Boom – NC
+
+   i. Existing Vent Boom along with vent system of NC Platform is to be demolished.
+
+  ii. Following facilities are currently connected to the Vent System, which shall be
+   disconnected and appropriately blinded
+
+=== PDF PAGE 7 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 7 OF 43
+
+
+
+           i. ND-NC Well Fluid Receiver
+          ii. NC-MNP Well Fluid Launcher
+         iii. NC-NE Lift Gas Launcher
+       iv. ND-NC Lift Gas Receiver
+       v. NC-N2 Lift Gas Launcher
+       vi.  Test Separator
+       vii.  Closed Deck Drain System
+ iii. For more details, refer to Piping Scope of work and P&ID No. 7134-PR-NC-PID-8001
+    to 8007.
+
+
+2.3.1.6. Well Fluid Heater – SHG
+
+   i. Replacement of existing 2 no. of WF heaters (E-1150/ E-1160) with two new WF
+    heaters of same capacity at SHG Platform along with associated instrumentation
+   and piping is to be done.
+
+  ii. Access platform for changing the tube bundles of the Well Fluid Heaters is to be
+   provided as per Structure Scope of Work. Relocation of associated  piping,
+    instrumentation, NRVs, control valves etc., if required, for the same to be under
+   scope of the contractor.
+
+ iii. Replacement of well fluid heater (train A, train B) are to be done along with
+   shutdown valve on hot oil lines (XSDV-1151/1152, XSDV-1161/1162).
+
+ iv. Flange to flange replacement shall be done for each WF heaters after proper
+    isolation.
+
+ v. Flange shifting, if required based on exchanger size, shall be in Contractor’s scope.
+
+ vi. All the piping modification shall be in Contractor’s scope. Connection of existing
+    well fluid line with new unit and interconnection of the new unit with existing vent,
+    drain and flare headers shall be done by contractor.
+
+vii. For replacement scope refer marked up P&ID 7134-PR-SHG-PID-4003, 7133-PR-
+   SHG-PID-4004 and Annexure-1
+
+
+2.3.1.7. 30” Pig Barrel isolation valve
+
+   i. 30” Pig barrel isolation valve is to be removed and new valve is to be installed at ICP
+    Platform.
+
+  ii. 30” valve shall be provided by ONGC as a free issue item.
+
+ iii. Shifting of valve from its current location at ICP-R for final installation at ICP and,
+   temporary removal and re-installation of piping, framing etc., shall be under scope
+    of contractor, details of which shall be finalized in detailed engineering.
+
+ iv. Any relocation or shifting of piping/tubing/instrumentation shall be done by
+    contractor with minimum shutdown requirement. After installation, same needs to
+   be restored.
+
+=== PDF PAGE 8 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 8 OF 43
+
+
+
+  v. For details, refer to P&ID no. 7134-PR-ICP-PID-2002.
+
+
+2.3.1.8. Sump Caisson – ICP
+
+    i. Replacement of existing Sump Caisson (S-1800) along with Blow Case (V-1820) with
+   new sump caisson, Blow Case, associated piping and instrumentation is to be done
+    at ICP Platform. Size of new Sump Caisson shall be same as existing one.
+
+   ii. Existing Sump Caisson  is to be removed from its current location along with
+    associated piping and instrumentation.
+
+  iii. Sampling collection provision at final disposal point shall be provided along with
+    servicing/maintenance space at accessible location.
+
+ iv. Existing Blowcase has 2” bleed line at site, which is also to be provided in new sump
+    caisson along with ball valve.
+
+  v. 3” line from Blowcase to Skimmer Vessel is to be replaced  till spectacle blind,
+    including all the associated instruments. Extension and rerouting of piping from
+    existing location to new location of Sump Caisson shall be under contractor’s scope.
+
+ vi. 10” Open Deck Drain headers are corroded and are to be replaced from header
+     joint. New lines are to be rerouted to the new location of Sump Caisson and
+    connected. Demolition and rerouting of their vent lines are to be under scope of
+   work of contractor.
+
+ vii. New Sump Caisson to be installed at one of the legs of jacket, location of which shall
+   be as per structure scope of work.
+
+viii. Produced water is to be dumped below the last baffle as close as possible to point
+    of disposal. Rerouting of produced water line to new location of sump caisson shall
+   be under contractor’s scope of work.
+
+  ix. For more details, P&ID 7134-PR-ICP-PID-2003, Annexure-2 & Annexure-3 shall be
+    referred.
+
+
+2.3.1.9. Sump Caisson – SHP
+
+    i. Removal of existing two Sump Caisson (S-1060/S-1070) and Blow Case (V-1060/V-
+    1070) and installation of one new Sump Caisson of combined appropriate capacity
+      is to be done at SHP.
+
+   ii. Calculation of capacity of new Sump Caisson shall be done by vendor based on data
+    provided in Process Design Criteria. Sump Caisson is to be sized to be able to handle
+    a minimum of existing combined fluid of both Sump Caissons. Produced water is to
+   be dumped at the last baffle as close as possible to point of disposal.
+
+  iii. All the associated piping and instrumentation of sump caisson and blow case shall
+    also be replaced. Rerouting of lines and connection shall be under scope of
+    contractor.
+
+ iv. Hook-up of new sump caisson to the existing vent and fuel gas header shall be in
+    Contractor’s scope. Connection of LP Fuel Gas line as shown in P&ID 7134-PR-SHP-
+
+=== PDF PAGE 9 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 9 OF 43
+
+
+
+    PID-4006 for purge to HP Flare Header shall be made by the contractor. Hook-up
+    location for the connection shall be finalized during detailed engineering.
+
+  v. Sampling collection provision at final disposal point shall be provided along with
+    servicing/maintenance space at accessible location
+
+ vi. Hook-up of all instrumentation of new sump caisson with DCS/PLC shall be under
+    the scope of the contractor.
+
+ vii. New Sump Caisson to be installed at one of the legs of jacket, location of which shall
+   be as per structure scope of work
+
+viii. For detailed demolition and construction scope refer to P&ID 7134-PR-SHP-PID-
+    4005/4006/4007. For other details, Annexure-4 to be referred.
+
+
+2.3.1.10. Sump Caisson – NLP (S-5201)
+
+    i. Replacement of existing Sump Caisson (S-5201) and Blow Case (V-5211) with new
+   Sump Caisson and Blow Case of same type is to be done at NLP Platform. All
+    associated instrumentation and piping shall also be replaced.
+
+   ii. Sampling collection provision at final disposal point shall be provided along with
+    servicing/maintenance space at accessible location
+
+  iii. 2” LP fuel gas line along with three-way valve till 2” ball valve, along with vent line
+     shall be replaced as shown in the marked up P&ID.
+
+ iv. 3” recovered oil line from blow case to skimmer vessel shall be replaced along with
+    Flow Switch as shown in the marked up P&ID.
+
+  v. 10” old skimmer vessel overflow line for free draining to sump caisson shall be
+   removed and replaced as shown in marked-up P&ID 7134-PR-NLP-PID-5001/5002.
+
+ vi. 16” Produced Water GRE piping from Produced Ware Conditioning Unit (Flash
+    Vessel and IGF outlet) shall be replaced. The replaced line shall be routed to the
+   new location of the Sump Caisson. Produced water is to be dumped below the last
+    baffle closest to the point of disposal.
+
+ vii. Hook up of new sump caisson to the existing facilities, fuel gas and vent headers
+     shall be in Contractor’s scope.
+
+viii. Location of sump caisson shall be as per structure scope of work.
+
+  ix. For  detailed  replacement  scope  refer marked up P&ID  7134-PR-NLP-PID-
+    5001/5002/5002. For other details, Annexure-5 to be referred.
+
+
+2.3.1.11. Sump Caisson – NLP (S-5200)
+
+ i. 16” Produced Water GRE piping from Produced Ware Conditioning Unit (Flash Vessel
+   and IGF outlet) up to sump caisson indicated in the P&ID shall be replaced.
+
+ ii. 10” Open Deck Drain U-Tubes (at splash zone) as indicated in the P&ID shall also be
+   replaced.
+
+=== PDF PAGE 10 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 10 OF 43
+
+
+
+2.3.1.12. Sump Caisson – HRA
+
+    i. Replacement of existing Sump Caisson (S-810) and Blow Case (V-820) with one new
+   Sump Caisson of reduced capacity as per Process Design Basis is to be done at HRA
+    Platform. New Caisson shall be installed at a new location as per Structure Scope of
+    Work.
+
+   ii. Sizing of new Sump Caisson, with reduced capacity as per Process Design Basis, shall
+   be done by the contractor.
+
+  iii. All the associated piping and instrumentation of sump caisson and blow case shall
+    also be replaced. Rerouting of lines and connection shall be under scope of
+    contractor.
+
+ iv. Oil recovery line to skimmer vessel shall be replaced and hook-up of the same shall
+   be under scope of contractor.
+
+  v. 8” Open Deck Drain lines of HRA as per the marked-up P&ID and the hook up of the
+   same with new sump caisson shall be under the scope of contractor.
+
+ vi. Fuel gas line from PCV, including three way control valve and other associated
+    instrumentation/valves/piping needs to be replaced and pile bottom sample
+    collection provision shall be provided.
+
+ vii. Hook-up of new sump caisson to the existing vent and fuel gas header shall be in
+    Contractor’s scope.
+
+viii. Produced water is to be dumped below the last baffle closest to the point of
+    disposal. Rerouting of PWC Line to the new location shall be under scope of the
+    contractor.
+
+  ix. Firewater hose reel at appropriate location to cover entire deck level of Sump
+    Caisson to be provided. For more details, refer to Mechanical Scope of Work.
+
+  x. Sizing of new sump caisson (of reduced capacity) as per data provided in design
+    basis shall be under scope of contractor/vendor.
+
+  xi. New sump caisson shall be installed at the leg of the Platform. Exact location of the
+   new sump caisson shall be as per structure scope of work.
+
+ xii. For details, refer P&ID No. 7134-PR-HRA-PID-6001
+
+
+ 2.3.2. PIPING
+
+   I.  The piping scope of work envisaged under this tender broadly consists of but not
+     limited to design, supply, fabrication, installation, testing, pre-commissioning and
+     commissioning & other assistance of piping systems, instruments etc. & Submarine
+     Pipelines, Hook-up, modification works at existing platforms as per the Description
+     of Work (Basic Bid Work) and approved P & IDs including interface jobs as indicated
+     elsewhere in the bidding documents.
+
+  II. The materials, design and workmanship shall conform to relevant codes, piping
+     design criteria & functional specifications contained in the bid package.
+
+=== PDF PAGE 11 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 11 OF 43
+
+
+
+ III. The contractor shall develop Equipment Layouts, Safety Equipment Layouts, Piping
+    General Arrangement drawings, Isometrics & Piping support drawings etc. in
+    accordance with piping design  criteria, functional  specifications, codes and
+     standards,  Description  of Work  (Basic  Bid  Work),  approved  P &  IDs,
+    recommendations of Safety Studies, Material Handling Studies etc. during project
+     stage and submit the same for review & approval. However, indicative layouts of
+    Platforms are enclosed with the bid for understanding of scope of work.
+
+ IV. Contractor shall make detailed specification and datasheets (including PMS &
+    VMS) for piping and piping specialty items as per process requirements and submit
+    the same for review & approval during detailed engineering.
+
+ V.  Corrosion coupons and  retrieval tool  kit  shall be provided as per process
+    requirement and specification attached elsewhere in the bid package.
+
+ VI. Contractor shall be responsible for complete execution of the project as per design
+      criteria,  functional  specifications,  Description  of Work  (Basic  Bid  Work),
+    approved/reviewed DCI & MCI documents and approved P&IDs.
+
+VII. Supply, design, fabrication and installation of pipe supports are in contractor’s
+    scope. Contractor shall develop piping support standards and submit the same for
+    review and approval.
+
+VIII. Any other work not specifically mentioned above but required for completeness
+     of work as per specification / drawings shall be in contractor’s scope.
+
+ 2.3.2.1.  Piping (Modification works)
+
+  I.  The entire scope of piping work related to modification works at existing platforms
+     shall be as per the Description of Work (Basic Bid Work) and approved P & IDs.
+
+  II. Equipment layout drawings  for  existing well/process platforms where new
+     equipment/vessels/facilities are being installed shall be prepared by contractor
+    based on pre-engineering survey. During pre-engineering survey, in case any
+    unforeseen or unidentified structure/ piping/ equipment etc. found to exist at the
+    platform for which installation of new equipment is hindrance, Contractor shall
+     readjust/ relocate the equipment/ piping as part of scope of work under this
+    tender and submit the modified drawing for Company’s approval.
+
+ III.  It   is  contractor’s   responsibility  to  ascertain  exact  pipe  routing/pipe
+     sizes/rating/MOC/relocation of Equipment/Requirement of deck extension etc. for
+    meeting the requirement of Basic Bid Work and approved P&IDs. Contractor shall
+    conduct necessary site surveys to collect as built data/drawings not enclosed in the
+     bid package and ensure that piping/ equipment clears all existing structures, cable
+     trays, instrument racks, nearby supporting structure or any other equipment.
+    Wherever as built drawings are not available, Contractor shall carry out detailed
+     site survey, gather information from existing well platforms, develop the drawings
+    and submit these for Company’s review/ approval.
+
+ IV. Contractor shall prepare detailed survey report for complete scope of work
+     including hook-up details and submit the same for approval.
+
+=== PDF PAGE 12 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 12 OF 43
+
+
+
+ V.  Routing of new lines shall be same as the old one being replaced to the extent
+     possible.
+
+ VI. Contractor shall provide/extend all safety equipment and systems,  as required in
+    the areas where new facilities are provided.
+
+VII. Contractor shall provide deck drains on the extended portions of the platforms and
+    hook it up with existing deck drains.
+
+VIII. Contractor shall provide necessary material handling provisions for the new
+      facilities.
+
+ IX. Contractor’s scope of work shall include modification/ integration as per approved
+    P&IDs and other requirements  listed  in elsewhere  in the Bid Documents.
+    Contractor may be required to open/dismantle/realign/modify any facility or
+    instrument or piping or equipment of the existing  facilities.  It  will be the
+     contractor’s responsibility to make good, test and re-commission all such facilities
+    during and after completion of works with minimum period of platform shutdown.
+     Details of total shutdown required for each modification/integration shall be
+    submitted to company for approval.
+
+ X.  Contractor shall perform the necessary modification/ integration work on the basis
+     of actual physical conditions/ data/ parameters found during the site survey.
+    Contractor shall not be entitled to any cost and time compensation on this
+     account.
+
+ XI. Contractor shall also do the necessary patch up insulation work where insulation
+      is opened up during tapping/ tie-in/ hook-up. Contractor shall plan & carry out
+     suitable positive isolation, depressurization, cleaning, purging, flushing, hydro-
+     testing, drying, and painting & removal of temporary supports, scaffolding etc.
+    Contractor shall take all precautions & follow safety procedures to execute the job
+     safely without any operational hazard.
+
+XII. Contractor shall ensure, before submission of bid offer, that the space allocated
+     for the various facilities for the modification is adequate and satisfactory. In case,
+    any additional space/ facility such as provision of any walkway/operating platform
+     for maintenance and operation of valve etc. are warranted, the contractor shall
+     indicate the same in bid offer and the cost shall be included in the lump sum price.
+
+XIII. In case any existing facility is to be relocated or existing piping is to be altered in
+    order to carryout platforms’ modifications, Contractor shall execute these changes
+     including testing etc. without any major shut down.
+
+XIV. Contractor shall modify the support design wherever necessary to finalize the new
+    support without any intervention with the existing facilities.  Installation of pipe
+    work, pipe supports, instruments etc. shall be such that existing walkways / escape
+    routes / maintenance access to existing facilities are not encroached.
+
+XV.  If the bid document / P & IDs specially require any existing facility to be altered or
+     reused, the same shall be done by the Contractor after verifying/ checking the
+     condition  of  existing  facility.  If whole or any  part  of  it  is found to be
+
+=== PDF PAGE 13 ===
+      OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 13 OF 43
+
+
+
+     defective/repairable, contractor shall replace/ repair the same without any extra
+     time and cost.
+
+ XVI. Contactor shall show the existing piping & Equipment on both sides of the new
+     piping in GAD for modification works to ensure easy location of the piping.
+
+XVII. Contractor shall be responsible to complete the scope of work with minimum shut
+    down. To achieve the objective, contractor shall make arrangement like temporary
+     connection/modification in safe manner so that shut down is reduced to minimum.
+     Arrangement/ Procedure for the same shall be finalized during pre-engineering
+     survey and submit the same for company’s approval. Company shall have right to
+     change the proposal made by contractor based on production and availability of
+     the platform.
+
+XVIII. Contractor to ensure below cellar deck piping routing shall be kept within the
+     platform deck boundary and at the highest elevation to the extent possible.
+
+ XIX. Contractor shall bring out  all the possible piping routing option in the pre
+     engineering survey report.
+
+ XX. Contractor shall collect all the necessary data regarding current ongoing projects
+    from ONGC for intended modification site prior to carrying out the actual pre
+     engineering survey. This is to avoid interfacing issues prior to modification jobs
+     executions.
+
+ XXI. It is to be noted that drawings of existing platforms to extent available have already
+    been included in the bid document. Any further details/information required to for
+      detail engineering shall be collected by bidder during pre-engineering survey from
+     the respective platform for modification jobs.
+
+XXII. Contractor to ensure that any modifications for completion of scope of work shall
+      in no way interfere with operating philosophy of the existing platform unless
+     approved otherwise by company.
+
+
+ 2.3.3. STRUCTURAL SCOPE OF WORK
+
+  2.3.3.1. GENERAL
+
+     This Scope of Work detailed below shall be read in combination with “Background and
+    General”, of Basic Bid Work, “Structural Design Criteria (sec 3.4)”,General Specification
+     for Material, Fabrication and Installation of Structure”, Functional Specification for
+     Building Module, Specification for Protective Coating and “Scope of Work for other
+     Discipline” of the Bid.
+
+    The Scope shall include the structural work for  facility / requirements detailed
+    elsewhere in the bidding documents but not limited to following:
+
+       i) Surveys  –  Pre-engineering,  Post-demolition,  Pre-construction  &  Post
+       construction as detailed below at 2.3.3.2.
+
+       ii) Design & Engineering in compliance to Structural, Architectural design criteria
+       along with all related functional specifications.
+
+=== PDF PAGE 14 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+   ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 14 OF 43
+
+
+
+  iii) Procurement of various materials.
+
+ iv) Fabrication.
+
+ v) Load-out.
+
+ vi) Transportation.
+
+ vii) Installation.
+
+ viii) Supply of loose items, if any.
+
+ ix) As built documentation of the project shall be submitted as defined in Bid
+   document.
+
+  x) Mobilization of marine spread in line with the bid scope shall be carried out.
+    Contractor shall make all arrangements for personnel accommodation, storage,
+     fit-up etc. at marine spreads.
+
+ xi) Protective arrangement at platforms for safety of the structures, equipment,
+    piping,  instruments etc. during execution of work shall be made by Contractor.
+
+ xii) Preparation & submission of detailed installation methodology including the
+    removal procedure of existing facilities for replacement work for Company’s
+    approval.
+
+ xiii) Dismantling of all existing facilities/items to be replaced at offshore platforms
+     shall be under Contractor’s scope. Their Loading on cargo barges, sea fastening,
+    transporting and their disposal in environmentally safe manner to an onshore
+    location arranged by Contractor shall be in Contractor’s scope. All marine
+    spreads required for transportation of dismantled material shall also be in
+    Contractor’s scope. The same shall be done as per scope of work & approved
+    pre-engineering survey report.
+
+ xiv) Any other detail/ aspect required for preparation of AFC drawings and smooth
+    installation and execution of job.
+
+ xv) Contractor shall prepare detailed layout for construction and/or demolition of
+    various structural elements  like tubulars, rolled sections, plates, gratings,
+   chequered plates, deck plates, handrails, etc. along with removal drawings &
+    detailed MTO for each item.
+
+ xvi) All the repairs & refurbishment/replacement works shall be executed as per pre-
+    engineering survey report.
+
+xvii) Contractor shall procure, fabricate, test, load-out, transport, lift and install all
+    the necessary structural elements as per the enclosed specifications & Structural
+    design criteria.
+
+xviii) Contractor  shall prepare the modification plans so as to minimize the
+    obstruction to the working facilities.
+
+ xix) Contractor shall be responsible for all the necessary certifications of lifting aids
+    as per the specifications. Contractor shall provide  all the installation aids,
+    consumables, etc.
+
+=== PDF PAGE 15 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 15 OF 43
+
+
+
+ xx) Contractor’s scope of work shall include all necessary integration, with the
+     existing facilities. Contractor shall carry out extensive site surveys and familiarize
+    himself with the total work scope to be carried out on the existing platforms.
+     Their scope of work shall include verification of data/ drawings of existing
+      facilities before proceeding with detailed engineering/ procurement based on
+    bidding documents. It shall be Contractor’s responsibility to assess the total
+    quantum of work to be carried out on the existing platforms and/or temporary
+    extension of existing platform deck if required.
+
+ xxi) Deck strengthening shall be done by the Contractor (wherever required) based
+    on the findings of Local/Global Deck Inplace analysis with updated loads.
+    Replacement of corroded deck members, plates and additional bracing /
+     stiffening, modification, strengthening of deck beams, providing new supporting
+    beams etc., if required based on Deck Local Inplace analysis of the existing deck
+     structures shall be carried out by the Contractor as a part of his firm scope of
+    work. Contractor to submit all such local design & adequacy check report for
+    review and approval of the company.
+
+ xxii) Additional bracing / stiffening, strengthening, modification etc., if required, to
+    the existing structures due to structural loads or due to site conditions and not
+     visualized at the time of engineering but required at site for completion of work,
+    the same shall be incorporated and provided by the Contractor as part of his firm
+    scope of work.
+
+ xxiii) Pipe support &, cable tray supports shall be provided as per multidisciplinary
+     detailed engineering requirements.
+
+ xxiv) Contractor shall carry out fabrication, painting, load-out, sea fastening and
+     transportation of all materials from Contractor’s fabrication yard to offshore
+     platforms. Materials as required for painting at offshore (if any) shall also be
+    procured, supplied, transported and applied at offshore locations by the
+     Contractor.
+
+ xxv) Contractor shall carry out Modification / dismantling / cutting/ rerouting/
+    temporary shifting of any existing facilities, structures, piping, cabling, cable
+     trays, and instruments as necessary to overcome obstruction in execution of
+    replacement work and make  it good after installation activity. In case any
+    damage is taken place during the modifications work, the Contractor shall repair
+    or replace the same with new equipment/facilities at no cost to the Company.
+      All such works shall be carried out immediately.
+
+ xxvi) Contractor shall provide, supply, install & uninstall all the necessary scaffolding
+     for proper access during pre-engineering surveys, execution the works and post-
+    construction surveys in safe manner at offshore.
+
+xxvii) Contractor shall prepare & submit the detailed execution methodology for the
+     overall scope of work for Company’s approval.
+
+xxviii) Contractor shall prepare & submit the detailed installation methodology for
+    the work for COMPANY’s approval.
+
+=== PDF PAGE 16 ===
+    OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 16 OF 43
+
+
+
+  xxix) Contractor shall prepare As-Built drawings showing the modifications works
+     performed under the scope of work in existing drawings and obtain COMPANY’s
+     approval.
+
+  xxx) All material shall be new and unused.
+
+  xxxi) Contractor shall mobilize suitable marine spreads/workboats. Contractor shall
+    make all arrangements for personnel accommodation, storage, fit-up etc. at
+     marine spreads.
+
+  xxxii) Apart from the above, everything else required for executing the work in
+      accordance with the Scope of Work and Technical Specifications shall also be in
+      the scope of the Contractor.
+
+ xxxiii) Cost  of modification /strengthening/ replacement  shall be included by
+       contractor in lump-sum quoted price & the same is not to be considered in
+      tonnage adjustment. Deck Extension due to (Clamp-on and Sump Caisson etc.)
+        shall be under tonnage adjustment.
+
+
+2.3.3.2. SURVEY
+
+ i)   Pre-engineering Survey
+
+ 1.   To study and find feasibility of proposed scope of demolition/ removal and
+ installation - To verify the dimensions vis-a-vis feasibility of installation of the new
+ structure/equipment before carrying out detailed engineering and examine the
+ feasibility of addition/replacement of facilities (Equipment / Vessels / Piping), etc. If
+ any kind of obstructions/fouling of members is/are found for the proposed/planned
+ demolition and installations including deck extensions & proposed addition or
+ replacement of equipment / piping the matter shall be brought to Company’s notice
+ in the pre-engineering survey report(with feasible solutions and shall be put up for
+ review / approval of Company).
+
+ 2.   To carry out the survey/ measurements considering all demolition & installation
+ aspects related to repair/replacement/strengthening-Verification of member sizes &
+ thickness (using ultrasound method) shall be carried out during pre-engineering
+ survey    for      all    proposed    Structural    repair   &    refurbishment/
+ replacement/extension/strengthening/modification,      and        architectural
+ modifications.
+
+ 3.   To verify as-built documents (like elevations, sizes/ wall thickness of relevant
+ structural as well as non-structural members, etc.) and fill the missing data.
+
+ii)  Post-demolition Survey
+
+ Surveys for structural replacement/ strengthening jobs related to replacement of major
+ equipment like Well Fluid Heaters etc.:
+
+ 1.   To asses corroded status of the primary & secondary structural members,
+       platings, equipment supports/  skids  etc. beneath equipment (which are
+
+=== PDF PAGE 17 ===
+    OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 17 OF 43
+
+
+
+      envisaged to be replaced) may not be possible to full extent during pre-
+      engineering survey.
+
+ 2.   To collect data such as member size, corroded size & thickness (using ultrasound
+     method) of platings, equipment supports/ skids, primary/ secondary structural
+     members for one to one replacement of corroded members/ strengthening of
+       existing members/ providing additional members.
+
+ 3.    Verify  the  dimensions  vis-a-vis  feasibility  of  installation  of  the new
+      structure/equipment and examine the feasibility of addition/replacement of
+        facilities (Equipment / Vessels / Piping), etc.
+
+ 4.    Identify obstruction  if any  for the proposed  installations including deck
+      extensions & proposed addition or replacement of Equipment / piping.
+
+iii)  Pre-construction Survey
+
+ Pre-Construction Surveys is to be taken up before installation. Data obtained from Pre-
+ Construction Surveys is to be compared with data obtained during Pre-Engineering
+ Survey and remedial action, if any, is to be taken up.
+
+iv)  Post Construction Survey
+
+ Post Construction Surveys include as-built status of replaced/ repaired/ modified/
+ Installation works.
+
+2.3.3.3. DESCRIPTION OF WORKS:
+
+2.3.3.3.1. REPLACEMENT OF SUMP CAISSONS
+
+
+
+      Sl.            Scope      of
+         Platform                Scope of new installation
+   No.           Removal
+                     External sump caisson  (of same  capacity)
+                                      along with clamps to be provided.
+                     Location of new sump caisson is ICP Jacket leg
+                                        (A4) South-East side (towards Flare Bridge).
+                       Existing sump
+                     Deck extension of 3m x 3m shall be provided
+                     caisson  with
+                                         at spider deck to create access platform for
+                  clamp
+     1.   ICP                    Sump caisson.
+                    supports to be
+                     Maintenance/ access platform of size 0.5m x
+                   dismantled
+                                 0.5m (approx.) to lift and take out blow case
+                 and disposed.
+                                                      is to be provided approximately 4.0m above
+                              sump caisson top. A monkey ladder with cage
+                                  from spider deck to be provided  till access
+                                        platform.
+                       Existing 2 nos.  External Sump Caisson (1 no.) of appropriate
+                sump caisson     combined capacity to be installed.
+     2.   SHP
+                   with   clamp  Location of new sump caisson is Jacket leg A4
+                    supports to be      in the east direction of SHP platform.
+
+=== PDF PAGE 18 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 18 OF 43
+
+
+                   dismantled    Deck extension of 3m x 3m shall be provided
+                 and disposed.      at spider deck to create access platform for
+                             Sump caisson.
+                    Maintenance/ access platform of size 0.5m x
+                                0.5m (approx.) to lift and take out blow case
+                                                      is to be provided approximately 4m above
+                              sump caisson top. A monkey ladder with cage
+                                  from spider deck to be provided  till access
+                                       platform.
+                    External Sump Caisson (of same capacity)
+                      Existing sump     along with clamps to be provided.
+                    caisson  with  New sump caisson shall be installed at the
+                 clamp          same location where existing sump caisson is
+                   supports to be      located.
+                   dismantled    Existing grated deck, handrails etc. to access
+     3.   NLP
+                 and disposed     sump caisson top  is to be restored after
+                                     necessary modifications/ repairs.
+                    10" ODD U-tubes (at splash zone) and 16" GRE
+                                            lines Feed from PWC (Flash vessel and IGF
+                                          outlets) up to sump caisson needs to be
+                                      replaced as per drawing
+                    External Sump Caisson (of same capacity)
+                                     along with clamps to be provided.
+                    Location of new sump caisson is Jacket leg A2
+                                        of HRA platform
+                      Existing sump
+                    Deck extension of 3m x 3m shall be provided
+                    caisson along
+                                         at spider deck to create access platform for
+                   with  clamps
+     4.  HRA                   Sump caisson.
+                       shall      be
+                    Maintenance/ access platform of size 0.5m x
+                removed  &
+                                0.5m (approx.) to lift and take out blow case
+                    disposed.
+                                                      is to be provided approx. 4m above sump
+                                       caisson top. A monkey ladder with cage from
+                                        spider  deck  to  be  provided   till  access
+                                       platform.
+  #Refer multidisciplinary (Process, Mechanical etc.) scope of work for the complete
+  scope of work.
+
+
+2.3.3.3.2. SUMP CAISSON PROTECTOR:
+
+                      Sl. No.   Platform  New Caisson Protector required
+              1        ICP        Yes
+              2       SHP       Yes
+              3       NLP      No
+              4      HRA       Yes
+
+=== PDF PAGE 19 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 19 OF 43
+
+
+
+
+2.3.3.3.3. REPLACEMENT OF SEA WATER LIFT PUMP CASINGS:
+
+                        No. of                         Scope of new
+       S/N   Platform          Scope of removal
+                    SWLP                                 Installation
+        1    SHW      3 nos.    Existing  casings  along  One-to-one
+                                   with       guides  and  replacement.
+                                          stiffeners.
+        2    ICW      3 nos.    Existing  casings  along  One-to-one
+                                   with     guides    and  replacement.
+                                          stiffeners.
+   #Refer multidisciplinary (Process, Mechanical etc.) scope of work for complete
+   scope of work.
+
+2.3.3.3.4. REPLACEMENT OF WELL FLUID HEATER & PBIV
+
+       Sl.
+           Platform                         Description/Details
+     No.
+                                        Replacement  of  existing two WF
+      1.   SHG
+                                           heaters with two new WF heaters.
+          IC-HEERA TRUNK LINE:           Replacement of 30" PBIV of weight
+      2.
+           PIG BARREL ISOLATION VALVE    12MT.
+   #Refer multidisciplinary (Process, Mechanical etc.) scope of work for complete
+   scope of work.
+
+
+2.3.3.3.5. RS-21 DECK MODIFICATION & STRENGTHENING
+
+  Strengthening/replacement     of    damage     structure   member    and
+  Repairs/replacement handrails. Cable tray etc. shall be taken-up due to hit by OSV.
+  Level-wise details of structural scope is described/stated in a separate section
+  below.
+
+2.3.3.3.6. UNDERWATER REPAIR OF JACKET MEMBERS & JOINTS AT SHP JACKET
+
+  Location of Members and Joints for Strengthening:
+
+          Sl.    Platform  Member             Location
+       no.
+        1.    SHP       0288-506L (ME39 )    (Horizontal member-Row B).
+
+
+2.3.3.3.7. VENT BOOM
+
+           Sl.
+               Platform  Scope of work                           Remarks
+       No.
+                                                                  One-to-one
+               ICP vent boom along with CO2 snuffing
+          1.     ICP                                                  replacement
+                           system is to be replaced.
+
+=== PDF PAGE 20 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 20 OF 43
+
+
+                Vent line needs to be replaced from the
+                             top of scrubber till vent boom.
+
+                The corroded & damaged  vent boom
+                                supports, channel sections need to be
+                          removed and replaced with new structural
+            2.    SHP
+                                supports.
+                Vent boom and vent line to be replaced
+                           from the top of scrubber till vent boom.
+                SHD vent boom along with CO2 snuffing   One-to-one
+                            system is to be replaced.                  replacement
+            3.    SHD
+                Vent line also needs replacement from the
+                             top of scrubber till vent boom.
+                Vent boom is to be replaced with new vent
+                       boom and the truss support to vent boom
+                                    shall be provided at suitable intervals.
+            4.    BHS     The scrubber needs to be replaced.
+                10” pipeline upstream of vent scrubber of
+                             approximate length of 140 m need to be
+                               replaced due to multiple leakages.
+                The vent boom and its support structure is
+            5.   NC
+                               to be dismantled and disposed.
+
+
+     #Refer multidisciplinary (Process, Mechanical, Piping, Electrical) scope of work
+     for complete scope of work.
+
+
+  2.3.3.4. PLATFORM-WISE MATRIX OF THE WORK TO BE EXECUTED AT DIFFERENT
+        PLATFORMS
+
+
+
+Sl.No   Asset   Complex    Platform      Equipment          Nature of Work
+
+  1   MH      IC         ICW         SWLP Casing         Replacement
+
+  2   MH      IC         ICW         SWLP Casing         Replacement
+
+  3   MH      IC         ICW         SWLP Casing         Replacement
+
+  4   MH    SH       SHW        SWLP Casing         Replacement
+
+  5   MH    SH       SHW        SWLP Casing         Replacement
+
+  6   MH    SH       SHW        SWLP Casing         Replacement
+
+  7   MH      IC           ICP           Vent Boom          Replacement
+
+=== PDF PAGE 21 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 21 OF 43
+
+
+
+  8   MH    SH         SHP           Vent Boom          Replacement
+
+  9   MH    SH        SHD          Vent Boom          Replacement
+
+                                                           Replacement  of  vent
+                                                boom and 10” pipeline
+                                                           upstream   of   vent
+                                                                scrubber            of
+ 10  MH    BHS       BHS           Vent Boom
+                                                             approximate length of
+                                                         140 m  need  to  be
+                                                                 replaced   due    to
+                                                                     multiple leakages.
+
+ 11  MH    WIN      NC            Vent Boom           Demolition
+
+ 12  MH    SH        SHG           Well Fluid Heater     Replacement
+
+ 13  MH    SH        SHG           Well Fluid Heater     Replacement
+
+                                         30"  PBIV(Pig  Barrel
+                IC-Heera
+ 14  MH                    IC               Isolation      Valve)  Replacement
+               Trunk Line
+                                       (12MT)
+                                                                  Repair   of  damage
+                                                                         structure,    handrail,
+                           RS-21          Topside Structure of
+ 15  MH     RS-21(BHS)                                        cable     tray     etc.
+                           wellhead       platform
+                                                      damaged due to hit by
+                                                   OSV
+
+16(i)  MH      IC           ICP         Sump Caisson        Replacement
+
+16(ii)  MH      IC           ICP           Blow case           Replacement
+
+17(i)  MH    SH         SHP         Sump Caisson
+
+17(ii)  MH    SH         SHP          Blow case                                                            Replacement
+
+18(i)  MH    SH         SHP         Sump Caisson
+
+18(ii)  MH    SH         SHP          Blow case
+
+19(i)  N&H   NL         NLP         Sump Caisson S-5201  Replacement
+
+19(ii)  N&H   NL         NLP          Blow case           Replacement
+
+                                                             10" ODD U-tubes (at
+                                                                    splash zone) and 16"
+                                                    GRE lines Feed from
+ 20   N&H   NL         NLP         Sump Caisson S-5200
+                                             PWC (Flash vessel and
+                                                                 IGF  outlets)  up  to
+                                                    sump caisson needs to
+
+=== PDF PAGE 22 ===
+     OFFSHORE                                               Section No.     2.0
+                                 BASIC BID WORK
+      ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 22 OF 43
+
+
+
+                                                        be  replaced  as  per
+                                                             drawing
+
+21(i)  N&H   HR        HRA         Sump Caisson        Replacement
+
+21(ii)  N&H   HR        HRA          Blow case           Replacement
+
+
+
+     Note: For Tag no. please refer multi-disciplinary scope.
+
+
+ 2.3.3.5. DESCRIPTION OF STRUCTURAL SCOPE OF WORK IN LINE WITH 2.3.3.3
+
+   2.3.3.5.1.  REPLACEMENT OF SUMP CAISSONS
+
+      i)  New Sump Caissons (external) are planned to be installed exterior to jacket and
+        aligned along with Jacket Legs. New sump caisson shall be installed at the same
+        location where existing sump caisson is located at NLP.
+     ii)  UT of Jacket legs where new sump caissons are to be installed shall be carried
+       out during Pre-engineering survey.
+     iii)  Removal of existing Sump caisson shall be carried out prior to installation of the
+      new sump caisson.
+    iv)  The replacement of the Caissons is to be one to one in terms of material &
+       dimensions unless stated otherwise. Sump caisson shall be designed as per
+        structural design criteria.
+    v)  Clamps and stub connecting Jacket framing members and sump caisson shall be
+        carried as per structural design criteria as a special structure.
+    vi)  Contactor to refer Process/Mechanical & other multi-disciplinary scope of work
+        for other details.
+    vii)  Marine growth cleaning of the affected area where connections are proposed
+      and other necessary works to complete scope of work.
+    viii)  Obstructions if any, e.g. Riser Protector / Barge Bumper near Jacket leg where
+      Sump Caisson is being installed outside, same shall be removed and re-installed
+            (if required).
+
+   2.3.3.5.2.  SUMP CAISSON PROTECTOR
+
+      i)  Sump caisson protector in the shape of quarter circle with approx. 3 m radius to
+      be provided at ICP, SHP & HRA. Existing Sump caisson protector is to be removed
+      and reinstalled after necessary modifications/ repairs at NLP.
+     ii)  Removal of Barge Bumper on Leg A4 for installing Sump Caisson protector on
+       Leg A4 is also to be carried out as per SIA at ICP.
+     iii)  Contractor shall carry out pre-engineering survey for collection of all necessary
+       information regarding replacement/installation of new sump caisson protector
+       as per scope.
+    iv)  Design of Sump Caisson Protector shall be as per design of Riser protectors
+        detailed under Structural Design Criteria.
+
+=== PDF PAGE 23 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 23 OF 43
+
+
+
+ v)  Sump caisson protector in the shape of quarter circle with approx. 3 m radius to
+    be provided. Dimension  of the same  shall be  finalized during detailed
+     engineering.
+ vi)  Marine growth cleaning of the affected area where connections are proposed
+    and other necessary works to complete scope of work.
+vii)  Obstructions if any, e.g. Riser Protector / Barge Bumper near Jacket leg where
+    Sump Caisson is being installed outside, same shall be removed and re-installed
+        (if required).
+
+2.3.3.5.3.  REPLACEMENT OF SEA WATER LIFT PUMP CASINGS
+
+  i)  The new SWLP casings are to be installed at the same location.
+ ii)  New Casings (3 nos. at SHW & 3 nos. at ICW) of same material and dimensions
+     are to be installed. New Caisson guides/supports and stiffeners to be provided
+ iii)  UT of Jacket members/joints where new casing connections are proposed shall
+    be carried out during Pre-engineering survey.
+ iv)  The existing SWLP casings, casing guides and stiffeners under replacement
+     scope are to be removed before installation of new casings.
+ v)  The replacement of the casings is to be one to one in terms of material &
+     dimensions unless stated  otherwise.
+ vi)  Marine growth cleaning of the affected area where connections are proposed
+    and other necessary works to complete scope of work shall be carried out.
+vii)  SWLP casing along with guides & stiffeners to be carried out as per structural design
+      criteria as a special structure.
+
+2.3.3.5.4.  REPLACEMENT OF WELL FLUID HEATER & PBIV
+
+ Structural scope related to above includes replacement/strengthening of Equipment
+ supports and Deck Modification including strengthening based on pre-engineering
+& post demolition survey of  existing Platforms. Deck modification including
+ strengthening are to be firmed up during  detail engineering based on pre-
+ engineering survey. Deck local analysis shall be carried out as per structural design
+ criteria for Deck Modifications including strengthening.
+
+ The removal and installation philosophy shall be developed and submitted to
+ Company for review. Replacement of Handrail, Plating & Gratings etc. at Piping
+ /Equipment/Process modification areas shall be carried out by the Contractor based
+ on site Survey. Any issues envisaged for the modification works shall be brought to
+ the Company’s notice in the pre-engineering survey report and feasible solution shall
+ also be proposed.
+
+ After removal of these equipment, a post demolition survey shall be performed as
+ detailed below:
+
+  1.  Corroded status of the primary & secondary structural members, platings,
+    equipment supports/ skids etc. beneath equipment (which are envisaged to be
+     replaced) may not be possible to full extent during pre-engineering survey. Pre-
+
+=== PDF PAGE 24 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+   ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+   SERVICES                                                Revision No.   1
+                           Casing Replacement Project)
+   ISO 9001: 2015                                          Page: 24 OF 43
+
+
+
+    engineering survey shall collect enough data for fabrication of equipment
+    supports/ skids, dimensions of platings to be replaced.
+ 2.  Post-demolition survey shall be performed (before undertaking structural
+    replacement/ strengthening jobs) to collect data such as member size, corroded
+     size & thickness (using ultrasound method) of platings, equipment supports/
+     skids, primary/ secondary structural members for one to one replacement of
+    corroded members/ strengthening of existing members/ providing additional
+    members.
+ 3.  However,  pre-engineering  survey  performed  (with  available   as-built
+    documents)  shall  collect data required  for keeping necessary  structural
+   members of different sizes in the construction barges for the activities detailed
+     at point no.-2 above.
+ 4.  Verify  the  dimensions  vis-a-vis  feasibility  of  installation  of  the new
+    structure/equipment and examine the feasibility of addition/replacement of
+      facilities (Equipment / Vessels / Piping), etc.
+ 5.  Identify obstruction  if any  for the proposed  installations including deck
+    extensions & proposed addition or replacement of Equipment / piping.
+
+Temporary structure and deck extension if required for replacement of equipment
+shall be erected. Local analysis for Deck extension shall be carried out as per
+structural design criteria.
+
+Temporary structure shall be dismantled and disposed after successful installation.
+Their Loading on cargo barges, sea fastening, transporting and their disposal in
+environmentally safe manner to an onshore location arranged by Contractor shall be
+in Contractor’s scope. Marine spreads required for transportation of dismantled
+material shall also be in Contractor’s scope.
+
+
+      Sl.
+           Platform         Description/Details   Remarks
+    No.
+                           Replacement     of
+                                             Temporary supports may be
+                                 existing  two  WF
+     1.    SHG                                   provided      to      support
+                              heaters  with  two
+                                                     modification works.
+                      new WF heaters.
+           IC-HEERA                            Temporary lift & supports may
+         TRUNK LINE:      Replacement of 30"   be provided during Installation.
+     2.     PIG   BARREL    PBIV   of   weight   Deck members/platings to be
+          ISOLATION       12MT.               checked & corroded members
+          VALVE                                  to be replaced with new one.
+
+
+The replacement of Plating & Gratings at Piping/equipment/Process modification
+areas of Platform as per the bid scope shall be carried out by the Contractor. The
+demolition & relocation of facilities wherever required shall be carried out as part of
+Scope of work. Any Structural Strengthening at any platform due to facilities &
+
+=== PDF PAGE 25 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 25 OF 43
+
+
+
+ modifications as per the scope of work shall be carried out by the Contractor as part
+ of the scope.
+
+2.3.3.5.5.   RS-21 DECK MODIFICATION & STRENGTHENING
+
+ Repair of damage structure, handrail, cable tray etc. due to hit by OSV is to be taken
+ up. Following Structural Repair/strengthening/Replacement jobs are to be taken up
+ at RS-21 Platform deck:
+
+ Solar Panel Deck:
+  NDT(UT) for Primary tubular brace member (406mm OD x 19.6mm WT) on Truss
+  Row  - F2 connecting Decks EL (+)27.000m (Shelter and Battery Room) and
+   (+)31.000m (Below Helideck) is to be performed and Structural adequacy is to be
+   confirmed. Any strengthening measures required shall be taken up. Scratch and
+   abrasion marks are there. Paint of the member shall be restored. Local analysis of
+   damaged  structural member  shall be  carried out.as per  structural design
+   considering proposed strengthening.
+  Damaged secondary I-beam UB254 below the above mentioned brace member
+   on Truss Row - F2 has a dent for 4000mm long. Same shall be replaced with new
+   section of same size.
+  One panel of floor grating (1.30 m x 1.10 m approx.) is damaged. New grating shall
+   be provided and installed.
+
+ Main Deck:
+  Hand rail at west side of south west corner is damaged. Hand rail of south corner
+     is also bent. Damaged hand rails shall be replaced with new one.
+
+ Cellar Deck:
+   Primary Structural Tubular brace member (356mm OD x 12mm WT) on Truss Row
+   – FA-1 connecting Decks EL (+)17.000m (Cellar Deck) and (+)22.500m (Main Deck)
+     is damaged. A local dent with maximum approximate size of 200 mm depth and
+  2000mm of length is there. Same shall be replaced with new tubular of same size
+   and strength.
+  The primary beam of combined section of size UB 610 + UB 533 including the
+   Peripheral beams on the same Truss Row – FA-1 and connecting the above
+   mentioned damaged brace mentioned shall be replaced with new beam sections
+   of same size and strength.
+  Hand rails and gratings at south west corner measuring approximately 12 m x 3 m
+    shall be replaced with hand rails & gratings of same size and specifications.
+   Navigation system module including navigation lantern, junction box, cable tray
+   and the extended deck has been observed to be damaged shall be replaced with
+   same system.
+
+ Connection design to be carried out for all proposed replaceable structural as per
+ scope of works. Design analysis shall be carried out as per structural design criteria
+ conforming to AISC and API RP2A.
+
+=== PDF PAGE 26 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 26 OF 43
+
+
+
+ Refer multi-disciplinary scope of work for other details related to repair jobs to be
+ performed.
+
+2.3.3.5.6.  UNDERWATER REPAIR OF JACKET MEMBERS & JOINTS AT SHP JACKET
+
+ Underwater repairing of Jacket brace member(s) & Joint(s) shall be carried out at
+ SHP platform to strengthen the brace members and joints without removal of
+ existing structural member(s). Scope of repair of jacket members and joints shall
+ include with removal & relocation of existing anodes, clamps (if any) and removal of
+ any other obstructions (non-structural) hampering for repair of joints and members.
+ Anode shall be provided for the steel surface added during repair. The design of
+ underwater repairing shall be carried out as per structural Design Criteria section
+ 3.4, Part - III of bid Vol.-II.
+
+ Pre Engineering survey shall be carried out for the members & Joints surroundings
+ with measurements of dimension of the tubulars & Joints, elevations, existence of
+ anode or any other obstructions, etc. required for detail engineering. Feasibility of
+ installation of Clamps / clamp components shall also be carried out during pre-
+ engineering survey. Removal of obstruction  is within the scope but Structural
+ members shall not be removed. Marine growth cleaning of the affected area other
+ necessary works to complete scope of work.
+
+ Detailed Scope of Work for Underwater Repair of Members/Joints
+
+ The detailed platform wise scope of work for repair/ strengthening of jacket
+ members are as detailed in the following clauses:
+  Envisaged repair methodology of damaged underwater jacket members/joints is
+    specified in table below. LSTK Contractor shall perform the repair as per the
+   envisaged repair methodology. The envisaged repair methodology can be further
+   supplemented with  additional measures  like member  grouting,  additional
+   clamping, reinforcements, gussets etc. as per the requirements of the FEM
+    analysis and to overcome any  site constraints observed  in executing the
+   underwater repairs.
+  LSTK Contractors shall submit specific repair methodology proposed to be
+   adopted for each repair based on the repair methods envisaged for approval of
+   company (Refer table provided below). The engineering shall be performed as per
+    forces, deflections etc., obtained from in-place SACS analysis carried out for
+   information by successful LSTK Contractor.
+   As-built data, to the extent available, are attached with the bid document for
+   reference. Contractor shall carry out under water pre-engineering survey with his
+   equipment, marine spread, skilled manpower, divers, surveyors etc. of the
+   platform to obtain the as-built details and other information to enable successful
+   execution of the job. Contractor need to collect all necessary field data for design,
+    fabrication & installation of the proposed strengthening.
+  The available SACS Model of Platforms is to be provided to successful bidder. SACS
+   model shall be verified with As-built drawings, environmental parameters &
+   geotechnical data as indicated in the bid. SACS model shall be modified,  if
+
+=== PDF PAGE 27 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+   ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+   SERVICES                                                Revision No.   1
+                           Casing Replacement Project)
+   ISO 9001: 2015                                          Page: 27 OF 43
+
+
+
+   required, as per As-built drawings & data collected during pre-engineering survey,
+  environmental parameters & geotechnical data indicated in the bid document
+   during detailed design and accordingly, strengthening of members shall be carried
+  out with no additional cost and time impact to Company. LSTK Contractor shall
+  model necessary repair strengthening/stiffening of members and joints in the in-
+   place model and shall obtain actual design forces and deflections in the members
+  and joints due to proposed strengthening / stiffening.
+ LSTK Contractor shall carry out Finite Element Analysis of the Jacket member/
+   joint undergoing repairs/ strengthening with and without proposed repair
+  method in order to ascertain the strength adequacy, stress concentration factors
+  and fatigue life before and after repair works meeting requirements of design
+   basis. The reports shall be submitted to the Company for review and approval.
+  Detail  engineering,  preparation  of  AFC &  fabrication  drawings  of  the
+   repair/strengthening on underwater jacket members and joints.
+ Submission  of underwater  repair  execution method,  design, drawings &
+   installation procedure to Company for review and approval. For underwater
+   repair design methods, refer design criteria & specification attached with the
+  tender package.
+ The LSTK Contractor shall procure, fabricate and install required number of
+  anodes (CP system) on new structural members provided as replacement and/or
+   repair to existing damaged structural members of platform jackets as part of
+   repair/ strengthening as per specification attached elsewhere in the bid package.
+  Prior to clamping, the members shall have to be properly aligned using proper
+   rigging arrangement without further damaging the members. Cracks if any will
+  have to be properly sealed by cold process to ensure that grout should not spill
+   into the members and also to ensure structural integrity.
+  Field execution including underwater repair of damaged members, joints, welds
+   to be carried out under the supervision of LSTK Contractor’s representative,
+  Company’s representative and TPI’s/CA’s representative.
+  Provision of temporary members / bracings in the effected portion of jacket
+   structure where repair work is being carried out to ensure structural integrity
+   during construction. Restoration of structural components, anodes (CP system)
+   etc., which are removed for facilitating the installation work in platforms, if any.
+
+Location of Members and Joints for Strengthening:
+
+  Sl.
+       Platform  Member         Location         Remarks
+ no.
+                                                      Strengthening   of  one
+                                                             structural member ME39
+                 0288-506L        (Horizontal
+  1.   SHP                                              (Horizontal member-Row
+                (ME39 )        member-Row B)
+                                                         B) with adequate strength
+                                                           metallic clamp.
+
+=== PDF PAGE 28 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 28 OF 43
+
+
+
+2.3.3.5.7.  VENT BOOM
+
+ The detail Engineering shall be carried out by the Contractor based on pre-
+ engineering survey and Scope of Work. Existing vent boom shall be removed
+ wherever indicated.
+
+ Existing vent booms & vent lines supports shall be demolished at ICP, SHP, SHD, BHS
+& NC Platform and disposed-off. New vent booms on ICP, SHP, SHD & BHS Platform
+ shall be installed as per the table provided below:
+
+
+
+    Sl. No.  Platform  Scope
+             ICP vent boom along with CO2 snuffing system  is to be
+                          replaced.
+             Vent line needs to be replaced from the top of scrubber till
+      1.     ICP
+                        vent boom.
+             All supports of vent line and vent boom need to be replaced.
+             One-to-one replacement.
+             The corroded & damaged vent boom supports, channel
+                          sections need to be removed and replaced with new structural
+      2.    SHP          supports.
+             Vent boom and vent line to be replaced from the top of
+                          scrubber.
+             SHD vent boom along with CO2 snuffing system  is to be
+                          replaced.
+             Vent line also needs replacement from the top of scrubber till
+      3.    SHD
+                        vent boom.
+             All supports of vent boom and vent line need to be replaced.
+             One-to-one replacement.
+             Vent boom is to be replaced with new vent boom and the truss
+                        support to vent boom shall be provided at suitable intervals.
+             The scrubber needs to be replaced.
+             The new structural support shall be provided to vent line at
+                       mezzanine deck and other locations to secure vent line after
+      4.    BHS
+                         dismantling the existing support.
+             The base plate and stiffeners of vent boom support at Cellar
+                       deck need replacement.
+             10” pipeline upstream of vent scrubber of approximate length
+                          of 140 m need to be replaced due to multiple leakages.
+      5.   NC     The vent boom and its support structure is to be demolished.
+
+
+ Local Deck In place analysis shall be carried out with vent boom &  its deck
+ connections at Cellar &/Main Deck as per structural design criteria. The deck
+ modification & member, joint strengthening shall be carried out based on Local In
+
+=== PDF PAGE 29 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 29 OF 43
+
+
+
+   place analysis. The installation shall be carried out in such a way that new Vent boom
+   shall not obstruct boat landing and material handling operations. Design analysis of
+  Vent boom also shall be in the contractor scope of work.
+
+  The structural members & supports shall be demolished. Vent boom removal &
+   Installation philosophy shall be developed and submitted to Company for review.
+
+  The associated Structural deck modifications/strengthening shall be carried out as
+  per the design engineering.
+
+2.3.4. MECHANICAL
+
+  2.3.4.1. INTRODUCTION
+
+ The following sub-sections describe the Mechanical works envisaged under S&SRP
+  (Sump Caisson and SWLP Casing Replacement Project). This section is to be read in
+  conjunction with the Basic bid work of Process, Structural, Electrical, Piping &
+  Instrumentation, Process Design Criteria, Design Criteria of Mechanical Safety & Life
+  Saving Equipment, Indicative P&IDs and Functional Specifications placed in the bid
+  package for the complete assessment of Mechanical/Rotary & Life Saving Equipment
+  scope of work.
+
+  Further it is to be noted that the standard design criteria of “Mechanical, Safety and
+  Lifesaving Equipment” is enclosed in the bid package which covers all equipment of
+ an offshore platform, therefore only the relevant portions of the design criteria as
+  applicable to this project need to be followed. Bidder to note that anything not
+  mentioned here but nevertheless required to make the system safe and complete
+  shall be supplied and executed.
+
+  2.3.4.2. SCOPE OF WORK
+
+ The scope of work shall include pre-engineering survey, design, detail engineering,
+  preparation of drawings and documents,  sizing (Sump Caisson), selection and
+  procurement of Mechanical, Safety and Life Saving Equipment, supply of all material,
+  equipment,  tools &  tackles  and  fabrication,  installation,  hook-up,  testing,
+  commissioning and handing over of mechanical facilities complete in all respects.
+  Interface issues requiring coordination between vendors for equipment’s shall be
+  under contractor’s scope.   Mechanical equipment and facilities shall meet the
+  requirements given in the Process Scope of work, Process Design Criteria, Design
+  Criteria of Mechanical Safety & Life Saving Equipment for Well platform, Process
+  platform, Functional specifications etc., specified in the bid package.
+
+  Bidder/Contractor’s scope of work shall include but not limited to:
+  Pre-engineering Survey
+  Design and Detailed engineering
+  Preparation of drawings and documents and obtaining approval of same from
+   Company
+  Selection and Procurement of Mechanical equipment
+  Fabrication and Assembly
+
+=== PDF PAGE 30 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 30 OF 43
+
+
+ Testing at shop, yard and at offshore as required.
+ Transportation and supply of all material and equipment, tools and tackles
+ Installation, pre-commissioning, commissioning, testing and handing over of
+   Mechanical facilities ( The equipment installed will be taken in line for operation –
+  one at a time by operator with presence & support from vendor/contractor for
+  equipment commissioning )
+
+2.3.4.3. EQUIPMENT
+
+Contractor shall follow description of work / basic bid work in totality, various
+discipline’s design criteria, relevant functional specifications, other respective codes
+and standards specified / attached with the Bid package and shall carry out design &
+detail engineering for various equipment envisaged under this project.
+
+All equipment shall be procured as per the specifications attached with the bid
+package. In case any new specification, not included in the bid package, is required to
+be generated, the contractor shall prepare the specification and shall submit to
+Company for approval.
+
+Wherever equal but conflicting requirements arise between this Scope / Specification
+and the referenced documents, such conflict shall be brought to the attention of the
+Company in writing.
+
+Contractor shall carry out the following activities for procurement of Equipment:
+  Contractor  shall prepare the enquiry  specifications  / documents  for each
+   Equipment and materials to be purchased including spare parts for erection &
+   commissioning, special tools and tackles and also to provide list of spare parts for
+   one year normal operation.
+  Equipment data sheets (as per relevant API codes, wherever applicable) and as
+    specified in functional specifications shall be submitted for company’s review.
+  Contractor shall obtain the approval of Purchase Specification of Equipment from
+   Company before placement of order on Vendors selected by them.
+  Contractor shall carry out the detailed design review, checking and approval of
+   equipment engineering and all drawing and technical data from Vendors for
+   equipment and materials, to ensure adequacy and consistency with the design,
+    safety and operability requirements.
+  Contractor shall prepare Inspection and Test Plan (ITP), indicating inspection
+    stages wherever required, in accordance with Company provided Inspection
+   Requirement Table (IRT), Functional Specifications, Codes and Standards etc.
+    covering relevant components, complete equipment / systems and submit it for
+   review and approval by the company.
+  Contractor  shall include  all the commissioning spares as required  in the
+   equipment  vendor’s  scope.  Contractor  shall procure the same from the
+   equipment vendors and make  it  available  well before commissioning  of
+   equipment. In case, any additional spares are consumed during commissioning
+   the same to be provided by the contractor at no additional cost to the Company.
+
+=== PDF PAGE 31 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 31 OF 43
+
+
+  For all Equipment, Vendor shall furnish the list of special tools / tackles required
+    for assembly and maintenance. Such tools / tackles shall be supplied by the
+   vendor and shall form part of firm supply of Contractor. Unless otherwise
+    specified, for multiple identical Equipment’s (2 or more), at least Two (2) sets of
+    special tools and tackles shall be supplied else one set shall be supplied if the
+   number of equipment is one.
+  Contractor’s scope shall include complete supply, transportation of equipment
+   from vendor’s shop to site, receipt of material at site, handling at site and arrange
+    for storage at site.
+  Equipment which are transported by sea shall have sea-worthy packing. The
+    Contractor shall strictly follow the recommended preservation procedures during
+   the period of storage for all equipment.
+  Contractor shall carry out the Erection of each Equipment at the specified location
+   on the properly designed foundation / support as per requirement stated
+   elsewhere in Bid.
+  Contractor shall carry out the inter-connections at all interface points such as
+   main process and utility connections.
+  Contractor   shall  ensure  the  presence  of  equipment  manufacturer’s
+    representative at yard and site (offshore platform) for supervision of erection,
+    testing and commissioning for Equipment.
+   All pressurized cylinders like clean agent cylinders, CO2 cylinders, Nitrogen
+    cylinders etc. shall have PESO approval for refilling in India. All statutory guidelines
+    shall be adhered to in this regard. PESO certificate shall be submitted at the time
+    of detailed engineering to Company.
+  Contractor to refer Design Criteria – Mechanical, Safety and Life Saving equipment
+    for various documentation required for information, review and approval.
+
+2.3.4.4. MECHANICAL EQUIPMENT
+
+ 1) SWLP Casing
+
+  a)  IC Complex: ICW Platform:
+
+     Replacement of Three (03) no Sea water lift pump Caisson (SWLP-1010 / SWLP-
+     1020 / SWLP-1030) with new caisson. Pulling out and running in of the sea water
+        lift pump shall be in the scope of contractor however any spare required during
+     running in of the pump shall be provided by company. Sea water lift pump shall
+     be handed over one by one for casing replacement. Chlorinator piping along
+     with Spurger with Sockolet for hook-up of chlorinator line shall be provided.
+      Provision of sacrificial anode shall be under contractor’s SOW. New caisson shall
+     be installed at the same location after removal of existing caisson.
+
+  b) SH Complex: SHW Platform:
+
+     Replacement of Three (03) no Sea water lift pump Caisson (P-6210 / P-6220 / P-
+     6310) and replacing it with new caisson. Pulling out and running in of the sea
+     water lift pump shall be in the scope of contractor however any spare required
+
+=== PDF PAGE 32 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+   ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+   SERVICES                                                Revision No.   1
+                           Casing Replacement Project)
+   ISO 9001: 2015                                          Page: 32 OF 43
+
+
+
+    during running in of the pump shall be provided by company. Sea water lift
+   pump shall be handed over one by one for casing replacement. Chlorinator
+    piping along with Spurger with Sockolet for hook-up of chlorinator line shall be
+    provided. Provision of sacrificial anode shall be under contractor’s SOW. New
+    caisson shall be installed at the same location after removal of existing caisson.
+
+
+2) CO2 Snuffing System
+
+   Carbon Dioxide snuffing system shall be provided for vent boom on ICP, SHP, SHD
+  & BHS platforms as a fire suppression system. The equipment shall be skid
+   mounted, automatically activated snuffing system complete with all necessary
+    accessories to make it a complete operable unit. Vendor to ensure that CO2 flow
+    rate is sufficient to extinguish the flame and also cool the vent tip below the auto
+    ignition temperature in case the vent tip has been ignited. CO2 snuffing system
+    shall be supplied for two consecutive firing (for initial charge) with 100% spare
+   charge of CO2 cylinders with necessary piping, pressure switches, gauges, valves,
+   associated controls and shall be completely assembled for ready operation after
+    installation on the platform. The complete system shall be certified by a third
+    party. For more details on CO2 Snuffing System refer Sect 3.7 Design criteria -
+   Mechanical, Safety and Life Saving Equipment. Contractor shall prepare the
+    detailed Purchase Specification for CO2 snuffing system.
+
+
+3) Vent Scrubber
+
+   Replacement of One (01) no Vent Scrubber (V-1090) in the vent boom system of
+   BHS platform. Contractor shall prepare the detailed Purchase Specification for
+   vent scrubber (pressure vessel).
+
+
+4)  (4) Well Fluid Heater
+
+   SH Complex: SHG Platform:
+
+   Two (02) no. of Well Fluid Heater – Shell and Tube type (E-1150 / E-1160) shall
+   be  replaced with new heaters  of same  capacity along with  associated
+   instrumentation and piping. For further details of WFH refer Process scope of
+   work / Process Design Criteria / Basic Bid Work / P & ID, Functional Specification
+    for Shell & Tube exchanger (FS 5702F rev2), Design Criteria for Mechanical,
+    Safety and Life Saving Equipment. Contractor shall prepare the detailed Purchase
+    Specification for Well Fluid Heater.
+
+5) Sump Caisson with Blow case
+
+ a)  IC Complex: ICP Platform:
+
+    Removal of One (01) no Sump Caisson (S-1800) with blow case vessel (V-1820)
+    and installation of new sump caisson with blow case with all associated piping
+    and instrumentation aligned along the jacket leg.
+
+=== PDF PAGE 33 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+   ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+   SERVICES                                                Revision No.   1
+                           Casing Replacement Project)
+   ISO 9001: 2015                                          Page: 33 OF 43
+
+
+
+ b) SH Complex: SHP Platform:
+
+    Removal of Two (02) no Sump Caissons (S – 1060 and S – 1070) with blow case
+     vessel (V-1060 & V-1070) and installation of one (01) sump caisson of along with
+    blow case, with all associated piping and instrumentation aligned along with the
+     jacket leg.
+
+ c) Neelam Process Complex: NLP Platform:
+
+    Replacement of One (01) no Sump Caisson (S-5201) and blow case vessel (V-
+    5211) with new sump caisson and blow case, with all associated piping and
+    instrumentation aligned at B3 Leg of NLP platform Jacket. The new sump caisson
+     shall be Flotation pile Design (with gas sparger) same as the existing Sump
+    Caisson.
+
+
+ d) Heera Process Complex: HRA Platform:
+
+    Removal of One (01) no Sump Caisson (S-810) with blow case vessel (V-820) and
+     installation of new sump caisson with blow case with all associated piping and
+    instrumentation aligned along the platform Jacket Leg. A Fire water Hose Reel
+     shall be installed at most suitable location for firefighting purpose to cover
+     entire spider deck including HRA Sump Caisson.
+
+   For all the four sump caissons, necessary appurtenances and attachments on
+   Sump Caisson shall be provided for supporting and lifting Blow case assembly for
+   adjustment and maintenance. Contractor shall prepare the detailed Purchase
+    Specification for Sump Caisson.
+
+   For further details of Sump Caissons refer Process scope of work / Process Design
+    Criteria / Basic Bid Work / P & ID, Structural scope of work, Functional
+    Specification for Sump Caisson with Blow Case (FS 5904 rev2), FS for Unfired
+   pressure vessel (FS 5601 rev3), and Design Criteria for Mechanical, Safety and
+    Life Saving Equipment.
+
+6) HOT SURFACE PROTECTION
+
+   Personnel protection against accidental contact with hot surface  shall be
+   provided for equipment’s considered for replacement. Bidder to follow FS 2006.
+
+7)  Safety Study
+
+   Contractor shall engage an internationally reputed third party agency having
+    expertise in carrying out HAZID study for installation work at platform. The
+   contractor shall comply with the relevant requirement of functional safety
+    Specifications (FS-5102) for the scope of work as defined in the bid package. Any
+    conflicting requirement shall be brought to company’s notice and clarification
+    shall be sought. No new life saving equipment is envisaged in the Project.
+
+=== PDF PAGE 34 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 34 OF 43
+
+
+
+
+2.3.5. INSTRUMENTATION
+
+The purpose of Instrumentation is to provide a system such that all the required
+information/ data/ signals in the desired form and location are available and they work
+for the safe monitoring, control and optimal operation of the process, safety and
+associated systems. Instrumentation also makes the required information available in
+the required form at the local control centers, central control room and/ or remote
+telemetry unit interface, following the Scope of Work, Instrumentation Design Criteria
+and Functional Specifications of the tender document, applicable Codes & Standards
+etc.
+
+The present Scope of Work (SOW) broadly envisages Engineering, Procurement,
+Installation/ Erection, Testing/ Calibration and Commissioning of Instrumentation
+Monitoring & Control Systems for the jobs mentioned below at the existing process &
+wellhead platforms.
+
+1.   IC Complex: 1 No. of Sump Caisson (S-1800) with blow Case (V-1820) at ICP, 30”
+     pig barrel isolation valve (IC-Heera Trunk Line), Vent boom replacement at ICP,
+    Casing of 3 Nos. of sea water lift pumps at ICW (1010, 1020, 1030).
+
+2.  SH Complex: 2 Nos. of Well Fluid Heaters at SHG (E-1150 (Train A), 1160 (Train B)),
+    2 Nos. of Sump Caissons (V-1060,1070) with Blow Cases (V-1060,1070) at SHP,
+    Casing of 3 Nos. of Sea Water Lift Pumps at SHW (6210, 6220, 6310), Vent Booms
+     at SHP & SHD.
+
+3.  Neelam Complex: Replacement of 1 No. of Sump Caisson (S-5201) with blow case
+    (V-5211) and Piping replacement of Sump Caisson S-5200
+
+4.  Heera Complex: Replacement of 1 No. of Sump Caisson (S-810) with blow case (V-
+     820).
+
+5.  BHS Complex: Replacement of 1 No. of Vent Boom at BHS.
+
+6.  WIN Complex: Demolition of 1 No. of Vent Boom at NC.
+
+7.  RS-21 Wellhead: Repair of top side structure.
+
+All the replacement and additional jobs described above shall be carried out with
+replacement/ addition of all associated instrumentation, control systems, hook up and
+integration with the existing system in addition to new requirement of instrumentation
+and control to meet the present bid scope and as per new Design Standards.
+
+Section 2.3.5.1 provides general guidelines.
+
+Section 2.3.5.2 covers details of brief instrument scope of work.
+
+Section 2.3.5.3 covers the details of Modifications jobs at associated platforms/
+complexes.
+
+=== PDF PAGE 35 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 35 OF 43
+
+
+
+2.3.5.1. GENERAL
+
+1. This Scope of Work shall be read in conjunction with Instrumentation Design
+   Criteria, Instrumentation  Functional  Specification,  Piping & Instrumentation
+  Diagram (P&IDs), various General/ Job Specifications, Process Scope of Work and
+   other technical documents enclosed in the bid package.
+
+2. Any sub-system/ facility, or instruments/ equipment/ accessories or any other
+   requirement not specifically mentioned here, but needed to meet the functional/
+   technical requirements as specified in project bid documents shall also be the part
+   of scope of this document.
+
+3. Contractor’s scope of work for instrumentation and control system for  all
+   platforms shall include but not limited to:
+
+   a)  Design and Engineering for all Instrumentation including Monitoring, Control
+     and Safety Systems.
+   b) Documentation of Design & Engineering.
+   c)  Procurement, Shop testing, Supply and Inspection of all new instruments in
+     tamper proof packages at site installation.
+   d)  Laying of cables, wiring and interconnection with the existing/ new local panels
+      or centralized DCS system for local and remote monitoring and control as per
+      process requirement.
+   e)  Installation, Field Calibration, Testing, Integration and Commissioning.
+    f)  Additional F&G detection, if required, shall be provided and integrated with
+      the existing F&G system.
+   g)  Pre-Engineering Site Survey.
+
+4. Wherever any doubt/ clarification arises between this Scope/ Specification and the
+   referenced documents, same shall be brought to the attention of ONGC in writing.
+   For resolution, unless specified in the Vol-I of the Bidding Documents, the order of
+   precedence shall be:
+
+   a)  National Statutory Requirements (the Law)
+   b)  Basic Bid Work (Description of Work)
+   c)  Instrumentation Design Criteria
+   d)  Instrumentation Functional Specifications
+   e)  Industry Codes and Standards
+
+5. In general,  for potential replacements and  for new instrumentation being
+   considered on individual platforms, the existing field instrument and the systems
+  on the respective platforms shall be surveyed and documented in the pre-
+   Engineering Survey Document for review and approval. The instruments then
+   considered in the design and finalized during the detailed engineering shall be
+   selected so as to be compatible with the existing control/monitoring system.
+
+6. Unless otherwise specified, the term instrumentation shall mean Instruments,
+   Control system &  Safety Instrumented System  along with the  applicable
+   accessories, utilities, hook-up materials etc.
+
+=== PDF PAGE 36 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 36 OF 43
+
+
+
+7. Any proprietary or non-proprietary sub-system, facility, instruments, equipment,
+   accessories, hardware, software  (including any up-gradation requirements),
+   Firmware, up-gradation, licensing, not specifically mentioned in the scope but are
+  found essential (during any stage of the project such as pre-engineering survey,
+   detailed engineering, P&ID approvals, Safety studies, Commissioning etc.) for
+   project completion , commissioning and making the system fully functional for safe
+  & Normal operation shall be in the Contractor’s scope of work and form part of the
+   bid.
+
+8. During execution of the project, the Contractor shall, at various stages of the
+   project, submit to the Company as a part of his Detailed Engineering, all the
+   drawings and documents for review/ information/ approval as the case may be,
+   incorporating all the scope, design, selection, methodology of installation etc., as
+   detailed elsewhere in the bid document.
+
+
+2.3.5.2. Brief Scope of Work
+
+1. The instruments and control systems in complete, required for the modifications
+  on the platforms envisaged under this project as shown in the P&IDs and the Scope
+   of Work, shall be under the Contractor’s scope of work. Provision of all new
+   instruments, instruments under replacement and control systems connected with
+   the said equipment to be replaced, their hook-up and commissioning shall be in
+   Contactor’s scope of work. All Instrumentation items shall be in accordance with
+   the hazardous area classification of the respective location. The scope involves the
+   responsibility of the Contractor to ensure that all Instruments being procured shall
+  be compatible with the existing systems to which they will be connected.
+
+2. In general, the work shall be carried out in line with the existing facilities and
+   including, but not limited to following documents enclosed as part of the bid
+  document:
+
+   a)  Instrumentation Design Criteria.
+   b)  Instrumentation Functional Specifications.
+
+
+3. The activities related to the following but not limited to these only, are to be
+   developed and executed by the Contractor for meeting the requirement of the
+   project description/ Basic Bid Work.
+
+4. In general work shall be carried out in line with existing philosophy of operation of
+   the platform.
+
+5. The instruments considered in the design and finalized during the detailed
+   engineering shall be selected so as to be compatible with the existing control/
+   monitoring system. Wherever the existing system is FF (Foundation Fieldbus type)
+   the new instruments shall also be of FF type, and wherever  it is HART, the
+   instruments shall be of HART type. Contractor shall ensure this and specified in the
+   Pre-Engineering Survey Report for review and approval.
+
+=== PDF PAGE 37 ===
+    OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 37 OF 43
+
+
+
+ 6. All required hardware like I/O cards, components etc. and software modification
+    (graphics, logics etc.), required for commissioning of new facilities shall be in the
+    Contractor’s scope. In general, applicable to all platforms, wherever spares are
+    available and identified during pre-engineering survey for use in this project, the
+   used spares (I/O Cards, SCADA Cards, etc.,) shall be replenished by Contractor by
+    providing new cards (depending on number of additional I/O counts and as
+   determined by the FS for DCS/ PLC/ IO Modules). The new cards shall be installed
+   and wired as required wherever spare slots are available. Otherwise, it shall be
+    supplied and handed over as loose spares.
+
+ 7. The Contractor shall supply and install new field instruments, junction boxes, MCT,
+    tubing, fittings, interconnection cables and instrumentation controls including
+    accessories required for replacement in the modification part of the existing
+    process platforms as per the Description of Work-Process, P&IDs, Functional
+    Specifications  of  various  Instrumentation  items  etc. enclosed  in  bid. The
+    Contractor shall provide  all instrument supports, instrument isolation valves,
+    impulse tubing and other erection material (including tube trays, cable trays,
+    tubing air supply distributors etc.) as required for all new field instruments. All the
+   upcoming new field instruments as per the modification P&ID shall be integrated
+    with the existing Control and Safety Systems at existing process platforms.
+
+ 8. Distribution  of power  supply,  loop  checking and  commissioning  of new
+    instruments.
+
+ 9. Extension/ modification of existing instrument air system for the new instruments
+    as required. Bidder shall calculate the Instrument Air consumption requirement
+   and submit to company for review. Pipe & pipe fittings, tube & tube fittings for
+    instrument air supply distribution to instruments as required shall be supplied by
+    the Bidder.
+
+10. The Contractor shall assist along with Vendor, tools, tackles, utility etc. during
+    commissioning of    the various systems envisaged under this project. The
+    Contractor shall be responsible for the smooth operation of the existing systems
+   which have been modified to take care of the scope of this project. The Contractor
+    shall ensure that the normal operation of the existing systems on the relevant
+    platforms is not hampered during and after all modification jobs have been carried
+    out. After successful commissioning of replaced systems, the same shall be
+    integrated with existing system.
+
+11. Providing any other item as well as its associated work to make the system on each
+    existing platform complete and fully operational shall be in the LSTK contractor’s
+   scope of work.
+
+12. Wherever the bid specifies integration of new Instrumentation & Control system
+    with existing instrumentation & control system, SCADA system, any hardware,
+    software, third party software, configuration, additional/ new licensing, OEM
+    assistance etc. required for complete integration of new and existing facilities shall
+   be in the LSTK contractor’s scope of work. Contractor shall ensure any integration
+
+=== PDF PAGE 38 ===
+    OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 38 OF 43
+
+
+
+    with the existing control system network without hampering network security by
+   any sort of virus threat.
+
+13. Mandatory spares for all new supplied instruments for  all process packaged
+    equipment, mechanical packaged equipment and electrical packaged equipment
+    shall be provided as per clause 3.6.4.8.6 (a) of Instrumentation Design Criteria.
+
+14. All  major  instruments  for  package  equipment  shall  be  governed  by
+    “Instrumentation for packaged equipment” FS-3503. Instruments being replaced
+   on the process lines connected to packaged equipment under present scope shall
+   be procured from ONGC Suggested Vendor List (SVL).
+
+15. The wetted part of the instruments shall be suitable for the intended process/
+    service.
+
+16. Separate earthing for panels, junction boxes, cable shields etc. shall be provided.
+
+17. Supply of all types of cables such as signal, alarm, control, power supply, earth
+    cable etc. as per requirement.
+
+18. Supply of signal barriers, isolators, receiver switches, relays, trip amplifiers etc. for
+    signals being terminated at the control panels.
+
+19. Hook up of field instruments to Distributed Control System (DCS), Emergency
+   Shutdown (ESD) system, Fire & Gas system (FGS) in Control room as per bid
+    requirement and Pre-Engineering Survey Report.
+
+20. The  descriptions and requirements contained  in  this scope  of work and
+    specifications attached elsewhere in the bid are concise by necessity and cannot
+    include all details. However, it is the responsibility of the Bidder to execute the job
+    in accordance with the specifications and good engineering practices for smooth
+   and successful operation of the Platforms.
+
+21. Installation, configuration, hook up, field calibration, testing, loop checking, logic
+    verification,  integration and commissioning, SAT  (Site Acceptance  Test)  of
+   complete Instrumentation & control systems.
+
+22. Any associated structural work for installation of instruments and panels shall also
+   be in bidder’s scope.
+
+23. Modification and addition of logics and graphic pages in existing DCS, ESD and FGS
+   system as per scope of work requirement shall be in bidder’s scope.
+
+24. Supply of MCT Blocks and Frames for control room cable entries, deck penetration
+    etc. is in the scope of supply of the Bidder.
+
+25. Electrical Heat Tracing shall be done for instruments which are coming on
+     electrically heat traced lines.
+
+26. Supply of start-up and commissioning spares along with other consumables for all
+    instrumentation items.
+
+27. Scope shall include procurement, supply, testing and commissioning of all field
+    instruments under replacement/ addition scope such as control valves, safety
+    valves, electronic transmitters, temperature switches, level switches, pressure
+
+=== PDF PAGE 39 ===
+    OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+     SERVICES                                                Revision No.   1
+                             Casing Replacement Project)
+     ISO 9001: 2015                                          Page: 39 OF 43
+
+
+
+    gauges, temperature gauges, differential pressure gauges, level gauges, orifice
+    plates, flow meters and accessories, junction boxes, local control panel, branch
+    cables, single pair/ multi pair/ multi triad cables, MCT, cable glands, plugs, cable
+    trays and cable tray supports, tubing & fittings and all other accessories required
+    as indicated by the process requirement, P&IDs.
+
+28. The design and selection of these field instruments shall be as per the relevant
+    functional specifications enclosed in the bid document.
+
+29. Logic for monitoring and control instruments shall be built in existing Process
+    Control System and tripping logic shall be built in existing ESD system. In case if
+    Local Control Panel/ Station is supplied by vendor, same shall be suitably interfaced
+    with existing PCS & ESD systems of platforms.
+
+30. Laying & termination of serial interface cable from field as well as inside control
+   room, if any, required between instruments and control room. Implementation of
+     serial interface links for other foreign devices and system is in bidder’s scope.
+
+31. Smart Positioner with position feedback facility (via HART/ compatible protocol)
+    shall be provided for all control valves under replacement along with their cabling
+    to DCS. For all the closed loops, parameters such as SP, PV, OP and VP shall be
+   made available in DCS graphics.
+
+32. Weather protection canopies shall be provided for all field instruments.
+
+33. Installation methods for all field instruments shall maximize ease of maintenance
+  & operation.
+
+34. All existing field instruments, branch cables, cable trays, tube trays, tubing, fittings,
+    junction boxes and other auxiliaries which are under replacement scope shall be
+    dismantled and removed by the contractor. New cable, cable tray, tube tray etc.
+    shall be in the scope of the contractor.
+
+35. OEM’s involvement along with necessary Hardware & Software shall be ensured
+    for smooth integration and functioning in case of new panel with the existing panel
+    at Control room, by LSTK contractor.
+
+36. Available  existing systems  details  at various platforms  is tabulated below.
+   However,  it  is bidder’s responsibility to finalize the system requirement by
+    quantities and qualities by site visit/ all documents available at site.
+
+
+        Sl.   Platform
+                     DCS            ESD                   FGS
+      No.  Name
+                                                                       Dettronics     Card
+        1.   ICP          Honeywell C300   Relay logic based
+                                                              based
+                       Honeywell        Honeywell    Fail   Safe  Honeywell  Fail Safe
+        2.  SHQ
+                         Experion           Controller (FSC)            Controller (FSC)
+                      DCS-Yokogawa    ESD       System-Relay  Honeywell  Fail Safe
+        3.  SHG
+                     Centum VP       based/ SDP-1000          Controller FSC
+
+=== PDF PAGE 40 ===
+    OFFSHORE                                               Section No.     2.0
+                               BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                      S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 40 OF 43
+
+
+
+                      Honeywell        Honeywell    Fail   Safe  Honeywell  Fail Safe
+       4.   SHP
+                        Experion           Controller (FSC)            Controller (FSC)
+                      Honeywell        Honeywell    Fail   Safe  Honeywell  Fail Safe
+       5.   SHD
+                       Experion           Controller (FSC)            Controller (FSC)
+                      Honeywell        Envirotech Controls Inc.
+       6.   NLP                                          GE Fanuc 90-70
+                        Experion         (Pneumatic Master SDP)
+                                                             Siemens    Quadlog
+       7.  HRA        Emerson Delta V   Rockwell (Triplex)
+                                                                  (ICONIC GENESIS 32)
+
+
+2.3.5.3. Modifications jobs at associated platforms/ complexes.
+
+2.3.5.3.1.   Replacement of Vent Boom at ICP, SHP, BHS & SHD
+
+ 1.  All associated field instruments as per marked-up P&IDs and process scope of
+    work to be replaced with new one.
+
+ 2.  Associated instruments of upcoming CO2 snuffing system as per marked-up
+    P&IDs shall be provided as per OEM design.
+
+ 3.  Integration of upcoming CO2 snuffing system as per marked-up P&IDs with
+     existing F&G system shall be done as per existing philosophy.
+
+
+2.3.5.3.2.   Replacement of 2 Nos. of Well Fluid Heaters at SHG (E-1150 & 1160).
+
+ 1.  All associated field instruments as per marked-up P&IDs and process scope of
+    work to be replaced with new instruments.
+
+ 2.  Existing shutdown valves of the system as marked in P&ID shall be replaced with
+   new ones.
+
+ 3.  All associated branch cables, instrument tubings from SDP and instrument air
+    supply tubings, junction boxes of field instruments associated with well fluid
+    heaters shall be replaced with new ones.
+
+ 4. New junction boxes shall be installed at same location of old junction boxes,
+    however, existing multicore cables shall be retained.
+
+2.3.5.3.3. Removal  of Sump Caisson  (S-1800) with Blow Case (V-1820) and
+           installation of one new Sump Caisson with Blow Case at ICP :
+
+   1. New associated field instruments for upcoming Sump Caisson with new blow
+     case shall be provided as per OEM design.
+
+   2. New junction box as per area classification with new branch cables and new
+     multicore cable shall be in contractor’s scope.
+
+   3. All monitoring, control and logic execution of new instruments associated with
+     upcoming sump caisson shall done in existing DCS system.
+
+   4. All  required  hardware  like  I/O  cards, components  etc. and  software
+     modification (graphics, logic etc.), required for commissioning of new field
+
+=== PDF PAGE 41 ===
+   OFFSHORE                                               Section No.     2.0
+                              BASIC BID WORK
+    ENGINEERING                                               Vol. No.             II
+                     S&SRP (Sump Caisson and SWLP
+    SERVICES                                                Revision No.   1
+                            Casing Replacement Project)
+    ISO 9001: 2015                                          Page: 41 OF 43
+
+
+
+     instruments associated with Sump Caisson with OEM’s assistance shall be in
+     Contractor’s scope of work.
+
+   5. New hardware cards, components etc. shall be installed in the DCS cabinet at
+     ICP control room.
+
+   6. Associated instrumentation as per marked up P&ID to be replaced with new
+     one.
+
+
+2.3.5.3.4. Removal of existing two Sump Caisson (S-1060/ S-1070) and Blow Case
+         (V-1060/ V-1070) and installation of one new Sump Caisson with Blow
+        Case at SHP.
+
+   1. New associated field instruments for upcoming Sump Caisson with new blow
+     case shall be provided as per OEM design.
+
+   2. New junction box as per area classification with new branch cables shall be
+     provided. New branch cables shall be laid from new field instruments to new
+     junction box and new junction box shall be installed at same location of old
+     junction box. Multicore cable shall be retained.
+
+   3. All the monitoring and control shall be carried out in DCS and all the tripping
+      logic execution shall be carried out by ESD PLC. Existing slots for instruments in
+    DCS and ESD PLC of Sump Caisson can be used for upcoming new Sump Caisson.
+    However the used spares shall be replenished by Contractor by providing
+     equivalent numbers of installed or loose spares.
+
+   4. All other associated field instruments as per marked up P&ID to be replaced.
+
+
+2.3.5.3.5. Removal  of Sump  Caisson(S-5201)  with Blow  Case  (V-5211) and
+          installation of one new Sump Caisson with Blow Case at NLP :
+
+   1. New associated field instruments for upcoming Sump Caisson with new blow
+     case shall be provided as per OEM design.
+
+   2. New junction box as per area classification with new branch cables shall be
+     provided. New branch cables shall be laid from new field instruments to new
+     junction box and new junction box shall be installed at same location of old
+     junction box. Multicore cable shall be retained.
+
+   3. All the monitoring and control shall be carried out in DCS and all the tripping
+      logic execution shall be carried out by shutdown panel. Existing slots for
+     instruments in DCS and existing tripping logic in SDP of Sump Caisson can be
+    used for upcoming new Sump Caisson. However, the used spares shall be
+     replenished by Contractor by providing equivalent numbers of installed or loose
+     spares.
+
+   4. All other associated field instruments as per marked up P&ID to be replaced.
+
+=== PDF PAGE 42 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 42 OF 43
+
+
+
+  2.3.5.3.6. Removal of Sump Caisson (S-810) with Blow Case (V-820) and installation
+           of one new Sump Caisson with blow case at HRA :
+
+     1. New associated field instruments for upcoming Sump Caisson with new blow
+       case shall be provided as per OEM design.
+
+     2. New junction box as per area classification with new branch cables shall be
+       provided. New branch cables shall be laid from new field instruments to new
+       junction box and new junction box shall be installed at same location of old
+       junction box. Multicore cable shall be retained.
+
+     3. All the monitoring and control shall be carried out in DCS and all the tripping
+        logic execution shall be carried out by ESD PLC. Existing slots for instruments in
+      DCS and ESD PLC, of Sump Caisson can be used for upcoming new Sump Caisson.
+      However the used spares shall be replenished by Contractor by providing
+       equivalent numbers of installed or loose spares.
+
+     4. All other associated field instruments as per marked up P&ID to be replaced.
+
+
+  2.3.5.3.7. Piping Replacement of Sump Caisson (S-5200) at NLP:
+
+    New associated field instruments as per mark up P&ID shall be provided as per
+   OEM design and integrated as per existing philosophy
+
+
+2.3.6. ELECTRICAL
+
+2.3.6.1. Design, Engineering, Supply, Installation, Testing and Commissioning of
+          Electrical Equipment & Facilities for Modifications:
+
+This section shall be read in conjunction with relevant portions of the bid package,
+Electrical design criteria and functional specifications attached in the bid package.
+Bidder shall note that any item not mentioned here but nevertheless required to make
+the system safe and complete shall also be supplied and executed by the contractor.
+
+All electrical facilities for modification work at existing platforms as per the scope
+defined in the bid package shall be provided by the Contractor. The scope of works
+shall include pre-engineering survey, design and engineering, preparation of drawings
+&  documents,   sizing,  selection  and  procurement  of   electrical  equipment,
+transportation & supply of all material & equipment tools & tackles, installation,
+construction, testing, commissioning and handing over of electrical facilities complete
+in all respects.
+
+This section defines the Contractor’s electrical scope of work for modification work at
+existing platforms:
+
+
+2.3.6.2. Repair Works at RS-21 Well Head Platform:
+
+The scope of work related to repair job at platform is described elsewhere in the bid
+package. All electrical works including design, engineering, supply, installation and
+testing are included in the contractor scope of work.
+
+=== PDF PAGE 43 ===
+     OFFSHORE                                               Section No.     2.0
+                                BASIC BID WORK
+     ENGINEERING                                               Vol. No.             II
+                       S&SRP (Sump Caisson and SWLP
+      SERVICES                                                Revision No.   1
+                              Casing Replacement Project)
+      ISO 9001: 2015                                          Page: 43 OF 43
+
+
+
+Nav-Aid light (1 no.) along with JB shall be replaced with new one as per FS 4003. Power
+shall be fed from existing Nav-Aid battery charger distribution panel. Existing power
+cable shall be replaced with new power cable. New cables shall be laid in existing cable
+trays and MCT. Supply and installation of all accessories i.e., MCT, cable trays, glands &
+lugs etc. as required are included in Contractor’s scope of supply. Nav-Aid system cable
+shall be fire resistant type.
+
+Cable tray below helideck shall be replaced with new one.
+
+Supply, installation and testing of new solar panels as per FS 4007A against missing and
+damaged solar panels. No. of new solar panels shall be assessed during pre-engineering
+survey. These solar panels shall be integrated with the existing solar power system to
+meet the system requirements. Supply and installation of cables, cable trays, junction
+boxes and other electrical facilities shall be within contractor scope of work.
+
+
+2.3.6.3. GENERAL
+
+All associated electrical works related to the package equipment and modification
+works defined in other sections of bid is included in the contractor’s scope of work.
+
+Relocation of any electrical items such as lighting poles, cables, cable trays, junction
+boxes etc. if required due to carrying out modifications and any additional lighting
+required due to modification and / or deck extension anywhere at any Platform where
+modification / deck extension is included in this Scope of Work.

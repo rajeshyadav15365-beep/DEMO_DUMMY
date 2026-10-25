@@ -1,0 +1,159 @@
+
+SHEET Verified MTO
+Package | Type | New bridge MT | Strengthen MT | New landing MT | Landing strengthen MT | Row steel MT | Demolition MT | Handrail m | Grating m2 | GI m2 | Work front
+ICW-ICG UD | Strengthening | 0 | 19 | 0 | 30 | 49 | 25 | 110 | 58 | 273 | WF3
+ICW-ICG LD | New | 57 | 0 | 65 | 0 | 122 | 1 | 118 | 88 | 0 | WF1
+ICG-ICP UD | Strengthening | 0 | 86 | 0 | 30 | 116 | 25 | 93 | 49 | 419 | WF3
+ICG-ICP LD | New | 115 | 0 | 45 | 0 | 160 | 1 | 176 | 132 | 0 | WF1
+BHS-SLQ | Replacement | 195 | 0 | 87 | 0 | 282 | 210 | 88 | 82 | 332 | WF2
+SLQ-WIS | Strengthening | 0 | 61 | 0 | 30 | 91 | 15 | 98 | 51 | 0 | WF3
+NQO-NQD | Strengthening | 0 | 63 | 0 | 30 | 93 | 25 | 93 | 58 | 250 | WF4
+WIN-NC | Strengthening | 0 | 6 | 0 | 40 | 46 | 10 | 45 | 29 | 0 | WF4
+SCA-SC1 | Strengthening | 0 | 35 | 0 | 28 | 63 | 15 | 88 | 55 | 0 | WF4
+SCA-SCF | Strengthening | 0 | 91 | 0 | 28 | 119 | 30 | 257 | 116 | 0 | WF4
+Tender summary |  | 367 | 361 | 197 | 217 | 1142 | 357 | 1168 | 719 | 1274 | Printed subtotal
+Row summation |  | 367 | 361 | 197 | 216 | 1141 | 357 | 1168 | 719 | 1274 | 1 MT difference
+
+SHEET Workfronts
+ID | Packages | MT | Type | Constraint
+WF1 | ICW-ICG LD + ICG-ICP LD | 282 | New bridges | Engineering release; modularization; lifting vessel
+WF2 | BHS-SLQ | 282 | Replacement | Service transfer before demolition; critical
+WF3 | ICW-ICG UD + ICG-ICP UD + SLQ-WIS | 256 | Strengthening | Access and welding workface
+WF4 | NQO-NQD + WIN-NC + SCA-SC1 + SCA-SCF | 321 | Strengthening | Offshore crew and platform access
+
+SHEET Yard Capacity
+Scenario | Lines | Accepted MT per line-day | Effective days | Capacity MT | Tender summary MT | Surplus MT | Caveat
+Single line | 1 | 4 | 150 | 600 | 1142 | -542 | Unverified productivity; does not account for workface constraints
+Two lines | 2 | 4 | 150 | 1200 | 1142 | 58 | Unverified productivity; does not account for workface constraints
+Three lines | 3 | 4 | 120 | 1440 | 1142 | 298 | Unverified productivity; does not account for workface constraints
+Two higher output | 2 | 6 | 120 | 1440 | 1142 | 298 | Unverified productivity; does not account for workface constraints
+
+SHEET Resource Audit
+Discipline | Resource | Unit | Available | Required | Verification evidence | Status
+Engineering | Structural lead | person-hours |  |  | Named engineer; load by drawing and bridge | Unverified
+Engineering | Survey team | team-days |  |  | Access dates; as-built surveys | Unverified
+Fabrication | Fabrication line A | MT/day |  |  | New bridge modules | Unverified
+Fabrication | Fabrication line B | MT/day |  |  | BHS-SLQ modules | Unverified
+Fabrication | Strengthening cell | MT/day |  |  | Strengthening kits | Unverified
+Marine | Accommodation barge | vessel-days |  |  | Check fleet availability and certification | Unverified
+Marine | Heavy-lift crane vessel | vessel-days |  |  | Obtain lift charts and quotation | Unverified
+Marine | Cargo barge | vessel-days |  |  | Loadout and seafastening | Unverified
+Offshore | Structural crew A | crew-days |  |  | Bridge installation | Unverified
+Offshore | Structural crew B | crew-days |  |  | Strengthening | Unverified
+Quality | NDT team | team-days |  |  | NDT hold points | Unverified
+
+SHEET Package Gate Matrix
+Package | Stage | Predecessor | Release evidence | Owner | Target date | Status
+ICW-ICG UD | Survey | Offshore access and records | Survey accepted |  |  | Not released
+ICW-ICG UD | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+ICW-ICG UD | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+ICW-ICG UD | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+ICW-ICG UD | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+ICW-ICG UD | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+ICW-ICG UD | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+ICW-ICG LD | Survey | Offshore access and records | Survey accepted |  |  | Not released
+ICW-ICG LD | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+ICW-ICG LD | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+ICW-ICG LD | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+ICW-ICG LD | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+ICW-ICG LD | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+ICW-ICG LD | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+ICG-ICP UD | Survey | Offshore access and records | Survey accepted |  |  | Not released
+ICG-ICP UD | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+ICG-ICP UD | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+ICG-ICP UD | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+ICG-ICP UD | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+ICG-ICP UD | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+ICG-ICP UD | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+ICG-ICP LD | Survey | Offshore access and records | Survey accepted |  |  | Not released
+ICG-ICP LD | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+ICG-ICP LD | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+ICG-ICP LD | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+ICG-ICP LD | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+ICG-ICP LD | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+ICG-ICP LD | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+BHS-SLQ | Survey | Offshore access and records | Survey accepted |  |  | Not released
+BHS-SLQ | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+BHS-SLQ | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+BHS-SLQ | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+BHS-SLQ | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+BHS-SLQ | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+BHS-SLQ | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+SLQ-WIS | Survey | Offshore access and records | Survey accepted |  |  | Not released
+SLQ-WIS | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+SLQ-WIS | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+SLQ-WIS | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+SLQ-WIS | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+SLQ-WIS | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+SLQ-WIS | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+NQO-NQD | Survey | Offshore access and records | Survey accepted |  |  | Not released
+NQO-NQD | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+NQO-NQD | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+NQO-NQD | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+NQO-NQD | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+NQO-NQD | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+NQO-NQD | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+WIN-NC | Survey | Offshore access and records | Survey accepted |  |  | Not released
+WIN-NC | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+WIN-NC | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+WIN-NC | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+WIN-NC | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+WIN-NC | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+WIN-NC | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+SCA-SC1 | Survey | Offshore access and records | Survey accepted |  |  | Not released
+SCA-SC1 | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+SCA-SC1 | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+SCA-SC1 | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+SCA-SC1 | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+SCA-SC1 | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+SCA-SC1 | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+SCA-SCF | Survey | Offshore access and records | Survey accepted |  |  | Not released
+SCA-SCF | Engineering | Survey; existing structural model | AFC approved |  |  | Not released
+SCA-SCF | Procurement | Approved MTO and specifications | Materials traceable |  |  | Not released
+SCA-SCF | Fabrication | AFC + inspected material | NDT and dimensional acceptance |  |  | Not released
+SCA-SCF | Marine readiness | Module weight/COG and vessel review | Marine assurance and lift release |  |  | Not released
+SCA-SCF | Offshore execution | Permits, SIMOPS, materials, crew | Inspection and operations acceptance |  |  | Not released
+SCA-SCF | Completion | Punch list and as-builts | ONGC handover |  |  | Not released
+
+SHEET Marine Campaigns
+Campaign | Bridge / group | Module ID | Verified lifted weight MT | COG X | COG Y | COG Z | Crane radius m | Certified crane capacity MT | Vessel | Planned vessel-days | Weather standby days | Approval status
+C1 | ICW-ICG UD |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C2 | ICW-ICG LD |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C3 | ICG-ICP UD |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C4 | ICG-ICP LD |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C5 | BHS-SLQ |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C6 | SLQ-WIS |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C7 | NQO-NQD |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C8 | WIN-NC |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C9 | SCA-SC1 |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+C10 | SCA-SCF |  |  |  |  |  |  |  |  |  |  | NOT APPROVED
+
+SHEET 360D Logic
+Gate | Proposed target day | Deliverable | Must be proven by | Owner | Status
+G1 | 30 | Approved resource and schedule baseline | Named resources and verified CPM | Project director | OPEN
+G2 | 75 | Surveys and first engineering releases | Accepted survey dossiers | Engineering manager | OPEN
+G3 | 135 | Major procurement and fabrication releases | Approved AFC and vendor dates | Engineering / Procurement | OPEN
+G4 | 210 | Fabrication and offshore readiness | Inspected modules; vessel readiness | Fabrication / Marine | OPEN
+G5 | 300 | Major offshore construction complete | Accepted quantities; safe service transfers | Offshore manager | OPEN
+G6 | 360 | Contractual completion | Punch closure; contractual handover | Project director | OPEN
+
+SHEET Weekly Lookahead
+Week ending | Work front | Planned activity | Planned accepted qty | Unit | Crew / vessel | Actual accepted qty | Constraint | Recovery owner | Recovery date
+
+SHEET CEO Decisions
+Decision | Evidence required | Decision owner | Due | Status
+Confirm commencement and contract calendars | Award/NOA; SCC monsoon rules | CEO / Contracts |  | OPEN
+Resolve 1 MT MTO discrepancy | Detailed AFC MTO / EIL clarification | Engineering |  | OPEN
+Verify fabrication lines | Yard audit and output evidence | Operations |  | OPEN
+Verify heavy lift vessel | Crane charts, weight/COG and marine assurance | Marine |  | OPEN
+Confirm crew availability | Roster vs other ONGC commitments | Project director |  | OPEN
+Approve resource-levelled CPM | Primavera resource and weather model | CEO |  | OPEN
+
+SHEET Basis and Limitations
+Topic | Status | Source or requirement
+Tender MTO | Source-derived | Uploaded MTO Drawings IRT.pdf page 1
+Printed 1,142 MT vs row 1,141 MT | Open discrepancy | Landing strengthening printed 217 MT vs row 216 MT
+Resource rates | Scenario only | No verified yard output or offshore productivity
+Marine vessels | Unverified suitability | Shivansh website; fleet deployment and class to verify
+Execution milestones | Proposed | Not contract-approved; validate against SCC
+Lifting and demolition | Not released | Qualified offshore engineering and ONGC approvals required

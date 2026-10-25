@@ -1,0 +1,92 @@
+SHIVANSH OFFSHORE EPC
+PROJECT EXECUTION MASTER PLAN
+VOLUME 2 — ENGINEERING, MTO AND PROCUREMENT CONTROL
+ONGC Bridge Refurbishment & Replacement Project | Pre-award planning draft | 17 October 2026
+DOCUMENT STATUS: For management planning and verification only. Not issued for construction. Technical and marine procedures require competent engineering review and ONGC approvals.
+Document control
+Basis, sources and limitations
+The ONGC SOW & Bridge Report Combined.pdf, Section 1 Background and General Requirement, contains the ten-bridge B774 scope and quantity table. Previous project-stage assumptions are incorporated as planning hypotheses, not as verified commitments. Latest addenda, detailed drawings and MTO must be reconciled before procurement, fabrication, lifting or offshore work.
+External EPC benchmarks: Saipem offshore engineering and construction; McDermott offshore EPCI. Marine reference for applicability review: DNV-ST-N001 (December 2023). Contract documents and approved ONGC requirements govern.
+Master bridge and quantity register
+Printed SOW column totals: 367 / 361 / 197 / 217 / 357 MT. Structural column total = 1,142 MT. Sum of printed bridge-row structural entries = 1,141 MT. Open discrepancy: 1 MT. Handrail 1,168 m; grating 719 m²; GI sheeting 1,274 m². No correction made pending source reconciliation.
+Management procedures and control requirements
+2.1 Design basis and document hierarchy
+Use the signed contract, latest addenda/corrigenda, ONGC SOW, engineering specifications, existing bridge reports, survey results and approved drawings in that order as contractually defined. Establish a master document register with revision and supersession control.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.2 Bridge-by-bridge engineering deliverables
+For each bridge: survey and condition assessment, member schedule, structural design checks, fatigue assessment as applicable, landing/deck connections, temporary works, lifting interfaces, fabrication drawings, weld maps, coating schedule and as-builts. No design is approved by this document.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.3 MTO measurement rules
+Maintain line-item dimensions, material grades, unit weights, fabrication allowances, procurement quantity, installed quantity, removed quantity and salvage/backload. Link each row to drawing number and revision. Avoid treating bridge total as individual lift weight.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.4 Quantity discrepancy
+Source SOW table totals structural columns as 367+361+197+217 = 1,142 MT; sum of printed bridge-level structural entries = 1,141 MT. Keep an open technical query for 1 MT until the controlling MTO and drawings are reconciled.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.5 Procurement work packages
+Steel and sections; bolts and fasteners; grating; handrails; GI sheeting; coatings; welding consumables; lifting attachments; temporary works; inspection/NDT; E&I and service interfaces if required. Use approved specifications and inspection categories.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.6 Vendor enquiry and technical bid evaluation
+RFQ includes quantities, specifications, drawing revisions, inspection/test plan, traceability, delivery dates, documentation, deviations and warranty. Pass/fail technical compliance precedes normalised commercial comparison.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.7 Long-lead and expediting
+Maintain enquiry date, bid due, TBE, PO, drawing approval, raw-material release, production, inspection, dispatch and work-front required-on-site dates. Escalate any negative float to Project Director.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.8 Material control
+Unique heat/batch traceability; receiving inspection; quarantine of nonconforming material; controlled storage and preservation; issue by bridge IWP; reconcile excess and shortage weekly.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.9 Engineering release criteria
+Only checked and approved IFC drawings may release fabrication or offshore work. Field changes require TQ/RFI, engineering disposition, revision control and affected-work reassessment.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+2.10 Procurement KPI
+PO coverage, material availability by IWP, supplier on-time delivery, expediting exceptions, inspected/accepted quantity, outstanding TQs and forecast cost of material.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+Bridge-wise implementation matrix
+Control register template
+Formal review and release criteria
+Before release, discipline leads must verify: (1) controlling contract and drawing revision; (2) reconciled quantity and scope; (3) qualified resources and documented capacity; (4) schedule and cost impact; (5) inspection and safety hold points; (6) ONGC and marine operational authorisations where applicable. CEO approval of a planning volume does not authorise offshore operations.
+Reference sources
+SOW & Bridge Report Combined.pdf — Section 1, Background and General Requirement; B774 MTO table
+MTO Drawings IRT.pdf — drawing collection; detailed checking outstanding
+https://www.saipem.com/en/solutions-energy-transition/offshore
+https://www.mcdermott.com/solutions/offshore
+https://www.dnv.com/energy/standards-guidelines/dnv-st-n001-marine-operations-and-marine-warranty/
+Item | Entry
+Document code | SHV-BRRP-PEP-V02-R0
+Revision | 0 — Pre-award planning
+Prepared for | Shivansh management / Project Director
+Contract award | Not confirmed
+Governing duration | 360 days subject to contract
+Approval | Pending CEO and discipline review
+Bridge | New/replace MT | Existing bridge strengthen MT | New landing/deck MT | Existing landing/deck strengthen MT | Demolition MT
+ICW–ICG UD | 0 | 19 | 0 | 30 | 25
+ICW–ICG LD | 57 | 0 | 65 | 0 | 1
+ICG–ICP UD | 0 | 86 | 0 | 30 | 25
+ICG–ICP LD | 115 | 0 | 45 | 0 | 1
+BHS–SLQ | 195 | 0 | 87 | 0 | 210
+SLQ–WIS | 0 | 61 | 0 | 30 | 15
+NQO–NQD | 0 | 63 | 0 | 30 | 25
+WIN–NC | 0 | 6 | 0 | 40 | 10
+SCA–SC1 | 0 | 35 | 0 | 28 | 15
+SCA–SCF | 0 | 91 | 0 | 28 | 30
+Bridge | Work type | Planning quantity MT | Required bridge-specific output
+ICW–ICG UD | Strengthening | 49 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICW–ICG LD | New lower deck | 122 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP UD | Strengthening | 116 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP LD | New lower deck | 160 | Approved drawings + MTO + work pack + QA release + accepted handover
+BHS–SLQ | Replacement | 282 | Approved drawings + MTO + work pack + QA release + accepted handover
+SLQ–WIS | Strengthening | 91 | Approved drawings + MTO + work pack + QA release + accepted handover
+NQO–NQD | Strengthening | 93 | Approved drawings + MTO + work pack + QA release + accepted handover
+WIN–NC | Strengthening | 46 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SC1 | Strengthening | 63 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SCF | Strengthening | 119 | Approved drawings + MTO + work pack + QA release + accepted handover
+ID | Deliverable / action | Accountable owner | Due date | Status / evidence
+V2-01 | Design basis and document hierarchy | To assign | To confirm | Open — verify
+V2-02 | Bridge-by-bridge engineering deliverables | To assign | To confirm | Open — verify
+V2-03 | MTO measurement rules | To assign | To confirm | Open — verify
+V2-04 | Quantity discrepancy | To assign | To confirm | Open — verify
+V2-05 | Procurement work packages | To assign | To confirm | Open — verify
+V2-06 | Vendor enquiry and technical bid evaluation | To assign | To confirm | Open — verify
+V2-07 | Long-lead and expediting | To assign | To confirm | Open — verify
+V2-08 | Material control | To assign | To confirm | Open — verify
+V2-09 | Engineering release criteria | To assign | To confirm | Open — verify
+V2-10 | Procurement KPI | To assign | To confirm | Open — verify

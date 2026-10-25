@@ -1,0 +1,96 @@
+SHIVANSH OFFSHORE EPC
+PROJECT EXECUTION MASTER PLAN
+VOLUME 5 — INTEGRATED 360-DAY SCHEDULE AND RESOURCE PLAN
+ONGC Bridge Refurbishment & Replacement Project | Pre-award planning draft | 17 October 2026
+DOCUMENT STATUS: For management planning and verification only. Not issued for construction. Technical and marine procedures require competent engineering review and ONGC approvals.
+Document control
+Basis, sources and limitations
+The ONGC SOW & Bridge Report Combined.pdf, Section 1 Background and General Requirement, contains the ten-bridge B774 scope and quantity table. Previous project-stage assumptions are incorporated as planning hypotheses, not as verified commitments. Latest addenda, detailed drawings and MTO must be reconciled before procurement, fabrication, lifting or offshore work.
+External EPC benchmarks: Saipem offshore engineering and construction; McDermott offshore EPCI. Marine reference for applicability review: DNV-ST-N001 (December 2023). Contract documents and approved ONGC requirements govern.
+Master bridge and quantity register
+Printed SOW column totals: 367 / 361 / 197 / 217 / 357 MT. Structural column total = 1,142 MT. Sum of printed bridge-row structural entries = 1,141 MT. Open discrepancy: 1 MT. Handrail 1,168 m; grating 719 m²; GI sheeting 1,274 m². No correction made pending source reconciliation.
+Management procedures and control requirements
+5.1 Scheduling basis
+Day 1 is the contractually effective commencement date after award, not the present date. All periods below are preliminary planning windows, not an approved critical-path programme.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.2 WBS and coding
+Use BR01–BR10 and common packages ENG, MAT, FAB, QA, LOG, MAR, CON, DEM, COM. Each activity has unique ID, predecessor/successor, calendar, responsible owner, quantities, manpower/equipment and acceptance milestone.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.3 Provisional milestones
+D1–30 contract baseline, surveys and engineering; D31–60 procurement/fabrication mobilisation; D61–110 fabrication and work-front preparation; D85–230 strengthening campaign; D110–180 two lower-deck installation campaigns; D170–240 BHS–SLQ; D241–300 residual offshore completion; D301–360 punch closure and handover. All overlap and seasonality must be validated.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.4 Resource planning
+Model fabrication bays, cranes, steel deliveries, welders, riggers, scaffolders, NDT personnel, offshore POB, marine spreads, logistics slots and finance limits as constraints. No double booking.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.5 Schedule validation
+First run logic-only CPM, then resource-constrained levelling, then costed recovery options and risk-adjusted completion. Retain baseline and change logs. Calculate actual longest path and near-critical paths.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.6 Manpower histograms
+Derive crew counts from trade-specific remaining MH divided by available productive hours; include rotation, fatigue and access limits. Hypothetical 18-person teams are not a committed workforce.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.7 Weekly control
+Weekly update actual start/finish, accepted quantities, earned/actual MH, procurement commitments, marine days and revised completion forecast. Freeze a six-week look-ahead and a 72-hour execution plan.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.8 Risk schedule simulation
+Test engineering delay, fabrication underperformance, vessel unavailability, severe weather, ONGC access restriction, NDT backlog and working-capital shortage. Record mitigation cost and revised finish.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.9 Recovery hierarchy
+Remove constraints, resequence approved work fronts, reallocate existing resources, add verified capacity, then consider costed acceleration. Never compress mandatory hold points.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.10 CEO schedule acceptance
+Approve baseline only after contract dates, MTO, drawings, capacity audit, vessel workability, ONGC access and funding are evidenced. 360-day feasibility is not currently demonstrated.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+5.11 Reporting outputs
+Level-1 CEO milestone map; Level-2 bridge integrated plan; Level-3 CPM schedule; Level-4 six-week look-ahead; Level-5 daily IWP/shift plan.
+Required evidence / deliverable: controlled register or signed record, responsible manager, planned date, verification status, and escalation of any open technical, resource, commercial or operational constraint.
+Bridge-wise implementation matrix
+Control register template
+Formal review and release criteria
+Before release, discipline leads must verify: (1) controlling contract and drawing revision; (2) reconciled quantity and scope; (3) qualified resources and documented capacity; (4) schedule and cost impact; (5) inspection and safety hold points; (6) ONGC and marine operational authorisations where applicable. CEO approval of a planning volume does not authorise offshore operations.
+Reference sources
+SOW & Bridge Report Combined.pdf — Section 1, Background and General Requirement; B774 MTO table
+MTO Drawings IRT.pdf — drawing collection; detailed checking outstanding
+https://www.saipem.com/en/solutions-energy-transition/offshore
+https://www.mcdermott.com/solutions/offshore
+https://www.dnv.com/energy/standards-guidelines/dnv-st-n001-marine-operations-and-marine-warranty/
+Item | Entry
+Document code | SHV-BRRP-PEP-V05-R0
+Revision | 0 — Pre-award planning
+Prepared for | Shivansh management / Project Director
+Contract award | Not confirmed
+Governing duration | 360 days subject to contract
+Approval | Pending CEO and discipline review
+Bridge | New/replace MT | Existing bridge strengthen MT | New landing/deck MT | Existing landing/deck strengthen MT | Demolition MT
+ICW–ICG UD | 0 | 19 | 0 | 30 | 25
+ICW–ICG LD | 57 | 0 | 65 | 0 | 1
+ICG–ICP UD | 0 | 86 | 0 | 30 | 25
+ICG–ICP LD | 115 | 0 | 45 | 0 | 1
+BHS–SLQ | 195 | 0 | 87 | 0 | 210
+SLQ–WIS | 0 | 61 | 0 | 30 | 15
+NQO–NQD | 0 | 63 | 0 | 30 | 25
+WIN–NC | 0 | 6 | 0 | 40 | 10
+SCA–SC1 | 0 | 35 | 0 | 28 | 15
+SCA–SCF | 0 | 91 | 0 | 28 | 30
+Bridge | Work type | Planning quantity MT | Required bridge-specific output
+ICW–ICG UD | Strengthening | 49 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICW–ICG LD | New lower deck | 122 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP UD | Strengthening | 116 | Approved drawings + MTO + work pack + QA release + accepted handover
+ICG–ICP LD | New lower deck | 160 | Approved drawings + MTO + work pack + QA release + accepted handover
+BHS–SLQ | Replacement | 282 | Approved drawings + MTO + work pack + QA release + accepted handover
+SLQ–WIS | Strengthening | 91 | Approved drawings + MTO + work pack + QA release + accepted handover
+NQO–NQD | Strengthening | 93 | Approved drawings + MTO + work pack + QA release + accepted handover
+WIN–NC | Strengthening | 46 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SC1 | Strengthening | 63 | Approved drawings + MTO + work pack + QA release + accepted handover
+SCA–SCF | Strengthening | 119 | Approved drawings + MTO + work pack + QA release + accepted handover
+ID | Deliverable / action | Accountable owner | Due date | Status / evidence
+V5-01 | Scheduling basis | To assign | To confirm | Open — verify
+V5-02 | WBS and coding | To assign | To confirm | Open — verify
+V5-03 | Provisional milestones | To assign | To confirm | Open — verify
+V5-04 | Resource planning | To assign | To confirm | Open — verify
+V5-05 | Schedule validation | To assign | To confirm | Open — verify
+V5-06 | Manpower histograms | To assign | To confirm | Open — verify
+V5-07 | Weekly control | To assign | To confirm | Open — verify
+V5-08 | Risk schedule simulation | To assign | To confirm | Open — verify
+V5-09 | Recovery hierarchy | To assign | To confirm | Open — verify
+V5-10 | CEO schedule acceptance | To assign | To confirm | Open — verify
+V5-11 | Reporting outputs | To assign | To confirm | Open — verify

@@ -1,0 +1,3217 @@
+{
+  "sources": [
+    [
+      "S01",
+      "GCC",
+      "Vol-I-II GCC.docx",
+      "2.1.1;6.3.1.1; related contract clauses",
+      "EPC responsibilities and12months from NOA; executed contract governs"
+    ],
+    [
+      "S02",
+      "Technical SCC",
+      "Technical_SCC.pdf",
+      "2;3;13;digitalmeasurement provisions",
+      "Completion/conditionalmonsoon relief; marine requirements; LD; e-MB"
+    ],
+    [
+      "S03",
+      "Structural scope",
+      "SOW & Bridge Report Combined.pdf",
+      "15-53; structuralSOW RevC",
+      "Ten bridges; landings; services/demolition interfaces; drawings are tender references"
+    ],
+    [
+      "S04",
+      "Source replacement studies",
+      "SOW & Bridge Report Combined.pdf",
+      "97-100;122-123;133-135;152-153;196-199;207-209",
+      "Study geometry/results only; not independently reproduced"
+    ],
+    [
+      "S05",
+      "Design criteria",
+      "Design Criteria & Execution Methodology.pdf",
+      "PartI1-116;BRRPPartII117-120",
+      "Rev14generalcriteria;25yearlife; project-specificapplicability"
+    ],
+    [
+      "S06",
+      "Execution methodology",
+      "Design Criteria & Execution Methodology.pdf",
+      "133-154",
+      "B774-000-83-43-EM-0001 RevC; tender-level method"
+    ],
+    [
+      "S07",
+      "Structural addendum",
+      "Addendum_Structure_SOW.pdf",
+      "1",
+      "ICG ICP BHS jacket strengthening"
+    ],
+    [
+      "S08",
+      "MTO drawings inspection",
+      "MTO Drawings IRT.pdf",
+      "1;2-7;8-14;15-34",
+      "MTO;partiallandings;standards;IRT"
+    ],
+    [
+      "S09",
+      "Specifications",
+      "Specification Combined.pdf",
+      "1-2;3-38;55-81;91-168;169-243",
+      "Structural register;weld/NDT;fabrication;coating;materialinstallation"
+    ],
+    [
+      "S10",
+      "Commercial amendments",
+      "Addendum (1).pdf;AddendumtoA3.pdf",
+      "Applicableamendments",
+      "Vendor/agencyprovisions;catering;paymentchanges;currency/localcontent"
+    ],
+    [
+      "S11",
+      "Commercial price/payment schedules",
+      "Appendix A-3;Appendix A-10; BRS",
+      "Applywithamendments",
+      "Quote/billingstructures; not cost evidence"
+    ],
+    [
+      "S12",
+      "Planning files",
+      "Sixmastervolumes;Stages10/25-35;Level3/360day",
+      "Pre-awardplanning",
+      "Assumptions only; schedule/resource/cost/quantity discrepancies are retained"
+    ],
+    [
+      "S13",
+      "Other-projectpackage",
+      "Section2.pdf;Section3.pdf",
+      "Cover andproject-specificPartII",
+      "S&SRP/WSSRP-2 content not automatically imported into BRRP"
+    ],
+    [
+      "S14",
+      "Shivanshwebsite",
+      "shivanshoffshore.in",
+      "Accessblockedearlier",
+      "No current fleet ownership/suitability/availability claims verified"
+    ]
+  ],
+  "workpackages": [
+    [
+      "WP-01-GOV",
+      "ICW-ICG UD",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-SUR",
+      "ICW-ICG UD",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-ENG",
+      "ICW-ICG UD",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-DET",
+      "ICW-ICG UD",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-BUY",
+      "ICW-ICG UD",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-FAB",
+      "ICW-ICG UD",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-MAR",
+      "ICW-ICG UD",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-OFF",
+      "ICW-ICG UD",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-COM",
+      "ICW-ICG UD",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-01-HAN",
+      "ICW-ICG UD",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-02-GOV",
+      "ICW-ICG LD",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-SUR",
+      "ICW-ICG LD",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-ENG",
+      "ICW-ICG LD",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-DET",
+      "ICW-ICG LD",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-BUY",
+      "ICW-ICG LD",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-FAB",
+      "ICW-ICG LD",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-MAR",
+      "ICW-ICG LD",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-OFF",
+      "ICW-ICG LD",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-COM",
+      "ICW-ICG LD",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-02-HAN",
+      "ICW-ICG LD",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-03-GOV",
+      "ICG-ICP UD",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-SUR",
+      "ICG-ICP UD",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-ENG",
+      "ICG-ICP UD",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-DET",
+      "ICG-ICP UD",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-BUY",
+      "ICG-ICP UD",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-FAB",
+      "ICG-ICP UD",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-MAR",
+      "ICG-ICP UD",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-OFF",
+      "ICG-ICP UD",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-COM",
+      "ICG-ICP UD",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-03-HAN",
+      "ICG-ICP UD",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-04-GOV",
+      "ICG-ICP LD",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-SUR",
+      "ICG-ICP LD",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-ENG",
+      "ICG-ICP LD",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-DET",
+      "ICG-ICP LD",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-BUY",
+      "ICG-ICP LD",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-FAB",
+      "ICG-ICP LD",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-MAR",
+      "ICG-ICP LD",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-OFF",
+      "ICG-ICP LD",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-COM",
+      "ICG-ICP LD",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-04-HAN",
+      "ICG-ICP LD",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Include associated jacket/platform strengthening where applicable."
+    ],
+    [
+      "WP-05-GOV",
+      "BHS-SLQ",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-SUR",
+      "BHS-SLQ",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-ENG",
+      "BHS-SLQ",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-DET",
+      "BHS-SLQ",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-BUY",
+      "BHS-SLQ",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-FAB",
+      "BHS-SLQ",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-MAR",
+      "BHS-SLQ",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-OFF",
+      "BHS-SLQ",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-COM",
+      "BHS-SLQ",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-05-HAN",
+      "BHS-SLQ",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "BHS: newbridge/services acceptance before oldbridge demolition; lifeboat/muster and piping/cableinterfaces to verify."
+    ],
+    [
+      "WP-06-GOV",
+      "SLQ-WIS",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-SUR",
+      "SLQ-WIS",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-ENG",
+      "SLQ-WIS",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-DET",
+      "SLQ-WIS",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-BUY",
+      "SLQ-WIS",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-FAB",
+      "SLQ-WIS",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-MAR",
+      "SLQ-WIS",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-OFF",
+      "SLQ-WIS",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-COM",
+      "SLQ-WIS",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-06-HAN",
+      "SLQ-WIS",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-GOV",
+      "NQO-NQD",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-SUR",
+      "NQO-NQD",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-ENG",
+      "NQO-NQD",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-DET",
+      "NQO-NQD",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-BUY",
+      "NQO-NQD",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-FAB",
+      "NQO-NQD",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-MAR",
+      "NQO-NQD",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-OFF",
+      "NQO-NQD",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-COM",
+      "NQO-NQD",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-07-HAN",
+      "NQO-NQD",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-GOV",
+      "WIN-NC",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-SUR",
+      "WIN-NC",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-ENG",
+      "WIN-NC",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-DET",
+      "WIN-NC",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-BUY",
+      "WIN-NC",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-FAB",
+      "WIN-NC",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-MAR",
+      "WIN-NC",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-OFF",
+      "WIN-NC",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-COM",
+      "WIN-NC",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-08-HAN",
+      "WIN-NC",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-GOV",
+      "SCA-SC1",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-SUR",
+      "SCA-SC1",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-ENG",
+      "SCA-SC1",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-DET",
+      "SCA-SC1",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-BUY",
+      "SCA-SC1",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-FAB",
+      "SCA-SC1",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-MAR",
+      "SCA-SC1",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-OFF",
+      "SCA-SC1",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-COM",
+      "SCA-SC1",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-09-HAN",
+      "SCA-SC1",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-GOV",
+      "SCA-SCF",
+      "Project governance",
+      "Project Director",
+      "Award/start evidence; named leadership; funding authority",
+      "Charter; RACI; obligations; decision register",
+      "Signed internal authority and contract basis",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-SUR",
+      "SCA-SCF",
+      "Survey and existing condition",
+      "Survey / Engineering",
+      "Approved scope; access; inspection plan",
+      "Coordinates; levels; UT/condition; service register",
+      "Accepted survey coverage and unresolved-area record",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-ENG",
+      "SCA-SCF",
+      "Engineering and analysis",
+      "Engineering Manager",
+      "Accepted survey; criteria; controlled inputs",
+      "Model; loads; members/joints; supports; serviceability",
+      "Checked calculations and resolved technical comments",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-DET",
+      "SCA-SCF",
+      "Detailed engineering / AFC preparation",
+      "Technical Authority",
+      "Checked analysis; interfaces; specifications",
+      "GA; framing; connections; bearings; workpacks; MTO",
+      "Documented checker and applicable ONGC release; otherwise HOLD",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-BUY",
+      "SCA-SCF",
+      "Procurement and materials",
+      "Procurement Manager",
+      "Checked requisition; authorised funding; approvedvendorbasis",
+      "Enquiry; evaluation; purchase; expediting; certificates",
+      "Accepted material and traceability; no unapproved substitutions",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-FAB",
+      "SCA-SCF",
+      "Fabrication / coating",
+      "Fabrication Manager",
+      "Released drawings; accepted material; procedures; ITP",
+      "Preparation; assembly; welding; NDT; dimensions; coating",
+      "QA release; NCR closure; preservation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-MAR",
+      "SCA-SCF",
+      "Marine / logistics",
+      "Marine Manager",
+      "Module data; suitability; procedures; permits",
+      "Loadout; sea-fastening; cargo; transport; fieldmoves",
+      "Required engineering/assurance and sail-awayrelease",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-OFF",
+      "SCA-SCF",
+      "Offshore execution",
+      "Offshore Manager",
+      "Workpack; people; materials; access; temporaryconditions",
+      "Strengthening or installation; connections; inspections",
+      "Accepted permanentwork and operational interfaces",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-COM",
+      "SCA-SCF",
+      "Testing and commissioning",
+      "Completions Manager",
+      "Structural readiness; services; approvedtestboundaries",
+      "Inspection; testing; commissioning; punch closure",
+      "Accepted tests; operational authorisation",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ],
+    [
+      "WP-10-HAN",
+      "SCA-SCF",
+      "Handover / warranty",
+      "Project Director / QA",
+      "Acceptedwork; quantities; records",
+      "As-builts; dossiers; certificates; warrantyregister",
+      "Client acceptance and recorded residual obligations",
+      "PLANNED / NOT RELEASED",
+      "Check temporaryloadpath and existingcorrosion at member/joint workfront."
+    ]
+  ],
+  "deliverables": [
+    [
+      "SHV-BRRP-01-GA-P5",
+      "ICW-ICG UD",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-AN-P5",
+      "ICW-ICG UD",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-FR-P5",
+      "ICW-ICG UD",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-LA-P5",
+      "ICW-ICG UD",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-TW-P5",
+      "ICW-ICG UD",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-AC-P5",
+      "ICW-ICG UD",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-MT-P5",
+      "ICW-ICG UD",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-01-QA-P5",
+      "ICW-ICG UD",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-GA-P5",
+      "ICW-ICG LD",
+      "General arrangement and coordinates",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-FR-P5",
+      "ICW-ICG LD",
+      "Primary/secondary framing and member schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-AN-P5",
+      "ICW-ICG LD",
+      "Global strength stability and serviceability analysis",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-JN-P5",
+      "ICW-ICG LD",
+      "Connections and tubular joint calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-BE-P5",
+      "ICW-ICG LD",
+      "Bearings guides and movement details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-LA-P5",
+      "ICW-ICG LD",
+      "Landing/deck/jacket interface calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-TW-P5",
+      "ICW-ICG LD",
+      "Temporary conditions and installation interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-SV-P5",
+      "ICW-ICG LD",
+      "Piping/cable/lighting/support coordination",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-AC-P5",
+      "ICW-ICG LD",
+      "Access grating handrails and escape interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-MT-P5",
+      "ICW-ICG LD",
+      "Detailed MTO and traceability schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-ML-P5",
+      "ICW-ICG LD",
+      "Loadout transport lifting calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-02-QA-P5",
+      "ICW-ICG LD",
+      "Inspection and fabrication dossier requirements",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-GA-P5",
+      "ICG-ICP UD",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-AN-P5",
+      "ICG-ICP UD",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-FR-P5",
+      "ICG-ICP UD",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-LA-P5",
+      "ICG-ICP UD",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-TW-P5",
+      "ICG-ICP UD",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-AC-P5",
+      "ICG-ICP UD",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-MT-P5",
+      "ICG-ICP UD",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-03-QA-P5",
+      "ICG-ICP UD",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-GA-P5",
+      "ICG-ICP LD",
+      "General arrangement and coordinates",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-FR-P5",
+      "ICG-ICP LD",
+      "Primary/secondary framing and member schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-AN-P5",
+      "ICG-ICP LD",
+      "Global strength stability and serviceability analysis",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-JN-P5",
+      "ICG-ICP LD",
+      "Connections and tubular joint calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-BE-P5",
+      "ICG-ICP LD",
+      "Bearings guides and movement details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-LA-P5",
+      "ICG-ICP LD",
+      "Landing/deck/jacket interface calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-TW-P5",
+      "ICG-ICP LD",
+      "Temporary conditions and installation interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-SV-P5",
+      "ICG-ICP LD",
+      "Piping/cable/lighting/support coordination",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-AC-P5",
+      "ICG-ICP LD",
+      "Access grating handrails and escape interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-MT-P5",
+      "ICG-ICP LD",
+      "Detailed MTO and traceability schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-ML-P5",
+      "ICG-ICP LD",
+      "Loadout transport lifting calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-04-QA-P5",
+      "ICG-ICP LD",
+      "Inspection and fabrication dossier requirements",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-GA-P5",
+      "BHS-SLQ",
+      "General arrangement and coordinates",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-FR-P5",
+      "BHS-SLQ",
+      "Primary/secondary framing and member schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-AN-P5",
+      "BHS-SLQ",
+      "Global strength stability and serviceability analysis",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-JN-P5",
+      "BHS-SLQ",
+      "Connections and tubular joint calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-BE-P5",
+      "BHS-SLQ",
+      "Bearings guides and movement details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-LA-P5",
+      "BHS-SLQ",
+      "Landing/deck/jacket interface calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-TW-P5",
+      "BHS-SLQ",
+      "Temporary conditions and installation interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-SV-P5",
+      "BHS-SLQ",
+      "Piping/cable/lighting/support coordination",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-AC-P5",
+      "BHS-SLQ",
+      "Access grating handrails and escape interfaces",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-MT-P5",
+      "BHS-SLQ",
+      "Detailed MTO and traceability schedule",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-ML-P5",
+      "BHS-SLQ",
+      "Loadout transport lifting calculations/details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-QA-P5",
+      "BHS-SLQ",
+      "Inspection and fabrication dossier requirements",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-05-DM-P5",
+      "BHS-SLQ",
+      "Existing bridge demolition and services isolation",
+      "Technical Authority / ONGC",
+      "ENGINEERING OPEN",
+      "Competent checker; ONGC operations",
+      "NOT AFC",
+      "New bridge/services accepted first"
+    ],
+    [
+      "SHV-BRRP-06-GA-P5",
+      "SLQ-WIS",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-AN-P5",
+      "SLQ-WIS",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-FR-P5",
+      "SLQ-WIS",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-LA-P5",
+      "SLQ-WIS",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-TW-P5",
+      "SLQ-WIS",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-AC-P5",
+      "SLQ-WIS",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-MT-P5",
+      "SLQ-WIS",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-06-QA-P5",
+      "SLQ-WIS",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-GA-P5",
+      "NQO-NQD",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-AN-P5",
+      "NQO-NQD",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-FR-P5",
+      "NQO-NQD",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-LA-P5",
+      "NQO-NQD",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-TW-P5",
+      "NQO-NQD",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-AC-P5",
+      "NQO-NQD",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-MT-P5",
+      "NQO-NQD",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-07-QA-P5",
+      "NQO-NQD",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-GA-P5",
+      "WIN-NC",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-AN-P5",
+      "WIN-NC",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-FR-P5",
+      "WIN-NC",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-LA-P5",
+      "WIN-NC",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-TW-P5",
+      "WIN-NC",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-AC-P5",
+      "WIN-NC",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-MT-P5",
+      "WIN-NC",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-08-QA-P5",
+      "WIN-NC",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-GA-P5",
+      "SCA-SC1",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-AN-P5",
+      "SCA-SC1",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-FR-P5",
+      "SCA-SC1",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-LA-P5",
+      "SCA-SC1",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-TW-P5",
+      "SCA-SC1",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-AC-P5",
+      "SCA-SC1",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-MT-P5",
+      "SCA-SC1",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-09-QA-P5",
+      "SCA-SC1",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-GA-P5",
+      "SCA-SCF",
+      "Surveyed arrangement and scope markups",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-AN-P5",
+      "SCA-SCF",
+      "Existing condition and strengthening calculations",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-FR-P5",
+      "SCA-SCF",
+      "Strengthening member and joint details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-LA-P5",
+      "SCA-SCF",
+      "Landing/deck interface details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-TW-P5",
+      "SCA-SCF",
+      "Temporary stability/access details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-AC-P5",
+      "SCA-SCF",
+      "Grating handrail sheeting and restoration details",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-MT-P5",
+      "SCA-SCF",
+      "Bridge-specific MTO and traceability",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-10-QA-P5",
+      "SCA-SCF",
+      "Workpack ITP and completion records",
+      "Engineering / appropriate discipline",
+      "DRAFT REGISTER / ENGINEERING OPEN",
+      "Competent checker; ONGC as required",
+      "NOT AFC",
+      "Source/model/survey/calculation references required"
+    ],
+    [
+      "SHV-BRRP-COM-DB-P5",
+      "COMMON",
+      "Design basis and code/applicability register",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-QP-P5",
+      "COMMON",
+      "Project quality and inspection plan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-HP-P5",
+      "COMMON",
+      "HSE/SIMOPS/emergency plan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-MP-P5",
+      "COMMON",
+      "Marine execution and assurance plan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-SC-P5",
+      "COMMON",
+      "Integrated schedule and progressrules",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-CP-P5",
+      "COMMON",
+      "Cost/cash/billingplan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-CO-P5",
+      "COMMON",
+      "Commissioning and completion plan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ],
+    [
+      "SHV-BRRP-COM-CH-P5",
+      "COMMON",
+      "Change and commercial notices plan",
+      "Projectlead",
+      "DRAFT / FOR REVIEW",
+      "Relevantauthority",
+      "NOT AFC",
+      "Applycontrollingcontract/addenda"
+    ]
+  ],
+  "procurement": [
+    [
+      "P01",
+      "Structural tubulars / sections",
+      "All",
+      null,
+      "MT",
+      "FinalmemberMTO/grade/toughness",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Bulkprocurement; no finalsectionselection"
+    ],
+    [
+      "P02",
+      "Plates / gussets / stiffeners",
+      "All",
+      null,
+      "MT",
+      "Connection/localdesignMTO",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Do not infer from totalsteeltonnage"
+    ],
+    [
+      "P03",
+      "Jacket wrap steel",
+      "ICG ICP BHS",
+      null,
+      "MT",
+      "Addendumgeometry;P4estimateonly",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Inclusionwithin tenderMTO unresolved; avoiddoublecount"
+    ],
+    [
+      "P04",
+      "Grating",
+      "All",
+      718,
+      "m2",
+      "Source row sum; printed719",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Reconcile beforepurchase; local500kg/m2check"
+    ],
+    [
+      "P05",
+      "Handrails",
+      "All",
+      1166,
+      "m",
+      "Source row sum; printed1168",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Reconcile beforepurchase; fittings/detail allowances"
+    ],
+    [
+      "P06",
+      "GI sheeting / roofing",
+      "Relevantbridges",
+      1274,
+      "m2",
+      "SourceMTO; actualsheetlayoutpending",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Coating/material/fixing compatibility"
+    ],
+    [
+      "P07",
+      "Bearings / PTFE / guides",
+      "Newbridges",
+      null,
+      "set",
+      "Verifiedreactions/movements/detail",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Vendorengineering; leadtimeunconfirmed"
+    ],
+    [
+      "P08",
+      "Structural bolts / fasteners",
+      "Asdesigned",
+      null,
+      "set",
+      "Approvedjointdetail",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Grade/size/tensioningprocedurepending"
+    ],
+    [
+      "P09",
+      "Welding consumables",
+      "All",
+      null,
+      "lot",
+      "ApprovedWPS/materialcombination",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Storage/handling/batchtraceability"
+    ],
+    [
+      "P10",
+      "Coating system / abrasives",
+      "All",
+      null,
+      "lot",
+      "Exposure/system/area/DFT",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "No inventedcoatingarea or genericpaintquantity"
+    ],
+    [
+      "P11",
+      "Cables / cable trays / lighting",
+      "Newbridges / BHSinterfaces",
+      null,
+      "lot",
+      "ElectricalMTOandapprovedrouting",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Testing/certification/earthing"
+    ],
+    [
+      "P12",
+      "BHS piping / fittings / valves",
+      "BHS-SLQ",
+      null,
+      "lot",
+      "Linelists/isometrics/specs",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Hydrotest/transfer/operatingloads"
+    ],
+    [
+      "P13",
+      "Instrument / control interfaces",
+      "BHS-SLQasapplicable",
+      null,
+      "lot",
+      "Instrumentlist/loopboundary",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Isolation/loop/functionaltestrequirements"
+    ],
+    [
+      "P14",
+      "Service supports / monorail",
+      "BHS-SLQasapplicable",
+      null,
+      "lot",
+      "Verifiedservice/monorailloads",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Localdesignandliftingequipmentrequirements"
+    ],
+    [
+      "P15",
+      "Lifeboat / survival craft interfaces",
+      "BHS/SLQscope",
+      null,
+      "lot",
+      "Confirmedscopeandapprovedsafetystudy",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Potentiallonglead; notverifiedby25daybulkassumption"
+    ],
+    [
+      "P16",
+      "Scaffolding / access / temporary steel",
+      "All",
+      null,
+      "lot",
+      "Engineeredtemporaryworks",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Design/inspection/permitcontrols"
+    ],
+    [
+      "P17",
+      "Lifting gear / spreader / rigging",
+      "Newbridgeoperations",
+      null,
+      "set",
+      "Approvedliftstudy",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Certifiedgearandsuitability; no liftrelease"
+    ],
+    [
+      "P18",
+      "Sea-fastening / grillage",
+      "Transportoperations",
+      null,
+      "lot",
+      "Approvedtransport/vesselanalysis",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Actualbarge/deckandvoyageroute"
+    ],
+    [
+      "P19",
+      "Survey services",
+      "All",
+      null,
+      "service",
+      "Approvedsurvey/inspectionplan",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Accessandcompetence"
+    ],
+    [
+      "P20",
+      "Engineering specialist services",
+      "All",
+      null,
+      "service",
+      "Document/calculationregister",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Namedtechnicalauthority/capacity"
+    ],
+    [
+      "P21",
+      "NDT / dimensional / coating inspection",
+      "All",
+      null,
+      "service",
+      "ITP/IRTandproductiondemand",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Independentqualifiedcoverage"
+    ],
+    [
+      "P22",
+      "Fabrication yard slots",
+      "All",
+      null,
+      "service",
+      "Capacityauditandloadoutaccess",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Two linesandcellareassumptions"
+    ],
+    [
+      "P23",
+      "Heavy-lift / cargo / support spreads",
+      "Offshorecampaign",
+      null,
+      "charter",
+      "Engineeredselectionandavailability",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Price standby/mob/demob/offhire/crossprojectconflicts"
+    ],
+    [
+      "P24",
+      "Towage / anchorhandling / supply",
+      "Asmarineplan",
+      null,
+      "charter",
+      "Spread/fieldrequirements",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "No fleetavailabilityassumed"
+    ],
+    [
+      "P25",
+      "Waste handling / backload / disposal",
+      "Demolition",
+      null,
+      "service",
+      "Approvedwasteclassificationandrecords",
+      "Procurement Manager",
+      "ENQUIRY NOT SENT / NO ORDER",
+      "Lead time and price TBC",
+      "Approved requisition, technical evaluation, funding and inspection requirements",
+      "Traceabledisposalroute"
+    ]
+  ],
+  "quality": [
+    [
+      "Q01",
+      "Materials",
+      "MTC/identity/grade/dimensions and specifiedtests",
+      "Applicable IRT/specification",
+      "QA / CA/TPI as applicable",
+      "HOLDpendingapprovedITP"
+    ],
+    [
+      "Q02",
+      "Weldingreadiness",
+      "WPS/PQR/welderqualifications/consumables",
+      "FS2009F Rev8",
+      "QA / Weldingengineer",
+      "Beforeproduction"
+    ],
+    [
+      "Q03",
+      "Fit-up",
+      "Geometry/gaps/alignment/preparation",
+      "Approveddrawings/WPS",
+      "FabricationQA",
+      "Beforewelding"
+    ],
+    [
+      "Q04",
+      "Weld/NDT",
+      "Method/extent/acceptance and repairclosure",
+      "FS2009F/approvedITP",
+      "QualifiedNDT/QA",
+      "Nopercentageinvented"
+    ],
+    [
+      "Q05",
+      "Dimensions",
+      "Coordinates/tolerances/interfacefit",
+      "Approveddrawings/procedure",
+      "Survey/QA",
+      "Beforecoating/loadout"
+    ],
+    [
+      "Q06",
+      "Coating",
+      "Surfaceprep/environment/DFT/repairs",
+      "FS2005/approvedsystem/IRT",
+      "Coatinginspector",
+      "Beforepreservation/release"
+    ],
+    [
+      "Q07",
+      "Loadout",
+      "Release/weight/COG/transportconfiguration",
+      "Approvedmarineengineering",
+      "Marine/QA/MWSasrequired",
+      "Sail-awaygate"
+    ],
+    [
+      "Q08",
+      "Offshoreconnections",
+      "Fit-up/weld/bolt/inspection/restoration",
+      "Approvedworkpack/ITP",
+      "OffshoreQA",
+      "Beforeacceptance"
+    ],
+    [
+      "Q09",
+      "Commissioning",
+      "Specifiedtests/operationalrecords",
+      "Approvedtestprocedures",
+      "Completions/ONGC",
+      "Beforehandover"
+    ],
+    [
+      "Q10",
+      "Turnover",
+      "Dossier/punch/quantities/as-builts",
+      "Contractacceptanceindex",
+      "QA/ONGC",
+      "Clientacceptance"
+    ]
+  ],
+  "commissioning": [
+    [
+      "C01",
+      "Structural readiness",
+      "All",
+      "Acceptedconnections;dimensions;grating;handrails;access;coating",
+      "Approvedstructuralchecks/ITP",
+      "QA / Construction",
+      "Open"
+    ],
+    [
+      "C02",
+      "Bearings and movements",
+      "Newbridges",
+      "Position/guideclearance/setting and protection perapproveddetails",
+      "Approvedbearinginstallationrequirements",
+      "Engineering/QA",
+      "Open"
+    ],
+    [
+      "C03",
+      "Electrical",
+      "Applicablebridgecircuits",
+      "Continuity/insulation/earthing/lighting and other specifiedchecks",
+      "Approvedelectricalprocedures;valuesfromspecification",
+      "Electrical/ONGC",
+      "Open"
+    ],
+    [
+      "C04",
+      "Instrumentation",
+      "ApplicableBHSinterfaces",
+      "Loop/function/control verification and restoration",
+      "Approvedinstrumentprocedures",
+      "Instrumentation/ONGC",
+      "Open"
+    ],
+    [
+      "C05",
+      "Piping",
+      "ApplicableBHSsystems",
+      "Inspection;pressure/leaktest as specified;cleaning/reinstatement",
+      "Approvedline-specificprocedures;notassumedtestpressures",
+      "Piping/ONGC",
+      "Open"
+    ],
+    [
+      "C06",
+      "Service transfer",
+      "BHS-SLQ",
+      "Approvedisolations;tie-ins;functionalacceptance;contingency",
+      "ONGCoperationalrelease",
+      "Commissioning/ONGC",
+      "Open"
+    ],
+    [
+      "C07",
+      "Demolition release",
+      "BHS-SLQ",
+      "Newbridgeandservicesaccepted;temporary-stabilityandisolationverified",
+      "Signeddemolitionreadinessgate",
+      "TechnicalAuthority/ONGC",
+      "Hold"
+    ],
+    [
+      "C08",
+      "Safety/lifesaving interfaces",
+      "Applicablelandings",
+      "Muster/access/lifesavingrequirementsandsafetystudyactions",
+      "Approvedvendorandoperationalrequirements",
+      "HSE/Marine/ONGC",
+      "Open"
+    ],
+    [
+      "C09",
+      "Punch clearance",
+      "All",
+      "Closeacceptance-criticalitems;recordauthorisedresidualitems",
+      "Agreedpunchclassification",
+      "Completions/ONGC",
+      "Open"
+    ],
+    [
+      "C10",
+      "Handover / e-MB",
+      "All",
+      "Acceptedquantities;as-builts;quality/testrecords;certificates",
+      "Contractualacceptanceandbillingrequirements",
+      "QA/Contracts/ONGC",
+      "Open"
+    ]
+  ],
+  "risks": [
+    [
+      "R01",
+      "ActualNOAunconfirmed",
+      "Critical",
+      "Contracts",
+      "Rebaseallcalendars/dates;do notshiftlinearlyacrossmonsoon",
+      "Beforebaseline"
+    ],
+    [
+      "R02",
+      "Threequantitydiscrepancies",
+      "High",
+      "Engineering/QS",
+      "Resolve1MTsteel,2mhandrail,1m2grating;preserveprintedandrows",
+      "Beforeprocurement"
+    ],
+    [
+      "R03",
+      "BHScriticalpath",
+      "Critical",
+      "ProjectDirector",
+      "Protectmaterial/fabrication/service-transfer/lift/demolitionchain",
+      "Weekly"
+    ],
+    [
+      "R04",
+      "Only3dayscalendarfloatforseveraloffshorecriticalactivitiesagainstunextendeddeadline",
+      "Critical",
+      "Planning/Marine",
+      "Do notinterpret139dayshandoverheadroomasoffshorefloat;weatherbarrierlimitsrecovery",
+      "Weekly"
+    ],
+    [
+      "R05",
+      "Thirdstrengtheningcrewuncommitted",
+      "High",
+      "Construction",
+      "Securecompletecrew/supportcapacityoradopttwo-seasonforecast",
+      "Beforemobilisation"
+    ],
+    [
+      "R06",
+      "Yard/QA/coatingcapacityunverified",
+      "High",
+      "Fabrication/QA",
+      "Auditbays/people/inspection/coating/loadout;validateallrates",
+      "Beforecommitment"
+    ],
+    [
+      "R07",
+      "Marinewindowandweightsunknown",
+      "Critical",
+      "Marine",
+      "Verifyliftweights/COG/cranes/radii/vessels/availability",
+      "Beforecharter"
+    ],
+    [
+      "R08",
+      "EngineeringanddrawingsnotAFC",
+      "Critical",
+      "Engineering",
+      "Reconstructmodel;completechecking;resolveinputs;maintainreleasegates",
+      "Beforefabrication"
+    ],
+    [
+      "R09",
+      "Actualservice-loadsandmovementspending",
+      "Critical",
+      "Engineering",
+      "Reconcilepipingfutureallowance,LLareas,camber and supportrestraints",
+      "Beforedesignfreeze"
+    ],
+    [
+      "R10",
+      "Operationalaccess/SIMOPS",
+      "Critical",
+      "Offshore/ONGC",
+      "Agreeaccess,isolations,shutdowns,transferwindowsandemergencyarrangements",
+      "Six-weeklookahead"
+    ],
+    [
+      "R11",
+      "Cost/financeunpriced",
+      "High",
+      "Finance",
+      "Populatequotes,charters,bankmargins,billinglags,taxandfunding",
+      "Beforecommitment"
+    ],
+    [
+      "R12",
+      "Specialequipmentleadtime",
+      "High",
+      "Procurement",
+      "Validatebearings/lifeboat/services;25daybulkleadtimeisnotproof",
+      "Beforebaseline"
+    ],
+    [
+      "R13",
+      "Monsoonrelief/costexposure",
+      "High",
+      "Contracts",
+      "Compliantnotices;extensionreview;standby/remob/demobcosts",
+      "Beforeimpact"
+    ],
+    [
+      "R14",
+      "Other-projectscopecontamination",
+      "High",
+      "DocumentControl",
+      "UseBRRP-specificPartII;checkallimportedscope",
+      "Eachrelease"
+    ],
+    [
+      "R15",
+      "Second-seasoncomparator",
+      "High",
+      "Marine/Planning",
+      "7dayremobassumed;allcapacity/cost/revalidationmustbeconfirmed",
+      "Beforeadoptingscenario"
+    ]
+  ],
+  "gates": [
+    [
+      "G0",
+      "Mobilisationauthority",
+      "Award/start/funding/leadership",
+      "ProjectDirector/Contracts"
+    ],
+    [
+      "G1",
+      "Scope/surveybasis",
+      "Acceptedcoverage;quantityandinterfaceregister",
+      "Engineering"
+    ],
+    [
+      "G2",
+      "Engineeringrelease",
+      "Checkedcalculations;drawingreviews;resolvedcriticalqueries",
+      "TechnicalAuthority/ONGCasrequired"
+    ],
+    [
+      "G3",
+      "Procurementrelease",
+      "Approvedrequisition/vendor/funding/inspection",
+      "Procurement/Engineering"
+    ],
+    [
+      "G4",
+      "Fabricationreadiness",
+      "AFCstatuswhere required;materials;procedures;ITP",
+      "Engineering/QA/Fabrication"
+    ],
+    [
+      "G5",
+      "Yardrelease",
+      "NDT/dimensions/coating/NCRclosure/traceability",
+      "QA"
+    ],
+    [
+      "G6",
+      "Marinereadiness",
+      "Suitablevessels;verifiedweights;lift/transportengineering;assurance",
+      "Marine/competentauthorities"
+    ],
+    [
+      "G7",
+      "Offshorework",
+      "Workpack;permits;SIMOPS;isolations;people/tools/access",
+      "Construction/ONGC"
+    ],
+    [
+      "G8",
+      "Demolition",
+      "Newbridge/servicesaccepted;stability/isolation/removalapproved",
+      "TechnicalAuthority/ONGC"
+    ],
+    [
+      "G9",
+      "Handover",
+      "Acceptedwork/punch/dossiers/e-MB/certificates",
+      "ONGCacceptanceauthority"
+    ]
+  ],
+  "cost": [
+    [
+      "CST-01",
+      "Engineering/surveys",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-02",
+      "Structuralmaterials",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-03",
+      "Fabrication",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-04",
+      "Coating",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-05",
+      "QA/NDT",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-06",
+      "Loadout/shorebase",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-07",
+      "Heavy-liftspread",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-08",
+      "Accommodation/support",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-09",
+      "Cargo/towage/supply",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-10",
+      "Offshorelabour",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-11",
+      "Services/commissioning",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-12",
+      "Demolition/disposal",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-13",
+      "Insurance/guarantees",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-14",
+      "Projectoverheads",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-15",
+      "Riskcontingency",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ],
+    [
+      "CST-16",
+      "Taxes/financing",
+      null,
+      null,
+      null,
+      null,
+      "UNPRICED; quotations and allocation required"
+    ]
+  ],
+  "p4criteria": [
+    [
+      "Design life",
+      25,
+      "years",
+      "BRRP PartII p119",
+      "CONFIRMED"
+    ],
+    [
+      "Elastic modulus E",
+      210000,
+      "MPa",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Shear modulus G",
+      80770,
+      "MPa",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Poisson ratio",
+      0.3,
+      "ratio",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Steel density",
+      7850,
+      "kg/m3",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Gravity",
+      9.81,
+      "m/s2",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Thermal expansion",
+      1.2e-05,
+      "per C",
+      "PartI Annexure2 p66",
+      "CONFIRMED"
+    ],
+    [
+      "Global walkway loading",
+      250,
+      "kg/m2",
+      "Bridge clause p42; Annexure4",
+      "CONFIRMED"
+    ],
+    [
+      "Local grating loading",
+      500,
+      "kg/m2",
+      "Annexure4 p70",
+      "CONFIRMED"
+    ],
+    [
+      "Minimum clear walkway",
+      1.2,
+      "m",
+      "Bridge clause p43",
+      "CONFIRMED"
+    ],
+    [
+      "Bridge vertical limit",
+      "L/400",
+      "mm consistent with L",
+      "p43;Annexure12 pp85-86",
+      "CONFIRMED"
+    ],
+    [
+      "Bridge lateral wind limit",
+      "L/500",
+      "mm consistent with L",
+      "Annexure12 p86",
+      "CONFIRMED"
+    ],
+    [
+      "Differential translation multiplier",
+      1.5,
+      "ratio",
+      "Bridge clause p43",
+      "CONFIRMED; input movements pending"
+    ],
+    [
+      "Hinged axial thrust multiplier",
+      1.5,
+      "ratio",
+      "Bridge clause p43",
+      "CONFIRMED; thrust envelope pending"
+    ],
+    [
+      "Future piping operating-load allowance",
+      20,
+      "percent",
+      "Bridge clause p42",
+      "CONFIRMED; included/excluded basis to reconcile"
+    ],
+    [
+      "Camber",
+      "Compensate dead-load deflection",
+      "profile",
+      "Bridge clause p43",
+      "RULE CONFIRMED; magnitude/profile pending"
+    ],
+    [
+      "Wind gust for56m/84m",
+      15,
+      "seconds",
+      "Annexure5 p73",
+      "CONFIRMED"
+    ],
+    [
+      "Wind gust for42m",
+      3,
+      "seconds",
+      "Annexure5 p73",
+      "CONFIRMED"
+    ],
+    [
+      "Environment",
+      "MH North and South",
+      "field",
+      "PartII p119;Annexure13A",
+      "CONFIRMED; height adjustment/calculation pending"
+    ],
+    [
+      "Material procurement",
+      "Spec6001F Rev14",
+      "requirements",
+      "Specification Combined pp169-243",
+      "Grade/toughness selection pending"
+    ],
+    [
+      "Welding/NDT",
+      "FS2009F Rev8",
+      "requirements",
+      "Specification Combined pp3-38",
+      "Apply by joint and inspection plan"
+    ],
+    [
+      "Coating",
+      "FS2005 Rev9",
+      "requirements",
+      "Specification Combined pp91-168",
+      "Exposure-specific system selection pending"
+    ],
+    [
+      "Roof",
+      "Process-platform connecting bridges; slope minimum1:50",
+      "applicability",
+      "Bridge clause p43",
+      "Confirm bridge-specific implementation"
+    ],
+    [
+      "Location tolerance",
+      "+1.0m as written in source",
+      "requirement",
+      "Bridge clause p43",
+      "Clarify interpretation for existing supports; NOT bearing travel"
+    ]
+  ]
+}

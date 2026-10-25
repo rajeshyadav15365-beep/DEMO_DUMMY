@@ -1,0 +1,1247 @@
+
+=== PDF PAGE 1 ===
+                                                                Issue No. 2
+            Engineering Services          Safety Audit of     Date: 20.10.2006
+          (Offshore Works Division)            Vessel                                                              Rev.: 4
+            ISO 9001:2015                                                 Rev Date:20.09.2021
+
+
+             PRFORMA OF SAFETY AUDIT OF VESSELS
+
+                     (No editing in the format. Hand filling only)
+
+(1) Name of the Vessel:……………………….………………..Year of built: ………………..
+
+(2) Project Work: Installation/ Pipe lay/ Hook Up & Accommodation/ Work Boat / Crew Boat/ AHTS/
+   Supply Vessel/ DSV.
+
+(3) Approved POB. Capacity (Crew + Passenger)       +      =       persons
+
+(4) IMO NO…………………………..Flag ………………………...MMSI No ……………………………….
+
+(5) Type of Vessel: – Self Propelled / Non Propelled.
+
+(6) Approved As per SPS / MODU. …………………………………………………………………………….
+
+(7) Date of inspection. ………………………  Total Crew ………………………………………………….
+
+(8) Location of the vessel. ………………………………………………………………………………….
+
+(9) Captain / Master of the vessel ……………………………………………………………………………….
+
+(10) Last date of dry dock from……………...to……………….at……………………………………………....
+
+(11) Audited by:
+    a) ……………………………………………………………………………….
+
+   b) ………………………………………………………………………………..
+
+    c)  ……………………………………………………………………………….
+
+   d) ………………………………………………………………………………..
+
+    e) ………………………………………………………………………………..
+
+     f) ……………………………………………………………………………….
+
+    g) …………………………………………………………………………………
+
+   h) …………………………………………………………………………………
+
+
+
+
+   Captain / Master
+     of Vessel/Barge       Master Mariner (TPI)   ONGC (Project-ES)    ONGC (HSE-ES)
+
+
+
+
+   ONGC (Asset)          Safety Officer (CA)   ONGC (Marine Cell)      Contractors Rep
+
+
+
+                                       Page No. 1
+
+=== PDF PAGE 2 ===
+                           OIL AND NATURAL GAS CORPORATION LTD.
+                                   OFFSHORE ENGINEERING SERVICES
+                                        SAFETY AUDIT OF VESSEL
+                                 PART-A: VESSEL DOCUMENT CHECK LIST
+
+                 NAME OF BARGE / VESSEL: ……………………………… DATE OF AUDIT: ……………….
+
+Sl.                       Certificate                             Reference             Authorised     Annual        Validity     Remarks
+No.                                                                           Agency/  Class  Verification
+                                                                                             Certificate      date
+1      Certificate of class                            Spec.6001F.
+
+2      International Load Line Certificate              Spec.6001F.
+
+3     Permanent Certificate of Registry               Spec.6001F.
+
+4     Authorization for Persons on board
+       a)  Approved GA                                      a. SOLAS regulation V/14.2
+       b)  Accommodation Plans.                          b. MLC 2006.
+       c)  Safe Manning Documents/Certificate            c. MLC 2006.
+       d)  Vsl/Barge/DP Vsl Particulars
+5      a)  International Oil Pollution Prevention
+            Certificate (IOPP)
+       b)   International AIR  Pollution  Prevention  MARPOL Annex 1 , Regulation 5 ,
+            Certificate (IAPP)                      6 and 7.
+       c)   International Sewage Pollution Prevention
+            Certificate (ISPP)
+6     Approved Shipboard Oil Pollution Emergency  MARPOL Annex 1, Reg - 37.
+      Plan (SOPEP)
+7      a)  Approved    Intact   Stability   Condition  SOLAS Reg-II-1/5 & II-1/5-1.
+         Approved by Class/Flag State
+       b)  Considering Crawler Crane (if on board)
+8     Approved Damage Control Booklet          SOLAS  Reg-II-1/19, MSC  1/Cir
+                                                   1245.
+9    Document of compliance (DOC)            SOLAS Reg IX/4,ISM Code, Para –
+                                                              7.
+10    Safety Management Certificate ( SMC)       SOLAS Reg IX/4,ISM Code -13.
+
+
+
+
+
+                                                              Page No. 2
+
+=== PDF PAGE 3 ===
+11    Safety Construction Certificate (SCC)        SOLAS Reg IX/2.
+
+12     a. Safety Radio Certificate               SOLAS 1/12GMDSS amendment
+        b. Radio License                           1988  Ch  V,  Radio  Reg   18,
+                                                           International    Telecommunication
+                                              Union Convention.
+*13   Special Purpose Ship (SPS) / MODU Certificate  MSC/Cir  739, SPS  Code  2008
+      (whichever applicable)                   /SOLAS  resolution  MSC.38(63)
+                                              2009 MODU Code.
+*14   Safety Equipment Certificate (SEQ) – Statement  SOLAS 1/12.
+       of Fact (Form-E / Form-F whichever applicable)
+*15   Service Certificates of                     As per LSA Code.
+       a) Valid Life Rafts
+       b) Life Boat
+       c) Rescue Boat
+       d) Monthly Maintenance record of Life Boat &
+          Rescue Boat.
+       e) Manufacturer's certificate of HRUs for Life
+           Rafts & EPIRB
+*16   Valid   Fire   Fighting   Equipment   service
+        certificate
+        a)  Portable Fire Extinguisher.                    a)   FFA Code.
+       b)  Fixed Fire Fighting System in Engine-room  b)  FFA Code.
+        c)  Heat & Smoke Sensors/ Fire Alarm System  c)   FFA Code.
+       d) EEBD  (Emergency  Escape  Breathing   d)  LSA Code.
+          Device)
+        e) SCBA    (Self    Contained    Breathing
+           Apparatus)
+         f)  Monthly Inspection & Maintenance Record
+           of all Fire Fighting Equipment & System.
+*17   Crane   Operator’s  Competency   Certificate  OSHA   Crane    rule   29CFR
+       (Grade/Level/  handling  capacity)  Issued  by 1926.1427   sub    port.    Issuing
+       Classification   Societies   (IACS)   National  authority  is “An  accredited crane
+      Commission for the Cert. of Crane & Operator  operator testing organisation.”
+     (NCCCO)
+*18   *a) Recent Crane Load Test Report.           ILO 152.
+      *b) Annual thorough   visual inspection report.
+       *c) Class  approval  in case of Crawler Crane.   Load test – OSHA 1910.179 (k)
+      *d) Crane Man-riding.                OSHA – ANSI B30-2.0-1967.
+
+
+
+                                                              Page No. 3
+
+=== PDF PAGE 4 ===
+*19  NDT report of crane boom
+        a)  * MPI                                        a)  ILO 152.
+        b)  * UT                                       b)  ILO 152
+* 20  *a) 5 Yearly Load test report of Davit for Rescue  LSA Code.
+           boat
+       b) Names &     Competency Certificate of
+          Persons for Operating Rescue Boat.
+      *c) Annual  thorough inspection report of Davit
+            for Rescue boat / Life Boat.
+*21  Annual Inspection / Test Certificate of         ILO 152 & Indian Dock Labour Act.
+       *a) Load cells.
+      *b) Winches (Anchor/ Mooring / Pipe) Test of
+         Winch  is  to  be  witnessed  by  Class   /
+           Consulting  of   Class/  LEEA   Certified
+           Inspectors / TPI.
+       *c) Annual anchor wire inspection and breaking
+           load test certificate.
+       d)  FAT / SAT / Break Holding Capacity Test
+           of all Winches. (Every 5 years).
+       e)  Monthly  Inspection & Maintenance Record
+           of all Anchor handling Equipment, Towing
+          Equipment & machineries. (Inspection by
+       ONGC representative).
+       g) Anchor  Handling Manual / Procedure
+       h) Towing Manual / Procedure.
+         i) Emergency Towing Procedure.
+*22   *a) Annual  Inspection  /      Test Certificate
+          of Loose Gears.                       ILO 152 & Indian Dock Labour Act.
+      *b) Chain.
+      *c) Shackles.
+      *d) Slings.
+      *e) Chain Pulley Block.
+       *f) Wire rope Maximum Breaking Load Test
+             certificate  of   all   fittings  of  Towing
+          Equipment   (including  Towing   plates,
+           shackles,  eyes,   bridle   chain,   towing
+            bollards).
+      *g) Gangway Installation Procedure.
+      *h) Register of Lifting Gears (loose Gears).
+        *i)  Monthly   Inspection   & Maintenance
+          Record of Loose gears.
+
+                                                              Page No. 4
+
+=== PDF PAGE 5 ===
+*23   Personal Transfer Basket’s Service Certificate   Indian Dock Labour Act
+       (Rigid Type) Annual).                  HSE and Legislation.
+                                 OCMF guidelines  for  transfer of
+                                                      personnel (Page 10) Para 3.2
+24.   Diving System Safety Certificate.              Res A 536(13), section 1.6
+25.    a)  Hyperbaric  Fast  Rescue  Boat’s  Service  IMCA
+           Certificate for Saturation Diving System.
+26    a) Approved Garbage Management Plan.       a)MARPOL Annex V, Reg-10
+       b) Garbage Record Book .
+       c) Oil Record Book.
+27    Recent Drill reports.                      As   per  SOLAS,   Chapter    II
+       a)  Abandon Ship.                             Regulation 24 and 15. Chapter III
+       b)  Fire.                                      Regulation 19, 26 and 30.
+       c)  Man overboard.
+       d)  Rescue Boat.
+       e)  H2S.
+28   A copy of Recent Safety Committee Meeting’s  As per ship board approved ISM
+      Minutes.                                     manual.
+*29    a)  Recently filled copy of work permit system  As per ship board approved ISM
+         – Hot, Cold, Confined space entry etc.       manual.
+       b) Approved  SMS   (Safety   Management
+          System)  with  Vessel ERP  (Emergency
+         Response Plan).
+30    Recent Water Portability Sample Test Report –  SOLAS Reg-III/17-1
+      Chemical  test  like TDS, TSS, Ph, Turbidity,
+      Chloride  and   Total  Hardness   etc  Also
+       Microbiological  test  like TVC, Coliforms, E-
+       Coli etc.
+31    Recent Sewage Treatment Plant (STP) sample  MARPOL Annex - VI
+        test report – Minimum parameter like COD,
+     BOD, Suspended solids, Ph, Oil & Grease etc.
+32    Recent Ship Sanitation / Derat Certificate (by  GOI
+      Govt Agency).
+33    Recent Fumigation Treatment Certificate (by  GOI
+      Govt. approved agency).
+34    Approved Helideck layout drawing approved by  IACS and CAP 437
+       Classification Society.
+
+
+
+
+
+                                                              Page No. 5
+
+=== PDF PAGE 6 ===
+35     Certificates:-
+      Helicopter Landing Officer (HLO).            As per STCW Regulation
+      Helicopter Landing Assistant (HLA).          As per STCW Regulation
+      Helideck Safety nets load test certificate.
+36    a)  Certificate of MBBS doctor on-board.
+      b) Copy of contract for employing doctor.
+37     a)  Flag State Inspection Report.           IMO / Flag state / MOU’S
+       b)  Third  Party  Inspection Reports OVID  /
+       CMID / MWS.
+38    Recent Noise Survey Report.              SOLAS Reg II-1/3-12
+                                    IMO Resolution A.468 (XII)
+                                     RESOLUTION MSC.337(91) dated
+                                              30 Nov 2012.
+*39   *International Ship Security Certificate and Ship  SOLAS Reg XI-2/9, 1.1
+       Security Plan (ISPS).
+*40   *General Trade License issued by DG Shipping,  GOI / FS
+       India.
+41    Valid of insurance policy for                         a) Financial Liability
+        a.  Hull & Machinery.                            b) Financial Liability
+        b.  P & I.
+        c.  Civil Liabilities Certificate for bunker Oil
+           Pollution Damage.)
+        d.  Wreck Removal.
+42     International Tonnage Certificate              Tonnage Convention, Article 7
+43    Please confirm that Thuraya Mobile Satellite  ED-Chief   security    letter   no.
+      Phone is not used at the barge/Vessel.         ONGC/COS/2014 dt 21.04.2014
+44    Approved Mooring Analysis by competent     ONGC Anchor Handling Policy                                                  Yes/No
+      agency kept on board.
+*45    a)  Classification Society’s Approval of HHP  01-09-2014
+          (High Holding Power) Delta flipper Anchors
+            (Original).
+       b)  Mooring Wire Length Certificate Min. 1000
+          Mtrs as per AHP for Hook Up Barges /AWB
+        c) MBL / SWL Certificate Winch Wire Annual
+          Thorough Examination  report  of Winch
+          Wire.
+
+
+
+
+
+                                                              Page No. 6
+
+=== PDF PAGE 7 ===
+ *46(a) Limiting Criteria as per Mooring Analysis for
+         safe Installation Work (For moored Vessels).
+          1.  Wind Speed.
+          2.  Current Speed.
+          3.  Wave Height.
+ *46(b) Barge Master to take necessary precautionary
+        measures to ensure safety of barge in case of
+        weather forecast data exceeds the ‘Limiting
+        Weather Conditions’
+ 47     Confirm that mooring buoys and Unit drum will  MR/ES/MS/Security/2/2014      dt
+        be lit as per standard.                         02.09.2014
+ 48     Covid Prevention-                          Covid  Protection  as  per DGS                                        YES / NO
+                                                          Circular dated 20.03.2020
+         a)  Isolation Facility for Covid-19 Suspect.
+         b)  Pre Boarding / Sign In / Sign Off procedure.
+         c)  Oxymeter, Ray thermometer, Sanitizers  ,
+          Mask   ,  disinfectant,  shields, PPE  etc.
+              available.
+         d)  Vaccination Policy for Covid for Marine
+           and Project Crew.
+ * 49   Bollard pull (BP) required for un-propelled AWB, Certified by MWS / Authorised Agency.
+ * 50  Name of allocated AHT with BP for the un-propelled AWB.
+ * 51   Response Plan for Tropical Cyclone Cyclonic Storm Forecast / Warning.                                                YES / NO
+
+Note: 1) * marked documents are critical without which barge / vessel is not allowed to sail.
+       2) Points which cannot be covered during safety audit, will be verified by ONGC representative during deployment.
+       3) There will be periodical inspection by marine cell team/OES representative during the deployment to ensure vessel is maintained in proper order
+             all the time.
+       4) HSE audit checklist is for important points of audit. Physical/Virtual HSE Audit may be more comprehensive and inclusive to improve safety.
+        Exemptions granted by FSI for safety critical items like SCC, SEQ, DoC, SMC are not acceptable. Ship owners / charterer’s policy / document are
+        required duly approved by IACS / MWS/ Consulting of Class.
+
+
+
+
+
+                                                               Page No. 7
+
+=== PDF PAGE 8 ===
+                                                                  Issue No. 2
+            Engineering Services             Part-B
+                                                           Date: 20.10.2006
+          (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+                      PART-B: PHYSICAL VERIFICATION
+
+  To be filled in by vessel owner / contractor and verified by ONGC during vessel audit
+
+Sl                                                                                  Availability        Remarks
+no                         To B                                   (Strike out which is     (For Auditor
+                                                                           not applicable)          Only)
+1.0  MUSTER STATION:
+
+                                                        YES/NO       1.1 Clearly Identified & Marked on the floor (Area 0.35M2per
+           person).
+       1.2 Location posted on each accommodation cabin door.             YES/NO
+
+       1.3 Each muster station provided with adequate lighting?            YES/NO
+
+                                                        YES/NO       1.4 Emergency lighting available in each muster station
+
+
+ 2.0  STATION BILL:
+
+                                                         YES/NO
+       2.1 Updated and displayed on each level at all prominent places?
+
+
+       2.2 Location posted on each accommodation cabin door.
+                                                         YES/NO
+
+3.0   LIFEJACKETS:
+
+       3.1 Quantity of life jackets (150% of Approved POB )           …..…….NOS
+
+       3.2 One life jacket per person available in each cabin?              YES/NO
+
+       3.3 Spare life jackets stored in boxes marked “Life Jackets”    at       YES/NO
+         muster stations.
+
+       3.4 Tested and approved by International Standard                   YES/ NO
+
+       3.5 Each Life Jacket fitted with
+
+         • Whistle.............................................................                   YES/NO
+         Self igniting light……………………………….                         Yes/ No
+
+        • Expiry date of batteries..................................                                                                              Dt. ……………..
+        • Reflectorised Tapes.......................................
+                                                         YES/NO
+        • Stenciled with vessel’s name........................
+                                                         YES/NO
+        • Life jackets kept in boxes marked in accommodation
+                                                         YES/NO
+          cabins ?
+
+        • Operating instruction (Donning) are posted on each  cabin
+                                                         YES/NO
+          door?
+
+
+
+
+
+                                          Page No. 8
+
+=== PDF PAGE 9 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                            Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+ Sl                                                                                  Availability        Remarks
+ no                 REQUIREMENTS                            (Strike out which is    (For Auditor
+                                                                            not applicable)         Only)
+4.0  SURVIVALCRAFTS:                                        10x_____=
+                                                                12x_____=
+        (Life rafts and life boats):
+                                                                15x_____=
+        Life Rafts Details Capacity & Total Qty.                       20x_____=
+                                                                25x_____=
+
+                                                               ____x__=
+       Lifeboat Capacity & Total Qty.
+
+        4.1 Aggregate capacity of life rafts &                                                                          Total
+               life boats should be 300% of Approved POB.
+
+        4.2 Fitted with certified hydrostatic release system.                                                          YES/NO
+        4.3 Is rescue boat available.
+                                                          YES/NO
+        4.4 Type of rescue boat (rigid or inflatable) …….…….
+        4.5 Class approval (Incase Zodiac is additional to rescue boat)          YES/NO
+        4.6 Above Certificates available on board............                                                          YES/NO
+
+5.0   LIFEBUOYS/LIFERINGS:
+
+        5.1 At least 8 /12/18 units on board for vessel length less than 60
+      mtr / 60-120 mtr/120-180 mtr.                                                          YES/NO
+
+        5.2 At least 4 each fitted with self-igniting lights.                                                          YES/NO
+
+        5.3 At least 2 each fitted with buoyant line.
+                                                          YES/NO
+        5.4 At least two each fitted with MOB
+                                                          YES/NO            (Self igniting and smoke activating)
+
+6.0   FIRESTATIONS:
+
+        6.1  Stations appropriately marked                            YES/NO
+                  (i.e. Fire Station)
+
+        6.2  Station complete with
+                                                          YES/NO        a)   Fire Hose..............................................
+        b)   Jet / Spray combination nozzle...........                       YES/NO
+
+         c)   Spanners.............................................                         YES/NO
+        6.3 Hydrant valve easily operable........................                   YES/NO
+        6.3.1 Quick connect hydrant & hose coupling?                    YES/NO
+        6.4  Hose & hydrant line working pressure not less than 100
+           PSI / 7 kg /cm square ?                                 YES/NO
+        6.5   Unobstructed?..................................................
+                                                          YES/NO
+        6.6  Hoses tidy?.....................................................                    YES/NO
+        6.7 At least two spare hoses available in stores.                    YES/NO
+
+
+
+
+
+                                           Page No. 9
+
+=== PDF PAGE 10 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+Sl                                                                                    Availability        Remarks
+no                  REQUIREMENTS                            (Strike out which is    (For Auditor
+                                                                            not applicable)         Only)
+7.0    FIRE FIGHTING GEAR:
+
+          7.1 At least two (2) sets available containing the following.
+
+           1 fire helmet...........................................                                                           YES/NO
+           1 tunic pant..........................................
+                                                           YES/NO
+           1 pair gloves...................................................                    YES/NO
+         Minimum 30 Minutes self contained BA with spare cylinder
+                                                           YES/NO            each
+           1 explosion proof flash lights..............
+                                                           YES/NO
+           1 crow bar..............................................                                                           YES/NO
+           1 fire axe................................................                       YES/NO
+
+           1 Heavy duty cutter………………………….                                                           YES/NO
+                                                           YES/NO             Life Line of 30 mtrs length (Material-SS with insulation )
+
+        BA Board for the BA controller                            YES/NO
+
+        7.2 List of above equipment posted on its cabinet /   container?         YES/NO
+        7.3 One (1) each fire axe near fire stations or with in
+          accommodation area?                                   YES/NO
+
+        7.4 At least two nos. of fire blankets at the kitchen located near
+             cooking range?                                      YES/NO
+
+         7.5 Are smoke sensor provided inside the bunk?                   YES/NO
+
+         7.6 Are water sprinkler system provided in the bunks?               YES/NO
+
+8.0    FIRE PUMP:
+
+         8.1 Main pump In good operating condition                      YES/NO
+         8.2 Can deliver at least 25M3/ hr (110 gallons per minute)
+                                                                ……..M3/hr             • Discharge rate.....................................
+             • Discharge Pressure...........................                        ……..kg/cm2
+
+          8.3. Date of the last testing....................................                                                                   Dt ………….
+         8.4  Emergency back up fire pump available                     YES/NO
+               Discharge rate...................................                    ……….M3/hr
+               Discharge Pressure..........................                     ……….kg/cm2
+
+         8.5   Date of last testing....................................
+                                        Dt……………
+         8.6  Whether PRV fitted in fire main system?                    YES/NO
+
+         8.6.1 What is the pop up set pressure?                         ……….kg/cm2
+
+
+
+
+
+                                            Page No. 10
+
+=== PDF PAGE 11 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+Sl                                                                                   Availability         Remarks
+no                 REQUIREMENTS                          (Strike out which is not    (For Auditor
+                                                                                  applicable)            Only)
+9.0    FIRE EXTINGUISHERS :
+         9.1 All  fire extinguishers properly deployed and  accessible
+            according to the vessel’s safety plan?                        YES/NO
+         9.2 Date of last inspection.......................................
+         9.3 Have operating instructions clearly visible?            Dt………………….
+                                                          YES/NO         9.4 Seals and inspection tags (if any) still intact?
+                                                          YES/NO
+         9.5 CO2/ Halon system Installed in engine room?
+                                                          YES/NO
+         9.51 CO2 / Halon activation warning light fitted in engine room                                                       YES /NO
+         9.6  Last date of inspection....................................
+                                                                  Dt …………….
+         9.7 Foam type fire extinguisher available                                                          YES/NO
+          9.7.1 Capacity and Nos.............................................
+                                                                                   Lt.      No.
+         9.8  Spare units of fire extinguishers available?                   YES/NO
+         9.9  Fire Fighting system in Engine room.                       YES/NO
+
+
+10.0   BOARDING GEARS:
+
+        10.1  Sound Gangway with railing..............................
+                                                          YES/NO
+        10.2   Free from oil & grease........................................
+                                                          YES/NO
+        10.3   Is landing from gangway safe............................
+                                                          YES/NO
+        10.4  Gangway net is available & secured?                                                         YES/NO
+
+        10.5   Rigid Personal Transfer Basket ................................           YES/NO
+
+        10.5.1 Nos. of Transfer Basket available................                       …..Nos.
+
+        10.5.2 Last date of inspection..................................           Dt……………….
+
+        10.5.3 Additional lifting belt attached to the PTB lifting eye?          YES/NO
+                                                          YES/NO        10.5.4 Safety sling connected with PTB?
+
+11.0  EMERGENCY    SIGNALING    EQUIPMENT   &
+     COMMUNICATION:
+
+         11.1 At least one EPIRB (emergency position indicating               YES/NO
+             radio beacon)
+         11.2 One set of pyrotechnics contained in metal box located            YES/NO
+               in dry and easily accessible location?
+                                                         YES/NO          • Twelve (12) handheld flares.
+                                                         YES/NO           Twelve (12) Rocket parachute flares
+          •  Six (6) buoyant smoke signals....................                    YES/NO
+
+
+
+
+
+                                            Page No. 11
+
+=== PDF PAGE 12 ===
+                                                                  Issue No. 2
+            Engineering Services             Part-B
+                                                           Date: 20.10.2006
+          (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+Sl                                                                                 Availability         Remarks
+no                REQUIREMENTS                         (Strike out which is not    (For Auditor
+                                                                                applicable)            Only)
+
+        11.3 Emergency sound Signaling equipment for Fire / Abandon                                                        YES/NO
+             ship (General alarm  bell &  whistle)  in good working
+             condition?
+
+         11. 4 Radar Transponder (SART) available as per approval                                                        YES/NO
+           from authorities?  Total qty -………..
+
+                                                        YES/NO        11.5 Radio system (SSB) in working condition?
+
+12.0   LINE THROWING APPARATUS:
+
+         12.1  At least four (4) units onboard                        YES/NO
+
+         12.2   Stored in an easily accessible dry location?                                                        YES/NO
+
+          12.2.1 Ready to operate in an Emergency?                                                        YES/NO
+
+13.0   PPE (PERSONAL PROTECTIVE EQUIPMENT):
+
+       Are sufficient stock available for
+
+        13.1 Chemical gloves............................................                                                        YES/NO
+        13.2  Coveralls.........................................................                                                        YES/NO
+
+        13.3 Ear Plugs / Muff..............................................
+                                                        YES/NO
+
+        13.4 Face shield for welding.................................
+                                                        YES/NO
+
+        13.5  Goggles..........................................................
+                                                        YES/NO
+
+        13.6 Hard Hats........................................................
+                                                        YES/NO
+
+        13.7 High voltage gloves.......................................
+                                                        YES/NO
+
+        13.8 Life line...........................................................
+                                                        YES/NO
+
+        13.9 Protective filters.............................................
+                                                        YES/NO
+
+        13.10 Safety Belt with Harness................................
+                                                        YES/NO
+        13.11 Safety Shoes...................................................
+                                                        YES/NO
+
+        13.12 Safety Spectacles..........................................
+                                                        YES/NO        13.13 Welder jacket..................................................
+                                                        YES/NO
+
+        13.14 Welding Mask..................................................
+                                                        YES/NO
+
+        13.15 Welding gloves................................................
+                                                        YES/NO
+
+        13.16 Work vests......................................................
+                                                        YES/NO
+
+        13.17 Working Gloves...............................................
+                                                        YES/NO
+
+
+
+
+                                          Page No. 12
+
+=== PDF PAGE 13 ===
+                                                                  Issue No. 2
+            Engineering Services             Part-B
+                                                           Date: 20.10.2006
+          (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+Sl                                                                               Availability       Remarks (For
+no                 REQUIREMENTS                         (Strike out which is not  Auditor Only)
+                                                                               applicable)
+ 14.0    ELECTRICAL EQUIPMENTS:
+                                                           YES / NO         14.1 Appliances earthed?........................................
+
+         14.2  Lighting fixtures provided with covers?                       YES / NO
+
+         14.3 Electrical wires properly spliced and taped ?                    YES / NO
+
+         14.4 Welding cables without lacerations .............                     YES / NO
+
+          14.5 Non conductive floor mats provided in front of each electrical
+                                                           YES / NO
+               panels and machineries ?
+        14.6 Is electrical insulation level monitoring devices provided                                                        YES/NO
+              (not exceed 30mA) or ELCB fitted in galley appliances
+              (Hotplates & Ovens)?
+
+15.0   FLOORS, PASSAGE AND STAIRS:
+
+        15.1 Unobstructed ...............................................                   YES  / NO
+        15.2 Stair steps well lit.........................................                   YES  / NO
+                                                           YES / NO        15.3 Spill oil or other contamination cleaned up?
+
+       Escape routes and doors clearly marked and identified with
+                                                           YES  / NO
+       luminous Sign?
+                                                           YES / NO
+       Barriers provided around openings in the floors and Decks.
+                                                        YES/NO
+     Guard rails on walk ways platforms and deck complete?                                                           YES  / NO
+        15.7 Doors not blocked?......................................                   YES  / NO
+        15.8 Gratings on the walkways not loose?                       YES / NO
+        15.9 Free from tripping hazard?..........................
+        15.10 Materials stored in proper places...............                   YES  / NO
+                                                           YES  / NO        15.11 Water tight door seals & locks in good condition?
+                                                        YES/NO        15.12 Inside alarm available in freezer & Chillar.
+                                                        YES/NO       3 Galley range exhaust fan fitted and filters clean (working
+
+         effectively)
+
+16.0   CRANES AND LIFTING GEARS:
+         16.1 Are all lifting equipments / gears marked with SWL (Safe       YES/NO
+           Working Load)
+        16.2 Are test certificates available for all items of lifting gears         YES/NO
+           and equipments?
+        16.3 Are all lifting gears identified?...................                  YES/NO
+        16.4 Are lifting gears regularly checked for damage wear and        YES/NO
+             tear?
+           •   Date of last checking.......................                          Dt ……………
+         16.5 Are lifting gears properly stored?..............                  YES/NO
+        16.6 Are hooks fitted with safety latch?..........                   YES/NO
+        16.7 Are hooks regularly  examined?....................                YES/NO
+        16.8 Whether SWL marked near Eyeball on crane boom?          YES/NO
+         16.9  Are shackle pins kept with originals shackle?               YES/NO
+        16.10 Are cross byclips being used.......................                 YES/NO
+
+                                          Page No. 13
+
+=== PDF PAGE 14 ===
+                                                                  Issue No. 2
+            Engineering Services             Part-B
+                                                           Date: 20.10.2006
+          (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+Sl                                                                                 Availability         Remarks
+no                 REQUIREMENTS                         (Strike out which is not    (For Auditor
+                                                                                applicable)            Only)
+        16.11 Are First Grips being used?..........................                 YES/NO
+        16.12 Areitems10 &11 above fitted properly?                   YES/NO
+        16.13 Is packing being used in sharp cornered
+                                                        YES/NO              loads?
+        16.14 Are valid cranes Certificates available?
+                                                        YES/NO
+        16.15 Has a load test been performed?..................                                                              YES/ NO
+             • Date of last test performed?...........                                             Dt………….
+         16.15.1 Are limit switches provided with boom?                                                        YES/NO
+
+        16.16 Have all Safety Devices been tested?.........                                                        YES/NO
+          • By whom (Agency’sname)    ..................
+          • Date of Test...........................................                                Dt.
+          • Next due date.........................................                                Dt.
+
+        16.17 Do Cranes have:
+
+          • A maintenance Logbook & Monthly Inspection &             YES/NO
+            Maintenance Record of Crane.
+
+          • A weekly record of  inspection.............                                                        YES/NO
+          • Daily inspection report (may be visual)                                                        YES/NO
+          • An inventory of equipment /spares............                                                        YES/NO
+          • Are these in order?..............................                                                        YES/NO
+          • Load chart at cabin?............................                                                        YES/NO
+
+        16.18 Is the lifting gear colour coded for the certificate                                                        YES/NO
+               expiry purposes?
+
+        16.19 What colour is currently valid?...................
+                                                        ……Color
+        16.20 Has a function test been performed on:
+            a) Load Indicators?......................................                                                         YES/NO
+            b) Limit switches?.........................................                                                        YES/NO
+             c) Date of last test?......................................                Dt…………..
+            d) Crane communication equipments Available?......            YES/NO
+
+        16.21 Have certificates for the following been checked?
+
+           •  Slings .....................................................
+                                                         YES/NO
+               •  Wires ………………………………
+                                                         YES/NO
+               •   Shackles.............................................
+                                                         YES/NO
+           • Chains……………………………………..
+                                                         YES/NO
+           •  Lifting Beams........................................
+                                                         YES/NO
+           •  Trolley cranes…………………………….                                                         YES/NO
+           • Chain Pulley Block.................................                                                         YES/NO
+           • Any appliance with a Lifting capacity over one Ton                                                         YES/NO
+        16.22 Are Davit for rescue boats provided..........                  YES/NO
+
+
+
+
+                                          Page No. 14
+
+=== PDF PAGE 15 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+Sl                                                                                   Availability         Remarks
+no                 REQUIREMENTS                          (Strike out which is not    (For Auditor
+                                                                                  applicable)            Only)
+         16.23 Are Certificates in Order?.......................                                                         YES/NO
+         16.24 Is SWL clearly marked on the above item?                                                         YES/NO
+         16.25 Are function tests performed on
+
+           •   Deck Winches..........................                                                         YES/NO
+           •    Pipe Handling Winches...........
+                                                         YES/NO
+         16.26 Are certificates available for
+
+           • Deck Winches........................................                                                         YES/NO
+           • Pipe handling Winches.........................                     YES/NO
+           • Are those in order?.............................
+                                                         YES/NO
+         16.27 Crane Operator’s Cabin Comfort.
+
+           •  Fire extinguisher in cabin.....................                                                          YES/NO
+           •  First Aid Box in cabin.........................                      YES/NO
+           •  Proper light arrangement on boom and operator’s cabin          YES/NO
+
+         16.29. Are crane operating instructions available in cabin.           YES/NO
+
+         16.30 Valid Competency certificate of crane operator.                                                         YES/NO
+                 (indicating Grade/ Level / Load handling capacity)
+
+         16.31 Operator be able to understand
+              • Hand signal ............................................                   YES/NO
+              • Load chart..............................................                   YES/NO
+
+        16.32 Communication System of crane operator cabin?                                                         YES/NO
+
+
+17.0   GASBOTTLES&HOSES:
+
+         17.1 Are Gas bottles secured in a rack?................                  YES/NO
+
+         17.2 Oxygen bottles are separated from acetylene bottles?            YES/NO
+
+         17.3 Provided with protective caps?.......................                 YES/NO
+
+         17.4 Flash back arrestors (both ends) for gas cutting equipment       YES/NO
+             provided?
+
+         17.5 Gas hoses and fittings without leak?.............                  YES/NO
+
+         17.6 Oxygen hoses free of oil and grease?...........                  YES/NO
+
+         17.7 Hoses properly rolled up?............................
+                                                          YES/NO
+
+
+
+
+
+                                            Page No. 15
+
+=== PDF PAGE 16 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                            Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+ Sl                                                                           Availability (Strike out     Remarks
+ no                REQUIREMENTS                     which is not applicable)   (For Auditor
+                                                                                          Only)
+18.0                    HELIDECK:
+
+         18.1  Design to prevent outflow of spilt oil                      YES/NO
+                   (ie low Kerbs, gutters etc)
+                                                        YES/NO
+         18.2  Surface covered with a nonskid deck?......
+                                                        YES/NO
+         18.3  Fitted with tie down points?..........................
+
+                                                        YES/NO
+        18.4  At least one wind sock in good condition &
+             provided with in built lighting arrangement?
+                                                        YES/NO         18.5  Its perimeter provided with lights as per
+           CAP437?
+                                                        YES/NO         18.6  Is crash kit provided as per CAP437?........
+                                                        YES/NO         18.7  Is there an anemometer?..............................
+                                                        YES/NO         18.8 Equipped with foam guns?...........................
+                                                        YES/NO         18.9 Equipped with dry chemical powder?.........
+                                                        YES/NO        18.10 Equipped with CO2 fire extinguishers?
+
+        18.11 Are the following equipment available in a box (crash
+                 kit) closed to Helideck?
+              Axes .................................................                      YES/NO
+              Hacksaw with blades....................                       YES/NO
+              Crow bar.........................................                      YES/NO
+              Bolt cutter......................................                       YES/NO
+               Knife..............................................                       YES/NO
+               Hammer..........................................                      YES/NO
+              H.L.Ovest (one each).....................                       YES/NO
+              Fire suits (two sets).......................                       YES/NO
+              Ear Muffs (four pairs)....................                      YES/NO
+              Torch (one pair)..................................                    YES/NO
+              Ropes (one pair)............................                       YES/NO
+
+       18.12 Are fire alarm equipment available?...........
+       18.13  Provided with signs? ..............................                    YES/NO
+       18.14 Vessel / Barge Identification........................                  YES/NO
+        18.15  Helipad drawing with Dimension & Tonnage values           YES/NO
+             provided?                                        YES/NO
+       18.16 Free of any Elevated Obstruction................                  YES/NO
+       18.17 Helideck peripheri net in good condition?                   YES/NO
+
+       18.18 Helideck Safety net in good condition?                     YES/NO
+19.0  MOCK DRILLS:
+
+         All drills recorded with response time, POB, Nos of attendees          YES/NO
+     & No. of persons on emergency duty?
+
+          • Date of last Abandon Ship drill.........
+          • Date of last fire drill............................                      Date ……………
+                                            Date…………….          • Date ofl ast Manover board drill........
+                                             Date…………….          • Date of last rescue boat drill.............
+                                                                 Date ……………          • Date of last H2S drill..........................
+                                             Date…………….
+
+
+                                           Page No. 16
+
+=== PDF PAGE 17 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+  Sl                                                                           Availability (Strike out     Remarks
+ no                REQUIREMENTS                     which is not applicable)   (For Auditor
+                                                                                          Only)
+20.0   HEALTH&HYGIENE:
+        20.1 Recent water potability test certificate available?               YES/NO
+
+        20.2 Recent De-ratting / fumigation certificate available.             YES/NO
+
+        20.3 Clean accommodation:
+             •   Clean  Toilet........................................                    YES/NO
+               •  Clean galley.......................................                    YES/NO
+                                                         YES/NO             •   Clean food storage.............................
+
+
+        20.4  Expired food items disposed?........................
+                                                         YES/NO
+
+        20.5  First aid kit and stretcher?............................
+                                                         YES/NO
+
+        20.6 Freezer equipped with emergency alarm / bell in working
+             condition and audible enough?                                                         YES/NO
+
+        20.7  Drainage system not clogged up?..................                                                         YES/NO
+
+        20.8  Toilet bowl is clean and flush working...........                                                         YES/NO
+
+        20.9  Drinking outlet identified clearly...................
+                                                         YES/NO
+        20.10 Oxygen resuscitator / respirator available....                 YES/NO
+
+        20.11 Medical stretcher available............................                                                         YES/NO
+
+        20.12 Whether regular medic posted......................
+                                                         YES/NO
+        20.13 Whether life saving medicine available?                    YES/NO
+
+        20.14  Whether  Glucometer,  Nebulizer,   Defibrillator   etc.                                                         YES/NO
+               available?
+        20.15 Whether the general house-keeping is good.                                                                YES/ NO
+
+        20.16   Physically the heat/ smoke and fire detector of control
+             room engine room and galley were tested and was found       YES/NO
+                  in working condition.
+21.0   LIVING QUARTERS:
+                                                         YES/NO
+        21.1 Smoke sensor in each living room.................
+
+        21.2 Whether one smoke sensor in living room was tested and          YES/NO
+            found OK.
+                                                         YES/NO
+        21.3 Whether life jackets with lights and RR tapes were available
+              in the rooms.
+        21.4 Are mattresses and pillows clean..................                   YES/NO
+
+
+                                            Page No. 17
+
+=== PDF PAGE 18 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+  Sl                                                                             Availability
+                                                                             Remarks no               REQUIREMENTS                         (Strike out which is
+                                                                                      (For Auditor Only)
+                                                                        not applicable)
+22.0   SAFETY COMMITTEE:
+
+       Whether regular safety meetings are being                    YES/NO
+       conducted?
+23.0  WORK PERMIT SYSTEM:                                                                                     i) Hot work
+                                                                                                                                           ii) Cold Work
+        23.1 Whether permit to work system exists on the barge and is      YES/NO            iii) Confined space
+            being followed.                                                                                                 entry with entry
+        23.2 Whether job safety analysis & regular safety inspections        YES/NO             roster and gas
+            are being done.                                                                     record at
+                                                                                                   regular
+                                                                                                                 intervals.
+24.0  WASTE MANAGEMENT:
+
+        24.1 Whether the sewage is being treated prior to disposal into the      YES/ NO
+              sea as per MARPOL?.
+
+        24.2 Recent STP sample test report available?                 YES/NO
+
+        24.3 Whether the garbage is being segregated in dry and wet      YES/ NO
+             type as per GM Plan?
+
+        24.4  Whether the garbage record book & manifest are being      YES/ NO
+             maintained as per MARPOL?
+
+        24.5 Whether the Oil filtering equipment is available as per      YES/NO
+         MARPOL?
+
+        24.6 Whether the Oil record book & manifest are  being      YES/NO
+             maintained as per MARPOL?
+
+        24.7 Whether Approved Shipboard Oil Pollution                                                       YES/NO
+           Emergency plan available as per MARPOL?
+25.0   TRAINING:
+
+        25.1 Whether the record of training particularly on sea survival,     YES/NO
+            Fire Fighting and First Aids properly maintained as per
+        STCW’ 2010
+
+                                                       YES/NO
+        25.2 Competency certificate of Captain & crew available?
+
+        25.3 Manning as per SMC / Manning Policy document available?     YES / NO
+
+26.0  MOORING WINCHES   / ANCHOR WIRES   / TOWING
+      SYSTEM:
+                                                       YES/NO
+        26.1 Are all winches operational ?
+
+        26.2 Remote operation of winches from control room available?      YES/NO
+
+       26.3 Anchor wires lubricated & maintained properly?             YES/NO
+
+
+
+
+                                            Page No. 18
+
+=== PDF PAGE 19 ===
+                                                                   Issue No. 2
+             Engineering Services             Part-B
+                                                             Date: 20.10.2006
+           (Offshore Works Division)    Safety Audit of Vessel.
+                                                                 Rev.: 4             ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+  Sl                                                                              Availability         Remarks
+ no             REQUIREMENTS                              (Strike out which is      (For Auditor
+                                                                         not applicable)           Only)
+        26.4 Latest Thorough examination/ Inspection of winches &      YES/NO
+           Wires available < 12 Months ?
+
+         26.5 Are all Load & Wire length indicators oeprational ?          YES/NO
+
+        26.6 Are all load cells calibrated?                          YES/NO
+
+        26.7 Are MBL test reports (< 5 Years ) of all anchor wires         YES/NO
+             available?
+
+         26.8 FAT / SAT / Break Holding Capacity test of all winch         YES/NO
+             assemblies available (attach certificate)?
+
+        26.9 Are MBL test report of Main tow wire & emergency tow       YES/NO
+            wire available?
+
+        26.10 Test certificate of all towing gears available?               YES/NO
+
+        26.11 Barge Anchor Handling Manual / Procedure available?       YES/NO
+
+        26.12 Barge Towing Manual / Procedure available?              YES/NO
+
+        26.13 Barge Emergency Towing Manual / Procedure             YES/NO
+             available?
+
+        26.14 Display of Emergency contact nos. list of contractor      YES/NO
+       & ONGC persons? (Must be provided by contractor)
+
+        26.15 Register containing Phone nos. and addresses of marine
+                                                       YES/NO           crew?
+
+        26.16 Is record of breakdown of equipment maintained?
+                                                       YES/NO
+        26.17 If yes, informed to Class (Copy of letter) ?
+                                                       YES/NO
+        26.18 AIS Working, Antenna and Display OK & Crew Familiar
+                                                       YES/NO            with AIS & Data Updates.
+
+
+27.0   OTHERS:
+
+         27.1 Safety plan (barge layout plan) updated, approved and                                                     YES  / NO
+             posted in conspicuous area ?
+
+         27.2 Spark arrestors on exhaust pipes and other internal                                                     YES  / NO
+             engines installed?
+
+        27.3 Anchors Wire length is as per ONGC’s Anchor Handling                                                     YES / NO
+             Policy - 2011? minimum anchor wire length be 1000
+            meters for H/U Barges.
+
+
+
+
+
+                                            Page No. 19
+
+=== PDF PAGE 20 ===
+                                                                  Issue No. 2
+            Engineering Services             Part-B
+                                                           Date: 20.10.2006
+          (Offshore Works Division)    Safety Audit of Vessel.
+                                                                Rev.: 4            ISO 9001:2015          Physical Verification.
+                                                   Rev Date:20.09.2021
+
+Sl                                                                          Availability (Strike       Remarks
+no               REQUIREMENTS                          out which is not        (For Auditor
+                                                                              applicable)            Only)
+       27.4 Are anchor securing arrangements in good conditions ?       YES / NO
+
+       27.5 Are Original HHP (High Holding Power) Delta Flipper       YES  / NO
+          anchors provided?
+
+       27.6 DMP/ RCP/ SOP/Safety Management System document       YES  / NO
+            for Vessel availability?
+
+       27.7 Safety, Environment policy displayed at prominent          YES / NO
+            places?
+
+       27.8 Drug & Alcohol policy displayed at prominent places?        YES  / NO
+
+       27.9  Posters on Fire / Safety / Environment displayed?           YES  / NO
+
+      27.10 Approved project based HSE Manual? Available On        YES / NO
+             Vessel ?
+
+
+
+Note:- Following Critical valid documents – Must be submitted before Safety audit & without these documents,
+vessel / barge will not be allowed to sail to the field:-
+
+1. International Pollution prevention certificate (IOPP, IAPP & ISPP) 2. Shipboard Oil Pollution Emergency Plan
+3. Special Purpose Ship (SPS)  / MODU Certificate (which ever applicable)  4. Safety Equipment  certificate –
+Statement of Fact (Form - E or Form - F which ever applicable)  5. Valid life raft / life boats service certificates 6.
+Valid firefighting equipment service certificates 7. Recent Crane load test report & Annual thorough visual
+inspection report 8. NDT report of crane boom (MPI & UT)  9. Annual Inspection / Test certificates of Load cells,
+winches (Anchor / Mooring / Pipe) & Wire length certificate 10. Annual Inspection/Test certificates of Loose Gears
+(Chain, Shackle, Sling, chain Pulley block, Wire Rope, Gangway  etc.) 11. Personal Transfer Basket Service
+Certificate.
+
+
+
+
+
+         Captain / Master
+            of Vessel/Barge        Master Mariner (TPI)   ONGC (Project-ES)     ONGC (HSE-ES)
+
+
+
+
+
+       ONGC (Asset)           Safety Officer (CA)    ONGC (Marine Cell)        Contractors Rep
+
+
+
+
+
+                                          Page No. 20
+
+=== PDF PAGE 21 ===
+                                                                    Issue No. 2
+              Engineering Services             Part-B
+                                                             Date: 20.10.2006
+            (Offshore Works Division)    Safety Audit of Vessel.
+                                                                  Rev.: 4              ISO 9001:2015          Physical Verification.
+                                                    Rev Date:20.09.2021
+
+Barge/ Vessel Safety Audit of ……………………………..…………. Date:      /     /202
+Primary Observations (Final observations will be issued for compliance report):-
+
+
+
+
+
+          Captain / Master
+             of Vessel/Barge          Master Mariner (TPI)   ONGC (Project-ES)     ONGC (HSE-ES)
+
+
+
+
+
+        ONGC (Asset)             Safety Officer (CA)    ONGC (Marine Cell)        Contractors Rep
+
+
+
+                                             Page No. 21

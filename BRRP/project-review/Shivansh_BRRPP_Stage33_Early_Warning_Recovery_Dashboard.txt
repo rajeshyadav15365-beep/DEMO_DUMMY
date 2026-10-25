@@ -1,0 +1,362 @@
+
+SHEET Bridge Forecast
+Bridge | Steel MT | Demolition MT | Crew | Approved qty | Accepted qty | Plan to date | Physical % | SPI quantity | Actual productive crew-days | Productivity MT/crew-day | Remaining MT | Remaining crew-days | Assigned crews | Workability | Forecast calendar days | Forecast finish day | Seasonal float days | Warning
+ICW–ICG UD | 49 | 25 | A | 49 | 0 | 0 | 0 | 0 | 0 | 0 | 49 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+ICW–ICG LD | 122 | 1 | INSTALL | 122 | 0 | 0 | 0 | 0 | 0 | 0 | 122 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+ICG–ICP UD | 116 | 25 | A | 116 | 0 | 0 | 0 | 0 | 0 | 0 | 116 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+ICG–ICP LD | 160 | 1 | INSTALL | 160 | 0 | 0 | 0 | 0 | 0 | 0 | 160 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+BHS–SLQ | 282 | 210 | INSTALL | 282 | 0 | 0 | 0 | 0 | 0 | 0 | 282 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+SLQ–WIS | 91 | 15 | A | 91 | 0 | 0 | 0 | 0 | 0 | 0 | 91 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+NQO–NQD | 93 | 25 | B | 93 | 0 | 0 | 0 | 0 | 0 | 0 | 93 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+WIN–NC | 46 | 10 | B | 46 | 0 | 0 | 0 | 0 | 0 | 0 | 46 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+SCA–SC1 | 63 | 15 | B | 63 | 0 | 0 | 0 | 0 | 0 | 0 | 63 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+SCA–SCF | 119 | 30 | B | 119 | 0 | 0 | 0 | 0 | 0 | 0 | 119 |  | 1 | 0.7 |  |  |  | NO PRODUCTIVITY DATA
+
+SHEET Control Inputs
+Parameter | Value | Status / instruction
+Provisional start | 2026-11-01 | Assumption only
+Current schedule day | 1 | Set day number from actual commencement; pre-award use 1
+Pre-monsoon cutoff day | 196 | 15 May 2027 assuming 1 Nov start
+Contractual completion day | 360 | Verify SCC commencement and monsoon treatment
+Printed structural MTO MT | 1142 | Bridge rows sum to 1141 MT
+Printed strengthening discrepancy MT | 1 | Reconcile before final procurement
+Demolition MT | 357 | From prior tender transcription
+Resource and rates | UNVERIFIED | Do not charter or release work from these inputs
+
+SHEET Early Warning
+ID | Constraint / trigger | Bridge / scope | Owner | Due date | Severity | Action / mitigation | Status | Evidence / reference
+R01 | BHS–SLQ service transfer and demolition sequence | BHS–SLQ | Engineering/ONGC |  | Critical | Approve operations interfaces, transfer and independent removal engineering | Open | 
+R02 | Heavy lift weight, COG and crane capacity | 3 major bridges | Marine engineering |  | Critical | Lift list, COG, rigging and marine assurance | Open | 
+R03 | Fabrication yard committed slots | All | Fabrication manager |  | High | Audit capacity and competing project loads | Open | 
+R04 | Monsoon/SCC entitlement and operating windows | All | Contracts/Marine |  | Critical | Verify SCC and site-specific metocean restrictions | Open | 
+R05 | 1 MT discrepancy in structural MTO | All | Engineering/QS |  | Medium | Reconcile original detailed MTO | Open | 
+R06 | Permits, access, SIMOPS and temporary works | All | Offshore manager |  | Critical | ONGC-approved readiness before release | Open | 
+R07 | NDT / inspection release bottleneck | All | QA/QC |  | High | Plan independent shop/offshore coverage | Open | 
+
+SHEET Release Gate
+Bridge | AFC | Material | Crew | Tools | Access/Permit | Method | QA/ITP | Marine | ONGC | Release status
+ICW–ICG UD | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+ICW–ICG LD | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+ICG–ICP UD | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+ICG–ICP LD | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+BHS–SLQ | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+SLQ–WIS | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+NQO–NQD | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+WIN–NC | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+SCA–SC1 | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+SCA–SCF | NO | NO | NO | NO | NO | NO | NO | NO | NO | HOLD
+
+SHEET Weekly Control
+Week | Date start | Bridge | Planned accepted qty | Actual accepted qty | Productive crew-days | Vessel productive days | Weather standby days | Permit standby days | Material standby days | Inspection hold days | Forecast day | Recovery owner
+1 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+1 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+2 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+3 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+4 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+5 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+6 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+7 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+8 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+9 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+10 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+11 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+12 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+13 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+14 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+15 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+16 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+17 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+18 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+19 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+20 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+21 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+22 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+23 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+24 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+25 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+26 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+27 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+28 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | ICW–ICG UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | ICW–ICG LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | ICG–ICP UD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | ICG–ICP LD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | BHS–SLQ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | SLQ–WIS | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | NQO–NQD | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | WIN–NC | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | SCA–SC1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+29 |  | SCA–SCF | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 
+
+SHEET CEO Dashboard
+KPI | Value | Interpretation
+Bridge packages | 10 | Planning scope
+Bridge steel row total | 1141 | Check 1 MT difference
+Demolition row total | 357 | Separate removal work
+Approved / accepted steel MT | 0 | Only verified work counts
+Bridge readiness gates released | 0 | Nine gates must all be YES
+Packages with recovery warning | 0 | Requires forecast data
+Open constraints | 7 | Track closure evidence
+Forecast completion day | NOT CALCULATED | Cannot claim Day 360 feasibility without actual productivity
+
+SHEET Read Me
+Area | Instruction
+Purpose | Pre-award early warning; not an approved resource-levelled CPM or safety method statement
+Inputs | Enter accepted quantities, productive crew-days, planned quantities and current day in Bridge Forecast
+No invented productivity | Forecast remains blank until actual productivity is supplied
+Risk | Crew-day forecast is simplified; CPM, shared vessel conflicts and work fronts must be checked separately
+Financial | Stage 26 financial data must be mapped by approved cost codes; no invented pricing
+Contract | Award and commencement unconfirmed; 1 Nov is a scenario only
+Engineering | Independent qualified offshore engineers must approve lifting, demolition, structural design and marine methods
+Sources | CII Advanced Work Packaging; Oracle Primavera earned value; IMCA LR006

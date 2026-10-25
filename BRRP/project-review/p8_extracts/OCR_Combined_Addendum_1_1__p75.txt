@@ -1,0 +1,56 @@
+INSPECTION AND TEST PLAN
+
+STANDARD SPECIFICATION NO.
+
+soltetzre’ ES ENGNEERS FOR MEDIUM AND HIGH f Rev.4
+sais @ ROALD VOLTAGE CABLES & ACCESSORIES ® oes of6
+SCOPE OF INSPECTION
+SL UANTUM OF
+NO. STAGE/ ACTIVITY CHARACTERISTICS Q CHECK RECORD ste SUPPLIER | EIL/TPIA
+Visual, Drum details, Size, Ends Capping, 100% for Drum
+Finished Cable Marking on outer sheath (such as Incremental | details and Sample 7
+41 aaah Volnige grade, manufacturer’s name), | drums for balance Test!Records . H RWIR
+Colour coding, etc. details
+- * Conductor Resistance. ei
+¢ Partial Discharge (for HT cable only)
+
+e Check calibration status of all testing
+equipment.
+
+e Dimension checks — overall dia, over/under
+armour, thickness of insulation, sheath and
+semi conducting screen, copper screen,
+dimension, etc as applicable
+
+¢ Conductor Resistance
+
+e Volume resistivity at room temperature and
+elevated temperature as per IS
+
+43 Finished Cable ¢ Thermal stability test for Insulation (for As per IS sampling | Inspection Test H HR
+
+(Acceptance tests)
+
+PVC only) and sheath.
+
+High Voltage tests
+
+Partial Discharge(for HT Cable)
+
+Hot Set (for XLPE insulation)
+
+Tests on Conductor as applicable
+
+Tests on PVC/XLPE Insulation & Sheath *
+Armour Galvanization - dip test & coverage
+Tensile and elongation (without ageing )
+Silicon oil and wafer boil test for insulation
+and screen (for HT cable).
+
+plan
+
+Records
+
+Format No. 8-00-0001-F7 Rev. 0
+
+Copyright EIL — All rights reserved

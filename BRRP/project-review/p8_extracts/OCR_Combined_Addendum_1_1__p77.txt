@@ -1,0 +1,45 @@
+TION AND TEST PLAN STANDARD SPECIFICATION NO.
+SGI ZET SS ENGINEERS aes
+cea Res FOR MEDIUM AND HIGH 6-81-1051 Rev. 4
+Sor plies @ROALMTED VOLTAGE CABLES & ACCESSORIES Page 6 of 6
+SCOPE OF INSPECTION
+SL QUANTUM OF
+NO. STAGE/ ACTIVITY CHARACTERISTICS CHECK RECORD SUB SUPPLIER | EIL/TPIA
+SUPPLIER
+
+e Visual
+4.6 Cable accessories e Dimensions Sample Test Records H R
+
+eo __ Type tests** as per IS/IEC
+5.0 Painting - - - - - -
+6.0 Documentation and IC
+
+* Review of Routine, Acceptance, Type test ;
+6.1 | Documentation and IC reports. 100% Supplier TC & . . iH
+
+¢ ICissuance Ie
+
+Final data
+‘ «ccio» | Compilation of Inspection reports, drawings, " folder / .
+6.2 | Final Document submission etc, as per VDR/ PR 100% Completeness H H
+certificate
+
+# — Incase TC (not older than one year) from independent test lab is available & type of compound used is same then the same may be accepted.
+
+Hot deformation, Heat shock and Shrinkage tests on insulation & sheath (One sample/Lot- provided sheath material is from same compound/batch) shall be witnessed
+by EIL/TPIA, all other tests as per IS/IEC shall be carried out by supplier and test reports shall be reviewed by EIL/TPIA.
+
+** EIL witness for HT cables and EIL surveillance checks on MV Power cable.
+
+Legends: H- Hold (Do not proceed without approval, R-Review, RW-Random witness (As specified or 10 % - Samples must include min | No of each type),
+W- Witness (Give due notice, work may proceed after scheduled date).
+
+NOTES :-
+
+1. This document describes the generic test requirements. Any additional test or inspection scope if specified in contract documents shall also be applicable. (Unless
+otherwise agreed upon).
+
+2. Acceptance Norms for all the activities shall be as per PO/PR/ Standards referred there in/ Job specifications /Approved documents.
+3. For EPC jobs, all inspection shall be carried out by TPIA, unless notified otherwise.
+
+Format No, 8-00-0001-F7 Rev. 0 Copyright EIL - All rights reserved

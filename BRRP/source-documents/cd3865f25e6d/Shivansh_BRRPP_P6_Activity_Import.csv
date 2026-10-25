@@ -1,0 +1,88 @@
+Activity ID,Bridge Package,Discipline,Activity,Plan Start Day,Plan Finish Day,Duration Days,Predecessor ID,Relationship,Accountable Role,Indicative Crew,Marine Resource,Approval Hold Point,Status,Actual %,Actual Start,Actual Finish,Basis / Notes
+BR0001,COMMON,Management,Kickoff / contract review,1,10,10,,,Project Director,6,,,Not started,0,,,Proposed - verify against approved baseline
+BR0002,COMMON,Survey,Offshore survey campaign planning and permits,5,20,16,BR0001,FS,Survey Manager,8,Workboat,,Not started,0,,,Proposed - verify against approved baseline
+BR0003,COMMON,Engineering,Design basis and engineering register approval,10,30,21,BR0001,FS,Engineering Manager,7,,,Not started,0,,,Proposed - verify against approved baseline
+BR0004,COMMON,Marine,Marine spread capability audit and charter strategy,15,45,31,BR0001,FS,Marine Manager,4,,,Not started,0,,,Proposed - verify against approved baseline
+BR0005,ICW-ICG UD,Survey,Site survey and as-built interface verification,20,43,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0006,ICW-ICG UD,Engineering,Structural assessment / detailed engineering / AFC,44,99,56,BR0005,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0007,ICW-ICG UD,Procurement,"Material requisition, vendor review and steel receipt",76,141,66,BR0006,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0008,ICW-ICG UD,Fabrication,Fabricate / weld / inspect / coat assemblies,125,205,81,BR0007,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0009,ICW-ICG UD,Marine,"Weigh, COG, lifting, seafastening and marine approval",190,231,42,BR0008,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0010,ICW-ICG UD,Offshore,"Offshore mobilisation, access and enabling works",218,246,29,BR0009,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0011,ICW-ICG UD,Offshore,Install bridge / strengthening assemblies,242,278,37,BR0010,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0012,ICW-ICG UD,Completion,"Inspection, punch clearance and turnover dossier",280,298,19,BR0011,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0013,ICW-ICG LD,Survey,Site survey and as-built interface verification,26,49,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0014,ICW-ICG LD,Engineering,Structural assessment / detailed engineering / AFC,50,105,56,BR0013,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0015,ICW-ICG LD,Procurement,"Material requisition, vendor review and steel receipt",82,147,66,BR0014,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0016,ICW-ICG LD,Fabrication,Fabricate / weld / inspect / coat assemblies,131,211,81,BR0015,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0017,ICW-ICG LD,Marine,"Weigh, COG, lifting, seafastening and marine approval",196,237,42,BR0016,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0018,ICW-ICG LD,Offshore,"Offshore mobilisation, access and enabling works",224,252,29,BR0017,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0019,ICW-ICG LD,Offshore,Install bridge / strengthening assemblies,248,284,37,BR0018,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0020,ICW-ICG LD,Completion,"Inspection, punch clearance and turnover dossier",286,304,19,BR0019,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0021,ICG-ICP UD,Survey,Site survey and as-built interface verification,32,55,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0022,ICG-ICP UD,Engineering,Structural assessment / detailed engineering / AFC,56,111,56,BR0021,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0023,ICG-ICP UD,Procurement,"Material requisition, vendor review and steel receipt",88,153,66,BR0022,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0024,ICG-ICP UD,Fabrication,Fabricate / weld / inspect / coat assemblies,137,217,81,BR0023,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0025,ICG-ICP UD,Marine,"Weigh, COG, lifting, seafastening and marine approval",202,243,42,BR0024,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0026,ICG-ICP UD,Offshore,"Offshore mobilisation, access and enabling works",230,258,29,BR0025,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0027,ICG-ICP UD,Offshore,Install bridge / strengthening assemblies,254,290,37,BR0026,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0028,ICG-ICP UD,Completion,"Inspection, punch clearance and turnover dossier",292,310,19,BR0027,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0029,ICG-ICP LD,Survey,Site survey and as-built interface verification,38,61,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0030,ICG-ICP LD,Engineering,Structural assessment / detailed engineering / AFC,62,117,56,BR0029,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0031,ICG-ICP LD,Procurement,"Material requisition, vendor review and steel receipt",94,159,66,BR0030,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0032,ICG-ICP LD,Fabrication,Fabricate / weld / inspect / coat assemblies,143,223,81,BR0031,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0033,ICG-ICP LD,Marine,"Weigh, COG, lifting, seafastening and marine approval",208,249,42,BR0032,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0034,ICG-ICP LD,Offshore,"Offshore mobilisation, access and enabling works",236,264,29,BR0033,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0035,ICG-ICP LD,Offshore,Install bridge / strengthening assemblies,260,296,37,BR0034,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0036,ICG-ICP LD,Completion,"Inspection, punch clearance and turnover dossier",298,316,19,BR0035,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0037,BHS-SLQ,Survey,Site survey and as-built interface verification,44,67,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0038,BHS-SLQ,Engineering,Structural assessment / detailed engineering / AFC,68,123,56,BR0037,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0039,BHS-SLQ,Procurement,"Material requisition, vendor review and steel receipt",100,165,66,BR0038,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0040,BHS-SLQ,Fabrication,Fabricate / weld / inspect / coat assemblies,149,229,81,BR0039,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0041,BHS-SLQ,Marine,"Weigh, COG, lifting, seafastening and marine approval",214,255,42,BR0040,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0042,BHS-SLQ,Offshore,"Offshore mobilisation, access and enabling works",242,270,29,BR0041,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0043,BHS-SLQ,Offshore,Install bridge / strengthening assemblies,266,302,37,BR0042,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0044,BHS-SLQ,Offshore,"Transfer services, test and obtain ONGC acceptance",303,326,24,BR0043,FS,Interface Manager,16,,Service transfer acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0045,BHS-SLQ,Offshore,Engineered demolition of existing bridge,327,351,25,BR0044,FS,Construction Manager,20,Crane vessel (verify),Demolition release,Not started,0,,,Proposed - verify against approved baseline
+BR0046,BHS-SLQ,Completion,"Inspection, punch clearance and turnover dossier",304,322,19,BR0045,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0047,SLQ-WIS,Survey,Site survey and as-built interface verification,50,73,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0048,SLQ-WIS,Engineering,Structural assessment / detailed engineering / AFC,74,129,56,BR0047,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0049,SLQ-WIS,Procurement,"Material requisition, vendor review and steel receipt",106,171,66,BR0048,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0050,SLQ-WIS,Fabrication,Fabricate / weld / inspect / coat assemblies,155,235,81,BR0049,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0051,SLQ-WIS,Marine,"Weigh, COG, lifting, seafastening and marine approval",220,261,42,BR0050,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0052,SLQ-WIS,Offshore,"Offshore mobilisation, access and enabling works",248,276,29,BR0051,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0053,SLQ-WIS,Offshore,Install bridge / strengthening assemblies,272,308,37,BR0052,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0054,SLQ-WIS,Completion,"Inspection, punch clearance and turnover dossier",310,328,19,BR0053,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0055,NQO-NQD,Survey,Site survey and as-built interface verification,56,79,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0056,NQO-NQD,Engineering,Structural assessment / detailed engineering / AFC,80,135,56,BR0055,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0057,NQO-NQD,Procurement,"Material requisition, vendor review and steel receipt",112,177,66,BR0056,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0058,NQO-NQD,Fabrication,Fabricate / weld / inspect / coat assemblies,161,241,81,BR0057,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0059,NQO-NQD,Marine,"Weigh, COG, lifting, seafastening and marine approval",226,267,42,BR0058,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0060,NQO-NQD,Offshore,"Offshore mobilisation, access and enabling works",254,282,29,BR0059,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0061,NQO-NQD,Offshore,Install bridge / strengthening assemblies,278,314,37,BR0060,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0062,NQO-NQD,Completion,"Inspection, punch clearance and turnover dossier",316,334,19,BR0061,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0063,WIN-NC,Survey,Site survey and as-built interface verification,62,85,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0064,WIN-NC,Engineering,Structural assessment / detailed engineering / AFC,86,141,56,BR0063,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0065,WIN-NC,Procurement,"Material requisition, vendor review and steel receipt",118,183,66,BR0064,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0066,WIN-NC,Fabrication,Fabricate / weld / inspect / coat assemblies,167,247,81,BR0065,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0067,WIN-NC,Marine,"Weigh, COG, lifting, seafastening and marine approval",232,273,42,BR0066,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0068,WIN-NC,Offshore,"Offshore mobilisation, access and enabling works",260,288,29,BR0067,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0069,WIN-NC,Offshore,Install bridge / strengthening assemblies,284,320,37,BR0068,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0070,WIN-NC,Completion,"Inspection, punch clearance and turnover dossier",322,340,19,BR0069,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0071,SCA-SC1,Survey,Site survey and as-built interface verification,68,91,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0072,SCA-SC1,Engineering,Structural assessment / detailed engineering / AFC,92,147,56,BR0071,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0073,SCA-SC1,Procurement,"Material requisition, vendor review and steel receipt",124,189,66,BR0072,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0074,SCA-SC1,Fabrication,Fabricate / weld / inspect / coat assemblies,173,253,81,BR0073,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0075,SCA-SC1,Marine,"Weigh, COG, lifting, seafastening and marine approval",238,279,42,BR0074,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0076,SCA-SC1,Offshore,"Offshore mobilisation, access and enabling works",266,294,29,BR0075,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0077,SCA-SC1,Offshore,Install bridge / strengthening assemblies,290,326,37,BR0076,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0078,SCA-SC1,Completion,"Inspection, punch clearance and turnover dossier",328,346,19,BR0077,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0079,SCA-SCF,Survey,Site survey and as-built interface verification,74,97,24,BR0002,FS,Survey Lead,8,Workboat,Survey acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0080,SCA-SCF,Engineering,Structural assessment / detailed engineering / AFC,98,153,56,BR0079,FS,Engineering Lead,6,,Design approval,Not started,0,,,Proposed - verify against approved baseline
+BR0081,SCA-SCF,Procurement,"Material requisition, vendor review and steel receipt",130,195,66,BR0080,FS,Procurement Lead,3,,MTC traceability,Not started,0,,,Proposed - verify against approved baseline
+BR0082,SCA-SCF,Fabrication,Fabricate / weld / inspect / coat assemblies,179,259,81,BR0081,FS,Fabrication Lead,18,,NDT and dimensional release,Not started,0,,,Proposed - verify against approved baseline
+BR0083,SCA-SCF,Marine,"Weigh, COG, lifting, seafastening and marine approval",244,285,42,BR0082,FS,Marine Engineer,5,,Lift readiness,Not started,0,,,Proposed - verify against approved baseline
+BR0084,SCA-SCF,Offshore,"Offshore mobilisation, access and enabling works",272,300,29,BR0083,FS,Offshore Manager,20,Accommodation barge,PTW SIMOPS approval,Not started,0,,,Proposed - verify against approved baseline
+BR0085,SCA-SCF,Offshore,Install bridge / strengthening assemblies,296,332,37,BR0084,FS,Construction Manager,26,Crane vessel (verify),Lift and installation release,Not started,0,,,Proposed - verify against approved baseline
+BR0086,SCA-SCF,Completion,"Inspection, punch clearance and turnover dossier",334,349,16,BR0085,FS,QAQC Lead,6,,ONGC acceptance,Not started,0,,,Proposed - verify against approved baseline
+BR0087,COMMON,Completion,Consolidated completion and handover,350,360,11,BR0086,FS,Project Director,8,,Final acceptance,Not started,0,,,Proposed - verify against approved baseline

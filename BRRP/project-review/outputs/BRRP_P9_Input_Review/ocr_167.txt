@@ -1,0 +1,76 @@
+silat sh
+
+OnGC
+
+Offshore Design Section
+Engineering Services
+ISO - 9001:2008
+
+FUNCTIONAL
+
+SPECIFICATION FOR
+
+Welding of Duplex Stainless
+
+Steel
+
+2009F
+Spec. No. Annex.1
+
+Rev. No. | 1
+
+Discipline
+
+QA & Welding
+
+Page: 7 OF 7
+
+223 FAL-PW.
+
+Procedure Supplier Typical Chemical Comments
+Commercial Composition in %
+Name
+Smitweld SW | C:0.010 Mn:1.6 S1:0.25 | Filler metal
+4462 (Revised |} P:0.20 recommended when
+Composition) S:0.008 Cr:23.0 Ni:8.8 | as welded
+Mo:3.1
+N:0.012
+Plasma Thyssem C:0.016  Mn:1.57 ~~ Si:0.17 | Very low _ nitrogen
+Cr:22.8 Ni:9.18 N:0.04 (traces) ferrite level
+auto or - a
+Manual practically identical to
+22-6-31.
+Thermanit 22- Excellent results
+09 when welded with
+nitrogen in welding
+gas.
+Thyssen C:0.016 = Mn:1.57 — Si:0.17 | With flux SAP CN
+Thermanit Cr:22.8 Ni:9.18 N:0.04 100 — as welded
+SAW condition gives ferrite
+range 35-65%
+Thermanit 22- | C <0.030 Cr:22.0 to 23.0
+09
+Sandvik 22-9- | Ni:9 to 10 These electrodes even
+SMAW 3LR_ Smitweld | Mo = 3, N:0.10 to 0.15 with low heat input,
+Arosta 4462 give welds with
+Philips Rs 22-9- specified ferrite
+3LC Avesta range.
+
+FORMAT NG:
+
+Tat PROEDURE Na,
+
+BSUENS,
+
+TEVA,
+
+TEVA:
+
+DOSSORDOS
+
+GOS SOP OR.
+
+oF
+
+21.07.2010
+

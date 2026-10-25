@@ -1,0 +1,210 @@
+
+SHEET SHIVANSH ONGC Offshore Bridges 
+ID | Name | Duration | Start | Finish | % Complete
+1 | ICW-ICG-LD-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+2 | ICW-ICG-LD-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+3 | ICW-ICG-LD-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+4 | ICW-ICG-LD-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+5 | ICW-ICG-LD-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+6 | ICW-ICG-LD-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+7 | ICW-ICG-LD-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+8 | ICW-ICG-LD-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+9 | ICW-ICG-LD-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+10 | ICW-ICG-LD-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+11 | ICW-ICG-LD-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+12 | ICW-ICG-LD-12 | Module weight COG and loadout engineering | 73d | 11/2/26 | 2/10/27 | 0.0
+13 | ICW-ICG-LD-13 | Cargo manifest and shore base transfer | 41d | 2/11/27 | 4/8/27 | 0.0
+14 | ICW-ICG-LD-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+15 | ICW-ICG-LD-15 | Marine mobilisation and readiness | 41d | 3/9/27 | 5/4/27 | 0.0
+16 | ICW-ICG-LD-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+17 | ICW-ICG-LD-18 | Structural fit-up or landing | 91d | 2/23/27 | 6/29/27 | 0.0
+18 | ICW-ICG-LD-19 | Connection welding and bolting | 91d | 6/30/27 | 11/3/27 | 0.0
+19 | ICW-ICG-LD-20 | Inspection and coating restoration | 91d | 11/4/27 | 3/9/28 | 0.0
+20 | ICW-ICG-LD-21 | Punch closure and dossier | 86d | 11/2/26 | 3/1/27 | 0.0
+21 | ICW-ICG-LD-22 | Client acceptance and final handover | 51d | 3/2/27 | 5/11/27 | 0.0
+22 | ICG-ICP-LD-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+23 | ICG-ICP-LD-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+24 | ICG-ICP-LD-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+25 | ICG-ICP-LD-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+26 | ICG-ICP-LD-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+27 | ICG-ICP-LD-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+28 | ICG-ICP-LD-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+29 | ICG-ICP-LD-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+30 | ICG-ICP-LD-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+31 | ICG-ICP-LD-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+32 | ICG-ICP-LD-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+33 | ICG-ICP-LD-12 | Module weight COG and loadout engineering | 73d | 11/2/26 | 2/10/27 | 0.0
+34 | ICG-ICP-LD-13 | Cargo manifest and shore base transfer | 41d | 2/11/27 | 4/8/27 | 0.0
+35 | ICG-ICP-LD-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+36 | ICG-ICP-LD-15 | Marine mobilisation and readiness | 41d | 3/9/27 | 5/4/27 | 0.0
+37 | ICG-ICP-LD-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+38 | ICG-ICP-LD-18 | Structural fit-up or landing | 91d | 2/23/27 | 6/29/27 | 0.0
+39 | ICG-ICP-LD-19 | Connection welding and bolting | 91d | 6/30/27 | 11/3/27 | 0.0
+40 | ICG-ICP-LD-20 | Inspection and coating restoration | 91d | 11/4/27 | 3/9/28 | 0.0
+41 | ICG-ICP-LD-21 | Punch closure and dossier | 86d | 11/2/26 | 3/1/27 | 0.0
+42 | ICG-ICP-LD-22 | Client acceptance and final handover | 28d | 3/2/27 | 4/8/27 | 0.0
+43 | BHS-SLQ-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+44 | BHS-SLQ-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+45 | BHS-SLQ-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+46 | BHS-SLQ-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+47 | BHS-SLQ-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+48 | BHS-SLQ-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+49 | BHS-SLQ-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+50 | BHS-SLQ-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+51 | BHS-SLQ-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+52 | BHS-SLQ-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+53 | BHS-SLQ-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+54 | BHS-SLQ-12 | Module weight COG and loadout engineering | 73d | 11/2/26 | 2/10/27 | 0.0
+55 | BHS-SLQ-13 | Cargo manifest and shore base transfer | 41d | 2/11/27 | 4/8/27 | 0.0
+56 | BHS-SLQ-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+57 | BHS-SLQ-15 | Marine mobilisation and readiness | 41d | 3/9/27 | 5/4/27 | 0.0
+58 | BHS-SLQ-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+59 | BHS-SLQ-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+60 | BHS-SLQ-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+61 | BHS-SLQ-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+62 | BHS-SLQ-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+63 | BHS-SLQ-21 | Punch closure and dossier | 61d | 11/2/26 | 1/25/27 | 0.0
+64 | BHS-SLQ-22 | Client acceptance and final handover | 11d | 1/26/27 | 2/9/27 | 0.0
+65 | BHS-SLQ-SP64 | Operational isolation and service transfer | 28d | 11/2/26 | 12/9/26 | 0.0
+66 | BHS-SLQ-SP65 | Engineered demolition and removal | 31d | 11/2/26 | 12/14/26 | 0.0
+67 | BHS-SLQ-SP66 | Backload and disposal | 36d | 11/2/26 | 12/21/26 | 0.0
+68 | ICW-ICG-UD-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+69 | ICW-ICG-UD-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+70 | ICW-ICG-UD-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+71 | ICW-ICG-UD-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+72 | ICW-ICG-UD-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+73 | ICW-ICG-UD-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+74 | ICW-ICG-UD-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+75 | ICW-ICG-UD-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+76 | ICW-ICG-UD-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+77 | ICW-ICG-UD-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+78 | ICW-ICG-UD-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+79 | ICW-ICG-UD-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+80 | ICW-ICG-UD-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+81 | ICW-ICG-UD-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+82 | ICW-ICG-UD-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+83 | ICW-ICG-UD-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+84 | ICW-ICG-UD-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+85 | ICW-ICG-UD-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+86 | ICW-ICG-UD-21 | Punch closure and dossier | 86d | 11/2/26 | 3/1/27 | 0.0
+87 | ICW-ICG-UD-22 | Client acceptance and final handover | 51d | 3/2/27 | 5/11/27 | 0.0
+88 | ICG-ICP-UD-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+89 | ICG-ICP-UD-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+90 | ICG-ICP-UD-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+91 | ICG-ICP-UD-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+92 | ICG-ICP-UD-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+93 | ICG-ICP-UD-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+94 | ICG-ICP-UD-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+95 | ICG-ICP-UD-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+96 | ICG-ICP-UD-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+97 | ICG-ICP-UD-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+98 | ICG-ICP-UD-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+99 | ICG-ICP-UD-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+100 | ICG-ICP-UD-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+101 | ICG-ICP-UD-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+102 | ICG-ICP-UD-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+103 | ICG-ICP-UD-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+104 | ICG-ICP-UD-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+105 | ICG-ICP-UD-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+106 | ICG-ICP-UD-21 | Punch closure and dossier | 86d | 11/2/26 | 3/1/27 | 0.0
+107 | ICG-ICP-UD-22 | Client acceptance and final handover | 44d | 3/2/27 | 4/30/27 | 0.0
+108 | SLQ-WIS-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+109 | SLQ-WIS-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+110 | SLQ-WIS-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+111 | SLQ-WIS-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+112 | SLQ-WIS-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+113 | SLQ-WIS-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+114 | SLQ-WIS-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+115 | SLQ-WIS-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+116 | SLQ-WIS-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+117 | SLQ-WIS-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+118 | SLQ-WIS-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+119 | SLQ-WIS-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+120 | SLQ-WIS-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+121 | SLQ-WIS-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+122 | SLQ-WIS-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+123 | SLQ-WIS-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+124 | SLQ-WIS-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+125 | SLQ-WIS-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+126 | SLQ-WIS-21 | Punch closure and dossier | 86d | 11/2/26 | 3/1/27 | 0.0
+127 | SLQ-WIS-22 | Client acceptance and final handover | 32d | 3/2/27 | 4/14/27 | 0.0
+128 | NQO-NQD-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+129 | NQO-NQD-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+130 | NQO-NQD-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+131 | NQO-NQD-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+132 | NQO-NQD-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+133 | NQO-NQD-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+134 | NQO-NQD-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+135 | NQO-NQD-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+136 | NQO-NQD-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+137 | NQO-NQD-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+138 | NQO-NQD-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+139 | NQO-NQD-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+140 | NQO-NQD-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+141 | NQO-NQD-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+142 | NQO-NQD-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+143 | NQO-NQD-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+144 | NQO-NQD-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+145 | NQO-NQD-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+146 | NQO-NQD-21 | Punch closure and dossier | 85d | 11/2/26 | 2/26/27 | 0.0
+147 | NQO-NQD-22 | Client acceptance and final handover | 20d | 3/1/27 | 3/26/27 | 0.0
+148 | WIN-NC-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+149 | WIN-NC-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+150 | WIN-NC-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+151 | WIN-NC-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+152 | WIN-NC-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+153 | WIN-NC-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+154 | WIN-NC-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+155 | WIN-NC-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+156 | WIN-NC-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+157 | WIN-NC-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+158 | WIN-NC-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+159 | WIN-NC-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+160 | WIN-NC-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+161 | WIN-NC-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+162 | WIN-NC-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+163 | WIN-NC-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+164 | WIN-NC-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+165 | WIN-NC-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+166 | WIN-NC-21 | Punch closure and dossier | 73d | 11/2/26 | 2/10/27 | 0.0
+167 | WIN-NC-22 | Client acceptance and final handover | 11d | 2/11/27 | 2/25/27 | 0.0
+168 | SCA-SC1-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+169 | SCA-SC1-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+170 | SCA-SC1-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+171 | SCA-SC1-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+172 | SCA-SC1-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+173 | SCA-SC1-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+174 | SCA-SC1-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+175 | SCA-SC1-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+176 | SCA-SC1-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+177 | SCA-SC1-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+178 | SCA-SC1-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+179 | SCA-SC1-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+180 | SCA-SC1-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+181 | SCA-SC1-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+182 | SCA-SC1-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+183 | SCA-SC1-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+184 | SCA-SC1-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+185 | SCA-SC1-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+186 | SCA-SC1-21 | Punch closure and dossier | 61d | 11/2/26 | 1/25/27 | 0.0
+187 | SCA-SC1-22 | Client acceptance and final handover | 11d | 1/26/27 | 2/9/27 | 0.0
+188 | SCA-SCF-01 | Existing-condition survey | 28d | 11/2/26 | 12/9/26 | 0.0
+189 | SCA-SCF-02 | Design basis and interface verification | 24d | 12/10/26 | 1/12/27 | 0.0
+190 | SCA-SCF-03 | Detailed structural and temporary works engineering | 65d | 1/13/27 | 4/13/27 | 0.0
+191 | SCA-SCF-04 | Fabrication drawing release | 58d | 4/14/27 | 7/2/27 | 0.0
+192 | SCA-SCF-05 | Material requisitions and vendor approval | 28d | 11/2/26 | 12/9/26 | 0.0
+193 | SCA-SCF-06 | Steel purchasing and delivery | 63d | 12/10/26 | 3/8/27 | 0.0
+194 | SCA-SCF-07 | Cutting and material preparation | 31d | 11/2/26 | 12/14/26 | 0.0
+195 | SCA-SCF-08 | Assembly and fit-up | 46d | 12/15/26 | 2/16/27 | 0.0
+196 | SCA-SCF-09 | Shop welding | 46d | 2/17/27 | 4/21/27 | 0.0
+197 | SCA-SCF-10 | NDT and dimensional acceptance | 38d | 11/2/26 | 12/23/26 | 0.0
+198 | SCA-SCF-11 | Blast, coat and preserve | 31d | 12/24/26 | 2/4/27 | 0.0
+199 | SCA-SCF-13 | Cargo manifest and shore base transfer | 41d | 11/2/26 | 12/28/26 | 0.0
+200 | SCA-SCF-14 | Vessel technical selection and assurance | 91d | 11/2/26 | 3/8/27 | 0.0
+201 | SCA-SCF-16 | Access and permit readiness | 81d | 11/2/26 | 2/22/27 | 0.0
+202 | SCA-SCF-17 | Temporary access and works | 91d | 2/23/27 | 6/29/27 | 0.0
+203 | SCA-SCF-18 | Structural fit-up or landing | 91d | 6/30/27 | 11/3/27 | 0.0
+204 | SCA-SCF-19 | Connection welding and bolting | 91d | 11/4/27 | 3/9/28 | 0.0
+205 | SCA-SCF-20 | Inspection and coating restoration | 91d | 3/10/28 | 7/14/28 | 0.0
+206 | SCA-SCF-21 | Punch closure and dossier | 49d | 11/2/26 | 1/7/27 | 0.0
+207 | SCA-SCF-22 | Client acceptance and final handover | 11d | 1/8/27 | 1/22/27 | 0.0

@@ -1,0 +1,326 @@
+[
+  {
+    "activity": "BR0002",
+    "start": "5",
+    "pred": "BR0001",
+    "pred_finish": "10"
+  },
+  {
+    "activity": "BR0003",
+    "start": "10",
+    "pred": "BR0001",
+    "pred_finish": "10"
+  },
+  {
+    "activity": "BR0005",
+    "start": "20",
+    "pred": "BR0002",
+    "pred_finish": "20"
+  },
+  {
+    "activity": "BR0007",
+    "start": "76",
+    "pred": "BR0006",
+    "pred_finish": "99"
+  },
+  {
+    "activity": "BR0008",
+    "start": "125",
+    "pred": "BR0007",
+    "pred_finish": "141"
+  },
+  {
+    "activity": "BR0009",
+    "start": "190",
+    "pred": "BR0008",
+    "pred_finish": "205"
+  },
+  {
+    "activity": "BR0010",
+    "start": "218",
+    "pred": "BR0009",
+    "pred_finish": "231"
+  },
+  {
+    "activity": "BR0011",
+    "start": "242",
+    "pred": "BR0010",
+    "pred_finish": "246"
+  },
+  {
+    "activity": "BR0015",
+    "start": "82",
+    "pred": "BR0014",
+    "pred_finish": "105"
+  },
+  {
+    "activity": "BR0016",
+    "start": "131",
+    "pred": "BR0015",
+    "pred_finish": "147"
+  },
+  {
+    "activity": "BR0017",
+    "start": "196",
+    "pred": "BR0016",
+    "pred_finish": "211"
+  },
+  {
+    "activity": "BR0018",
+    "start": "224",
+    "pred": "BR0017",
+    "pred_finish": "237"
+  },
+  {
+    "activity": "BR0019",
+    "start": "248",
+    "pred": "BR0018",
+    "pred_finish": "252"
+  },
+  {
+    "activity": "BR0023",
+    "start": "88",
+    "pred": "BR0022",
+    "pred_finish": "111"
+  },
+  {
+    "activity": "BR0024",
+    "start": "137",
+    "pred": "BR0023",
+    "pred_finish": "153"
+  },
+  {
+    "activity": "BR0025",
+    "start": "202",
+    "pred": "BR0024",
+    "pred_finish": "217"
+  },
+  {
+    "activity": "BR0026",
+    "start": "230",
+    "pred": "BR0025",
+    "pred_finish": "243"
+  },
+  {
+    "activity": "BR0027",
+    "start": "254",
+    "pred": "BR0026",
+    "pred_finish": "258"
+  },
+  {
+    "activity": "BR0031",
+    "start": "94",
+    "pred": "BR0030",
+    "pred_finish": "117"
+  },
+  {
+    "activity": "BR0032",
+    "start": "143",
+    "pred": "BR0031",
+    "pred_finish": "159"
+  },
+  {
+    "activity": "BR0033",
+    "start": "208",
+    "pred": "BR0032",
+    "pred_finish": "223"
+  },
+  {
+    "activity": "BR0034",
+    "start": "236",
+    "pred": "BR0033",
+    "pred_finish": "249"
+  },
+  {
+    "activity": "BR0035",
+    "start": "260",
+    "pred": "BR0034",
+    "pred_finish": "264"
+  },
+  {
+    "activity": "BR0039",
+    "start": "100",
+    "pred": "BR0038",
+    "pred_finish": "123"
+  },
+  {
+    "activity": "BR0040",
+    "start": "149",
+    "pred": "BR0039",
+    "pred_finish": "165"
+  },
+  {
+    "activity": "BR0041",
+    "start": "214",
+    "pred": "BR0040",
+    "pred_finish": "229"
+  },
+  {
+    "activity": "BR0042",
+    "start": "242",
+    "pred": "BR0041",
+    "pred_finish": "255"
+  },
+  {
+    "activity": "BR0043",
+    "start": "266",
+    "pred": "BR0042",
+    "pred_finish": "270"
+  },
+  {
+    "activity": "BR0046",
+    "start": "304",
+    "pred": "BR0045",
+    "pred_finish": "351"
+  },
+  {
+    "activity": "BR0049",
+    "start": "106",
+    "pred": "BR0048",
+    "pred_finish": "129"
+  },
+  {
+    "activity": "BR0050",
+    "start": "155",
+    "pred": "BR0049",
+    "pred_finish": "171"
+  },
+  {
+    "activity": "BR0051",
+    "start": "220",
+    "pred": "BR0050",
+    "pred_finish": "235"
+  },
+  {
+    "activity": "BR0052",
+    "start": "248",
+    "pred": "BR0051",
+    "pred_finish": "261"
+  },
+  {
+    "activity": "BR0053",
+    "start": "272",
+    "pred": "BR0052",
+    "pred_finish": "276"
+  },
+  {
+    "activity": "BR0057",
+    "start": "112",
+    "pred": "BR0056",
+    "pred_finish": "135"
+  },
+  {
+    "activity": "BR0058",
+    "start": "161",
+    "pred": "BR0057",
+    "pred_finish": "177"
+  },
+  {
+    "activity": "BR0059",
+    "start": "226",
+    "pred": "BR0058",
+    "pred_finish": "241"
+  },
+  {
+    "activity": "BR0060",
+    "start": "254",
+    "pred": "BR0059",
+    "pred_finish": "267"
+  },
+  {
+    "activity": "BR0061",
+    "start": "278",
+    "pred": "BR0060",
+    "pred_finish": "282"
+  },
+  {
+    "activity": "BR0065",
+    "start": "118",
+    "pred": "BR0064",
+    "pred_finish": "141"
+  },
+  {
+    "activity": "BR0066",
+    "start": "167",
+    "pred": "BR0065",
+    "pred_finish": "183"
+  },
+  {
+    "activity": "BR0067",
+    "start": "232",
+    "pred": "BR0066",
+    "pred_finish": "247"
+  },
+  {
+    "activity": "BR0068",
+    "start": "260",
+    "pred": "BR0067",
+    "pred_finish": "273"
+  },
+  {
+    "activity": "BR0069",
+    "start": "284",
+    "pred": "BR0068",
+    "pred_finish": "288"
+  },
+  {
+    "activity": "BR0073",
+    "start": "124",
+    "pred": "BR0072",
+    "pred_finish": "147"
+  },
+  {
+    "activity": "BR0074",
+    "start": "173",
+    "pred": "BR0073",
+    "pred_finish": "189"
+  },
+  {
+    "activity": "BR0075",
+    "start": "238",
+    "pred": "BR0074",
+    "pred_finish": "253"
+  },
+  {
+    "activity": "BR0076",
+    "start": "266",
+    "pred": "BR0075",
+    "pred_finish": "279"
+  },
+  {
+    "activity": "BR0077",
+    "start": "290",
+    "pred": "BR0076",
+    "pred_finish": "294"
+  },
+  {
+    "activity": "BR0081",
+    "start": "130",
+    "pred": "BR0080",
+    "pred_finish": "153"
+  },
+  {
+    "activity": "BR0082",
+    "start": "179",
+    "pred": "BR0081",
+    "pred_finish": "195"
+  },
+  {
+    "activity": "BR0083",
+    "start": "244",
+    "pred": "BR0082",
+    "pred_finish": "259"
+  },
+  {
+    "activity": "BR0084",
+    "start": "272",
+    "pred": "BR0083",
+    "pred_finish": "285"
+  },
+  {
+    "activity": "BR0085",
+    "start": "296",
+    "pred": "BR0084",
+    "pred_finish": "300"
+  }
+]

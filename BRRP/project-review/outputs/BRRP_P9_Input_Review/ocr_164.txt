@@ -1,0 +1,56 @@
+FUNCTIONAL Spec. No. | 2009F
+SPECIFICATION FOR Annex.1
+
+. Rev.No. [1
+Welding of Duplex Stainless Discipline | GA & Welding
+
+Steel Page: 4 OF7
+
+Offshore Design Section
+Engineering Services
+ISO - 9001:2008
+
+The ferrite content measurement of test pieces shall be carried out by both the following methods:
+
+a) Metallographic determination and
+
+b) — Magnegage method (According to Kotecki)
+
+The procedure of ferrite measurement and the calibration of measuring
+instrument shall bear the approval of the Company before being
+employed.
+
+ii) Mechanical Properties
+
+These tests shall include tensile testing, impact strength and bend test.
+Bend tests shall be performed in accordance with ASTN A 370 with a
+plunger dia equal to 4 times the thickness. No defect shall be visible on
+bending.
+
+iii) Hardness Tests
+
+Each qualification test shall include a cross sectional hardness survey.
+
+A complete survey of the weld, heat affected zone and the base metal shall be performed according to the
+following procedure
+
+- the test method shall be as per ASTM E 18.
+- the distance between indentations shall be a maximum of | mm.
+- The results shall not exceed RC 28.
+
+iv) Corrosion Tests
+
+a) Intergranular Corrosion Tests (HUEY)
+
+The welds shall be subjected to ASTM A 162 practice C (HUEY
+Test). Weight loss shall not exceed 3 to 4 mils/month.
+
+b) Chloride Stress Corrosion Cracking Test.
+
+This type of test shall be conducted on the material at 155° C with
+aeration in 45% MgCl) solution as per ASTM G 36. Stress to
+
+FORMAT NG: Tat PROEDURE Na, BSUENS, TEVA, TEVA:
+
+DOSSORDOS GOS SOP OR. oF oo 21.07.2010
+

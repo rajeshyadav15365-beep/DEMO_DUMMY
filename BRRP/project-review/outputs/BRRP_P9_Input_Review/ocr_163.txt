@@ -1,0 +1,68 @@
+5.0
+
+5.1
+
+5.1.1
+
+5.1.2
+
+5.1.4
+
+2009F
+SNR | Offshore Design Section SPECINIGATON FOR Spec. No. Annex.1
+ae Engineering Services Weldi f Duplex Stainl Rev.No. | 1
+ialeles | ISO — 9001:2008 elding of Duplex stainless | Discipline | QA & Welding
+
+Steel Page: 3 OF7
+
+At -30°C (-22°F) - 60 Joules Average (43.2 ft. Ib)
+AO Joules Average (28.8 ft. Ib)
+
+QUALIFICATION TESTS
+Welding Procedure Qualification Tests
+General
+
+Each particular welding procedure shall be specially qualified for the job; no
+previous test reports shall be recognized as a qualification of the work to be
+performed. The welding filler metal to be used shall be of a grade, which will
+yield a weld metal equivalent to that of the base metal. Welding consumables
+shall be subjected to initial qualification testing and the consumable shall require
+company’s approval. During Procedure Qualification, the heat input for 22% Cr
+Duplex steels shall be limited to 0.8 — 2.5 KJ/mm. In production welding, the
+heat input shall not deviate from that qualified by more than +/- 10%. P numbers
+shall not apply to duplex stainless steels. Each alloy designation shall be
+separately qualified in accordance with this specification.
+
+Welding consumable qualification tests and welding procedure qualification tests
+shall be conducted before the start of procurement by employing an approved
+welding procedure in presence of the Company’s Representative. The welding
+procedure shall be prepared by the Contractor based on the information provided
+by the Supplier of raw materials and/or electrodes Supplier and approved by the
+Company. Welding procedure shall be such that it gives maximum hardness on
+the outer surface of pipe.
+
+All the mills supplying the raw material/pipes etc. shall be required to pass the
+tests required for procedure qualification testing. Approved procedure shall be
+common to all the mills.
+
+Laboratory tests shall be performed at an official Laboratory approved by the
+Company. Sufficient advance notice shall allow the Company to witness all or
+part of the tests.
+
+Test Samples
+
+Tests mentioned below shall be performed on welded test pieces and shall include
+the parent metal, heat affected zone and the weld metal.
+
+Procedure Qualification Tests shall be carried out as given below :
+
+i) Chemical Composition and Microstructure Examination
+
+FORMAT NG:
+
+Tat PROEDURE Na, BSUENS, TEVA, TEVA:
+
+DOSSORDOS
+
+GOS SOP OR. oF oo 21.07.2010
+

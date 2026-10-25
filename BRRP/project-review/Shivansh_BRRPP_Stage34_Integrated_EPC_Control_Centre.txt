@@ -1,0 +1,176 @@
+
+SHEET CEO Dashboard
+Metric | Value | Interpretation
+Planning commencement | 2026-11-01 | Conditional; not awarded
+Duration days | 360 | Contract SCC controls
+Bridge count | 10 | Three new/replacement and seven strengthening
+Structural summary MT | 1142 | Tender summary; verify
+Bridge-row MT | 1141 | Transcribed prior baseline
+Difference MT | 1 | Open reconciliation
+Demolition MT | 357 | Verify bridge allocation
+Progress basis | Accepted quantities | No subjective percentages
+Schedule basis | Resource-levelled CPM | Not yet verified
+Marine boundary | 2027-05-15 | Scenario only; weather and SCC to confirm
+
+SHEET Bridge Control
+Package | Structural MT | Demolition MT | Approved MT | Accepted MT | Remaining MT | Progress | Forecast finish | Constraint owner | Readiness
+ICW-ICG LD | 122 | 0 | 122 | 0 | 122 | 0 |  |  | NOT VERIFIED
+ICG-ICP LD | 160 | 0 | 160 | 0 | 160 | 0 |  |  | NOT VERIFIED
+BHS-SLQ | 282 | 357 | 282 | 0 | 282 | 0 |  |  | NOT VERIFIED
+ICW-ICG UD | 49 | 0 | 49 | 0 | 49 | 0 |  |  | NOT VERIFIED
+ICG-ICP UD | 116 | 0 | 116 | 0 | 116 | 0 |  |  | NOT VERIFIED
+SLQ-WIS | 91 | 0 | 91 | 0 | 91 | 0 |  |  | NOT VERIFIED
+NQO-NQD | 93 | 0 | 93 | 0 | 93 | 0 |  |  | NOT VERIFIED
+WIN-NC | 46 | 0 | 46 | 0 | 46 | 0 |  |  | NOT VERIFIED
+SCA-SC1 | 63 | 0 | 63 | 0 | 63 | 0 |  |  | NOT VERIFIED
+SCA-SCF | 119 | 0 | 119 | 0 | 119 | 0 |  |  | NOT VERIFIED
+
+SHEET Resource Commitments
+Resource | Required units | Committed units | Gap | Supplier / owner | Available from | Available to | Evidence / contract | Status
+Engineering design team | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Fabrication line 1 | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Fabrication line 2 | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Strengthening cell | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Structural crew A | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Structural crew B | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Bridge installation crew | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Heavy lift spread | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Accommodation vessel | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Cargo barge | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+QA-QC offshore | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+Marine logistics | 1 | 0 | 1 |  |  |  |  | UNCONFIRMED
+
+SHEET 6 Week Constraints
+ID | Bridge | Constraint category | Issue | Responsible | Due date | Status | Impact days | Closure evidence
+CON-001 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-002 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-003 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-004 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-005 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-006 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-007 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-008 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-009 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-010 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-011 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-012 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-013 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-014 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-015 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-016 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-017 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-018 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-019 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-020 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-021 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-022 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-023 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-024 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-025 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-026 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-027 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-028 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-029 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+CON-030 |  | Engineering / Material / Marine / Access / QA |  |  |  | OPEN | 0 | 
+
+SHEET Weekly Integration
+Week | Planned MT | Accepted MT | Cumulative accepted | Crew days | Productive vessel days | Standby vessel days | Actual cost INR | Certified revenue INR | Cash received INR | Net cash INR
+1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+11 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+13 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+14 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+16 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+17 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+19 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+20 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+21 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+23 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+26 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+27 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+28 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+29 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+31 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+32 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+33 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+34 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+35 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+36 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+37 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+38 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+39 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+40 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+41 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+42 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+43 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+44 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+45 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+46 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+47 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+48 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+49 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+50 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+51 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+52 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+SHEET Decision Log
+Decision ID | Decision / recovery action | Package | Requested by | Owner | Needed by | Incremental cost INR | Forecast days saved | Status | Approval evidence
+DEC-001 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-002 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-003 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-004 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-005 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-006 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-007 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-008 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-009 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-010 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-011 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-012 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-013 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-014 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-015 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-016 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-017 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-018 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-019 |  |  |  |  |  | 0 | 0 | OPEN | 
+DEC-020 |  |  |  |  |  | 0 | 0 | OPEN | 
+
+SHEET Release Gates
+Gate | Required evidence | Authority | Release status
+Design | Approved calculations, drawings, interfaces | Qualified offshore engineer / ONGC as applicable | HOLD
+Materials | Traceability, certificates, acceptance | QA/QC | HOLD
+Fabrication | Weld, NDT, dimensions, coating | QA/QC | HOLD
+Marine | Vessel capability, loadout, sea fastening | Marine warranty / competent authority | HOLD
+Lift | Weight, COG, lift points, crane/radius | Qualified lift engineer | HOLD
+Access | Permits, SIMOPS, isolations | ONGC operations | HOLD
+Demolition | Temporary stability, utilities, removal sequence | Qualified engineer and ONGC | HOLD
+Handover | Punch closure, dossiers, quantities | ONGC acceptance | HOLD
+
+SHEET Source and Assumptions
+Type | Item | Basis / action
+Carry-forward | Structural 1,141 / 1,142 MT | Reconcile against controlling MTO before procurement
+Carry-forward | Demolition 357 MT | Verify allocation to individual bridges
+Scenario | NOA 1 Nov 2026 | Not awarded; actual commencement per contract
+Scenario | 15 May offshore boundary | Verify weather and contract monsoon rules
+Not verified | Crew productivity / vessel days | Replace prior illustrative figures with supplier and engineer evidence
+Reference | McDermott offshore | https://www.mcdermott.com/solutions/offshore
+Reference | Saipem offshore | https://www.saipem.com/en/solutions-energy-transition/offshore
+Reference | Oracle resource levelling | https://docs.oracle.com/cd/G48902_01/client_help/en_US/level_resources.htm
+Instruction | Daily update | Update accepted quantities, resource commitments, constraints and cash
+Instruction | Weekly decision | Review gaps and resource-levelled schedule; authorise recovery only after cost-benefit review

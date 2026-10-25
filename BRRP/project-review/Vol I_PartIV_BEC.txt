@@ -1,0 +1,247 @@
+
+Bid Evaluation Criteria (BEC)
+
+SECTION - A: Vital criteria for acceptance of bids:
+Bidders are advised not to take any exception/deviations to the bid document.  Exceptions/ deviations, if any, should be brought out during the Pre-bid conference. In case Pre-bid conference is not held, the exceptions/ deviations along with suggested changes are to be communicated to ONGC within the date specified in the NIT and bid document. ONGC after processing such suggestions may, through an addendum to the bid document, communicate to the bidders the changes in its bid document, if any.  
+However, during evaluation of bids, ONGC may ask the Bidder for Clarifications/ confirmations/deficient documents of its bid. The request for clarification and the response shall be in writing and no change in the price or substance of the bid shall be sought or permitted. If the bidder still maintains exceptions/deviations in the bid, such conditional/ non-conforming bids shall not be considered and may be rejected.
+A-1) 	COMMERCIAL REJECTION CRITERIA
+            
+The following vital commercial conditions should be strictly complied with failing which the bid will be rejected.
+
+1)	Bids should be submitted under Two Bid System as per Clauses 10.0 and 11.0 of Part- I of Volume- I of Bidding Documents.
+	
+1.1)	Bidders should not indicate/ disclose prices in techno-commercial (un-priced bid). In case bidders indicate / disclose prices in techno-commercial (un-priced bid) or at any stage before opening of price-bid, their bids shall be evaluated without giving any cognizance to such prices.
+Evaluation will be done as per Price Evaluation Criteria of BEC on the basis of prices quoted in the price bid only.
+If the bidder has indicated / disclosed some price in techno-commercial bid (at techno-commercial stage) or at any stage before opening of price-bid, but has not indicated any price in its Price Bid, its offer shall be considered as without any price and thus shall be rejected and in no case price revealed in techno-commercial bid shall be considered for award.
+
+1.2)	The lump sum prices shall be quoted by the bidder as per Appendix A-2 and the breakup of the same shall be submitted as per Appendix A-3 as provided in tender documents (under Finance cover). Priced bid i.e. Appendix A-2 and Appendix A-3 in Excel (.xls) sheet, should be loaded as attachment in the Finance cover on GePNIC-CPPP (https://etenders.gov.in). Bidders shall necessarily use the same Excel sheet (.xls) for price bid (Appendix A-3). The price bids submitted in physical form against e-procurement tenders shall not be given any cognizance.
+
+2)  Bid will not be considered for evaluation where bidder /supporting company/ultimate controlling company/JV partner/ Consortium Partner is undergoing an Insolvency Resolution Process under the Insolvency & Bankruptcy Code, 2016 (or any amendments thereof) or, in case of an international bidder, is undergoing any proceedings for resolution of bankruptcy /insolvency by concerned court/authority of relevant jurisdiction, as on actual techno-commercial bid opening date. 
+
+In case a bidder /supporting company/ultimate controlling company/JV partner /  Consortium Partner is undergoing or gets admitted to an Insolvency Resolution Process under the Insolvency & Bankruptcy Code, 2016 (or any amendments thereof) or in case of an international bidder, is undergoing or gets admitted to any proceedings for resolution of bankruptcy /insolvency, or is declared as bankrupt/insolvent by concerned court/authority of relevant jurisdiction, prior to or during Tender evaluation stages, then such bids will be rejected.
+
+Note: Rejection of bid in case Supporting company/ultimate controlling company shall be applicable wherever bidding entity seek the support (Technical or Financial) in the tender.
+
+3)	The bid along with all appendices and copies of documents (except copies of the documents required in physical form) should invariably be submitted through GePNIC-CPPP (https://etenders.gov.in)   portal, before the scheduled date and time for the tender closing. All the documents uploaded shall be digitally signed by the authorized signatory of the bidder.  
+
+The password protected e-bids (Techno-commercial/ Price bids), which require the password to open the file, will not be considered.
+The Techno-commercial bid shall contain all details without indicating prices of the quoted items. However, a suitable response shall be selected of the given options against each item of the format at Appendix A-2 & Appendix A-3 (Bidders Response Sheet) to indicate that there is a quote against that item in the Price Bid. The Price bid shall contain only the prices duly filled in the on-line price format of GePNIC-CPPP (https://etenders.gov.in). Bidders shall necessarily use the same excel sheet for price bid. The price bids submitted in physical form against e-procurement tenders shall not be given any cognizance.
+However, the following documents should be submitted in physical form, in a sealed envelope super-scribed as “Physical documents against e-procurement Tender Reference Number …………….., Tender ID…………………….., due on …………  To be opened by Tender Opening Officers at 15.30 Hrs. on due date for opening of bid” [Documents should reach the purchaser’s office on or before 15:00 Hrs. of the closing date specified for submission of bid through GePNIC-CPPP. Wherever any other time for receipt/ opening of documents have been specified in the tender document, same should be appropriately indicated/followed in place of 15.00 Hrs. / 15.30 Hrs.]:
+(Applicable only in case bid security is submitted in the form of SFMS BG/Unconditional Irrevocable Insurance Surety Bond. Not applicable in case bid security is submitted via NEFT/RTGS/Electronic fund transfer Or e-BG.  The envelope contains only the SFMS BG/Insurance Surety Bond should be superscribed on the face of the envelope.).
+
+The original SFMS BG towards bid security (along with SFMS delivery report /message copy which has been transmitted by issuing bank through SFMS system to beneficiary's i.e. ONGC's bank) or the original Unconditional Irrevocable Insurance Surety Bond towards bid security.
+
+4.0)	Acceptance of terms and conditions:
+The bidder must confirm unconditional acceptance of  Instruction to Bidders at Part-I, General Conditions of Contract, Special Conditions of Contract at Part II, Price bid format (,Appendix-A3) at Part V of Volume-I and Technical Bid Package comprising of Scope of Work, Specifications & Drawings – Volume-II as well as the instructions contained in website https://etenders.gov.in.
+
+4.1)	Bidder must confirm unconditional acceptance of the Milestone Payment formula (Appendix A-10) and submit duly filled in along with unpriced bid (Part V-A-BRS) and price bid.
+
+The milestone payments will be auto calculated as per quoted prices in the price bid.
+
+4.2)	Bidder should confirm their acceptance that they comply with the provisions with regard to “Guidelines for eligibility of a ‘Bidder from a Country which shares a land border With India’” as detailed at Clause 50.0 of “Instructions to Bidders”. Bidder should also submit the requisite certificate as per Appendix B-36.
+
+5.0) 	Offers of following kinds will also be rejected: 
+
+a. 	Offers made without Bid Security/Insurance Surety Bond/Bid Bond/Bank Guarantee/Earnest Money Deposit along with the offer (Refer clause 17 of Instruction to Bidders).
+
+b. 	Offers not submitted in e-form through GePNIC-CPPP (https://etenders.gov.in).
+
+c. 	Offers made by Agents/ Consultants/Retainers/Representatives / Associates of foreign principals.
+
+d. 	Offers which do not conform to unconditional validity of bid for 120 days from the date of opening of bid.
+
+e.	Offer where prices are not firm and/ or with any qualifications.
+
+f(i)	Offers which do not conform to ONGC’s ‘online price bid format’ as given in the GePNIC-CPPP. 
+
+f(ii) 	Offers which do not conform to filling of all relevant fields in the online bidding format for the items quoted by them.
+
+g. 	Offers which do not conform to the completion period indicated in the bid document.
+
+h. 	Non submission of Integrity Pact with the bid, duly signed by the same authority who signs the bids even after giving an opportunity after opening of techno-commercial bids.
+
+i. 	Offers of the bidders violating the provisions of Integrity pact.
+
+j. 	Offers not accompanied with a copy of valid GST registration certificate under GST Legislations of India.
+
+In case of foreign bidders, if GST registration certificate is not available at the time of submission of bid, the bidder shall submit an undertaking to provide copy of the same at least two weeks before submission of first invoice.
+
+(Not applicable for supply of Service by foreign service provider providing services from outside India who do not have any fixed place of business or residence in India. Such bidder shall provide undertaking to that effect)
+
+k.	Offers not accompanied with an undertaking to provide all the necessary compliances /Invoice /documents required under GST legislation for enabling ONGC to avail Input tax (GST) credit. (Not applicable for the bidder who are under composition levy).
+
+l(i).	Offers not accompanied with an undertaking as per Appendix- BP1, BP2 and BP3 on acceptance of ONGC's 'Policy for Banning/provisional Suspension of Business Dealings with erring Firms’
+
+l(ii). Offers not accompanied with a declaration as per Appendix B–14 that neither the bidders themselves, nor any of its allied concerns, partners or associates or Directors or proprietors involved in any capacity, are currently serving any banning orders issued by ONGC debarring them from carrying on business dealings with ONGC.
+
+m.	Offers not accompanied with the undertaking on the company’s letter head and duly signed by the signatory of the bid that all the documents/ certificates/ information submitted by them against the tender are genuine.
+  
+n.   Offers not accompanied with the undertaking/Agreements as per clause A.1.8 if applicable.
+
+o.   Offers and all attached documents not digitally signed using digital signatures issued by an acceptable Certifying Authority (CA) as per Indian IT Act 2000 by the person as per power of attorney submitted as per ITB (Refer clause No. 10.2.2 of Part-I).
+
+p. Password protected e-bids (Techno-commercial / Price bids), which require the password to open the file.
+
+q.	Offers not accompanied with a declaration that neither bidder nor their supporting company/ultimate controlling company/JV partner/Consortium Partner (applicable only in case bidding entity seek Technical or Financial support) is undergoing an Insolvency Resolution Process under the Insolvency & Bankruptcy Code, 2016 (or any amendments thereof)/ proceedings for resolution of bankruptcy /insolvency by concerned court/authority of relevant jurisdiction in respective country.
+
+r. Offers not meeting the requirements of the Policy for providing preference to domestically manufactured Iron & Steel Products (DMI&SP) of Govt. of India as per clause no 49.0 of ITB and not accompanied with all requisite undertaking / certificates as per the same.
+
+s.	Offers not meeting the requirements of the Policy for providing preference to Domestically Manufactured Electronics products (DMEP) notified by Ministry of Electronics and Information technology (MeitY) vide notification no. W-43/4/2019-IPHW-MeitY dated 07.09.2020, as amended from time to time as per clause no 50.0 of ITB and not accompanied with all requisite undertaking / certificates as per the same.
+
+6)	Bidder shall bear, within the quoted rates, the Personnel Tax as applicable in respect of their personnel and their sub-contractor’s personnel, arising out of this contract.
+
+7) 	(i)	Indian bidders and consortium led by Indian bidder must agree to bear corporate tax, which may be levied on the Contractor, their consortium / joint venture partner (s), sub-contractors, back-up consultants, etc.
+(ii)	Foreign Bidders must agree to bear corporate tax, which may be levied on the Contractor, their Indian Consortium/joint venture partners, sub-contractors, vendors, agents / consultants / retainers, etc.
+(iii)	In case of foreign bidder, corporate tax will be deducted at source from each invoice as per instructions / orders of Government of India/Indian Tax Authority. The Contractor and/or his subcontractors etc. shall comply with the provisions of Indian Income Tax act as applicable from time to time.
+          
+8.0)	FINANCIAL
+	All the below mentioned applicable criteria shall be met by the bidders: 
+1.0 	Turnover of Bidders: INR 3,65,38,82,460 or more.
+2.0 	Net-worth of Bidder: Positive
+In case of negative net worth of CPSE bidder in which not less than 51%(Fifty One percent) of the paid-up share capital is held by the Govt of India, then in lieu of positive net-worth, such CPSE bidder  shall submit the following:
+An undertaking from its Company Secretary that not less than fifty-one per cent of the paid-up share capital of the company is held by the Government of India. 
+Confirmation that negative net worth will not affect their performance in the successful execution of the contract. 
+A 'Letter of Comfort' from a PSU bank that such CPSE (Bidder) is financially able to mobilize the requisite funds for the successful execution of the contract and that the Bank will provide financial assistance in this regard as required by such CPSE (Bidder).
+
+3.0 	Working Capital: INR 1,09,61,64,738 or more.
+*Methodology for ascertaining current liabilities and current assets shall be consistent with IFRS / IND AS standards (Statutory Auditor/Practicing Chartered Accountant or equivalent may take note of this while certifying financial criteria compliance of bidder).
+In case the financial statements of the bidder are in currencies other than INR, the closing currency exchange rate as prevailing on the date of publication of NIT as per “Daily” Closing exchange rate published on Thomson Reuters internet site                                                                        https:// in.reuters.com/markets/currencies, upto three places of decimal, shall be considered for converting it into INR. The exchange rates presently appearing on the right-hand corner of the exchange rate chart of the said internet site shall be considered as closing rate for the day.
+NOTES:
+AA) Bidder can either be a single entity which includes Incorporated Joint Venture or a consortium
+ 
+In support of meeting the financial parameters stated above, the bidder is required to submit a certificate of meeting financial criteria containing the value of each financial parameter as per tender from its Statutory Auditor or Practicing Chartered Accountant based on its Audited Standalone Annual Financial Statement which shall be the basis for meeting the requirement under Financial Criteria. In case of foreign bidder, such certificate should be from its Statutory Auditor or Practicing Chartered Accountant or equivalent as per law of that country. The Certificate from its Statutory Auditor or Practicing Chartered Accountant should be in the format at Appendix B-13 of Part-III Appendices of tender document.
+
+In case Audited Standalone Annual Financial Statement is not required as per Statue of the applicable Country, the Bidder may submit Audited Annual Consolidated Financial Statement. However all financial parameters should be met by Annual Financial Statements either on Standalone or Consolidated basis e.g. meeting one parameter of Financial Criteria based on standalone Annual Financial Statement and another on basis of Consolidated statement, or standalone Annual Financial Statement for one year and consolidated Annual Financial statement for another year is not acceptable.
+
+Statutory Auditor or Practicing Chartered Accountant shall also indicate in the certificate that the certificate is issued based on the Audited Standalone Annual Financial Statement /Audited Consolidated Annual Financial Statement (To specify clearly either standalone or consolidated) and shall consider the following for certifying the parameters:
+
+The Financial Statements should be audited by the auditors appointed under the statute like Companies Act etc. wherever applicable. 
+
+In cases where Statutory Audit is not required as per law of the Country, Financial statement prepared as per the accounting standards of the country should be certified by Practising Chartered Accountant or equivalent and in case of such country other than India, the bidder shall provide justification for the same along with    from the Practicing Chartered Accountant or equivalent to this effect.
+ 
+For the purpose of ascertaining parameter of Turnover of the bidder, average turnover from operation of the bidder for the previous (Latest) three financial years shall be considered. Average turnover from operation of the bidder for the previous three financial years shall be calculated by dividing the turnover from operation of previous three years by three, irrespective of the fact that quoted turnover for one particular year is for a period of less than 12 months or complete 12 months. The date (i.e. the financial year closing date) of the immediate previous year’s Audited Standalone Annual Financial Statement/ Audited Consolidated Annual Financial Statement (To specify clearly either standalone or consolidated) should not be older than twenty four (24) months from the actual date of bid closing (i.e. in case of tender extension, the final extended bid closing date will be considered).
+
+The amount of Sales Taxes, Goods and Service Tax and Value Added Taxes will not be included in the turnover of the bidder.
+
+Net worth shall mean: “Share Capital + Reserves created out of profits and securities premium account (excluding revaluation reserves) - Deferred Expenditure - Miscellaneous Expenditure to the extent not written off and carried forward Loss - Reserves created out of write back of depreciation and amalgamation”.
+
+Further, the date (i.e. the financial year closing date) of the immediate previous year’s Audited Standalone Annual Financial Statement/ Audited Consolidated Annual Financial Statement for the purpose of calculation of Net-worth, should not be older than twenty four (24) months from the bid closing date.
+
+iv)	Working Capital shall mean “Current Assets minus Current liabilities” as per latest year’s Audited Standalone Annual Financial Statement / Audited Consolidated Annual Financial Statement. 
+
+The date (i.e. the financial year closing date) of the immediate previous year’s Audited Standalone Annual Financial Statement/Audited Consolidated Annual Financial Statement for the purpose of calculation of Working Capital, should not be older than twenty four (24) months from the bid closing date. 
+
+If the bidder’s working capital is inadequate in meeting the tender requirements, then the bidder can make good this shortfall through a line of credit confirming the availability of unutilized line of credit for meeting the entire quantum of shortfall in the Working Capital and not limited to the Working Capital required for the tender from his banker, through a letter specifically mentioning the tender number as per enclosed format at Appendix B-29 of Part-III Appendices of tender document.  The line of credit should be from Scheduled Commercial Bank working in India. The foreign bidder can provide line of credit from a foreign bank also.
+
+v)	Any certification or document required to be provided by Statutory Auditor / Practicing Chartered Accountant in India, must contain UDIN thereon and the particulars of certifications must be same as mentioned on document/certification and submitted to ICAI on its website which can be verified online on http://udin.icai.org/search-udin .
+
+Wherever the consortium bids are allowed and the bid is from a Consortium, the bidder is required to provide Memorandum of Understanding (MOU) executed by the consortium partners in the un-priced bid. The MOU should indicate the scope of work to be performed by the respective consortium members expressed as percentage of bid value. Each consortium partner should themselves individually meet the financial criteria parameters namely turnover and working capital in proportion to the percentage of work to be performed by them subject to minimum of 50% of the required amount shown against criteria of Turnover and Working Capital for the leader of the consortium and 20% for other members of the consortium. The Net Worth has to be individually met by all consortium members as prescribed above. Support from parent/supporting company is not allowed to meet the financial criteria
+
+Bidder (all Consortium partners) has to submit certificates form Statutory Auditor or Practicing Chartered Accountant as per guidelines at para AA at Note above.
+
+A bidder (other than consortium and Incorporated Joint Venture) which is not able to meet the financial criteria  by itself, can also submit its bid on the basis of financial capability of a Supporting Company provided each of the following conditions are fulfilled:
+
+The bidder is supported by a supporting company which holds more than fifty percent of the paid up equity share capital of the bidder either directly or through intermediate subsidiaries.
+
+The supporting company by itself and not through any other arrangement satisfies the financial criteria of the BEC.
+
+Supporting Company shall furnish additional PBG equivalent to 50% of the amount of PBG submitted by bidder as per the format provided at Appendix B-19 of Part-III Appendices of tender document.
+
+In cases where foreign based supporting company does not have Permanent Establishment in India, the bidding company can furnish Performance Bank Guarantee for an amount which is sum of PBG amount to be submitted by the bidder and additional PBG amount required to be submitted by the supporting company subject to the condition that supporting company holds more than 50% paid up equity share capital of the bidder either directly or through intermediate subsidiaries.
+
+In such case, the bidding company shall furnish an undertaking that their foreign based supporting company is not having any Permanent Establishment in India in terms of Income Tax Act of India.
+
+4.  In such cases, all applicable financial parameters viz. Turnover, Net-worth, Working Capital of the supporting company only will be considered for evaluation and the financial capability of the bidding entity will not be considered for evaluation.
+
+Following documents to be submitted by the bidder, along with its techno commercial bid, in case it is taking financial support from a supporting company: 
+
+a)	A certificate from Statutory Auditor or Practicing Chartered Accountant as per guidelines at para AA at Note above towards financial parameters.
+
+b)	A Corporate Guarantee from the supporting company in the prescribed format at Appendix B-20 of Part-III Appendices of tender document.
+
+c)	A certificate from the Statutory Auditor or Company Secretary or one of the Directors of the bidding company to establish the relationship and equity percentage holding between bidder and the supporting company. 
+
+d)	Authorisation letter from one of the Directors of Supporting Company authorising the signatories to execute the corporate guarantee, (duly certified by the Company Secretary of the Supporting Company).
+
+e)	Undertaking shall be given by Supporting Company to submit additional PBG equivalent to 50% of the amount of PBG submitted by bidder as per the format provided at Appendix B-19 of Part-III Appendices of tender document.
+
+Note: 
+1)	 In case Supporting company fails to submit Bank Guarantee as above, EMD/SD submitted by the bidder shall be forfeited.
+
+2)	Undertaking from the supporting company to the effect that in addition to invoking the PBG submitted by the contractor, the PBG provided by supporting company shall be invoked by ONGC due to non-performance of the contractor.
+
+The above certificates/undertakings should be of a date after NIT date.
+
+DD)	An incorporated JV bidder which is not able to meet the financial criteria by itself, can also submit its bid on the basis of financial capability of JV Partners, provided each of the following conditions are fulfilled:
+
+1.	JV Partner which holds more than 50% of the paid-up equity share capital of the Incorporated JV satisfies the financial criteria of the BEC, by itself and not through any other arrangement.
+
+2.	JV Partner which holds more than 50% of the paid up equity share capital of the Incorporated JV shall furnish additional PBG equivalent to 50% of the amount of PBG submitted by Incorporated JV company bidder as per the format provided at Appendix B-21 of Part-III Appendices of tender document. 
+
+In cases where foreign based JV Partner does not have Permanent Establishment in India, the Incorporated JV bidding company can furnish Performance Bank Guarantee for an amount which is sum of PBG amount to be submitted by the bidder and additional PBG amount required to be submitted by JV partner.
+
+In such case, Incorporated JV bidding company shall furnish an undertaking that their foreign based JV Partners is not having any Permanent Establishment in India in terms of Income Tax Act of India.
+
+3.	In such cases, all applicable financial parameters viz. Turnover, Net-worth, Working Capital of the JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV only will be considered for evaluation. The financial capability of the bidding entity or any other JV partners will not be considered for evaluation.
+
+4.	Following documents to be submitted by the Incorporated JV company bidder, along with its techno-commercial bid, in case it is taking financial support from a JV Partners holding more than 50% of the paid up equity share capital of the Incorporated JV:
+
+a)	A certificate form Statutory Auditor or Practicing Chartered Accountant as per guidelines at para AA at Note above towards financial parameters.
+
+b)	A Corporate Guarantee from JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV in the prescribed format at Appendix B-22 of Part-III Appendices of tender document.
+
+c)	Authorisation letter from one of the Directors of JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV authorising the signatories to execute the corporate guarantee, duly certified by the Company Secretary of the JV Partners. In case JV partner is a proprietorship firm, then proprietor shall provide guarantee as per format given at Appendix B-22 of Part-III Appendices of tender document.
+
+d)	Undertaking shall be given by the JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV to submit additional PBG, the sum of which should be equivalent to 50% of the amount of PBG submitted by Incorporated JV Company bidder. The additional PBG should be as per the format provided at Appendix B-21 of Part-III Appendices of tender document.
+
+Note: 
+1.	In case JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV fails to submit Bank Guarantee as above, EMD/SD submitted by the Incorporated JV Company bidder shall be forfeited.
+
+2.	Undertaking from the JV Partner holding more than 50% of the paid up equity share capital of the Incorporated JV to the effect that in addition to invoking the PBG submitted by the contractor, the PBG provided by them shall be invoked by ONGC due to non-performance of the contractor.
+
+  The above certificates/undertakings should be of a date after NIT date.
+
+EE)	Relaxation to Startups (Micro and Small Enterprises or otherwise)/Micro and Small Enterprises is not applicable in this tender.
+9.0)	Indian agent is not permitted to represent more than one foreign bidder (supplier / manufacturer / contractor) in a particular tender. In case an Indian agent represents more than one foreign bidder (supplier / manufacturer / contractor) in a particular tender, then offers of such foreign bidders (suppliers / manufacturers / contractors) shall be rejected in that tender.
+Section A-2) Technical BEC – Attached separately.
+SECTION - B: CRITERIA FOR LOADING OF THE BIDS - Deleted
+SECTION – C: CRITERIA FOR PRICE EVALUATION OF BIDS
+C-1) 	 Foreign Exchange Rates:
+While evaluating the bids, the closing currency exchange rate as applicable on the day prior to the price bid opening as per “Daily” Closing exchange rate published on Thomson Reuters internet site https://in.reuters.com/markets/currencies, up to three places of decimal, will be taken into account for conversion of foreign currency into Indian Rupees. The exchange rates presently appearing on the right-hand corner of the exchange rate chart of the said internet site shall be considered as closing rate for the day
+Where the time lag between opening of price bid and final decision exceeds three months, the currency exchange rate as above on the day prior to date of final decision will be adopted for conversion of foreign currency into Indian Rupees.
+C-2.1)	Evaluation of bids: 
+1.	ONGC will open the price bids of only those bidders whose techno-commercially unpriced bids are acceptable. 
+
+2. Total lump sum amount for the entire Scope of Work as per Bidding Documents including addendum(s) (I.E. Total price for evaluation of bids of Appendix A-3 (Proforma for Price Schedule), shall be taken as a basis for the purpose of price evaluation. 
+The bidder who emerges L-1 based on the above evaluation will be considered for award of work subject to (i) bidder not being ineligible for award of contract, (ii) bid being compliant with the BEC requirements and (iii)  the acceptability of prices. However, Awarded price shall be as per total lump sum price (I.D) of Appendix A-3 of bid documents.
+C-2.2)  (i) Bidders are required to ascertain themselves, the prevailing rates of GST on the scheduled date of submission of Techno-commercial Bids and ONGC would not undertake any responsibility whatsoever on such rate as ascertained by the bidders.
+(ii) Accordingly, bidders (excluding the Service providers covered under clause C-2.2.1 below) should quote the prices, clearly indicating the rate of GST, description of service and the Service Accounting Code (i.e. HSN/SAC) as per GST Law as ascertained by the bidder.
+Total price inclusive of GST as quoted by the bidder shall be considered for evaluation.
+
+In case the GST is not quoted explicitly in the offer, the offer will be considered as inclusive of GST and also the provisions of change in law will not apply.
+v)	In the contracts involving multiple services or the services involving usage of certain goods or materials (which are consumables in nature forming part of the output service), the Bidder should provide the break-up for cost of goods and cost of various services. However, the bidder shall quote GST for the output services.
+vi)	GST and Customs Duties if any, on input services/ capital goods/inputs required to meet the scope of work will be borne by the bidder within their quoted prices. The bidder must avail eligible input tax credit of GST and Customs Duties paid on input services /capital goods/ Inputs and benefit of input tax credit should be passed on to ONGC by way of quoting rate(s) net of input tax credit i.e. value of goods/service adjusted by input tax credit available to the bidder.
+vii)	In case, the quoted information related to various taxes and duties subsequently proves wrong, incorrect or misleading:-
+a)	Payment towards GST shall be restricted to the GST amount as charged on the ‘Tax-Invoice’ or the quoted GST rate, whichever is lower unless the same is due to applicability of change in law clause. ONGC shall have no liability to reimburse the difference in the duty/tax, if the finally assessed amount is on the higher side.
+b)	ONGC will have the right to recover the difference in case the rate of duty/tax finally assessed is on the lower side.
+C-2.2.1) For Services provided to ONGC in taxable Territory of India where, as per relevant provisions of tender document, the liability to pay 100% GST is on ONGC, the bidder should not include the GST in his quoted price. However, the GST as applicable will be loaded on the quoted price for the purpose of evaluation.
+C-2.3) If there is any change under GST Law in the quoted rate of GST after the date of bid closing but prior to award of the contract    due to which there is any change in the original ranking of bidders, then the   originally evaluated L-1 bidder would be considered for award of contract but subject to matching his prices with the bidder who has emerged lowest as a result of such change in rate of GST under the GST Law. In case originally evaluated L-1 bidder fails to match the price (of the bidder who emerges L-1 due to change in GST rate) then the award of contract will go to the bidder who subsequently emerges L-1 due to such change in rate of GST
+C-3)   	Price Preference/Purchase Preference 
+a.  	MSE Purchase Preference - Deleted
+C-3.2)	Bidders to comply Revised 'Public Procurement {Preference to Make in India) (PPP-MII), Order 2017" dated 19.07.2024 issued by Department for Promotion of Industry and Internal Trade, Government of India (as amended from time to time) applicable in this tender as per Clause No. 23.6.2(b) of Instructions to Bidders (read with MoPNG O.M. No. FP20013/2/2017-FP-PNG-Part (4) (E-41432) dated 26.04.2022 & 26.03.2024, 20013/2/2017-FP-PNG Part (I) (E-36682) dated 11.07.2023 and FP-20013/24/2017-FP-PNG (E-17013) dated 21.08.2024 (as amended).
+C-3.3)	Deleted
+C-3.4)	In some cases, there may be a tie at the lowest bid (L-l) position between two or more bidders. It must be first determined whether it is a case of Cartel formation or anti- competitive practices. If this is not a case of cartel formation, the following sequence of preference shall be adopted while considering the award of the contract: 
+For Tender issued through NIC Portal/ manual basis: 
+In case one of the L1 bidders is MSE owned by SC/ST or a Women Entrepreneur, then an order shall be placed on such bidder. 
+If one of the L1 bidders is MSE, then an order shall be placed on such bidders
+Otherwise, the order shall be placed on the L1 bidder having a higher turnover in the previous financial year. In case there is a tie at the lowest bid (L-1) position between only startup bidders and none of them has past turnover, the order will be placed on the startup that was registered earlier with the Department of Industrial Promotion and Policy.
+C-4)	Discount
+           Bidders are advised not to indicate any separate discount. Discount, if any should be merged with the quoted prices. Discount of any type indicated separately will not be taken into account for evaluation purpose.
+           However, in the event such offer without considering discount is found to be lowest, Company shall avail such discount at the time of award of Contract.
+SECTION-D: GENERAL
+D-1: 	The BEC over-rides all other similar clauses operating anywhere in the Bid Documents.
+D-2:	The bidder/contractor is prohibited to offer any service / benefit of any manner to any employee of ONGC and that the contractor may suffer summary termination of contract / disqualification in case of violation.
+D-3:	On-site inspection will be carried out by ONGC’s officers/ representative/ Third Parties at the discretion of the ONGC.
+D-4:	Any other point, which arises at the time of evaluation, shall be decided by the Company under intimation to the bidders.
+D-5:    	In case of any contradiction between the clauses appearing in this tender document and existing guidelines, notifications and amendments issued by the government regarding GST, then guidelines, notifications and amendments issued by the government of India on GST shall supersede all such clauses.
+

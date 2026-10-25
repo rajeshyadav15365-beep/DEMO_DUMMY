@@ -1,0 +1,1831 @@
+
+=== PDF PAGE 1 ===
+          MTO for B774: Replacement / Refurbishment of Bridges
+                       New /                     Strenthening of  New Landing /    Strenthening of     Demolition                                GI       BRIDGE /                                                                                                 HANDRAIL,  GRATING,Sr. No              Location   Replace /  New Bridge, MT  existing bridge,   Strenthening of   Existing landing /  including hadrail,                       SHEETING,      PLATFORM                                                                m      m2                             Strenthening               MT        Existing Deck, MT      Deck, MT         grating, MT                     m2
+  1   ICW-ICG UD   Upper   Strenthening       0             19              0                30                25            110         58         273
+  2   ICW-ICG LD   Lower     New          57             0              65                0                 1            118         88          0
+  3   ICG-ICP UD   Upper   Strenthening       0             86              0                30                25            93         49         419
+  4   ICG-ICP LD    Lower     New          115            0              45                0                 1            176        132         0
+  5   BHS-SLQ     Lower   Replacement      195            0              87                0                210            88         82         332
+  6   SLQ-WIS      Lower   Strenthening       0             61              0                30                15            98         51          0
+  7  NQO-NQD             Strenthening       0             63              0                30                25            93         58         250
+  8   WIN-NC               Strenthening       0             6              0                40                10            45         29          0
+  9   SCA-SC1               Strenthening       0             35              0                28                15            88         55          0
+ 10   SCA-SCF               Strenthening       0             91              0                28                30            257        116         0
+                       TOTAL            367           361            197             217             357          1168       719       1274
+
+=== PDF PAGE 2 ===
+                                                                                                                                                 izLrqr  vkjs[k  ,oa  blesa  fufgr  fMt+kbu  bathfu;LkZ  bafM;k  fyfeVsM dh  LkaifRr  gSA   ;s  ek=  m/kkj  fn, x,    gSa  vkSj  m/kkjdrkZ   us ;g  Li"V  Lke>kSrk  fd;k   gS fd u   rks   mUgsa  iqu%  eqfnzr  fd;kk  tk,xk] u udy dh  tk,xh]
+                                                                                                   u  m/kkj  fn,  tk,axs] u  iznf'kZr fd,  tk,axs  vkSj u  gh  Lkhfer  vkSj  futh  iz;ksx  ds vykok budk  dksbZ vU;  iz;ksx  gksxk  vkSj ;g  iz;ksx  m/kkj   nsus  okys  }kjk  m/kkjdrkZ  dks  fyf[kr :i    esa  nh  xbZ  Lkgefr   Lks  gksxk  A
+
+                                                                                       The drawing, design and details given on this format are the property of ENGINEERS INDIA LIMITED. They are merely loaned on the borrower's express agreement that
+                                                                                                          they will not be reproduced, copied, exhibited or used, except in the limited way permitted by a written consent given by the lender to the borrower for the intended use.
+
+                 P               O                N              M                     L                  K                        J                                            I                 H               G                   F                  E                D                C       B774-101-83-43-0002B                  A
+
+
+
+
+
+  1                                                                                                                                                                                                           1
+
+
+
+
+
+  2                                                                                                                                                                                                           2
+
+
+
+
+
+  3                                                                                                                                                                                                           3
+
+
+
+
+
+  4                                                                                                                                                                                                           4
+
+
+
+
+
+  5                                                                                                                                                                                                           5
+
+
+
+
+
+  6                                                                                                                                                                                                           6
+
+
+
+
+
+  7                                                                                                                                                                                                           7
+
+
+
+
+
+  8                                                                                                                                                                                                           8
+
+
+
+
+
+  9                                                                                                                                                                                                           9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                                                                      10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                                                                      11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                                                                      12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                                                                      13
+
+
+
+
+                                                                                                                                              REV.
+                1:100   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    REF.                                                                                                                       DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NOTES
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            DWG.
+                                                                                                                                                                                                                                                                                                                                                                                                                            14    14                                OIL                                                                                                                                                                                                                      :-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NO.             B774  JOB                              vWk;y               NO.                         AND
+                         ,.M
+                                                                                      NATURAL                                                                                       REVISIONS          101   UNIT               STRENGTHENING     IN                                                  uspqjy          OF     MH        GAS
+    15                                                                                                                                                                                                                                                                                                                                                                                                                      15
+       83                                                        (A                         DIVN.   ICW             ASSET          xSLk                                                                                                                                             Govt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                REFERENCE       43                                                                                                                                                                                                 REFURBISHMENT/REPLACEMENT                  of
+                         DEPT.      UPPER        OF                                            India                                                                                                                                        CORPORATION                   BY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              DRAWING3-1641-0501                                                                                         dkjiksjs'ku                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               TITLE                                                                                                                                                                                                                                                                                                                                                  Undertaking)                                                                                                                       CHKD           0002  DWG.     DECK                            BRIDGESREV.2    16        NO.                                                           LIMITED                                                                                                                                                                                                                                                                                                                                                                          16                                                                                                                       APPD                                                           fyfeVsMA1-841x594   A  REV.                                                                                                                                                                       PEM/PC
+
+                P                O                N              M                     L                  K                        J                                            I                 H               G                   F                  E                D                C                  B                  A
+
+=== PDF PAGE 3 ===
+                                                                                                                                                 izLrqr  vkjs[k  ,oa  blesa  fufgr  fMt+kbu  bathfu;LkZ  bafM;k  fyfeVsM dh  LkaifRr  gSA   ;s  ek=  m/kkj  fn, x,    gSa  vkSj  m/kkjdrkZ   us ;g  Li"V  Lke>kSrk  fd;k   gS fd u   rks   mUgsa  iqu%  eqfnzr  fd;kk  tk,xk] u udy dh  tk,xh]
+                                                                                                   u  m/kkj  fn,  tk,axs] u  iznf'kZr fd,  tk,axs  vkSj u  gh  Lkhfer  vkSj  futh  iz;ksx  ds vykok budk  dksbZ vU;  iz;ksx  gksxk  vkSj ;g  iz;ksx  m/kkj   nsus  okys  }kjk  m/kkjdrkZ  dks  fyf[kr :i    esa  nh  xbZ  Lkgefr   Lks  gksxk  A
+
+                                                                                       The drawing, design and details given on this format are the property of ENGINEERS INDIA LIMITED. They are merely loaned on the borrower's express agreement that
+                                                                                                          they will not be reproduced, copied, exhibited or used, except in the limited way permitted by a written consent given by the lender to the borrower for the intended use.
+
+                 P               O                N              M                     L                  K                        J                                            I                 H               G                   F                  E                D                C       B774-101-83-43-0003B                  A
+
+
+
+
+
+  1                                                                                                                                                                                                           1
+
+
+
+
+
+  2                                                                                                                                                                                                           2
+
+
+
+
+
+  3                                                                                                                                                                                                           3
+
+
+
+
+
+  4                                                                                                                                                                                                           4
+
+
+
+
+
+  5                                                                                                                                                                                                           5
+
+
+
+
+
+  6                                                                                                                                                                                                           6
+
+
+
+
+
+  7                                                                                                                                                                                                           7
+
+
+
+
+
+  8                                                                                                                                                                                                           8
+
+
+
+
+
+  9                                                                                                                                                                                                           9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                                                                      10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                                                                      11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                                                                      12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                                                                      13
+
+
+
+
+                                                                                                                                               REV.
+                1:100   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    REF.                                                                                                                       DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NOTES
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            DWG.
+                                                                                                                                                                                                                                                                                                                                                                                                                            14    14                                OIL                                                                                                                                                                                                                     :-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NO.             B774  JOB                              vWk;y               NO.                         AND
+                         ,.M
+                                                                                      NATURAL                                                                                       REVISIONS          101   UNIT               STRENGTHENING     IN                                                  uspqjy          OF     MH        GAS
+    15                                                                                                                                                                                                                                                                                                                                                                                                                      15
+       83                                                        (A                         DIVN.   ICW             ASSET          xSLk                                                                                                                                             Govt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                REFERENCE       43                                                                                                                                                                                                 REFURBISHMENT/REPLACEMENT                  of
+                         DEPT.      UPPER        OF                                            India                                                                                                                                        CORPORATION                   BY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              DRAWING3-1641-0501                                                                                         dkjiksjs'ku                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               TITLE                                                                                                                                                                                                                                                                                                                                                  Undertaking)                                                                                                                       CHKD           0003  DWG.     DECK                            BRIDGESREV.2    16        NO.                                                           LIMITED                                                                                                                                                                                                                                                                                                                                                                          16                                                                                                                       APPD                                                           fyfeVsMA1-841x594   A  REV.                                                                                                                                                                       PEM/PC
+
+                P                O                N              M                     L                  K                        J                                            I                 H               G                   F                  E                D                C                  B                  A
+
+=== PDF PAGE 4 ===
+                                                                                                                                                             B774-101-83-43-0004
+
+
+
+
+
+  1                                                                                                                                                                                      1
+
+
+
+
+
+  2                                                                                                                                                                                      2
+
+
+
+
+
+  3                                                                                                                                                                                      3
+
+
+
+
+
+  4                                                                                                                                                                                      4
+
+
+
+
+
+  5                                                                                                                                                                                      5
+
+
+
+
+
+  6                                                                                                                                                                                      6
+
+
+
+
+
+  7                                                                                                                                                                                      7
+
+
+
+
+
+  8                                                                                                                                                                                      8
+
+
+
+
+
+  9                                                                                                                                                                                      9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                           10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                           11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                           12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                           13
+
+
+               1:100   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     REF.                                                                                                           DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                          NOTES
+                                                                                                                                                                                                                               :-                                                 DWG.
+    14                                                                                                                                                                                                                                                                                                                                                                                 14
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        NO.            B774 JOB                        vWk;y
+             NO.
+                     ,.M
+         101  UNIT                                                                                                                                                                                                REVISIONS                                          uspqjy
+
+    15                                                                                                                                                                                                                                                                                                                                                                           15
+      83                      DIVN.                   xSLk  (A                                                                                                                            Govt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  REFERENCE
+                                                  of
+      43
+                                                                                                                            India                                                      BY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 DRAWING                      DEPT.                                                     dkjiksjs'ku3-1641-0501                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              TITLE          0004 DWG.                                                                                                                                                                                                                              Undertaking)                                                                                                           CHKDREV.2    16       NO.                                                                                                                                                                                                                                                                                                                                                                                 16                                                                                                           APPD                                                 fyfeVsM
+
+   AA1-841x594              REV.
+
+=== PDF PAGE 5 ===
+                                                                                                                                                             B774-102-83-43-0004
+
+
+
+
+
+  1                                                                                                                                                                                      1
+
+
+
+
+
+  2                                                                                                                                                                                      2
+
+
+
+
+
+  3                                                                                                                                                                                      3
+
+
+
+
+
+  4                                                                                                                                                                                      4
+
+
+
+
+
+  5                                                                                                                                                                                      5
+
+
+
+
+
+  6                                                                                                                                                                                      6
+
+
+
+
+
+  7                                                                                                                                                                                      7
+
+
+
+
+
+  8                                                                                                                                                                                      8
+
+
+
+
+
+  9                                                                                                                                                                                      9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                           10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                           11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                           12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                           13
+
+
+               1:100   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     REF.                                                                                                           DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                          NOTES
+                                                                                                                                                                                                                               :-                                                 DWG.
+    14                                                                                                                                                                                                                                                                                                                                                                                 14
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        NO.            B774 JOB                        vWk;y
+             NO.
+                     ,.M
+         102  UNIT                                                                                                                                                                                                REVISIONS                                          uspqjy
+
+    15                                                                                                                                                                                                                                                                                                                                                                           15
+      83                      DIVN.                   xSLk  (A
+                                                                                                                            Govt.
+      43                      DEPT.                                     ofIndia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  REFERENCE
+
+                                                      BY3-1641-0501                                                                         dkjiksjs'ku          0004 DWG.                                                                                                                                                                                                                              Undertaking)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         DRAWING                                                                                                           CHKDREV.2    16       NO.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              TITLE  16                                                                                                           APPD                                                 fyfeVsM
+
+   AA1-841x594              REV.
+
+=== PDF PAGE 6 ===
+                                                                                                                                                             B774-102-83-43-0002
+
+
+
+
+
+  1                                                                                                                                                                                      1
+
+
+
+
+
+  2                                                                                                                                                                                      2
+
+
+
+
+
+  3                                                                                                                                                                                      3
+
+
+
+
+
+  4                                                                                                                                                                                      4
+
+
+
+
+
+  5                                                                                                                                                                                      5
+
+
+
+
+
+  6                                                                                                                                                                                      6
+
+
+
+
+
+  7                                                                                                                                                                                      7
+
+
+
+
+
+  8                                                                                                                                                                                      8
+
+
+
+
+
+  9                                                                                                                                                                                      9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                           10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                           11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                           12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                           13
+
+
+               1:100   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     REF.                                                                                                           DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                          NOTES
+                                                                                                                                                                                                                               :-                                                 DWG.
+    14                                                                                                                                                                                                                                                                                                                                                                                 14
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        NO.            B774 JOB                        vWk;y
+             NO.
+                     ,.M
+         102  UNIT                                                                                                                                                                                                REVISIONS                                          uspqjy
+
+    15                                                                                                                                                                                                                                                                                                                                                                           15
+      83                      DIVN.                   xSLk  (A
+                                                                                                                            Govt.
+      43                      DEPT.                                     ofIndia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  REFERENCE
+
+                                                      BY3-1641-0501                                                                         dkjiksjs'ku          0002 DWG.                                                                                                                                                                                                                              Undertaking)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         DRAWING                                                                                                           CHKDREV.2    16       NO.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              TITLE  16                                                                                                           APPD                                                 fyfeVsM
+
+   AA1-841x594              REV.
+
+=== PDF PAGE 7 ===
+                                                                                                                                                             B774-102-83-43-0003
+
+
+
+
+
+  1                                                                                                                                                                                      1
+
+
+
+
+
+  2                                                                                                                                                                                      2
+
+
+
+
+
+  3                                                                                                                                                                                      3
+
+
+
+
+
+  4                                                                                                                                                                                      4
+
+
+
+
+
+  5                                                                                                                                                                                      5
+
+
+
+
+
+  6                                                                                                                                                                                      6
+
+
+
+
+
+  7                                                                                                                                                                                      7
+
+
+
+
+
+  8                                                                                                                                                                                      8
+
+
+
+
+
+  9                                                                                                                                                                                      9
+
+
+
+
+
+    10                                                                                                                                                                                                                                                                                                                                                                           10
+
+
+
+
+
+    11                                                                                                                                                                                                                                                                                                                                                                           11
+
+
+
+
+
+    12                                                                                                                                                                                                                                                                                                                                                                           12
+
+
+
+
+
+    13                                                                                                                                                                                                                                                                                                                                                                           13
+
+
+               1:125   SCALE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     REF.                                                                                                           DATE                                                                                                                                                                                                                                                                                                                                                                                                                                                          NOTES
+                                                                                                                                                                                                                               :-                                                 DWG.
+    14                                                                                                                                                                                                                                                                                                                                                                                 14
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        NO.            B774 JOB                        vWk;y
+             NO.
+                     ,.M
+         102  UNIT                                                                                                                                                                                                REVISIONS                                          uspqjy
+
+    15                                                                                                                                                                                                                                                                                                                                                                           15
+      83                      DIVN.                   xSLk  (A
+                                                                                                                            Govt.
+      43                      DEPT.                                     ofIndia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  REFERENCE
+
+                                                      BY3-1641-0501                                                                         dkjiksjs'ku          0003 DWG.                                                                                                                                                                                                                              Undertaking)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         DRAWING                                                                                                           CHKDREV.2    16       NO.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              TITLE  16                                                                                                           APPD                                                 fyfeVsM
+
+   AA1-841x594              REV.
+
+=== PDF PAGE 8 ===
+                    Annexure-1
+
+
+
+             DRAWINGS (attached)
+
+a) Drawing no. 7111-OD-STR-5001-Standard Details-Grating
+
+b) Drawing no. 7111-OD-STR-5002-Standard Details-Handrails
+
+c) Drawing no. 7111-OD-STR-5003-Standard Details-Stairways
+
+d) Drawing no. 7111-OD-STR-5004-Jumping Rope Arrangement
+
+e) Drawing no. 7111-OD-STR-5005-D-Shackle
+
+f) Drawing no. 7111-OD-STR-5006-Tie-Up Chain
+
+=== PDF PAGE 9 ===
+                                                                              2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                                BRRP
+                                                                                                                                                                                                            Tender-2
+
+=== PDF PAGE 10 ===
+                                                                               2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                      BRRP
+                                                                                                                                                                                 Tender 2
+
+=== PDF PAGE 11 ===
+                                                                               2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                      BRRP
+
+                                                                                                                                                                                    Tender 2
+
+=== PDF PAGE 12 ===
+                                                                               2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                      BRRP
+
+                                                                                                                                                                                    Tender 2
+
+=== PDF PAGE 13 ===
+                                                                               2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                      BRRP
+
+                                                                                                                                                                                   Tender 2
+
+=== PDF PAGE 14 ===
+                                                                               2                                                 3                                                 4                                                 5                                                 6                                                 7
+
+
+
+
+
+A
+
+
+
+
+
+B
+
+
+
+
+
+C
+
+
+
+
+
+D
+
+
+
+
+
+E
+
+
+
+
+
+                                                                                                                                      BRRP
+
+                                                                                                                                                                                     Tender 2
+
+=== PDF PAGE 15 ===
+          Annexure-2
+
+
+
+
+
+INSPECTION REQUIREMENT TABLE
+
+=== PDF PAGE 16 ===
+                                    LIST OF           Date          18.11.2016
+       Offshore Design Section
+                                IRTs ( INSPECTION       Discipline   STRUCTURE        Engineering Services
+                       REQUIREMENT TABLE) &          ISO – 9001:2008                                    Revision         1
+                           APPROVAL                                                           Page:          1 OF 1
+
+Sr.               Item Description                  IRT No.          Inspection   Rev.   Rev. Date
+
+no.                                                                Category    No.
+
+ 1    Steel material plate                    ODS/STR/IRT/01          Bulk      01    18.11.2016
+
+ 2    Steel material pipe                    ODS/STR/IRT/02          Bulk      01    18.11.2016
+
+ 3    Steel material - rolled section            ODS/STR/IRT/03          Bulk      01    18.11.2016
+
+ 4   Aluminum Heli deck                   ODS/STR/IRT/04       C       01    18.11.2016
+
+ 5    Electro forged grating & treads from       ODS/STR/IRT/05          Bulk      01    18.11.2016
+
+       cellar deck & above (CS)
+
+ 6     Electro forged grating & treads below     ODS/STR/IRT/06          Bulk      01    18.11.2016
+
+       cellar deck (SS)
+
+ 7   CS Handrail from cellar Deck & above     ODS/STR/IRT/07          Bulk      01    18.11.2016
+
+ 8    Stainless Steel Handrail below cellar      ODS/STR/IRT/08          Bulk      01    18.11.2016
+
+     Deck
+
+10   Rubber product - 1.Shock cell & Shear    ODS/STR/IRT/09        B       01    18.11.2016
+
+      fender, 2. Rub-strips & 3. Rotating
+
+     bumper ring
+
+ 9   Rubber product - 1. Grout seal, 2.        ODS/STR/IRT/09A      C       01    18.11.2016
+
+     Diaphragm closure
+
+11    Architectural material (spec. 6011) - 14    ODS/STR/IRT/10       C       01    18.11.2016
+
+     numbers
+
+12   Marine growth preventer (MGP)          ODS/STR/IRT/11          Bulk      01    18.11.2016
+
+13   Marine Paints (Protective coating) for     ODS/STR/IRT/12          Bulk      01    18.11.2016
+
+      offshore structure
+
+14   Maintenance Marine Paint (Protective     ODS/STR/IRT/12A        Bulk      01    18.11.2016
+
+      Coating)
+
+
+
+
+
+    Prepared / Revised By            Reviewed By              Approved By
+
+
+
+      G.Jana/M.R. Shete                M.R. Shete                      R.K..Jain
+
+
+
+
+
+ FORMAT No.             Ref. PROCEDURE No.           ISSUE No.                 REV. No.                    REV. DATE:
+ODS/SOF/047A             ODS/SOP/023                   02                        00                           08.03.2016
+
+=== PDF PAGE 17 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/01
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : STEEL MATERIAL - PLATE                                      INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                                   6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -              -      H       X     Inspection & Test Plan.
+                                                                        Mill Test Certificate & Steel Material Manufacturing Process shall
+  2    R            -              -      R       X     comply to Clause No. 1.1 & all relevant sub Clauses under Clause
+                                                          no. 1.1 of ONGC Spec 6001F.
+                                                           Inspection & Testing- For Witness/ Random Witness
+               RW one                        Plate mateial identification with respect to Mill test Certificate,
+                       sample                      marking on plate in compliance to ONGC Spec 6001F. Clause No.  3        -             -          W             -
+                            per                          1.1 & all relevant sub Clauses under Clause no. 1.1.
+                         Heat/cast
+                                                     IRN For issue by CA/TPI/Contractor IA/Vender QA
+  4        -             -            Is      H       X     Issue & Documentation
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Plate mateial identification at Fabrication Yard with respect to Mill
+  5   W    W             -      H       X      test Certificate, marking on plate in compliance to ONGC Spec
+                                                    6001F. Clause No. 1.1 & all relevant sub Clauses under Clause no.
+                                                                 1.1.
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 18 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/02
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : STEEL MATERIAL - PIPE                                        INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                                   6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -              -      H       X     Inspection & Test Plan.
+                                            PQR, WPS,NDT Reports, Inspection reports, Mill Test Certificate,
+                                                           Steel Material Manufacturing Process shall comply to Clause No.
+  2    R            -              -      R       X                                                          1.1 & all relevant sub Clauses under Clause no. 1.1 & sub clauses
+                                                                 of ONGC Spec 6001F.
+
+                                                   Pipe Rolling (as per API 2B or API 5L) in API Lisenced Mill &
+                                                      Inspection & Testing- For Witness/ Random Witness
+                   RW one                         Inspection of Steel Plate Material at Pipe rolling Mill with respect to
+  3        -             -       sample per   W      H      Mill test Certificate and acceptance of material
+                               Heat/Cast
+  4        -             -              -     W      H     Rolling of Plate for manufacturing single seam pipe and welding
+                                                    Welding shall be carried out as per ONGC Spec 2009 with
+  5        -             -              -     W      H
+                                                           Inspection duly witness by Mill appointed CA / TPI.
+
+                                                      Dimention control Inspection as per ONGC Spec 6001F &
+  6        -             -     RW    W      H
+                                                      Respective Code duly witness by Mill appointed CA / TPI.
+                                                           Inspection of Steel Pipe with respect to marking on Pipe with Rolling
+                                                                        Mill Inspection Report, Test Results and Steel Plate Material Mill
+  7        -             -              -     W      H     Test Certificate, Dimention check in compliance to ONGC Spec
+                                                    6001F. Clause No. 1.1 & all relevant sub Clauses under Clause no.
+                                                                 1.1.
+                                                     IRN For issue by CA/TPI/Contractor IA/Vender QA
+  8        -             -            Is      H       X     Issue & Documentation
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of Steel Pipe with respect to marking on Pipe with Rolling
+                                                                        Mill Inspection Report, Test Results and Steel Plate Material Mill
+  9   W    W             -      H       X
+                                                       Test Certificate, Dimention check in compliance to ONGC Spec
+                                                    6001F. Clause No. 1.1 & all relevant sub Clauses under Clause no.
+                                                                 1.1.
+ 10      Is     R              -      H       X     Issue & Documentation on the basis of IRN
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 19 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/03
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : STEEL MATERIAL - ROLLED SECTION                             INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                                   6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -              -      H       X     Inspection & Test Plan.
+                                                           Steel Material Manufacturing Process shall comply to ONGC Spec
+                                                    6001F. Clause No. 1.1 & all relevant sub Clauses under Clause no.
+  2    R            -              -      H       X      1.1. MILL TEST CERTIFICATE shall report with all required Test
+                                                                results as indicated under relevant Sub Clauses under Clause No.
+                                                                 1.1.
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Steel Rolled Section Material (Marking provided &
+                   RW one                         colour code) at Fabrication Yard with respect to Mill test Certificate,
+  3        -             -       sample per   W      H     dimension check shall be carried out as per ONGC Spec 6001F.
+                                  heat/cast                      Clause No. 1.1 & all relevant sub Clauses under Clause no. 1.1.
+
+                                                     IRN For issue by CA/TPI/Contractor IA/Vender QA
+  4        -             -            Is      H       X     Issue & Documentation
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of Steel Rolled Section Material (Marking provided &
+                                                           colour code) at Fabrication Yard with respect to Mill test Certificate,
+  5   W    W             -      H       X
+                                                     dimension check shall be carried out as per ONGC Spec 6001F.
+                                                    Clause No. 1.1 & all relevant sub Clauses under Clause no. 1.1.
+
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 20 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/04
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : Alluminium Helideck                                            INSPECTION CATEGORY : C
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -             H       X     Inspection & Test Plan.
+                                                               Structural Design Report of Aluminum Helideck,Helicopter landing
+                                                                 net, Alluminium Material MILL TEST CERTIFICATE, NDT, welding
+  2    R            -              -      H       X     Inspection reports shall be provided incompliance to ONGC Spec
+                                               6001F Clause No. 1.2.0 & all relevant sub Clauses under Clause
+                                                          no. 1.2.0 with Design certification.
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of HeliDeck along with Alluminium Material Mill Test
+                                                                    Certificate, Helicopter landing net, Design Certification and all
+  3        -             -   W at yard   W      H                                                    Welding & Dimension control Inspection Report. Refer Clause No.
+                                                             1.2.0 & Sub clauses and Approved PS.
+                                                     IRN For issue by CA/TPI/Contractor IA/Vender QA
+  4        -             -            Is      H       X     Issue & Documentation
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of HeliDeck at Fabrication Yard along with Alluminium
+  5   W    W             -      H       X     Material Mill Test Certificate, Design Certification and all Welding &
+                                                   Dimension control Inspection Report. Refer Clause No. 1.2.0 & Sub
+                                                        clauses and Approved PS.
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 21 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/05
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : ELECTRO FORGED GRATING & TREAD FROM CELLAR DECK &
+                                                                INSPECTION CATEGORY : BULK
+ABOVE (CS)
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                                   6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -     W      H       X     Inspection & Test Plan & SAMPLE approval
+                                                Sample report & Procedure confirming to Grating manufactured by
+                                                            Electro-forged weld process. Steel sections (Mill Test Certificate)  2    R            -      R      H       X
+                                                                 shall comply to ONGC clause no. 1.3.2.1 of Spec 6001F.
+
+  3    R            -      R      H       X     Test Report for Galvanization of Grating as per spec 2005.
+                                                   Coating the galvanized surface with coating system no. 5 of
+  4    R            -      R      H       X
+                                               spec 2005.
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Electro forged Grating shall be carried out as per
+  5        -             -     RW     H       X                                                    Clause no. 1.3.2.1 & sub clauses of Spec 6001F and Spec 2005.
+
+                                                         IRN For issue by CA/TPI/Contractor IA
+  6        -             -            Is      H       X     Issue & Documentation at Vendor Place (MILL)
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+  7   Rw    Rw             H       X     Inspection of Electro forged Grating shall be carried out as per
+                                                    Clause no. 1.3.2.1 & sub clauses of Spec 6001F and Spec 2005.
+  8       Is     R             H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 22 ===
+                 Offshore Design    INSPECTION                       IRT No.         ODS/STR/IRT/06
+                     Section
+               Engineering                           Services REQUIREMENT                      Rev. No.            1
+                ISO – 9001:2008      TABLE                             Discipline    STRUCTURE
+
+ITEM : ELECTRO FORGED GRATING & TREADS BELOW CELLAR DECK (SS)        INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -     W      H       X     Inspection & Test Plan & SAMPLE approval
+                                                Sample report & Procedure confirming to Grating manufactured by
+  2    R            -             H       X     Electro-forged weld process. Steel sections (Mill Test Certificate)
+                                                                 shall comply to ONGC clause no. 1.3.2.2 of Spec 6001F.
+                                                            Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Electro forged Grating shall be carried out as per
+  3        -             -     RW    W      H                                                    Clause no. 1.3.2.2 & sub clauses of Spec 6001F and Spec 2005.
+
+                                                    IRN For issue by CA/TPI/Contractor IA/Vender's QA
+  4        -             -            Is      H       X     Issue & Documentation at Vendor Place (MILL)
+                                                                              IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+  5   Rw    Rw             -      H       X     Inspection of Electro forged Grating shall be carried out as per
+                                                    Clause no. 1.3.2.2 & sub clauses of Spec 6001F and Spec 2005.
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                          ISSUE No.                      REV. No.                  REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                                   02                              00                        08.03.2016
+
+=== PDF PAGE 23 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/07
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+
+ITEM : Carbon steel Handrail from cellar Deck & above                      INSPECTION CATEGORY : BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -     W      H       X     Inspection & Test Plan & Sample approval.
+                                                               Structural Design Report of C S Material MILL TEST
+                                               CERTIFICATE, NDT, welding Inspection reports shall be provided
+  2    R            -      R      H       X     incompliance to Clause no. 1.3.3 of ONGC Spec 6001F.
+
+
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Handrail along with C S material Mill Test Certificate,
+                                                    Design Certification and all Welding & Dimension control Inspection
+  3        -             -     RW     H       X                                                         Report. Refer Clause No. 1.3.3 of Spec. 6001F and Approved PS.
+
+
+                                                         IRN For issue by CA/TPI/Contractor IA
+                                                        Issue & Documentation at Vendor Place (HANDRAIL
+  4        -             -            Is      H       X                                        MANUFACTURING PLACE)
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of Handrail at Fabrication Yard along with C S Material
+  5   Rw    Rw             -      H       X      Mill Test Certificate, Design Certification and all Welding &
+                                                   Dimension control Inspection Report. Refer Clause No. 1.3.3 of
+                                                     Spec. 6001F and Approved PS.
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 24 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/08
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : Stainless Steel Handrail below cellar Deck                          INSPECTION CATEGORY : BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -     W      H       X     Inspection & Test Plan & Sample Approval.
+                                                               Structural Design Report of Stainless Steel Handrail, Material Mill
+                                                       Test Certificate, Sample report & Procedure confirming to Grating
+  2    R            -      R      H       X                                                     manufactured by Electro-forged weld process in compliance to
+                                                    Clause no. 1.3.3 of ONGC Spec 6001F.
+
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Handrail along with Design Report, Stainless Steel
+  3        -             -     W      H       X     Material Mill Test Certificate and all Welding & Dimension control
+                                                           Inspection Report. Refer Clause No. 1.3.3 of Spec. 6001F.
+
+                                                         IRN For issue by CA/TPI/Contractor IA
+                                                        Issue & Documentation at Vendor Place (HANDRAIL
+  4        -             -            Is      H       X                                        MANUFACTURING PLACE)
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of Handrail at Fabrication Yard along with Design Report,
+  5   Rw    Rw             -      H       X     Stainless Steel Material Mill Test Certificate and all Welding &
+                                                   Dimension control Inspection Report. Refer Clause No. 1.3.3 of
+                                                     Spec. 6001F.
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 25 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/09
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+ITEM : RUBBER PRODUCT - 1.Shock Cell & Shear Fender, 2. Rub-Strips & 3.
+                                                                  INSPECTION CATEGORY : B
+Rotating Bumper Ring
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -      R      H       X     Inspection & Test Plan.
+                                                 Rubber product Manufacturing Procedures shall comply to ASTM
+                                              D2000 and ONGC Spec 6001F Clause No. 1.5.0 & all relevant sub
+  2    R            -      R      H       X
+                                                       Clauses. Tubulars for shock cell shall be as per API 2B/API 5L
+
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection of Rubber product shall comply to Clause no. 1.5.0 & sub
+  3   W         W      H       X     clauses of spec, 6001F and as per recommendation of ASTM
+                                                  D2000. Adhesion test of neoprene with tubulars of shock cell.
+                                                         IRN For issue by CA/TPI/Contractor IA
+                                                        Issue & Documentation at Vendor Place (RUBBER PRODUCT
+  4       Is            -      R      H       X                                        MANUFACTURING PLACE)
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard:
+                                                           Inspection of Rubber product shall be carried out with rubber
+  5   W    W             -      H       X     product Test Certificate compling to Clause no. 1.5.0 & sub clauses
+                                                                 of spec, 6001F and as per recommendation of ASTM D2000.
+
+
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 26 ===
+                 Offshore Design    INSPECTION                   IRT No.             ODS/STR/IRT/09A
+                      Section
+               Engineering                           Services  REQUIREMENT                  Rev. No.                1
+                ISO – 9001:2008      TABLE                        Discipline        STRUCTURE
+
+ITEM : RUBBER PRODUCT - 1. Grout Seal, 2. Diaphragm Closure                  INSPECTION CATEGORY : C
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                       3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                   5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                 for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                        General & documents- For Review/Approval /Information
+  1    A            -      R      H       X     Inspection & Test Plan.
+                                                  Rubber product Manufacturing Procedures shall comply to ASTM
+                                              D2000 and ONGC Spec 6001F Clause No. 1.5.0 & all relevant sub
+  2    R            -      R      H       X
+                                                        Clauses.
+
+                                                              Inspection & Testing- For Witness/ Random Witness
+                                                            Inspection of Rubber product shall comply to Clause no. 1.5.0 & sub
+  3         -          W      H       X     clauses of spec, 6001F and as per recommendation of ASTM D2000.
+
+                                                           IRN For issue by CA/TPI/Contractor IA
+                                                         Issue & Documentation at Vendor Place (RUBBER PRODUCT
+  4         -             -            Is      H       X                                        MANUFACTURING PLACE)
+                                                                               IMIR/GIIR at Yard
+                                                                  Verification of items as per IRN at Yard:
+                                                            Inspection of Rubber product shall be carried out with rubber product
+  5   W    W              -      H       X     Test Certificate compling to Clause no. 1.5.0 & sub clauses of spec,
+                                                6001F and as per recommendation of ASTM D2000.
+
+
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                      REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                              08.03.2016
+
+=== PDF PAGE 27 ===
+                 Offshore Design    INSPECTION                   IRT No.           ODS/STR/IRT/10
+                     Section
+                      REQUIREMENT                  Rev. No.              1               Engineering Services
+                ISO – 9001:2008      TABLE                        Discipline      STRUCTURE
+ITEM : ARCHITECTURAL MATERIAL (SPEC. 6011) - 14 Numbers as per List
+                                                                  INSPECTION CATEGORY : C
+below
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                       3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor
+ v                                                   5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                 for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                     General & documents- For Review/Approval /Information
+
+                                                            Inspection & Test Plan. Verification of sample of material in the
+  1    A    RW    W      H       X
+                                                        yard as per approved PS.
+
+                                                        Manufacturing Procedures- Architectural Material Manufacturing
+                                                                  shall comply to the Specification 6011 and Architectural Design
+  2    R            -      R      H       X                                                                   Criteria Sec. 3.10. With Certification of Fire rating of respective
+                                                               Architectural Item.
+                                                          Inspection & Testing- For Witness/ Random Witness
+                                                            Inspection of Archictural Items at shall be carried out along with
+                                                      ManufactureTest Certificate, Certificate of Fire rating (as
+  3         -             -     RW     H      H     applicable) and all Welding & Dimension control Inspection
+                                                          Report. Refer Spec 6011, Architectural Design Criteria Sec 3.10
+                                                 and Approved PS.
+                                                         IRN For issue by CA/TPI/Contractor IA
+  4         -             -            Is      H       X     Issue & Documentation at Vendor Place
+                                                                            IMIR/GIIR at Yard
+                                                                  Verification of items as per IRN & Reports
+                                                            Inspection of Archictural Items at Fabrication Yard shall be
+                                                              carried out along with ManufactureTest Certificate, Certificate of
+  5   W    W              -      H       X                                                               Fire rating (as applicable) and all Welding & Dimension control
+                                                            Inspection Report. Refer Spec 6011, Architectural Design Criteria
+                                               Sec 3.10 and Approved PS.
+                                                         Issue & Documentation on the basis of IRN  6       Is     R              -      H       X
+
+LIST OF ARCHITECTURAL MATERIAL
+Sl No         ITEM DESCRIPTION                       Sl No.          ITEM DESCRIPTION
+  1   External Fire Proofing Wall H Rated                   7     Ceramic Tiles
+  2   External Fire Proofing Wall A Rated                   8     Raised Access (False) Floor System
+  3   Internal Fire Wall A Rated & B Rated                   9    A - 60 Fire Rated Door
+  4   Pe-Fabricated Toilet System                         10    B-15 Fire Rated Door
+  5  B-15 Suspended ceiling                            11    A-60 Fire Rated Window
+  6   Vinyl Sheets Flooring                              12    A-0 Fire Rated Door
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                   REV. DATE:
+          ODS/SOF/004A                           ODS/SOP/023                                02                            00                         08.03.2016
+
+=== PDF PAGE 28 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/11
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+
+ITEM : Marine Growth Preventor                                        INSPECTION CATEGORY : BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (MILL)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+  1    A            -      R      H       X     Inspection & Test Plan.
+  2    R            -      R      H       X     Manufacturing Procedures as per ONGC Spec 6001F
+                                                           Inspection & Testing- For Witness/ Random Witness
+                                                           Inspection & testing as per recommendation of ASTM D2000 & as
+  3        -             -     W      H       X
+                                                        per FS 6001F.
+                                                         IRN For issue by CA/TPI/Contractor IA
+                                                        Issue & Documentation at Vendor Place (PRODUCT
+  4        -             -            Is      H       X                                        MANUFACTURING PLACE)
+                                                                             IMIR/GIIR at Yard
+  5   W    W             -      H       X      Verification of items as per IRN at Yard:
+  6       Is     R              -      H       X     Issue & Documentation on the basis of IRN
+
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 29 ===
+                 Offshore Design    INSPECTION                  IRT No.             ODS/STR/IRT/12
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+
+ITEM : MARINE PAINT (PROTECTIVE COATING)                            INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)
+ c              2. Inspection by ONGC / Third Party Inspection(TPI)
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (Paint Manufactorer's Inspector)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+           W at     W at
+  1    A       fabrication    fabrication    H       X     Inspection & Test Plan.Approval sample Coating panels
+                     yard         yard
+                                                           Paint application & Inspection Procedure: Contractor shall prepare
+  2    A             A       A       X     Painting / Coating application & Inspection Procudure based on
+                                               Spec 2005 and submit Company Approval.
+                                                                           Inspection & testing
+
+  3                  W             -      Inspection & testing shall be carried out based on Spec 2005
+
+
+  4                        Rw             -      Inspection of salt content test
+
+  5                        Rw             -      Inspection of wet coating thickness
+  6                        Rw             -      Inspection of final coating thickness
+  7                        Rw             -      Inspection of Coating holiday Test
+                                                    IRN For issue by CA/TPI/Contractor IA/Vender's QA
+  8        -             -              -            Is       X     Issue & Documentation at Vendor Place (MILL)
+                                                                             IMIR/GIIR at Yard
+                                                                 Verification of items as per IRN at Yard, batch no. Expiry , condtion
+  9   Rw    Rw             -      H       X      of packing , storage condition etc.
+
+                                                        Issue of IMIR/GIIR & Documentation on the basis of IRN 10      Is     R              -      H       X
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+=== PDF PAGE 30 ===
+                 Offshore Design    INSPECTION                  IRT No.            ODS/STR/IRT/12A
+                     Section
+               Engineering                           Services REQUIREMENT                  Rev. No.               1
+                ISO – 9001:2008      TABLE                        Discipline       STRUCTURE
+
+ITEM : MAINTENANCE MARINE PAINT (PROTECTIVE COATING)               INSPECTION CATEGORY :BULK
+
+ A    1. Inspection by ONGC / Certification Agency.(CA)/Third Party Inspection(TPI)
+ c
+  t                      3.Inspection by EPC / EPC's Inspection Agency (IA)
+  i  y                                    4. Inspection by Vendor/ Sub Vendor (Paint Manufactorer's Inspector)
+ v                                                  5. Certificates/compliance/Data/Information to be submitted by vendor
+  i                                                for Review/ Approval
+  t                                                    6.Stage of Inspection Involved
+                                                      General & documents- For Review/Approval /Information
+                 W at                           Inspection & Test Plan.Approval sample Coating panels including     A & W at
+  1                               offshore     H       X        offshore                                   platform                              salt test
+                                                           Paint application & Inspection Procedure: Contractor shall prepare
+  2    A             A       A       X     Painting / Coating application & Inspection Procudure based on
+                                               Spec 2005 and submit Company Approval.
+                                                                           Inspection & testing
+
+  3                  W             -      Inspection & testing shall be carried out based on Spec 2005
+
+
+  4                        Rw             -      Inspection of salt content test
+
+  5                        Rw             -      Inspection of wet coating thickness
+  6                        Rw             -      Inspection of final coating thickness
+  7                        Rw             -      Inspection of Coating holiday Test
+                                                    IRN For issue by CA/TPI/Contractor IA/Vender's QA
+  8        -             -              -            Is       X     Issue & Documentation at Vendor Place (MILL)
+                                                                           IMIR/GIIR at Offshore
+                                                                 Verification of items as per IRN at Offshore, batch no. Expiry ,
+  9   Rw                          -      H       X     condtion of packing , storage condition etc.
+
+                                                        Issue of IMIR/GIIR & Documentation on the basis of IRN 10      Is                           -      H       X
+LEGENDS & NOTES : Expalined seperatetely
+
+
+
+         FORMAT No.                               Ref. PROCEDURE No.                       ISSUE No.                     REV. No.                     REV. DATE:
+
+          ODS/SOF/004A                          ODS/SOP/023                               02                             00                            08.03.2016
+
+Note: The CA/TPI inspector shall be NACE certified coating inspector - Level-III
+
+=== PDF PAGE 31 ===
+                     Common Legends &     Date           18/11/2016
+       Offshore Design Section          Notes of             Discipline      QA
+        Engineering Services       IRTs ( INSPECTION
+         ISO – 9001:2008                                    Revision          1                       REQUIREMENT TABLE) &
+                           APPROVAL         Page           1 OF 4
+
+                    Subject: Explanation of common Legends & Notes
+
+1.0 Definition of Inspection categories A, B , C & BULK
+    1.1Inspection Category : "A":
+
+          i) At Vendor's Place:-
+         a) ONGC/CA and Contractor/Contractor’s IA shall carry out appropriate stage as well as Final
+           Inspection as per approved ITP/QAP and issue IR/IRN.
+        b) ONGC/CA  shall  either  issue  their  separate IR/IRN or  will endorse  the IR/IRN issued by
+           Contractor/Contractor’s Inspection Agency.
+
+    AND
+           ii) At Fabrication Yard/ Offshore Installation:-
+         a) Material received at Yard shall be verified by ONGC appointed TPI/CA with respect to Tag  /
+          Marking / Identification and IR/IRN etc.
+
+        b) IR/IRN shall be submitted to ONGC's TPI & CA for IMIR /GIIR clearance.
+
+    1.2Inspection Category : “B":
+
+        i) At Vendor's Place :-
+        a) ONGC / CA shall carry out Final Stage Inspection at Vendor’s place..
+
+        b) Contractor/Contractor’s IA shall carry out Appropriate Stage as well as Final Inspection as
+          per approved ITP/QAP.
+
+         c) ONGC/CA shall either issue their separate IR/IRN or will endorse the IR/IRN issued by
+          Contractor IA.
+     AND
+         ii) At Fabrication Yard/Offshore Installation :
+        a) Material received at Yard shall be verified by ONGC appointed TPI/CA with respect to Tag
+                / Marking / Identification and IR/IRN etc.
+
+        b) IR/IRN shall be submitted to ONGC's TPI & CA for IMIR /GIIR clearance.
+
+    1.3Inspection Category : “C":
+
+        i) At Vendor's Place :
+        a) Contractor/Contractor’s IA shall carry out the Final Inspection as per the approved ITP /
+       QAP and issue IR/IRN.
+     AND
+         ii) At Fabrication Yard /Offshore Installation :
+        a) Material received at yard shall be verified by ONGC appointed TPI / CA with respect to Tag
+                / Marking / Identification and IR/IRN etc. In case of Random Inspection  , it shall be done
+          as per guide lines of RW.
+        b) IR/IRN with Backup Documents shall be submitted to ONGC's TPI & CA for IMIR /GIIR
+           clearance.
+
+
+
+ FORMAT No.             Ref. PROCEDURE No.           ISSUE No.                 REV. No.                   REV. DATE:
+
+ODS/SOF/047A            ODS/SOP/023                   02                        00                          08.03.2016
+
+=== PDF PAGE 32 ===
+                     Common Legends &     Date           18/11/2016
+       Offshore Design Section          Notes of             Discipline      QA
+        Engineering Services       IRTs ( INSPECTION
+         ISO – 9001:2008                                    Revision          1                       REQUIREMENT TABLE) &
+                           APPROVAL         Page           2 OF 4
+
+
+    1.4    Inspection Category : “Bulk":
+         i) At Vendor's Place :
+        a) Contractor /Contractor IA shall carry out Inspection / review the manufacturer test certificate
+         and issue IR/IRN.
+   AND
+         ii) At Fabrication Yard/Offshore Installation :
+        a) Material received at yard shall be verified by ONGC appointed CA & TPI with respect to
+        Tag / Marking / Identification etc. In case of Random Inspection, it shall be done as per
+          guide lines of RW.
+
+        b) IR/IRN with back up documents shall be submitted to ONGC's TPI & CA for IMIR /GIIR
+           clearance.
+2.0 Legends:
+        a)   CA- Certification Agency appointed by ONGC
+
+       b)   TPI- Third Party Agency appointed by ONGC
+
+         c)    Contractor IA- Contractor's Inspection agency, appointed by the LSTK Contractor
+
+       d)   ITP / QCP/QAP - Inspection & Test Plan / Quality Control Plan/Quality Assurance Plan
+
+        e)   IRT - Inspection Requirement Table.
+
+          f)    IR/IRN - Inspection Report/ Inspection Release Note.
+
+        g)   IMIR/GIIR-Inward Material Inspection Report/Goods Inward Material Inspection.
+
+       h)     I- information.
+
+            i)   A – Approval.
+
+           j)   R – Review.
+
+        k)  Rw or RW - Random Witness Inspection
+
+            l)   W- Witness Inspection.
+
+      m)  R/W- Review & Witness Inspection.
+
+       n)   X-Submission of Supporting Documents during review at any stage.
+
+       o)    Is- Issue of documents like Inspection Release Note (IRN)/report etc.
+
+       p)  FAT - Factory Acceptance Test
+
+       q)  SAT – Site Acceptance Test
+
+
+
+
+
+ FORMAT No.             Ref. PROCEDURE No.           ISSUE No.                 REV. No.                   REV. DATE:
+
+ODS/SOF/047A            ODS/SOP/023                   02                        00                          08.03.2016
+
+=== PDF PAGE 33 ===
+                     Common Legends &     Date           18/11/2016
+       Offshore Design Section          Notes of             Discipline      QA
+        Engineering Services       IRTs ( INSPECTION
+         ISO – 9001:2008                                    Revision          1                       REQUIREMENT TABLE) &
+                           APPROVAL         Page           3 OF 4
+
+3.0 Explanation of terminology used in ITPs, viz. RANDOM WITNESS 'HOLD
+   INSPECTION', WITNESS.
+
+        i)   Rw or RW: Random WITNESS ( Inspection)
+
+         a) Sampling percentage shall be specified as minimum 10%  and shall do marking ( Metal/Rubber
+          stamping ) & serial nos. or lot no. shall be logged in IR/IRN.
+        b) Any non-conformances ( NC) or discrepancies observed during the inspection of 1st lot of 10%, then
+             2nd lot of next 20% shall be inspected, further if any NC observed then all the 100% shall be inspected.
+          c) Vendor will raise notification for the timing of Inspection / Test. In case CA doesn't visit within
+            specified time of the agreed schedule, vendor may proceed with Inspection & further work in
+           presence of Contractor /Contractor IA. Record of inspection will be submitted to CA for review.
+
+          ii)   H – Hold (Inspection):
+
+         a) Vendor shall give 5 working days (as applicable) advance notification in case of Inspection in India
+          and 10 working days in case of Inspection in abroad to Inspection agency (Contractor /Contractor IA
+          and CA) as specified in approved ITP. Vendor shall ensure readiness of Internal 'QAD / Factory'
+           Inspection reports.
+        b) Vendor shall not proceed with further operation without clearance from Contractor / Contractor IA
+             (or) waiver from the Inspection agency for whom the 'hold inspection' point is indicated  i.e.
+           Contractor / Contractor IA / Company CA as applicable. In case waiver is obtained, then IR/IRN
+             shall be issued based on review of Inspection report of that Inspection stages.
+
+          iii)  W – Witness (100% inspection)
+
+         a) Vendor shall give 5 working days (as applicable) advance notification in case of Inspection in India
+          and 10 working days in case of Inspection in foreign to Inspection agency (Contractor /Contractor
+         IA and Company CA) as specified in approved ITP. Vendor shall ensure readiness of Internal 'QAD
+                 / Factory' Inspection reports/ Release note.
+        b) In case Certifying agency does not visit within the specified time of the agreed schedule, vendor may
+           proceed with the Inspection and for further operations in presence of Contractor / Contractor IA.
+          Record of Inspection carried out by vendor and Contractor / Contractor IA shall be provided to CA
+            for review and for obtaining the Release Note.
+
+4.0 General NOTES:
+
+        a) Note-1: Contractor/Contractor IA shall carry out Inspection and/or review the Documents
+          as per approved ITP/QAP and prepare the Final Release Note.  Contractor  shall  opt for
+      ONGC empanelled Inspection agency as Contractor IA   , but will exclude the agencies
+          appointed by ONGC as their CA & TPI for that particular project.
+
+
+
+
+
+ FORMAT No.             Ref. PROCEDURE No.           ISSUE No.                 REV. No.                   REV. DATE:
+
+ODS/SOF/047A            ODS/SOP/023                   02                        00                          08.03.2016
+
+=== PDF PAGE 34 ===
+                     Common Legends &     Date           18/11/2016
+       Offshore Design Section          Notes of             Discipline      QA
+        Engineering Services       IRTs ( INSPECTION
+         ISO – 9001:2008                                    Revision          1                       REQUIREMENT TABLE) &
+                           APPROVAL         Page           4 OF 4
+
+       b) Note-2: For ASME Coded vessel Fabrication, ASME AI (Authorized Inspector) will carry
+          out Inspection as per code requirements. Contractor/Contractor IA shall carry out Inspection
+          as per ITP/QAP.
+
+         c) Note-3: Random Inspection as per guide lines of RW may be carried out by CA for
+          Inspection of Category C & Bulk items, if required as and when specified in IRT/QAP.
+
+       d) Note 4: At the time of inspection for category A, B or C, if any additional test required shall
+         be carried out as per referred standard, mentioned in FS apart from IRT.
+
+        e) Note 5: This IRT is issued to provide extensive guidelines for preparation of ITP/QAP.
+
+          f) Note 6: This IRT is for the inspection by the above mentioned inspection agencies. Any
+           class / statutory body inspection wherever required / applicable, shall be in addition to this.
+
+        g) Note 7: For all the bulk category items, the documentation (MTC, Test Certificate/ Report/
+        FAT, IRN, etc) shall be submitted by contractor  to Company for review and record, prior
+           to issue of IMIR/GIIR
+
+       h) Note 8: Material of any category shall be used by contractor only after clearance by
+          ONGC/Certification Agency (CA) of IMIR/GIIR against complete documentation (MTC,
+          Test Certificate/ Report/FAT, IRN, etc).
+
+
+
+
+
+   Prepared / Revised By            Reviewed By              Approved By
+
+
+
+          G. Jana                     M.R. Shete                     S.C.Jain
+
+
+
+
+
+ FORMAT No.             Ref. PROCEDURE No.           ISSUE No.                 REV. No.                   REV. DATE:
+
+ODS/SOF/047A            ODS/SOP/023                   02                        00                          08.03.2016

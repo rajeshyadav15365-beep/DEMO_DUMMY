@@ -1,0 +1,54 @@
+PIPING MATERIAL SPECIFICATION T_ Sheet No. Toft
+= Piping Class Material cA Spec.No Revision
+Opshore Design Section PEIN [| __7 900 CS-NACE (mm O04, Rev 9 Page No]_124
+ngincering Services [Design Code:ASME B 31.4/31.8 and other applicable Code_NACE-MR-O1-75/1SO-15156-1/2/3
+150-9001:2000 Service] ‘Corrosive Hydro Carbon Liquid and Vapour, Injection Water ( Piping from
+transition bend to Hinged closers Only)
+Branch Table as per APTRP TA
+=1 [1 LEGEND
+Tsp] = Sockolet
+es a W Weldoler
+Fe a a T TEE
+2
+a
+2 Pe pss w lw] T T
+2 ow pp
+2 tao = Ww WLW T T LT T
+[a
+is [=| = | www woot
+is [== | www wo
+OO
+5 A
+30 we wooo
+=r png TP 3p 4 oh a> et at ist isp] 30
+Branch Pipe
+Valve Data
+sizetiny | 05 [075] 1] 13] 2] 3 14 |e] 8 |W] 2] 4] 6] ] 0 |]
+Gate Valve
+FAG Voarsw VOTE FLANGED
+Rating #1500 F9O0RTS
+Plug Valve
+FTAG
+Rating
+Ball Valve
+TAG. Use Gate Valve, VO47 VB 73, Lever Operated T VB", Gear Operated,
+Rating #1500 F500, RTT
+Globe Valve
+FAG VoLaasw VaLT
+Rating #1500 900, RTT
+Check Valve
+TAG VC47,SW.Lift Check VC7S.Swing Check | VCS-9, Full Port Swing Check
+Rating #1500 F500. RT
+Needle Vaive
+FAG WOsW
+Rating #1500
+Butter Fly Valve
+TAG
+Rating
+Notes Releted to Valve and Brach Connection
+1. PMS to be readin conjuction with FS 2004 A.
+2. Maximum temperature limit forall Ball Valve shall be 121 Degree C
+Revision sont issued For Bid WS ARM oT
+
+Revision Date Description Prepared By | Reviewed By | Approved By
+
